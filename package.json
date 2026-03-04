@@ -4,10 +4,11 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "npm run process-data && astro build",
+    "build": "npm run process-data && npm run process-mywi && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "process-data": "node scripts/process-data.js"
+    "process-data": "node scripts/process-data.js",
+    "process-mywi": "node scripts/process-mywi-data.js"
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",
