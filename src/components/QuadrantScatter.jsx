@@ -112,7 +112,7 @@ export default function QuadrantScatter() {
         </p>
       </div>
 
-      <ResponsiveContainer width="100%" height={600}>
+      <ResponsiveContainer width="100%" height={600} className="md:!h-[600px] !h-[700px]">
         <ScatterChart margin={{ top: 30, right: 30, bottom: 60, left: 60 }}>
           <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
 
@@ -189,22 +189,22 @@ export default function QuadrantScatter() {
       </ResponsiveContainer>
 
       {/* Quadrant Labels - Positioned in corners */}
-      <div className="relative -mt-16 mb-16 px-12">
-        <div className="absolute top-0 right-0 bg-green-50 border-2 border-green-500 rounded-lg p-3 shadow-lg">
-          <p className="text-sm font-bold text-green-700">Optimal Alignment</p>
-          <p className="text-xs text-green-600">High ESI + High EOI</p>
+      <div className="relative -mt-16 mb-24 md:mb-16 px-4 md:px-12">
+        <div className="absolute top-0 right-0 bg-green-50 border-2 border-green-500 rounded-lg p-2 md:p-3 shadow-lg">
+          <p className="text-xs md:text-sm font-bold text-green-700">Optimal Alignment</p>
+          <p className="text-[10px] md:text-xs text-green-600">High ESI + High EOI</p>
         </div>
-        <div className="absolute top-0 left-0 bg-orange-50 border-2 border-orange-500 rounded-lg p-3 shadow-lg">
-          <p className="text-sm font-bold text-orange-700">Oversupply Risk</p>
-          <p className="text-xs text-orange-600">High ESI + Low EOI</p>
+        <div className="absolute top-0 left-0 bg-orange-50 border-2 border-orange-500 rounded-lg p-2 md:p-3 shadow-lg">
+          <p className="text-xs md:text-sm font-bold text-orange-700">Oversupply Risk</p>
+          <p className="text-[10px] md:text-xs text-orange-600">High ESI + Low EOI</p>
         </div>
-        <div className="absolute bottom-0 right-0 bg-blue-50 border-2 border-blue-500 rounded-lg p-3 shadow-lg">
-          <p className="text-sm font-bold text-blue-700">Education Shortage</p>
-          <p className="text-xs text-blue-600">Low ESI + High EOI</p>
+        <div className="absolute bottom-0 right-0 bg-blue-50 border-2 border-blue-500 rounded-lg p-2 md:p-3 shadow-lg">
+          <p className="text-xs md:text-sm font-bold text-blue-700">Education Shortage</p>
+          <p className="text-[10px] md:text-xs text-blue-600">Low ESI + High EOI</p>
         </div>
-        <div className="absolute bottom-0 left-0 bg-red-50 border-2 border-red-500 rounded-lg p-3 shadow-lg">
-          <p className="text-sm font-bold text-red-700">Development Priority</p>
-          <p className="text-xs text-red-600">Low ESI + Low EOI</p>
+        <div className="absolute bottom-0 left-0 bg-red-50 border-2 border-red-500 rounded-lg p-2 md:p-3 shadow-lg">
+          <p className="text-xs md:text-sm font-bold text-red-700">Development Priority</p>
+          <p className="text-[10px] md:text-xs text-red-600">Low ESI + Low EOI</p>
         </div>
       </div>
 
