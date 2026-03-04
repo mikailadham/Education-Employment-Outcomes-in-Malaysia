@@ -1,0 +1,7 @@
+﻿Dataset,Filename,Rows,Time_Period,Granularity,Key_Use
+Master State Education-Employment,master_state_education_employment.csv,86,2020-2024,State × Year,Complete state-level analysis
+2024 State Snapshot,state_snapshot_2024.csv,19,2024,State,Interactive map visualization
+Field Analysis Summary,field_analysis_summary.csv,10,2023-2024,Field of Study,Field comparison charts
+Employment by State (Full),tracer_employment_by_state_2023_2024.csv,32,2023-2024,State × Year,Employment outcome analysis
+Employment by Field (Full),tracer_employment_by_field_2023_2024.csv,22,2023-2024,Field × Year,Field-level employment analysis
+Graduates by State,graduates_by_state_2020_2024_clean.csv,80,2020-2024,State × Year,Graduate supply trends

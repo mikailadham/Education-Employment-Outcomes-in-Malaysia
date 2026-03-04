@@ -1,8 +1,9 @@
-import { useState } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import MetricTabs from './MetricTabs';
 import MapTooltip from './MapTooltip';
 import ColorLegend from './ColorLegend';
 import summaryData from '../data/summary-by-state.json';
+import graduateData from '../data/graduates/graduate-employment-by-state-2024.json';
 
 // Geographic SVG paths for Malaysia states (from html5interactivemaps)
 const statePaths = {
@@ -57,13 +58,37 @@ function getColorForValue(value, min, max, colorScheme) {
   return colors[Math.max(0, index)];
 }
 
-export default function MalaysiaMap({ onStateClick }) {
-  const [selectedMetric, setSelectedMetric] = useState('unemployment_rate');
+export default function MalaysiaMap({ onStateClick, onStateHover }) {
+  const [selectedMetric, setSelectedMetric] = useState('graduateEmploymentRate');
   const [hoveredState, setHoveredState] = useState(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
+  const [selectedState, setSelectedState] = useState(null);
+
+  // Listen for state selection from StateList component
+  useEffect(() => {
+    const handleExternalStateClick = (event) => {
+      const { stateName } = event.detail;
+      setSelectedState(stateName);
+    };
+
+    window.addEventListener('stateClick', handleExternalStateClick);
+    return () => window.removeEventListener('stateClick', handleExternalStateClick);
+  }, []);
+
+  // Merge summary data with graduate data
+  const mergedData = useMemo(() => {
+    const merged = {};
+    Object.keys(summaryData).forEach(state => {
+      merged[state] = {
+        ...summaryData[state],
+        ...graduateData[state]
+      };
+    });
+    return merged;
+  }, []);
 
   // Get metric values for all states
-  const metricValues = Object.entries(summaryData).map(([state, data]) => ({
+  const metricValues = Object.entries(mergedData).map(([state, data]) => ({
     state,
     value: data[selectedMetric]
   })).filter(d => d.value !== null && d.value !== undefined);
@@ -79,7 +104,11 @@ export default function MalaysiaMap({ onStateClick }) {
     'gini': { label: 'Gini Coefficient', scheme: 'amber', unit: '', format: (v) => v?.toFixed(3) },
     'unemployment_rate': { label: 'Unemployment Rate', scheme: 'red', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
     'participation_rate': { label: 'Labour Force Participation Rate', scheme: 'green', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
-    'school_completion_rate': { label: 'School Completion Rate', scheme: 'blue', unit: '%', format: (v) => `${v?.toFixed(1)}%` }
+    'school_completion_rate': { label: 'School Completion Rate', scheme: 'blue', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
+    'graduateEmploymentRate': { label: 'Graduate Employment Rate', scheme: 'green', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
+    'graduateUnemploymentRate': { label: 'Graduate Unemployment Rate', scheme: 'red', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
+    'totalGraduatesProduced': { label: 'Total Graduates Produced', scheme: 'blue', unit: '', format: (v) => v?.toLocaleString() },
+    'employmentAbsorptionRate': { label: 'Employment Absorption Rate', scheme: 'teal', unit: '%', format: (v) => `${v?.toFixed(1)}%` }
   };
 
   const currentConfig = metricConfig[selectedMetric] || metricConfig.unemployment_rate;
@@ -106,19 +135,20 @@ export default function MalaysiaMap({ onStateClick }) {
   };
 
   const handleStateClick = (state) => {
+    setSelectedState(state);
+
+    // Dispatch custom event for state click
+    window.dispatchEvent(new CustomEvent('stateClick', {
+      detail: { stateName: state, stateData: mergedData[state] }
+    }));
+
     if (onStateClick) {
-      onStateClick(state);
+      onStateClick(state, mergedData[state]);
     }
   };
 
   return (
     <div className="w-full">
-      <MetricTabs
-        selectedMetric={selectedMetric}
-        onMetricChange={setSelectedMetric}
-        metrics={metricConfig}
-      />
-
       <div className="relative mt-6">
         <svg
           viewBox="0 0 750 300"
@@ -132,18 +162,23 @@ export default function MalaysiaMap({ onStateClick }) {
 
           {/* State paths */}
           {Object.entries(statePaths).map(([state, path]) => {
-            const stateData = summaryData[state];
+            const stateData = mergedData[state];
             const value = stateData?.[selectedMetric];
             const fillColor = getColorForValue(value, min, max, currentConfig.scheme);
+
+            const isSelected = selectedState === state;
 
             return (
               <path
                 key={state}
                 d={path}
                 fill={fillColor}
-                stroke="#1f2937"
-                strokeWidth="1.5"
-                className="transition-all duration-300 cursor-pointer hover:opacity-80 hover:stroke-[3]"
+                stroke={isSelected ? "#0d9488" : "#1f2937"}
+                strokeWidth={isSelected ? "3" : "1.5"}
+                className={`transition-all duration-300 cursor-pointer hover:opacity-80 ${!isSelected && 'hover:stroke-[3]'}`}
+                style={{
+                  filter: isSelected ? 'drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))' : 'none'
+                }}
                 onMouseEnter={(e) => handleMouseEnter(state, e)}
                 onMouseMove={handleMouseMove}
                 onMouseLeave={handleMouseLeave}

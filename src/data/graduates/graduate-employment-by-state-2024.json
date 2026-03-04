@@ -1,0 +1,155 @@
+{
+  "Johor": {
+    "state": "Johor",
+    "graduateEmploymentRate": 93.9,
+    "graduateUnemploymentRate": 6.1,
+    "totalGraduatesProduced": 554900,
+    "graduatesEmployed": 23904,
+    "graduatesUnemployed": 1550,
+    "employmentAbsorptionRate": 4.31
+  },
+  "Kedah": {
+    "state": "Kedah",
+    "graduateEmploymentRate": 91.2,
+    "graduateUnemploymentRate": 8.8,
+    "totalGraduatesProduced": 303700,
+    "graduatesEmployed": 14546,
+    "graduatesUnemployed": 1401,
+    "employmentAbsorptionRate": 4.79
+  },
+  "Kelantan": {
+    "state": "Kelantan",
+    "graduateEmploymentRate": 89.1,
+    "graduateUnemploymentRate": 10.9,
+    "totalGraduatesProduced": 225600,
+    "graduatesEmployed": 11081,
+    "graduatesUnemployed": 1351,
+    "employmentAbsorptionRate": 4.91
+  },
+  "Melaka": {
+    "state": "Melaka",
+    "graduateEmploymentRate": 93.3,
+    "graduateUnemploymentRate": 6.7,
+    "totalGraduatesProduced": 205100,
+    "graduatesEmployed": 6594,
+    "graduatesUnemployed": 471,
+    "employmentAbsorptionRate": 3.22
+  },
+  "Negeri Sembilan": {
+    "state": "Negeri Sembilan",
+    "graduateEmploymentRate": 93,
+    "graduateUnemploymentRate": 7,
+    "totalGraduatesProduced": 241800,
+    "graduatesEmployed": 8829,
+    "graduatesUnemployed": 662,
+    "employmentAbsorptionRate": 3.65
+  },
+  "Pahang": {
+    "state": "Pahang",
+    "graduateEmploymentRate": 92.1,
+    "graduateUnemploymentRate": 7.9,
+    "totalGraduatesProduced": 221900,
+    "graduatesEmployed": 9592,
+    "graduatesUnemployed": 818,
+    "employmentAbsorptionRate": 4.32
+  },
+  "Perak": {
+    "state": "Perak",
+    "graduateEmploymentRate": 91.7,
+    "graduateUnemploymentRate": 8.3,
+    "totalGraduatesProduced": 361600,
+    "graduatesEmployed": 15158,
+    "graduatesUnemployed": 1365,
+    "employmentAbsorptionRate": 4.19
+  },
+  "Perlis": {
+    "state": "Perlis",
+    "graduateEmploymentRate": 90.5,
+    "graduateUnemploymentRate": 9.5,
+    "totalGraduatesProduced": 48700,
+    "graduatesEmployed": 1704,
+    "graduatesUnemployed": 178,
+    "employmentAbsorptionRate": 3.5
+  },
+  "Pulau Pinang": {
+    "state": "Pulau Pinang",
+    "graduateEmploymentRate": 93.5,
+    "graduateUnemploymentRate": 6.5,
+    "totalGraduatesProduced": 405000,
+    "graduatesEmployed": 12541,
+    "graduatesUnemployed": 870,
+    "employmentAbsorptionRate": 3.1
+  },
+  "Sabah": {
+    "state": "Sabah",
+    "graduateEmploymentRate": 89,
+    "graduateUnemploymentRate": 11,
+    "totalGraduatesProduced": 361800,
+    "graduatesEmployed": 11885,
+    "graduatesUnemployed": 1466,
+    "employmentAbsorptionRate": 3.28
+  },
+  "Sarawak": {
+    "state": "Sarawak",
+    "graduateEmploymentRate": 90.2,
+    "graduateUnemploymentRate": 9.8,
+    "totalGraduatesProduced": 301300,
+    "graduatesEmployed": 13340,
+    "graduatesUnemployed": 1446,
+    "employmentAbsorptionRate": 4.43
+  },
+  "Selangor": {
+    "state": "Selangor",
+    "graduateEmploymentRate": 94,
+    "graduateUnemploymentRate": 6,
+    "totalGraduatesProduced": 1825200,
+    "graduatesEmployed": 54912,
+    "graduatesUnemployed": 3535,
+    "employmentAbsorptionRate": 3.01
+  },
+  "Terengganu": {
+    "state": "Terengganu",
+    "graduateEmploymentRate": 90.2,
+    "graduateUnemploymentRate": 9.8,
+    "totalGraduatesProduced": 172400,
+    "graduatesEmployed": 9295,
+    "graduatesUnemployed": 1011,
+    "employmentAbsorptionRate": 5.39
+  },
+  "WP": {
+    "state": "WP",
+    "graduateEmploymentRate": 95.3,
+    "graduateUnemploymentRate": 4.7,
+    "totalGraduatesProduced": null,
+    "graduatesEmployed": 1448,
+    "graduatesUnemployed": 72,
+    "employmentAbsorptionRate": null
+  },
+  "W.P. Kuala Lumpur": {
+    "state": "W.P. Kuala Lumpur",
+    "graduateEmploymentRate": null,
+    "graduateUnemploymentRate": null,
+    "totalGraduatesProduced": 697400,
+    "graduatesEmployed": null,
+    "graduatesUnemployed": null,
+    "employmentAbsorptionRate": null
+  },
+  "W.P. Labuan": {
+    "state": "W.P. Labuan",
+    "graduateEmploymentRate": null,
+    "graduateUnemploymentRate": null,
+    "totalGraduatesProduced": 13700,
+    "graduatesEmployed": null,
+    "graduatesUnemployed": null,
+    "employmentAbsorptionRate": null
+  },
+  "W.P. Putrajaya": {
+    "state": "W.P. Putrajaya",
+    "graduateEmploymentRate": null,
+    "graduateUnemploymentRate": null,
+    "totalGraduatesProduced": 41300,
+    "graduatesEmployed": null,
+    "graduatesUnemployed": null,
+    "employmentAbsorptionRate": null
+  }
+}

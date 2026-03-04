@@ -1,0 +1,92 @@
+[
+  {
+    "field": "\"Kejuruteraan",
+    "employmentRate2023": null,
+    "employmentRate2024": null,
+    "employmentChange": 70.6,
+    "totalGrads2023": 94,
+    "totalGrads2024": 24,
+    "graduateGrowth": 78818
+  },
+  {
+    "field": "Kesihatan dan Kebajikan Health & Welfare",
+    "employmentRate2023": 67.2,
+    "employmentRate2024": 92.6,
+    "employmentChange": 25.39999999999999,
+    "totalGrads2023": 17482,
+    "totalGrads2024": 13067,
+    "graduateGrowth": -4415
+  },
+  {
+    "field": "\"Sains semulajadi",
+    "employmentRate2023": null,
+    "employmentRate2024": null,
+    "employmentChange": 59.3,
+    "totalGrads2023": 92,
+    "totalGrads2024": 33,
+    "graduateGrowth": 13565
+  },
+  {
+    "field": "\"Perniagaan",
+    "employmentRate2023": null,
+    "employmentRate2024": null,
+    "employmentChange": 68.7,
+    "totalGrads2023": 92,
+    "totalGrads2024": 23,
+    "graduateGrowth": 85300
+  },
+  {
+    "field": "\"Sains sosial",
+    "employmentRate2023": null,
+    "employmentRate2024": null,
+    "employmentChange": 69.2,
+    "totalGrads2023": 90,
+    "totalGrads2024": 21,
+    "graduateGrowth": 13744
+  },
+  {
+    "field": "Sastera dan Kemanusiaan Arts & Humanities",
+    "employmentRate2023": 63.5,
+    "employmentRate2024": 90.8,
+    "employmentChange": 27.299999999999997,
+    "totalGrads2023": 26971,
+    "totalGrads2024": 19019,
+    "graduateGrowth": -7952
+  },
+  {
+    "field": "Program dan Kelayakan Generik Generic Programmes and Qualifications",
+    "employmentRate2023": 80.9,
+    "employmentRate2024": 90.7,
+    "employmentChange": 9.799999999999997,
+    "totalGrads2023": 68,
+    "totalGrads2024": 43,
+    "graduateGrowth": -25
+  },
+  {
+    "field": "\"Pertanian",
+    "employmentRate2023": null,
+    "employmentRate2024": null,
+    "employmentChange": null,
+    "totalGrads2023": null,
+    "totalGrads2024": 57,
+    "graduateGrowth": 90
+  },
+  {
+    "field": "Perkhidmatan Services",
+    "employmentRate2023": 68.6,
+    "employmentRate2024": 89.9,
+    "employmentChange": 21.30000000000001,
+    "totalGrads2023": 20034,
+    "totalGrads2024": 14080,
+    "graduateGrowth": -5954
+  },
+  {
+    "field": "Pendidikan Education",
+    "employmentRate2023": 70.9,
+    "employmentRate2024": 89.8,
+    "employmentChange": 18.89999999999999,
+    "totalGrads2023": 21284,
+    "totalGrads2024": 20003,
+    "graduateGrowth": -1281
+  }
+]

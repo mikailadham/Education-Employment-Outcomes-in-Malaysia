@@ -1,0 +1,692 @@
+{
+  "Johor": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 450600,
+      "maleGraduates": 233000,
+      "femaleGraduates": 217600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 473400,
+      "maleGraduates": 241500,
+      "femaleGraduates": 231900,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 498600,
+      "maleGraduates": 249800,
+      "femaleGraduates": 248800,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 521700,
+      "maleGraduates": 262800,
+      "femaleGraduates": 259000,
+      "employmentRate": 70.2,
+      "unemploymentRate": 9.4
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 554900,
+      "maleGraduates": 276600,
+      "femaleGraduates": 278200,
+      "employmentRate": 93.9,
+      "unemploymentRate": 6.1
+    }
+  },
+  "Kedah": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 255000,
+      "maleGraduates": 110200,
+      "femaleGraduates": 144800,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 276500,
+      "maleGraduates": 116800,
+      "femaleGraduates": 159700,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 285100,
+      "maleGraduates": 121700,
+      "femaleGraduates": 163400,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 299400,
+      "maleGraduates": 125600,
+      "femaleGraduates": 173800,
+      "employmentRate": 66.7,
+      "unemploymentRate": 10.3
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 303700,
+      "maleGraduates": 126000,
+      "femaleGraduates": 177700,
+      "employmentRate": 91.2,
+      "unemploymentRate": 8.8
+    }
+  },
+  "Kelantan": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 181700,
+      "maleGraduates": 75000,
+      "femaleGraduates": 106800,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 196000,
+      "maleGraduates": 79700,
+      "femaleGraduates": 116300,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 206000,
+      "maleGraduates": 84600,
+      "femaleGraduates": 121400,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 220300,
+      "maleGraduates": 85700,
+      "femaleGraduates": 134500,
+      "employmentRate": 61.8,
+      "unemploymentRate": 13
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 225600,
+      "maleGraduates": 87600,
+      "femaleGraduates": 138100,
+      "employmentRate": 89.1,
+      "unemploymentRate": 10.9
+    }
+  },
+  "Melaka": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 169600,
+      "maleGraduates": 78200,
+      "femaleGraduates": 91400,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 179400,
+      "maleGraduates": 81900,
+      "femaleGraduates": 97500,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 188100,
+      "maleGraduates": 85900,
+      "femaleGraduates": 102100,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 194600,
+      "maleGraduates": 89000,
+      "femaleGraduates": 105600,
+      "employmentRate": 67.8,
+      "unemploymentRate": 10.1
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 205100,
+      "maleGraduates": 93200,
+      "femaleGraduates": 112000,
+      "employmentRate": 93.3,
+      "unemploymentRate": 6.7
+    }
+  },
+  "Negeri Sembilan": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 198200,
+      "maleGraduates": 88400,
+      "femaleGraduates": 109800,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 212800,
+      "maleGraduates": 93100,
+      "femaleGraduates": 119700,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 219100,
+      "maleGraduates": 97000,
+      "femaleGraduates": 122100,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 229500,
+      "maleGraduates": 100800,
+      "femaleGraduates": 128700,
+      "employmentRate": 66.3,
+      "unemploymentRate": 10.1
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 241800,
+      "maleGraduates": 106700,
+      "femaleGraduates": 135100,
+      "employmentRate": 93,
+      "unemploymentRate": 7
+    }
+  },
+  "Pahang": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 186800,
+      "maleGraduates": 80200,
+      "femaleGraduates": 106700,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 199300,
+      "maleGraduates": 84900,
+      "femaleGraduates": 114400,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 209400,
+      "maleGraduates": 89400,
+      "femaleGraduates": 119900,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 219000,
+      "maleGraduates": 92000,
+      "femaleGraduates": 127000,
+      "employmentRate": 66.5,
+      "unemploymentRate": 11.4
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 221900,
+      "maleGraduates": 92600,
+      "femaleGraduates": 129300,
+      "employmentRate": 92.1,
+      "unemploymentRate": 7.9
+    }
+  },
+  "Perak": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 301200,
+      "maleGraduates": 134800,
+      "femaleGraduates": 166400,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 316400,
+      "maleGraduates": 140500,
+      "femaleGraduates": 175900,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 332100,
+      "maleGraduates": 145900,
+      "femaleGraduates": 186200,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 348000,
+      "maleGraduates": 152700,
+      "femaleGraduates": 195400,
+      "employmentRate": 66.8,
+      "unemploymentRate": 11.2
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 361600,
+      "maleGraduates": 157100,
+      "femaleGraduates": 204400,
+      "employmentRate": 91.7,
+      "unemploymentRate": 8.3
+    }
+  },
+  "Perlis": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 40300,
+      "maleGraduates": 15600,
+      "femaleGraduates": 24700,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 42900,
+      "maleGraduates": 16300,
+      "femaleGraduates": 26600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 45300,
+      "maleGraduates": 17300,
+      "femaleGraduates": 28000,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 47300,
+      "maleGraduates": 18200,
+      "femaleGraduates": 29100,
+      "employmentRate": 61.8,
+      "unemploymentRate": 10.2
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 48700,
+      "maleGraduates": 17700,
+      "femaleGraduates": 31000,
+      "employmentRate": 90.5,
+      "unemploymentRate": 9.5
+    }
+  },
+  "Pulau Pinang": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 335300,
+      "maleGraduates": 162300,
+      "femaleGraduates": 173000,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 355500,
+      "maleGraduates": 170100,
+      "femaleGraduates": 185500,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 364600,
+      "maleGraduates": 172800,
+      "femaleGraduates": 191800,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 381900,
+      "maleGraduates": 185200,
+      "femaleGraduates": 196700,
+      "employmentRate": 71.3,
+      "unemploymentRate": 8.1
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 405000,
+      "maleGraduates": 194600,
+      "femaleGraduates": 210400,
+      "employmentRate": 93.5,
+      "unemploymentRate": 6.5
+    }
+  },
+  "Sabah": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 303800,
+      "maleGraduates": 139200,
+      "femaleGraduates": 164600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 317900,
+      "maleGraduates": 145300,
+      "femaleGraduates": 172600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 342100,
+      "maleGraduates": 156100,
+      "femaleGraduates": 186000,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 346100,
+      "maleGraduates": 156100,
+      "femaleGraduates": 190100,
+      "employmentRate": 66.2,
+      "unemploymentRate": 13.8
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 361800,
+      "maleGraduates": 166000,
+      "femaleGraduates": 195800,
+      "employmentRate": 89,
+      "unemploymentRate": 11
+    }
+  },
+  "Sarawak": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 249900,
+      "maleGraduates": 109800,
+      "femaleGraduates": 140000,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 257000,
+      "maleGraduates": 113300,
+      "femaleGraduates": 143700,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 275900,
+      "maleGraduates": 120400,
+      "femaleGraduates": 155500,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 281600,
+      "maleGraduates": 124000,
+      "femaleGraduates": 157600,
+      "employmentRate": 66.4,
+      "unemploymentRate": 12
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 301300,
+      "maleGraduates": 130300,
+      "femaleGraduates": 170900,
+      "employmentRate": 90.2,
+      "unemploymentRate": 9.8
+    }
+  },
+  "Selangor": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 1588700,
+      "maleGraduates": 778800,
+      "femaleGraduates": 809800,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 1667400,
+      "maleGraduates": 814300,
+      "femaleGraduates": 853100,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 1742800,
+      "maleGraduates": 851700,
+      "femaleGraduates": 891100,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 1817000,
+      "maleGraduates": 879400,
+      "femaleGraduates": 937600,
+      "employmentRate": 68.8,
+      "unemploymentRate": 9
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 1825200,
+      "maleGraduates": 871800,
+      "femaleGraduates": 953400,
+      "employmentRate": 94,
+      "unemploymentRate": 6
+    }
+  },
+  "Terengganu": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 141800,
+      "maleGraduates": 62000,
+      "femaleGraduates": 79800,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 152200,
+      "maleGraduates": 65000,
+      "femaleGraduates": 87200,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 158600,
+      "maleGraduates": 69100,
+      "femaleGraduates": 89500,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 167700,
+      "maleGraduates": 71500,
+      "femaleGraduates": 96200,
+      "employmentRate": 63.6,
+      "unemploymentRate": 12.3
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 172400,
+      "maleGraduates": 72900,
+      "femaleGraduates": 99500,
+      "employmentRate": 90.2,
+      "unemploymentRate": 9.8
+    }
+  },
+  "WP": {
+    "2023": {
+      "year": 2023,
+      "totalGraduates": null,
+      "maleGraduates": null,
+      "femaleGraduates": null,
+      "employmentRate": 76.9,
+      "unemploymentRate": 5.7
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": null,
+      "maleGraduates": null,
+      "femaleGraduates": null,
+      "employmentRate": 95.3,
+      "unemploymentRate": 4.7
+    }
+  },
+  "W.P. Kuala Lumpur": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 538100,
+      "maleGraduates": 272400,
+      "femaleGraduates": 265700,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 553800,
+      "maleGraduates": 277200,
+      "femaleGraduates": 276600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 591700,
+      "maleGraduates": 291500,
+      "femaleGraduates": 300100,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 615600,
+      "maleGraduates": 307300,
+      "femaleGraduates": 308300,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 697400,
+      "maleGraduates": 361900,
+      "femaleGraduates": 335500,
+      "employmentRate": null,
+      "unemploymentRate": null
+    }
+  },
+  "W.P. Labuan": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 11000,
+      "maleGraduates": 5500,
+      "femaleGraduates": 5500,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 11600,
+      "maleGraduates": 5600,
+      "femaleGraduates": 6100,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 12600,
+      "maleGraduates": 6100,
+      "femaleGraduates": 6500,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 13000,
+      "maleGraduates": 6400,
+      "femaleGraduates": 6600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 13700,
+      "maleGraduates": 6300,
+      "femaleGraduates": 7400,
+      "employmentRate": null,
+      "unemploymentRate": null
+    }
+  },
+  "W.P. Putrajaya": {
+    "2020": {
+      "year": 2020,
+      "totalGraduates": 35200,
+      "maleGraduates": 14600,
+      "femaleGraduates": 20600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2021": {
+      "year": 2021,
+      "totalGraduates": 36400,
+      "maleGraduates": 14700,
+      "femaleGraduates": 21600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2022": {
+      "year": 2022,
+      "totalGraduates": 40200,
+      "maleGraduates": 17000,
+      "femaleGraduates": 23200,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2023": {
+      "year": 2023,
+      "totalGraduates": 40300,
+      "maleGraduates": 16200,
+      "femaleGraduates": 24100,
+      "employmentRate": null,
+      "unemploymentRate": null
+    },
+    "2024": {
+      "year": 2024,
+      "totalGraduates": 41300,
+      "maleGraduates": 16700,
+      "femaleGraduates": 24600,
+      "employmentRate": null,
+      "unemploymentRate": null
+    }
+  }
+}

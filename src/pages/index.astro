@@ -1,6 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import MalaysiaMap from '../components/MalaysiaMap';
+import StateMetricCards from '../components/StateMetricCards';
+import StateList from '../components/StateList';
 ---
 
 <Layout title="Malaysia Education & Employment Dashboard">
@@ -22,15 +24,31 @@ import MalaysiaMap from '../components/MalaysiaMap';
 
 	<!-- Map Section -->
 	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 fade-in-delay-1">
-		<div class="bg-white rounded-2xl shadow-xl p-6 md:p-10">
-			<h2 class="text-3xl font-bold text-center mb-8 text-gray-900">
-				Interactive Malaysia Map
-			</h2>
-			<p class="text-center text-gray-600 mb-8 max-w-2xl mx-auto">
-				Switch between different metrics using the tabs below. The map colors represent the intensity of each metric across states.
-			</p>
+		<h2 class="text-3xl font-bold text-center mb-8 text-gray-900">
+			Interactive Malaysia Map
+		</h2>
+		<p class="text-center text-gray-600 mb-8 max-w-2xl mx-auto">
+			<strong>Showing:</strong> Graduate Employment Rate by State (2024)<br/>
+			<span class="text-sm">Click on any state on the map or use the list below</span>
+		</p>
 
-			<MalaysiaMap client:load />
+		<div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+			<!-- Map (takes 2 columns) -->
+			<div class="lg:col-span-2 bg-white rounded-2xl shadow-xl p-6 md:p-10">
+				<MalaysiaMap client:load />
+			</div>
+
+			<!-- State List (takes 1 column) -->
+			<div class="lg:col-span-1">
+				<StateList client:load />
+			</div>
+		</div>
+	</section>
+
+	<!-- State Metrics Section (Dynamic - appears on hover/click) -->
+	<section id="state-metrics" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 hidden">
+		<div class="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl p-6 md:p-10 border border-gray-200">
+			<StateMetricCards client:load />
 		</div>
 	</section>
 
@@ -39,8 +57,8 @@ import MalaysiaMap from '../components/MalaysiaMap';
 		<h2 class="text-2xl font-bold text-center mb-8 text-gray-900">
 			National Overview
 		</h2>
-		<div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6">
-			<!-- Summary cards would go here -->
+		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+			<!-- Labour Market -->
 			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-teal-500">
 				<h3 class="text-sm font-medium text-gray-600 mb-2">National Unemployment Rate</h3>
 				<p class="text-3xl font-bold text-gray-900">3.3%</p>
@@ -53,16 +71,44 @@ import MalaysiaMap from '../components/MalaysiaMap';
 				<p class="text-xs text-gray-500 mt-1">Latest data (2023)</p>
 			</div>
 
+			<!-- Graduate Employment -->
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-green-500">
+				<h3 class="text-sm font-medium text-gray-600 mb-2">Graduate Employment Rate</h3>
+				<p class="text-3xl font-bold text-gray-900">92.5%</p>
+				<p class="text-xs text-gray-500 mt-1">National average (2024)</p>
+			</div>
+
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-purple-500">
+				<h3 class="text-sm font-medium text-gray-600 mb-2">Total Graduates (2024)</h3>
+				<p class="text-3xl font-bold text-gray-900">4.1M</p>
+				<p class="text-xs text-gray-500 mt-1">Graduates produced</p>
+			</div>
+		</div>
+
+		<!-- Additional row for economic indicators -->
+		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-6">
 			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-amber-500">
 				<h3 class="text-sm font-medium text-gray-600 mb-2">Mean Household Income</h3>
 				<p class="text-3xl font-bold text-gray-900">RM 6,338</p>
 				<p class="text-xs text-gray-500 mt-1">Latest data (2022)</p>
 			</div>
 
-			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-green-500">
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-cyan-500">
 				<h3 class="text-sm font-medium text-gray-600 mb-2">School Completion Rate</h3>
 				<p class="text-3xl font-bold text-gray-900">98.5%</p>
 				<p class="text-xs text-gray-500 mt-1">Average (2022)</p>
+			</div>
+
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-indigo-500">
+				<h3 class="text-sm font-medium text-gray-600 mb-2">Best Employment Field</h3>
+				<p class="text-2xl font-bold text-gray-900">Engineering</p>
+				<p class="text-xs text-gray-500 mt-1">94.9% employed (2024)</p>
+			</div>
+
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-rose-500">
+				<h3 class="text-sm font-medium text-gray-600 mb-2">Employment Growth</h3>
+				<p class="text-3xl font-bold text-gray-900">+24%</p>
+				<p class="text-xs text-gray-500 mt-1">2023 → 2024 improvement</p>
 			</div>
 		</div>
 	</section>
@@ -94,6 +140,8 @@ import MalaysiaMap from '../components/MalaysiaMap';
 				<h3 class="text-xl font-semibold mt-6 mb-3 text-gray-900">Data Sources</h3>
 				<ul class="list-disc pl-6 text-gray-700 space-y-2">
 					<li><strong>Labour Force Survey (LFS)</strong> — Annual, quarterly, and monthly employment statistics</li>
+					<li><strong>Graduate Tracer Study (2023-2024)</strong> — Graduate employment outcomes by state and field</li>
+					<li><strong>Graduates Statistics (2020-2024)</strong> — Graduate production trends by state with gender breakdown</li>
 					<li><strong>GDP by State</strong> — Economic output by sector at constant 2015 prices</li>
 					<li><strong>Household Income & Inequality</strong> — Mean, median income, and Gini coefficients</li>
 					<li><strong>Education Statistics</strong> — School completion, enrolment, teachers, and lecturers data</li>
@@ -102,14 +150,17 @@ import MalaysiaMap from '../components/MalaysiaMap';
 				<h3 class="text-xl font-semibold mt-6 mb-3 text-gray-900">Key Metrics Explained</h3>
 				<ul class="list-disc pl-6 text-gray-700 space-y-2">
 					<li><strong>Unemployment Rate</strong> — Percentage of labour force actively seeking work</li>
+					<li><strong>Graduate Employment Rate</strong> — Percentage of recent graduates who are employed</li>
+					<li><strong>Employment Absorption Rate</strong> — Percentage of graduates produced who find employment (indicates market capacity)</li>
 					<li><strong>Labour Force Participation Rate</strong> — Percentage of working-age population in the labour force</li>
 					<li><strong>Gini Coefficient</strong> — Income inequality measure (0 = perfect equality, 1 = perfect inequality)</li>
 					<li><strong>School Completion Rate</strong> — Percentage of students completing each education level</li>
 				</ul>
 
 				<p class="text-sm text-gray-600 mt-8">
-					<strong>Note:</strong> PDF data sources (Graduate Statistics, Higher Education Reports) are referenced for context
-					but not processed in this dashboard. All visualizations are based on structured CSV data from OpenDOSM.
+					<strong>Data Integration:</strong> This dashboard combines structured CSV data from OpenDOSM with extracted PDF data
+					from Ministry of Higher Education (Graduate Tracer Studies 2023-2024, Graduates Statistics 2020-2024). The integration
+					provides a complete view of the education → employment pipeline across all Malaysian states.
 				</p>
 			</div>
 		</div>
@@ -117,11 +168,33 @@ import MalaysiaMap from '../components/MalaysiaMap';
 </Layout>
 
 <script>
-	// Script to handle state clicks and reveal state detail section
-	// This will be enhanced when we add the StateDetail component
-	import type { MouseEvent } from 'react';
-
+	// Handle state click events
 	document.addEventListener('DOMContentLoaded', () => {
 		console.log('Dashboard loaded');
+
+		// Listen for state click events from React components
+		window.addEventListener('stateClick', (event) => {
+			const { stateName, stateData } = event.detail;
+			const stateMetricsSection = document.getElementById('state-metrics');
+
+			if (stateName && stateData) {
+				// Show the section with data
+				stateMetricsSection?.classList.remove('hidden');
+				stateMetricsSection?.classList.add('animate-fadeIn');
+
+				// Update cards with state data
+				window.dispatchEvent(new CustomEvent('updateStateMetrics', {
+					detail: { stateName, stateData }
+				}));
+
+				// Smooth scroll to metrics section
+				setTimeout(() => {
+					stateMetricsSection?.scrollIntoView({
+						behavior: 'smooth',
+						block: 'center'
+					});
+				}, 100);
+			}
+		});
 	});
 </script>
