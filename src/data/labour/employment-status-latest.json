@@ -1,0 +1,27 @@
+{
+  "date": 2025,
+  "totalEmployed": 17111.4,
+  "breakdown": {
+    "employee": {
+      "value": 12797.4,
+      "percentage": 74.78873733300605
+    },
+    "ownAccount": {
+      "value": 3272,
+      "percentage": 19.12175508725177
+    },
+    "employer": {
+      "value": 596,
+      "percentage": 3.483058078240237
+    },
+    "unpaidFamily": {
+      "value": 464.1,
+      "percentage": 2.712226936428346
+    }
+  },
+  "metadata": {
+    "processedDate": "2026-03-04T15:04:20.977Z",
+    "source": "DOSM Monthly Labour Force Survey",
+    "variable": "persons (thousands)"
+  }
+}

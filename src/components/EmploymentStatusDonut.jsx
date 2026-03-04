@@ -4,88 +4,47 @@
  */
 
 import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip } from 'recharts';
-import { useState, useEffect } from 'react';
-import Papa from 'papaparse';
+import employmentData from '../data/labour/employment-status-latest.json';
 
 const COLORS = {
   employee: '#3b82f6',      // Blue - largest segment
-  own_account: '#10b981',   // Green
+  ownAccount: '#10b981',   // Green
   employer: '#f59e0b',      // Orange
-  unpaid_family: '#ef4444'  // Red
-};
-
-const STATUS_LABELS = {
-  employer: 'Employer',
-  employee: 'Employee',
-  own_account: 'Own Account Worker',
-  unpaid_family: 'Unpaid Family Worker'
+  unpaidFamily: '#ef4444'  // Red
 };
 
 export default function EmploymentStatusDonut() {
-  const [data, setData] = useState([]);
-  const [total, setTotal] = useState(0);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    // Load and parse CSV data
-    fetch('/data/MONTHLY_SERIES/lfs_month_status.csv')
-      .then(response => response.text())
-      .then(csvText => {
-        const parsed = Papa.parse(csvText, {
-          header: true,
-          dynamicTyping: true
-        });
-
-        // Get latest month data (last row with 'persons' variable)
-        const personRows = parsed.data.filter(row => row.variable === 'persons');
-        const latestRow = personRows[personRows.length - 1];
-
-        if (latestRow) {
-          const totalEmployed = latestRow.employed;
-          const chartData = [
-            {
-              name: STATUS_LABELS.employee,
-              value: latestRow.employed_employee,
-              percentage: (latestRow.employed_employee / totalEmployed * 100).toFixed(1),
-              color: COLORS.employee,
-              key: 'employee'
-            },
-            {
-              name: STATUS_LABELS.own_account,
-              value: latestRow.employed_own_account,
-              percentage: (latestRow.employed_own_account / totalEmployed * 100).toFixed(1),
-              color: COLORS.own_account,
-              key: 'own_account'
-            },
-            {
-              name: STATUS_LABELS.employer,
-              value: latestRow.employed_employer,
-              percentage: (latestRow.employed_employer / totalEmployed * 100).toFixed(1),
-              color: COLORS.employer,
-              key: 'employer'
-            },
-            {
-              name: STATUS_LABELS.unpaid_family,
-              value: latestRow.employed_unpaid_family,
-              percentage: (latestRow.employed_unpaid_family / totalEmployed * 100).toFixed(1),
-              color: COLORS.unpaid_family,
-              key: 'unpaid_family'
-            }
-          ];
-
-          // Sort by value descending
-          chartData.sort((a, b) => b.value - a.value);
-
-          setData(chartData);
-          setTotal(totalEmployed);
-          setLoading(false);
-        }
-      })
-      .catch(error => {
-        console.error('Error loading employment status data:', error);
-        setLoading(false);
-      });
-  }, []);
+  // Transform imported data for chart
+  const chartData = [
+    {
+      name: 'Employee',
+      value: employmentData.breakdown.employee.value,
+      percentage: employmentData.breakdown.employee.percentage.toFixed(1),
+      color: COLORS.employee,
+      key: 'employee'
+    },
+    {
+      name: 'Own Account Worker',
+      value: employmentData.breakdown.ownAccount.value,
+      percentage: employmentData.breakdown.ownAccount.percentage.toFixed(1),
+      color: COLORS.ownAccount,
+      key: 'ownAccount'
+    },
+    {
+      name: 'Employer',
+      value: employmentData.breakdown.employer.value,
+      percentage: employmentData.breakdown.employer.percentage.toFixed(1),
+      color: COLORS.employer,
+      key: 'employer'
+    },
+    {
+      name: 'Unpaid Family Worker',
+      value: employmentData.breakdown.unpaidFamily.value,
+      percentage: employmentData.breakdown.unpaidFamily.percentage.toFixed(1),
+      color: COLORS.unpaidFamily,
+      key: 'unpaidFamily'
+    }
+  ].sort((a, b) => b.value - a.value);
 
   const CustomTooltip = ({ active, payload }) => {
     if (active && payload && payload.length) {
@@ -109,39 +68,19 @@ export default function EmploymentStatusDonut() {
     return `${entry.percentage}%`;
   };
 
-  if (loading) {
-    return (
-      <div className="bg-white p-6 rounded-lg shadow">
-        <div className="flex items-center justify-center h-96">
-          <p className="text-gray-500">Loading employment status data...</p>
-        </div>
-      </div>
-    );
-  }
-
-  if (data.length === 0) {
-    return (
-      <div className="bg-white p-6 rounded-lg shadow">
-        <div className="flex items-center justify-center h-96">
-          <p className="text-gray-500">No employment status data available</p>
-        </div>
-      </div>
-    );
-  }
-
   return (
     <div className="bg-white p-6 rounded-lg shadow">
       <h3 className="text-xl font-bold text-gray-900 mb-2">
         Employment by Status
       </h3>
       <p className="text-sm text-gray-600 mb-4">
-        Distribution of employed persons by employment status (Latest data: 2025)
+        Distribution of employed persons by employment status (Latest data: {employmentData.date})
       </p>
 
       <ResponsiveContainer width="100%" height={400}>
         <PieChart>
           <Pie
-            data={data}
+            data={chartData}
             cx="50%"
             cy="50%"
             innerRadius={80}
@@ -151,7 +90,7 @@ export default function EmploymentStatusDonut() {
             label={renderCustomLabel}
             labelLine={false}
           >
-            {data.map((entry, index) => (
+            {chartData.map((entry, index) => (
               <Cell key={`cell-${index}`} fill={entry.color} />
             ))}
           </Pie>
@@ -170,7 +109,7 @@ export default function EmploymentStatusDonut() {
       </ResponsiveContainer>
 
       <div className="mt-4 grid grid-cols-2 md:grid-cols-4 gap-3 text-sm">
-        {data.map(item => (
+        {chartData.map(item => (
           <div key={item.key} className="p-3 rounded" style={{ backgroundColor: `${item.color}10` }}>
             <p className="text-gray-600 text-xs">{item.name}</p>
             <p className="text-lg font-bold mt-1" style={{ color: item.color }}>
@@ -183,7 +122,7 @@ export default function EmploymentStatusDonut() {
 
       <div className="mt-4 p-4 bg-gray-50 rounded">
         <p className="text-sm text-gray-600">
-          Total Employed: <span className="font-bold text-gray-900">{total.toLocaleString()} thousand</span>
+          Total Employed: <span className="font-bold text-gray-900">{employmentData.totalEmployed.toLocaleString()} thousand</span>
         </p>
         <p className="text-xs text-gray-500 mt-1">
           Source: Department of Statistics Malaysia - Monthly Labour Force Survey
