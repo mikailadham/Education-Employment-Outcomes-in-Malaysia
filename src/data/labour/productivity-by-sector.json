@@ -1,0 +1,482 @@
+{
+  "year": 2025,
+  "sectors": [
+    {
+      "code": "p0",
+      "name": "Overall",
+      "level": 1,
+      "is_main_sector": false,
+      "productivity_per_hour": 44.5,
+      "productivity_per_employee": 25668,
+      "gdp": 1735647,
+      "hours_worked": 39031,
+      "employment": 67619
+    },
+    {
+      "code": "p1",
+      "name": "Agriculture",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 25.9,
+      "productivity_per_employee": 13989,
+      "gdp": 105685,
+      "hours_worked": 4079,
+      "employment": 7555
+    },
+    {
+      "code": "p2",
+      "name": "Mining and quarrying",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 536.1,
+      "productivity_per_employee": 321981,
+      "gdp": 99170,
+      "hours_worked": 185,
+      "employment": 308
+    },
+    {
+      "code": "p3",
+      "name": "Manufacturing",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 59,
+      "productivity_per_employee": 34862,
+      "gdp": 399339,
+      "hours_worked": 6764,
+      "employment": 11455
+    },
+    {
+      "code": "p3.1",
+      "name": "Vegetable and animal oils & fats and food processing",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 33.5,
+      "productivity_per_employee": 18383,
+      "gdp": 39744,
+      "hours_worked": 1188,
+      "employment": 2162
+    },
+    {
+      "code": "p3.2",
+      "name": "Beverages and tobacco products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 228.8,
+      "productivity_per_employee": 137263,
+      "gdp": 10981,
+      "hours_worked": 48,
+      "employment": 80
+    },
+    {
+      "code": "p3.3",
+      "name": "Textiles, wearing apparel and leather products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 11.6,
+      "productivity_per_employee": 6055,
+      "gdp": 6442,
+      "hours_worked": 555,
+      "employment": 1064
+    },
+    {
+      "code": "p3.4",
+      "name": "Wood products, furniture, paper products and printing",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 31.6,
+      "productivity_per_employee": 18872,
+      "gdp": 24836,
+      "hours_worked": 787,
+      "employment": 1316
+    },
+    {
+      "code": "p3.5",
+      "name": "Petroleum, chemical, rubber and plastic products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 95.9,
+      "productivity_per_employee": 58964,
+      "gdp": 105605,
+      "hours_worked": 1101,
+      "employment": 1791
+    },
+    {
+      "code": "p3.6",
+      "name": "Non-metallic mineral products, basic metal and fabricated metal products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 44.2,
+      "productivity_per_employee": 27020,
+      "gdp": 43124,
+      "hours_worked": 975,
+      "employment": 1596
+    },
+    {
+      "code": "p3.7",
+      "name": "Electrical, electronic and optical products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 83.8,
+      "productivity_per_employee": 51481,
+      "gdp": 133697,
+      "hours_worked": 1595,
+      "employment": 2597
+    },
+    {
+      "code": "p3.8",
+      "name": "Transport equipment, other manufacturing and repair",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 68.2,
+      "productivity_per_employee": 41067,
+      "gdp": 34907,
+      "hours_worked": 512,
+      "employment": 850
+    },
+    {
+      "code": "p4",
+      "name": "Construction",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 22,
+      "productivity_per_employee": 13127,
+      "gdp": 74705,
+      "hours_worked": 3399,
+      "employment": 5691
+    },
+    {
+      "code": "p5",
+      "name": "Services",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 42,
+      "productivity_per_employee": 24268,
+      "gdp": 1034112,
+      "hours_worked": 24604,
+      "employment": 42613
+    },
+    {
+      "code": "p5.1",
+      "name": "Utilities",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 155.6,
+      "productivity_per_employee": 92089,
+      "gdp": 43558,
+      "hours_worked": 280,
+      "employment": 473
+    },
+    {
+      "code": "p5.2",
+      "name": "Wholesale and retail trade",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 44.2,
+      "productivity_per_employee": 25882,
+      "gdp": 307995,
+      "hours_worked": 6974,
+      "employment": 11900
+    },
+    {
+      "code": "p5.3",
+      "name": "Food & beverages and accommodation",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 11.4,
+      "productivity_per_employee": 6547,
+      "gdp": 54466,
+      "hours_worked": 4767,
+      "employment": 8319
+    },
+    {
+      "code": "p5.4",
+      "name": "Transportation and storage",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 49,
+      "productivity_per_employee": 29214,
+      "gdp": 75517,
+      "hours_worked": 1541,
+      "employment": 2585
+    },
+    {
+      "code": "p5.5",
+      "name": "Information and communication",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 167.5,
+      "productivity_per_employee": 99016,
+      "gdp": 113076,
+      "hours_worked": 675,
+      "employment": 1142
+    },
+    {
+      "code": "p5.6",
+      "name": "Finance and insurance",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 119.3,
+      "productivity_per_employee": 69838,
+      "gdp": 109436,
+      "hours_worked": 917,
+      "employment": 1567
+    },
+    {
+      "code": "p5.7",
+      "name": "Real estate and business services",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 28.5,
+      "productivity_per_employee": 17094,
+      "gdp": 85180,
+      "hours_worked": 2994,
+      "employment": 4983
+    },
+    {
+      "code": "p5.8",
+      "name": "Other services",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 37.9,
+      "productivity_per_employee": 21029,
+      "gdp": 244883,
+      "hours_worked": 6459,
+      "employment": 11645
+    }
+  ],
+  "main_sectors": [
+    {
+      "code": "p1",
+      "name": "Agriculture",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 25.9,
+      "productivity_per_employee": 13989,
+      "gdp": 105685,
+      "hours_worked": 4079,
+      "employment": 7555
+    },
+    {
+      "code": "p2",
+      "name": "Mining and quarrying",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 536.1,
+      "productivity_per_employee": 321981,
+      "gdp": 99170,
+      "hours_worked": 185,
+      "employment": 308
+    },
+    {
+      "code": "p3",
+      "name": "Manufacturing",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 59,
+      "productivity_per_employee": 34862,
+      "gdp": 399339,
+      "hours_worked": 6764,
+      "employment": 11455
+    },
+    {
+      "code": "p4",
+      "name": "Construction",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 22,
+      "productivity_per_employee": 13127,
+      "gdp": 74705,
+      "hours_worked": 3399,
+      "employment": 5691
+    },
+    {
+      "code": "p5",
+      "name": "Services",
+      "level": 1,
+      "is_main_sector": true,
+      "productivity_per_hour": 42,
+      "productivity_per_employee": 24268,
+      "gdp": 1034112,
+      "hours_worked": 24604,
+      "employment": 42613
+    }
+  ],
+  "subsectors": [
+    {
+      "code": "p3.1",
+      "name": "Vegetable and animal oils & fats and food processing",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 33.5,
+      "productivity_per_employee": 18383,
+      "gdp": 39744,
+      "hours_worked": 1188,
+      "employment": 2162
+    },
+    {
+      "code": "p3.2",
+      "name": "Beverages and tobacco products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 228.8,
+      "productivity_per_employee": 137263,
+      "gdp": 10981,
+      "hours_worked": 48,
+      "employment": 80
+    },
+    {
+      "code": "p3.3",
+      "name": "Textiles, wearing apparel and leather products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 11.6,
+      "productivity_per_employee": 6055,
+      "gdp": 6442,
+      "hours_worked": 555,
+      "employment": 1064
+    },
+    {
+      "code": "p3.4",
+      "name": "Wood products, furniture, paper products and printing",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 31.6,
+      "productivity_per_employee": 18872,
+      "gdp": 24836,
+      "hours_worked": 787,
+      "employment": 1316
+    },
+    {
+      "code": "p3.5",
+      "name": "Petroleum, chemical, rubber and plastic products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 95.9,
+      "productivity_per_employee": 58964,
+      "gdp": 105605,
+      "hours_worked": 1101,
+      "employment": 1791
+    },
+    {
+      "code": "p3.6",
+      "name": "Non-metallic mineral products, basic metal and fabricated metal products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 44.2,
+      "productivity_per_employee": 27020,
+      "gdp": 43124,
+      "hours_worked": 975,
+      "employment": 1596
+    },
+    {
+      "code": "p3.7",
+      "name": "Electrical, electronic and optical products",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 83.8,
+      "productivity_per_employee": 51481,
+      "gdp": 133697,
+      "hours_worked": 1595,
+      "employment": 2597
+    },
+    {
+      "code": "p3.8",
+      "name": "Transport equipment, other manufacturing and repair",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 68.2,
+      "productivity_per_employee": 41067,
+      "gdp": 34907,
+      "hours_worked": 512,
+      "employment": 850
+    },
+    {
+      "code": "p5.1",
+      "name": "Utilities",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 155.6,
+      "productivity_per_employee": 92089,
+      "gdp": 43558,
+      "hours_worked": 280,
+      "employment": 473
+    },
+    {
+      "code": "p5.2",
+      "name": "Wholesale and retail trade",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 44.2,
+      "productivity_per_employee": 25882,
+      "gdp": 307995,
+      "hours_worked": 6974,
+      "employment": 11900
+    },
+    {
+      "code": "p5.3",
+      "name": "Food & beverages and accommodation",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 11.4,
+      "productivity_per_employee": 6547,
+      "gdp": 54466,
+      "hours_worked": 4767,
+      "employment": 8319
+    },
+    {
+      "code": "p5.4",
+      "name": "Transportation and storage",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 49,
+      "productivity_per_employee": 29214,
+      "gdp": 75517,
+      "hours_worked": 1541,
+      "employment": 2585
+    },
+    {
+      "code": "p5.5",
+      "name": "Information and communication",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 167.5,
+      "productivity_per_employee": 99016,
+      "gdp": 113076,
+      "hours_worked": 675,
+      "employment": 1142
+    },
+    {
+      "code": "p5.6",
+      "name": "Finance and insurance",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 119.3,
+      "productivity_per_employee": 69838,
+      "gdp": 109436,
+      "hours_worked": 917,
+      "employment": 1567
+    },
+    {
+      "code": "p5.7",
+      "name": "Real estate and business services",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 28.5,
+      "productivity_per_employee": 17094,
+      "gdp": 85180,
+      "hours_worked": 2994,
+      "employment": 4983
+    },
+    {
+      "code": "p5.8",
+      "name": "Other services",
+      "level": 2,
+      "is_main_sector": false,
+      "productivity_per_hour": 37.9,
+      "productivity_per_employee": 21029,
+      "gdp": 244883,
+      "hours_worked": 6459,
+      "employment": 11645
+    }
+  ]
+}

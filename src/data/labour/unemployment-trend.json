@@ -1,0 +1,1304 @@
+{
+  "monthly": [
+    {
+      "date": "2016-01-01",
+      "year": 2016,
+      "month": 1,
+      "youth_unemployed": 283.6,
+      "youth_unemployment_rate": 10.7,
+      "overall_unemployed": 482.7,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 14677.1
+    },
+    {
+      "date": "2016-02-01",
+      "year": 2016,
+      "month": 2,
+      "youth_unemployed": 236.1,
+      "youth_unemployment_rate": 9,
+      "overall_unemployed": 488.1,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 14697.5
+    },
+    {
+      "date": "2016-03-01",
+      "year": 2016,
+      "month": 3,
+      "youth_unemployed": 285,
+      "youth_unemployment_rate": 10.9,
+      "overall_unemployed": 505.4,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 14688
+    },
+    {
+      "date": "2016-04-01",
+      "year": 2016,
+      "month": 4,
+      "youth_unemployed": 305.6,
+      "youth_unemployment_rate": 11.5,
+      "overall_unemployed": 517,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 14677.5
+    },
+    {
+      "date": "2016-05-01",
+      "year": 2016,
+      "month": 5,
+      "youth_unemployed": 291.6,
+      "youth_unemployment_rate": 11.1,
+      "overall_unemployed": 509.8,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 14727.8
+    },
+    {
+      "date": "2016-06-01",
+      "year": 2016,
+      "month": 6,
+      "youth_unemployed": 240.5,
+      "youth_unemployment_rate": 9.6,
+      "overall_unemployed": 505.6,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 14703.3
+    },
+    {
+      "date": "2016-07-01",
+      "year": 2016,
+      "month": 7,
+      "youth_unemployed": 309,
+      "youth_unemployment_rate": 11.8,
+      "overall_unemployed": 516.1,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 14735
+    },
+    {
+      "date": "2016-08-01",
+      "year": 2016,
+      "month": 8,
+      "youth_unemployed": 305.3,
+      "youth_unemployment_rate": 11.6,
+      "overall_unemployed": 520.4,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 14806.5
+    },
+    {
+      "date": "2016-09-01",
+      "year": 2016,
+      "month": 9,
+      "youth_unemployed": 266.3,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 515.4,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 14749
+    },
+    {
+      "date": "2016-10-01",
+      "year": 2016,
+      "month": 10,
+      "youth_unemployed": 290.5,
+      "youth_unemployment_rate": 11.4,
+      "overall_unemployed": 519,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 14775.6
+    },
+    {
+      "date": "2016-11-01",
+      "year": 2016,
+      "month": 11,
+      "youth_unemployed": 253.7,
+      "youth_unemployment_rate": 9.5,
+      "overall_unemployed": 525.5,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 14836.2
+    },
+    {
+      "date": "2016-12-01",
+      "year": 2016,
+      "month": 12,
+      "youth_unemployed": 267.4,
+      "youth_unemployment_rate": 10.2,
+      "overall_unemployed": 509.6,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 14786.4
+    },
+    {
+      "date": "2017-01-01",
+      "year": 2017,
+      "month": 1,
+      "youth_unemployed": 306.2,
+      "youth_unemployment_rate": 12,
+      "overall_unemployed": 497.2,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 14908.5
+    },
+    {
+      "date": "2017-02-01",
+      "year": 2017,
+      "month": 2,
+      "youth_unemployed": 285.4,
+      "youth_unemployment_rate": 11.1,
+      "overall_unemployed": 496.2,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 14906.1
+    },
+    {
+      "date": "2017-03-01",
+      "year": 2017,
+      "month": 3,
+      "youth_unemployed": 258.9,
+      "youth_unemployment_rate": 10.1,
+      "overall_unemployed": 507.3,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 14908.1
+    },
+    {
+      "date": "2017-04-01",
+      "year": 2017,
+      "month": 4,
+      "youth_unemployed": 272.2,
+      "youth_unemployment_rate": 10.8,
+      "overall_unemployed": 515.6,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 14949.3
+    },
+    {
+      "date": "2017-05-01",
+      "year": 2017,
+      "month": 5,
+      "youth_unemployed": 320.2,
+      "youth_unemployment_rate": 12.2,
+      "overall_unemployed": 513.5,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 14979.3
+    },
+    {
+      "date": "2017-06-01",
+      "year": 2017,
+      "month": 6,
+      "youth_unemployed": 296.5,
+      "youth_unemployment_rate": 11.4,
+      "overall_unemployed": 512.6,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15011.4
+    },
+    {
+      "date": "2017-07-01",
+      "year": 2017,
+      "month": 7,
+      "youth_unemployed": 281.1,
+      "youth_unemployment_rate": 11.3,
+      "overall_unemployed": 517.7,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15032.2
+    },
+    {
+      "date": "2017-08-01",
+      "year": 2017,
+      "month": 8,
+      "youth_unemployed": 295.9,
+      "youth_unemployment_rate": 11.6,
+      "overall_unemployed": 521.8,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 15009.4
+    },
+    {
+      "date": "2017-09-01",
+      "year": 2017,
+      "month": 9,
+      "youth_unemployed": 267.4,
+      "youth_unemployment_rate": 10.3,
+      "overall_unemployed": 516.9,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15054.6
+    },
+    {
+      "date": "2017-10-01",
+      "year": 2017,
+      "month": 10,
+      "youth_unemployed": 303.6,
+      "youth_unemployment_rate": 11.7,
+      "overall_unemployed": 517.2,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15095.9
+    },
+    {
+      "date": "2017-11-01",
+      "year": 2017,
+      "month": 11,
+      "youth_unemployed": 314.4,
+      "youth_unemployment_rate": 11.7,
+      "overall_unemployed": 518.9,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15087.6
+    },
+    {
+      "date": "2017-12-01",
+      "year": 2017,
+      "month": 12,
+      "youth_unemployed": 309,
+      "youth_unemployment_rate": 11.7,
+      "overall_unemployed": 502.7,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15145
+    },
+    {
+      "date": "2018-01-01",
+      "year": 2018,
+      "month": 1,
+      "youth_unemployed": 328.5,
+      "youth_unemployment_rate": 12.3,
+      "overall_unemployed": 500.7,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15216.2
+    },
+    {
+      "date": "2018-02-01",
+      "year": 2018,
+      "month": 2,
+      "youth_unemployed": 310.9,
+      "youth_unemployment_rate": 11.6,
+      "overall_unemployed": 490.2,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 15216.8
+    },
+    {
+      "date": "2018-03-01",
+      "year": 2018,
+      "month": 3,
+      "youth_unemployed": 306.2,
+      "youth_unemployment_rate": 11.7,
+      "overall_unemployed": 505.4,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15215.2
+    },
+    {
+      "date": "2018-04-01",
+      "year": 2018,
+      "month": 4,
+      "youth_unemployed": 287.9,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 512.8,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15324
+    },
+    {
+      "date": "2018-05-01",
+      "year": 2018,
+      "month": 5,
+      "youth_unemployed": 292.5,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 511.3,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15372.4
+    },
+    {
+      "date": "2018-06-01",
+      "year": 2018,
+      "month": 6,
+      "youth_unemployed": 284.3,
+      "youth_unemployment_rate": 10.4,
+      "overall_unemployed": 521.4,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15362.9
+    },
+    {
+      "date": "2018-07-01",
+      "year": 2018,
+      "month": 7,
+      "youth_unemployed": 320.6,
+      "youth_unemployment_rate": 11.8,
+      "overall_unemployed": 516.7,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15422.1
+    },
+    {
+      "date": "2018-08-01",
+      "year": 2018,
+      "month": 8,
+      "youth_unemployed": 303.2,
+      "youth_unemployment_rate": 11.5,
+      "overall_unemployed": 529.7,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15397.5
+    },
+    {
+      "date": "2018-09-01",
+      "year": 2018,
+      "month": 9,
+      "youth_unemployed": 289.5,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployed": 518.6,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15443.4
+    },
+    {
+      "date": "2018-10-01",
+      "year": 2018,
+      "month": 10,
+      "youth_unemployed": 277.2,
+      "youth_unemployment_rate": 10.1,
+      "overall_unemployed": 522,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15452.9
+    },
+    {
+      "date": "2018-11-01",
+      "year": 2018,
+      "month": 11,
+      "youth_unemployed": 289,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployed": 529.8,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15458.7
+    },
+    {
+      "date": "2018-12-01",
+      "year": 2018,
+      "month": 12,
+      "youth_unemployed": 328.7,
+      "youth_unemployment_rate": 11.7,
+      "overall_unemployed": 510.7,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15499.9
+    },
+    {
+      "date": "2019-01-01",
+      "year": 2019,
+      "month": 1,
+      "youth_unemployed": 290.1,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 502.1,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 15503.1
+    },
+    {
+      "date": "2019-02-01",
+      "year": 2019,
+      "month": 2,
+      "youth_unemployed": 282.1,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployed": 506.5,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15525.9
+    },
+    {
+      "date": "2019-03-01",
+      "year": 2019,
+      "month": 3,
+      "youth_unemployed": 266.3,
+      "youth_unemployment_rate": 9.9,
+      "overall_unemployed": 520,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15556.1
+    },
+    {
+      "date": "2019-04-01",
+      "year": 2019,
+      "month": 4,
+      "youth_unemployed": 288.1,
+      "youth_unemployment_rate": 10.3,
+      "overall_unemployed": 527.6,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15607.4
+    },
+    {
+      "date": "2019-05-01",
+      "year": 2019,
+      "month": 5,
+      "youth_unemployed": 289.3,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployed": 526.2,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15632.6
+    },
+    {
+      "date": "2019-06-01",
+      "year": 2019,
+      "month": 6,
+      "youth_unemployed": 287,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployed": 524.7,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 15637.3
+    },
+    {
+      "date": "2019-07-01",
+      "year": 2019,
+      "month": 7,
+      "youth_unemployed": 291.3,
+      "youth_unemployment_rate": 10.2,
+      "overall_unemployed": 522.6,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15705
+    },
+    {
+      "date": "2019-08-01",
+      "year": 2019,
+      "month": 8,
+      "youth_unemployed": 297.8,
+      "youth_unemployment_rate": 11.2,
+      "overall_unemployed": 519.6,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15708.8
+    },
+    {
+      "date": "2019-09-01",
+      "year": 2019,
+      "month": 9,
+      "youth_unemployed": 307.1,
+      "youth_unemployment_rate": 11.1,
+      "overall_unemployed": 521.9,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15754.5
+    },
+    {
+      "date": "2019-10-01",
+      "year": 2019,
+      "month": 10,
+      "youth_unemployed": 244.5,
+      "youth_unemployment_rate": 9,
+      "overall_unemployed": 517.2,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15786.7
+    },
+    {
+      "date": "2019-11-01",
+      "year": 2019,
+      "month": 11,
+      "youth_unemployed": 274.2,
+      "youth_unemployment_rate": 9.5,
+      "overall_unemployed": 522.6,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15855.3
+    },
+    {
+      "date": "2019-12-01",
+      "year": 2019,
+      "month": 12,
+      "youth_unemployed": 309.9,
+      "youth_unemployment_rate": 11.2,
+      "overall_unemployed": 516.6,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15817.1
+    },
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "month": 1,
+      "youth_unemployed": 268.1,
+      "youth_unemployment_rate": 10,
+      "overall_unemployed": 516.9,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15825.8
+    },
+    {
+      "date": "2020-02-01",
+      "year": 2020,
+      "month": 2,
+      "youth_unemployed": 288,
+      "youth_unemployment_rate": 10.8,
+      "overall_unemployed": 528.8,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 15849.8
+    },
+    {
+      "date": "2020-03-01",
+      "year": 2020,
+      "month": 3,
+      "youth_unemployed": 291.4,
+      "youth_unemployment_rate": 11.3,
+      "overall_unemployed": 607.2,
+      "overall_unemployment_rate": 3.8,
+      "labour_force": 15864.3
+    },
+    {
+      "date": "2020-04-01",
+      "year": 2020,
+      "month": 4,
+      "youth_unemployed": 324.2,
+      "youth_unemployment_rate": 12.9,
+      "overall_unemployed": 765.7,
+      "overall_unemployment_rate": 4.9,
+      "labour_force": 15713.9
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "month": 5,
+      "youth_unemployed": 362.4,
+      "youth_unemployment_rate": 14.2,
+      "overall_unemployed": 815,
+      "overall_unemployment_rate": 5.2,
+      "labour_force": 15715.9
+    },
+    {
+      "date": "2020-06-01",
+      "year": 2020,
+      "month": 6,
+      "youth_unemployed": 335.8,
+      "youth_unemployment_rate": 13.1,
+      "overall_unemployed": 754.8,
+      "overall_unemployment_rate": 4.8,
+      "labour_force": 15788.6
+    },
+    {
+      "date": "2020-07-01",
+      "year": 2020,
+      "month": 7,
+      "youth_unemployed": 313.2,
+      "youth_unemployment_rate": 13.9,
+      "overall_unemployed": 729.7,
+      "overall_unemployment_rate": 4.6,
+      "labour_force": 15818.8
+    },
+    {
+      "date": "2020-08-01",
+      "year": 2020,
+      "month": 8,
+      "youth_unemployed": 331,
+      "youth_unemployment_rate": 13.7,
+      "overall_unemployed": 733.5,
+      "overall_unemployment_rate": 4.6,
+      "labour_force": 15889.1
+    },
+    {
+      "date": "2020-09-01",
+      "year": 2020,
+      "month": 9,
+      "youth_unemployed": 325.5,
+      "youth_unemployment_rate": 13,
+      "overall_unemployed": 740.5,
+      "overall_unemployment_rate": 4.7,
+      "labour_force": 15920.9
+    },
+    {
+      "date": "2020-10-01",
+      "year": 2020,
+      "month": 10,
+      "youth_unemployed": 321.6,
+      "youth_unemployment_rate": 13.4,
+      "overall_unemployed": 764.1,
+      "overall_unemployment_rate": 4.8,
+      "labour_force": 15951.2
+    },
+    {
+      "date": "2020-11-01",
+      "year": 2020,
+      "month": 11,
+      "youth_unemployed": 344.5,
+      "youth_unemployment_rate": 13,
+      "overall_unemployed": 784.1,
+      "overall_unemployment_rate": 4.9,
+      "labour_force": 15952.4
+    },
+    {
+      "date": "2020-12-01",
+      "year": 2020,
+      "month": 12,
+      "youth_unemployed": 312.2,
+      "youth_unemployment_rate": 13.2,
+      "overall_unemployed": 795.6,
+      "overall_unemployment_rate": 5,
+      "labour_force": 15988.9
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "month": 1,
+      "youth_unemployed": 295.3,
+      "youth_unemployment_rate": 13.5,
+      "overall_unemployed": 790.4,
+      "overall_unemployment_rate": 4.9,
+      "labour_force": 16016.3
+    },
+    {
+      "date": "2021-02-01",
+      "year": 2021,
+      "month": 2,
+      "youth_unemployed": 347.6,
+      "youth_unemployment_rate": 13.9,
+      "overall_unemployed": 782.9,
+      "overall_unemployment_rate": 4.9,
+      "labour_force": 16028
+    },
+    {
+      "date": "2021-03-01",
+      "year": 2021,
+      "month": 3,
+      "youth_unemployed": 321.1,
+      "youth_unemployment_rate": 13.4,
+      "overall_unemployed": 749.1,
+      "overall_unemployment_rate": 4.7,
+      "labour_force": 16104.2
+    },
+    {
+      "date": "2021-04-01",
+      "year": 2021,
+      "month": 4,
+      "youth_unemployed": 310.7,
+      "youth_unemployment_rate": 13.7,
+      "overall_unemployed": 730.2,
+      "overall_unemployment_rate": 4.5,
+      "labour_force": 16096.5
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "month": 5,
+      "youth_unemployed": 328.1,
+      "youth_unemployment_rate": 13.6,
+      "overall_unemployed": 718.3,
+      "overall_unemployment_rate": 4.5,
+      "labour_force": 16100.8
+    },
+    {
+      "date": "2021-06-01",
+      "year": 2021,
+      "month": 6,
+      "youth_unemployed": 340.9,
+      "youth_unemployment_rate": 12.7,
+      "overall_unemployed": 750.4,
+      "overall_unemployment_rate": 4.7,
+      "labour_force": 16091.8
+    },
+    {
+      "date": "2021-07-01",
+      "year": 2021,
+      "month": 7,
+      "youth_unemployed": 344.1,
+      "youth_unemployment_rate": 13.7,
+      "overall_unemployed": 762.1,
+      "overall_unemployment_rate": 4.7,
+      "labour_force": 16073.2
+    },
+    {
+      "date": "2021-08-01",
+      "year": 2021,
+      "month": 8,
+      "youth_unemployed": 321.1,
+      "youth_unemployment_rate": 13.9,
+      "overall_unemployed": 740.6,
+      "overall_unemployment_rate": 4.6,
+      "labour_force": 16119.3
+    },
+    {
+      "date": "2021-09-01",
+      "year": 2021,
+      "month": 9,
+      "youth_unemployed": 335.1,
+      "youth_unemployment_rate": 13.9,
+      "overall_unemployed": 732.6,
+      "overall_unemployment_rate": 4.5,
+      "labour_force": 16182.7
+    },
+    {
+      "date": "2021-10-01",
+      "year": 2021,
+      "month": 10,
+      "youth_unemployed": 358.8,
+      "youth_unemployment_rate": 13.9,
+      "overall_unemployed": 720,
+      "overall_unemployment_rate": 4.4,
+      "labour_force": 16255.3
+    },
+    {
+      "date": "2021-11-01",
+      "year": 2021,
+      "month": 11,
+      "youth_unemployed": 350.9,
+      "youth_unemployment_rate": 13.7,
+      "overall_unemployed": 712.3,
+      "overall_unemployment_rate": 4.4,
+      "labour_force": 16296.4
+    },
+    {
+      "date": "2021-12-01",
+      "year": 2021,
+      "month": 12,
+      "youth_unemployed": 367.7,
+      "youth_unemployment_rate": 13.7,
+      "overall_unemployed": 707.8,
+      "overall_unemployment_rate": 4.3,
+      "labour_force": 16336.9
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "month": 1,
+      "youth_unemployed": 364.5,
+      "youth_unemployment_rate": 13.2,
+      "overall_unemployed": 688.3,
+      "overall_unemployment_rate": 4.2,
+      "labour_force": 16350.3
+    },
+    {
+      "date": "2022-02-01",
+      "year": 2022,
+      "month": 2,
+      "youth_unemployed": 356.9,
+      "youth_unemployment_rate": 13,
+      "overall_unemployed": 675.4,
+      "overall_unemployment_rate": 4.1,
+      "labour_force": 16392.6
+    },
+    {
+      "date": "2022-03-01",
+      "year": 2022,
+      "month": 3,
+      "youth_unemployed": 361,
+      "youth_unemployment_rate": 13.1,
+      "overall_unemployed": 667.8,
+      "overall_unemployment_rate": 4.1,
+      "labour_force": 16437.2
+    },
+    {
+      "date": "2022-04-01",
+      "year": 2022,
+      "month": 4,
+      "youth_unemployed": 357.2,
+      "youth_unemployment_rate": 12.8,
+      "overall_unemployed": 640.6,
+      "overall_unemployment_rate": 3.9,
+      "labour_force": 16507.1
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "month": 5,
+      "youth_unemployed": 341.4,
+      "youth_unemployment_rate": 12.5,
+      "overall_unemployed": 631.6,
+      "overall_unemployment_rate": 3.8,
+      "labour_force": 16553.2
+    },
+    {
+      "date": "2022-06-01",
+      "year": 2022,
+      "month": 6,
+      "youth_unemployed": 343.9,
+      "youth_unemployment_rate": 12.2,
+      "overall_unemployed": 603.9,
+      "overall_unemployment_rate": 3.6,
+      "labour_force": 16620.9
+    },
+    {
+      "date": "2022-07-01",
+      "year": 2022,
+      "month": 7,
+      "youth_unemployed": 336.2,
+      "youth_unemployment_rate": 12.1,
+      "overall_unemployed": 601.8,
+      "overall_unemployment_rate": 3.6,
+      "labour_force": 16611
+    },
+    {
+      "date": "2022-08-01",
+      "year": 2022,
+      "month": 8,
+      "youth_unemployed": 337.6,
+      "youth_unemployment_rate": 12.1,
+      "overall_unemployed": 604.7,
+      "overall_unemployment_rate": 3.6,
+      "labour_force": 16647.2
+    },
+    {
+      "date": "2022-09-01",
+      "year": 2022,
+      "month": 9,
+      "youth_unemployed": 339.1,
+      "youth_unemployment_rate": 12.1,
+      "overall_unemployed": 607.5,
+      "overall_unemployment_rate": 3.7,
+      "labour_force": 16640.1
+    },
+    {
+      "date": "2022-10-01",
+      "year": 2022,
+      "month": 10,
+      "youth_unemployed": 337.2,
+      "youth_unemployment_rate": 12.1,
+      "overall_unemployed": 618.8,
+      "overall_unemployment_rate": 3.7,
+      "labour_force": 16656.8
+    },
+    {
+      "date": "2022-11-01",
+      "year": 2022,
+      "month": 11,
+      "youth_unemployed": 329.3,
+      "youth_unemployment_rate": 11.9,
+      "overall_unemployed": 620.1,
+      "overall_unemployment_rate": 3.7,
+      "labour_force": 16686.4
+    },
+    {
+      "date": "2022-12-01",
+      "year": 2022,
+      "month": 12,
+      "youth_unemployed": 331,
+      "youth_unemployment_rate": 11.8,
+      "overall_unemployed": 622.2,
+      "overall_unemployment_rate": 3.7,
+      "labour_force": 16719.8
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "month": 1,
+      "youth_unemployed": 328.8,
+      "youth_unemployment_rate": 11.5,
+      "overall_unemployed": 603.3,
+      "overall_unemployment_rate": 3.6,
+      "labour_force": 16739.7
+    },
+    {
+      "date": "2023-02-01",
+      "year": 2023,
+      "month": 2,
+      "youth_unemployed": 320.8,
+      "youth_unemployment_rate": 11.3,
+      "overall_unemployed": 594.3,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 16770.6
+    },
+    {
+      "date": "2023-03-01",
+      "year": 2023,
+      "month": 3,
+      "youth_unemployed": 317.3,
+      "youth_unemployment_rate": 11.2,
+      "overall_unemployed": 586.8,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 16804.5
+    },
+    {
+      "date": "2023-04-01",
+      "year": 2023,
+      "month": 4,
+      "youth_unemployed": 315.6,
+      "youth_unemployment_rate": 11.1,
+      "overall_unemployed": 582.9,
+      "overall_unemployment_rate": 3.5,
+      "labour_force": 16829.1
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "month": 5,
+      "youth_unemployed": 313,
+      "youth_unemployment_rate": 11,
+      "overall_unemployed": 578.5,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 16871.2
+    },
+    {
+      "date": "2023-06-01",
+      "year": 2023,
+      "month": 6,
+      "youth_unemployed": 312.4,
+      "youth_unemployment_rate": 11,
+      "overall_unemployed": 560.3,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 16933.1
+    },
+    {
+      "date": "2023-07-01",
+      "year": 2023,
+      "month": 7,
+      "youth_unemployed": 311.2,
+      "youth_unemployment_rate": 10.9,
+      "overall_unemployed": 565.8,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 16942.3
+    },
+    {
+      "date": "2023-08-01",
+      "year": 2023,
+      "month": 8,
+      "youth_unemployed": 309.2,
+      "youth_unemployment_rate": 10.8,
+      "overall_unemployed": 573.9,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 16960.9
+    },
+    {
+      "date": "2023-09-01",
+      "year": 2023,
+      "month": 9,
+      "youth_unemployed": 310.1,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 578,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 16948.3
+    },
+    {
+      "date": "2023-10-01",
+      "year": 2023,
+      "month": 10,
+      "youth_unemployed": 313.3,
+      "youth_unemployment_rate": 10.7,
+      "overall_unemployed": 583.4,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 16954.3
+    },
+    {
+      "date": "2023-11-01",
+      "year": 2023,
+      "month": 11,
+      "youth_unemployed": 308.5,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 581.9,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 16977.1
+    },
+    {
+      "date": "2023-12-01",
+      "year": 2023,
+      "month": 12,
+      "youth_unemployed": 307.2,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 580.1,
+      "overall_unemployment_rate": 3.4,
+      "labour_force": 17001.7
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "month": 1,
+      "youth_unemployed": 299.1,
+      "youth_unemployment_rate": 10.7,
+      "overall_unemployed": 561.1,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 16785.8
+    },
+    {
+      "date": "2024-02-01",
+      "year": 2024,
+      "month": 2,
+      "youth_unemployed": 295.7,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 556.2,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 16820.1
+    },
+    {
+      "date": "2024-03-01",
+      "year": 2024,
+      "month": 3,
+      "youth_unemployed": 296.9,
+      "youth_unemployment_rate": 10.6,
+      "overall_unemployed": 555.7,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 16848.6
+    },
+    {
+      "date": "2024-04-01",
+      "year": 2024,
+      "month": 4,
+      "youth_unemployed": 293.6,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployed": 556.6,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 16909.6
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "month": 5,
+      "youth_unemployed": 295.6,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployed": 552.6,
+      "overall_unemployment_rate": 3.3,
+      "labour_force": 16945.7
+    },
+    {
+      "date": "2024-06-01",
+      "year": 2024,
+      "month": 6,
+      "youth_unemployed": 293.5,
+      "youth_unemployment_rate": 10.4,
+      "overall_unemployed": 542.6,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 16988.7
+    },
+    {
+      "date": "2024-07-01",
+      "year": 2024,
+      "month": 7,
+      "youth_unemployed": 294.6,
+      "youth_unemployment_rate": 10.4,
+      "overall_unemployed": 547.7,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 17012.8
+    },
+    {
+      "date": "2024-08-01",
+      "year": 2024,
+      "month": 8,
+      "youth_unemployed": 294.8,
+      "youth_unemployment_rate": 10.4,
+      "overall_unemployed": 549.4,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 17051.3
+    },
+    {
+      "date": "2024-09-01",
+      "year": 2024,
+      "month": 9,
+      "youth_unemployed": 295.6,
+      "youth_unemployment_rate": 10.4,
+      "overall_unemployed": 552.1,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 17073.3
+    },
+    {
+      "date": "2024-10-01",
+      "year": 2024,
+      "month": 10,
+      "youth_unemployed": 300.6,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployed": 552.7,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 17089.5
+    },
+    {
+      "date": "2024-11-01",
+      "year": 2024,
+      "month": 11,
+      "youth_unemployed": 300,
+      "youth_unemployment_rate": 10.4,
+      "overall_unemployed": 547.1,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 17113.6
+    },
+    {
+      "date": "2024-12-01",
+      "year": 2024,
+      "month": 12,
+      "youth_unemployed": 301.4,
+      "youth_unemployment_rate": 10.4,
+      "overall_unemployed": 541.7,
+      "overall_unemployment_rate": 3.2,
+      "labour_force": 17155.9
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "month": 1,
+      "youth_unemployed": 299.3,
+      "youth_unemployment_rate": 10.3,
+      "overall_unemployed": 534,
+      "overall_unemployment_rate": 3.1,
+      "labour_force": 17228.5
+    },
+    {
+      "date": "2025-02-01",
+      "year": 2025,
+      "month": 2,
+      "youth_unemployed": 298.9,
+      "youth_unemployment_rate": 10.3,
+      "overall_unemployed": 532.5,
+      "overall_unemployment_rate": 3.1,
+      "labour_force": 17285.9
+    },
+    {
+      "date": "2025-03-01",
+      "year": 2025,
+      "month": 3,
+      "youth_unemployed": 299.7,
+      "youth_unemployment_rate": 10.3,
+      "overall_unemployed": 528.2,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17342.6
+    },
+    {
+      "date": "2025-04-01",
+      "year": 2025,
+      "month": 4,
+      "youth_unemployed": 298.3,
+      "youth_unemployment_rate": 10.3,
+      "overall_unemployed": 526.3,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17351.6
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "month": 5,
+      "youth_unemployed": 297.7,
+      "youth_unemployment_rate": 10.2,
+      "overall_unemployed": 523.1,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17387.9
+    },
+    {
+      "date": "2025-06-01",
+      "year": 2025,
+      "month": 6,
+      "youth_unemployed": 297.5,
+      "youth_unemployment_rate": 10.2,
+      "overall_unemployed": 516.1,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17434.5
+    },
+    {
+      "date": "2025-07-01",
+      "year": 2025,
+      "month": 7,
+      "youth_unemployed": 298.9,
+      "youth_unemployment_rate": 10.2,
+      "overall_unemployed": 520,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17470.7
+    },
+    {
+      "date": "2025-08-01",
+      "year": 2025,
+      "month": 8,
+      "youth_unemployed": 298,
+      "youth_unemployment_rate": 10.2,
+      "overall_unemployed": 518.6,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17498.6
+    },
+    {
+      "date": "2025-09-01",
+      "year": 2025,
+      "month": 9,
+      "youth_unemployed": 296.9,
+      "youth_unemployment_rate": 10.1,
+      "overall_unemployed": 519.3,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17530.6
+    },
+    {
+      "date": "2025-10-01",
+      "year": 2025,
+      "month": 10,
+      "youth_unemployed": 297.6,
+      "youth_unemployment_rate": 10.1,
+      "overall_unemployed": 521.1,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17555.3
+    },
+    {
+      "date": "2025-11-01",
+      "year": 2025,
+      "month": 11,
+      "youth_unemployed": 297.9,
+      "youth_unemployment_rate": 10.1,
+      "overall_unemployed": 520.2,
+      "overall_unemployment_rate": 3,
+      "labour_force": 17595.9
+    },
+    {
+      "date": "2025-12-01",
+      "year": 2025,
+      "month": 12,
+      "youth_unemployed": 298.7,
+      "youth_unemployment_rate": 10.1,
+      "overall_unemployed": 518.3,
+      "overall_unemployment_rate": 2.9,
+      "labour_force": 17634.9
+    }
+  ],
+  "annual": [
+    {
+      "year": 2016,
+      "youth_unemployment_rate": 10.7,
+      "overall_unemployment_rate": 3.4,
+      "youth_unemployed": 278,
+      "overall_unemployed": 510,
+      "labour_force": 14738
+    },
+    {
+      "year": 2017,
+      "youth_unemployment_rate": 11.3,
+      "overall_unemployment_rate": 3.4,
+      "youth_unemployed": 293,
+      "overall_unemployed": 511,
+      "labour_force": 15007
+    },
+    {
+      "year": 2018,
+      "youth_unemployment_rate": 11.1,
+      "overall_unemployment_rate": 3.3,
+      "youth_unemployed": 302,
+      "overall_unemployed": 514,
+      "labour_force": 15365
+    },
+    {
+      "year": 2019,
+      "youth_unemployment_rate": 10.4,
+      "overall_unemployment_rate": 3.3,
+      "youth_unemployed": 286,
+      "overall_unemployed": 519,
+      "labour_force": 15674
+    },
+    {
+      "year": 2020,
+      "youth_unemployment_rate": 12.7,
+      "overall_unemployment_rate": 4.5,
+      "youth_unemployed": 318,
+      "overall_unemployed": 711,
+      "labour_force": 15857
+    },
+    {
+      "year": 2021,
+      "youth_unemployment_rate": 13.6,
+      "overall_unemployment_rate": 4.6,
+      "youth_unemployed": 335,
+      "overall_unemployed": 741,
+      "labour_force": 16142
+    },
+    {
+      "year": 2022,
+      "youth_unemployment_rate": 12.4,
+      "overall_unemployment_rate": 3.8,
+      "youth_unemployed": 345,
+      "overall_unemployed": 632,
+      "labour_force": 16569
+    },
+    {
+      "year": 2023,
+      "youth_unemployment_rate": 10.9,
+      "overall_unemployment_rate": 3.4,
+      "youth_unemployed": 314,
+      "overall_unemployed": 581,
+      "labour_force": 16894
+    },
+    {
+      "year": 2024,
+      "youth_unemployment_rate": 10.5,
+      "overall_unemployment_rate": 3.2,
+      "youth_unemployed": 297,
+      "overall_unemployed": 551,
+      "labour_force": 16983
+    },
+    {
+      "year": 2025,
+      "youth_unemployment_rate": 10.2,
+      "overall_unemployment_rate": 3,
+      "youth_unemployed": 298,
+      "overall_unemployed": 523,
+      "labour_force": 17443
+    }
+  ],
+  "metadata": {
+    "period": "2016-01-01 to 2025-12-01",
+    "total_months": 120,
+    "years_covered": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "description": "Youth (15-24) vs. Overall unemployment rates in Malaysia",
+    "source": "Department of Statistics Malaysia - Monthly Labour Force Survey"
+  }
+}

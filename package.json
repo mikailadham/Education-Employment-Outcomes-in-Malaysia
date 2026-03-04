@@ -4,11 +4,17 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "npm run process-data && npm run process-mywi && astro build",
+    "build": "npm run process-all-data && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "process-data": "node scripts/process-data.js",
-    "process-mywi": "node scripts/process-mywi-data.js"
+    "process-mywi": "node scripts/process-mywi-data.js",
+    "process-time-series": "node scripts/process-time-series.js",
+    "process-education-infra": "node scripts/process-education-infrastructure.js",
+    "process-productivity": "node scripts/process-productivity-heatmap.js",
+    "calculate-indices": "node scripts/calculate-composite-indices.js",
+    "prepare-clustering": "node scripts/prepare-clustering-data.js",
+    "process-all-data": "npm run process-data && npm run process-mywi && npm run process-time-series && npm run process-education-infra && npm run process-productivity && npm run calculate-indices && npm run prepare-clustering"
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",
@@ -16,6 +22,7 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "astro": "^5.17.1",
+    "csv-parse": "^6.1.0",
     "papaparse": "^5.5.3",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",

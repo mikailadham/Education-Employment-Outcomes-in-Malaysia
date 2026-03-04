@@ -6,6 +6,18 @@ import StateList from '../components/StateList';
 import MyWITrendChart from '../components/MyWITrendChart';
 import MyWIComponentsChart from '../components/MyWIComponentsChart';
 import StateComparison from '../components/StateComparison';
+
+// New chart components for advanced analytics
+import DualLineTrend from '../components/DualLineTrend';
+import EmploymentStatusDonut from '../components/EmploymentStatusDonut';
+import CompletionBarChart from '../components/CompletionBarChart';
+import EnrolmentBubbleChart from '../components/EnrolmentBubbleChart';
+import HigherEdStackedBar from '../components/HigherEdStackedBar';
+import LFPRRankedBar from '../components/LFPRRankedBar';
+import GDPUnemploymentScatter from '../components/GDPUnemploymentScatter';
+import ProductivityHeatmap from '../components/ProductivityHeatmap';
+import QuadrantScatter from '../components/QuadrantScatter';
+import ClusterVisualization from '../components/ClusterVisualization';
 ---
 
 <Layout title="Malaysia Education & Employment Dashboard">
@@ -130,6 +142,92 @@ import StateComparison from '../components/StateComparison';
 	<!-- State Comparison Section -->
 	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 fade-in-delay-3">
 		<StateComparison client:load />
+	</section>
+
+	<!-- NEW SECTION 1: Employment Trends Analysis -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<div class="text-center mb-10">
+			<h2 class="text-3xl font-bold text-gray-900 mb-3">
+				Employment Trends Analysis
+			</h2>
+			<p class="text-lg text-gray-600 max-w-3xl mx-auto">
+				Understanding unemployment patterns and employment composition across Malaysia (2016-2025)
+			</p>
+		</div>
+
+		<div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+			<DualLineTrend client:load />
+			<EmploymentStatusDonut client:load />
+		</div>
+	</section>
+
+	<!-- NEW SECTION 2: Education Infrastructure & Outcomes -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 bg-gray-50">
+		<div class="text-center mb-10">
+			<h2 class="text-3xl font-bold text-gray-900 mb-3">
+				Education Infrastructure & Outcomes
+			</h2>
+			<p class="text-lg text-gray-600 max-w-3xl mx-auto">
+				Examining education supply, completion rates, and graduate production trends
+			</p>
+		</div>
+
+		<div class="space-y-6">
+			<CompletionBarChart client:load />
+
+			<div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+				<EnrolmentBubbleChart client:load />
+				<HigherEdStackedBar client:load />
+			</div>
+		</div>
+	</section>
+
+	<!-- NEW SECTION 3: Labour Market Dynamics -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<div class="text-center mb-10">
+			<h2 class="text-3xl font-bold text-gray-900 mb-3">
+				Labour Market Dynamics
+			</h2>
+			<p class="text-lg text-gray-600 max-w-3xl mx-auto">
+				Exploring labour force participation, economic prosperity, and sectoral productivity
+			</p>
+		</div>
+
+		<div class="space-y-6">
+			<LFPRRankedBar client:load />
+
+			<div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+				<GDPUnemploymentScatter client:load />
+				<ProductivityHeatmap client:load />
+			</div>
+		</div>
+	</section>
+
+	<!-- NEW SECTION 4: Education-Employment Pipeline Analysis (CENTREPIECE) -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 bg-gradient-to-br from-blue-50 via-purple-50 to-teal-50">
+		<div class="text-center mb-10">
+			<div class="inline-block px-4 py-2 bg-purple-100 text-purple-700 rounded-full text-sm font-semibold mb-4">
+				ADVANCED ANALYTICS
+			</div>
+			<h2 class="text-4xl font-bold text-gray-900 mb-3">
+				Education-Employment Pipeline Analysis
+			</h2>
+			<p class="text-lg text-gray-600 max-w-3xl mx-auto">
+				Strategic insights from composite indices and K-means clustering analysis
+			</p>
+		</div>
+
+		<div class="space-y-8">
+			<!-- Quadrant Scatter - The most important visualization -->
+			<div class="bg-white rounded-lg shadow-lg p-2 border-4 border-purple-200">
+				<QuadrantScatter client:load />
+			</div>
+
+			<!-- Cluster Visualization -->
+			<div class="bg-white rounded-lg shadow-lg p-2">
+				<ClusterVisualization client:load />
+			</div>
+		</div>
 	</section>
 
 	<!-- State Detail Section (Hidden initially, shown on state click) -->
