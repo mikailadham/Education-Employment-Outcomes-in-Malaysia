@@ -1,0 +1,12 @@
+Field_of_Study,Unemployed_Pct_2020,Unemployed_Pct_2021,Unemployed_Pct_2022,Unemployed_Pct_2023,Unemployed_Pct_2024,Total_N_2020,Total_N_2021,Total_N_2022,Total_N_2023,Total_N_2024,Notes
+Education,17.0,16.3,10.1,13.7,10.2,13445,17905,17630,21284,20003,Persistently high; volatile
+Arts & Humanities,18.8,16.9,12.7,13.0,9.2,19909,23775,25746,26971,19019,High but gradually improving
+Social Sciences / Journalism & Info,16.2*,15.6*,11.3,12.6,9.2,80252*,94088*,14953,13744,12280,*2020-2021 grouped with Business & Law
+Business Admin & Law,16.2*,15.6*,10.7,11.0,7.8,80252*,94088*,85734,85300,61442,*2020-2021 grouped with Social Sciences
+Natural Sciences / Maths & Stats,14.7*,12.8*,9.8,9.1,7.5,27777*,32076*,13617,13565,10058,*2020-2021 grouped with Computing/ICT
+ICT / Computing,14.7*,12.8*,8.1,8.3,6.3,27777*,32076*,20894,22374,15998,*2020-2021 grouped with Natural Sciences
+Engineering Manufacturing & Construction,13.5,11.4,7.3,6.5,5.1,81961,78628,78331,78818,62503,Consistently best performing field
+Agriculture Forestry Fisheries & Vet,18.8,19.1,12.1,12.2,10.0,4818,5181,4695,4826,3348,Consistently high; structural issue
+Health & Welfare,15.6,14.8,11.3,11.9,7.4,13299,14394,15547,17482,13067,High waiting-for-placement distorts; large cohort in 2022-2023
+Services,17.5,18.2,11.3,13.0,10.1,19240,20252,18815,20034,14080,High and volatile
+NATIONAL TOTAL,15.6,14.5,9.8,10.2,7.5,260701,286299,295962,304466,231841,

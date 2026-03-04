@@ -14,7 +14,8 @@
     "process-productivity": "node scripts/process-productivity-heatmap.js",
     "calculate-indices": "node scripts/calculate-composite-indices.js",
     "prepare-clustering": "node scripts/prepare-clustering-data.js",
-    "process-all-data": "npm run process-data && npm run process-mywi && npm run process-time-series && npm run process-education-infra && npm run process-productivity && npm run calculate-indices && npm run prepare-clustering"
+    "process-graduate-tracer": "node scripts/process-graduate-tracer.js",
+    "process-all-data": "npm run process-data && npm run process-mywi && npm run process-time-series && npm run process-education-infra && npm run process-productivity && npm run calculate-indices && npm run prepare-clustering && npm run process-graduate-tracer"
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",

@@ -1,0 +1,1652 @@
+{
+  "nationalTotals": [
+    {
+      "year": 2020,
+      "totalTracked": 260701,
+      "employed": {
+        "n": 156525,
+        "pct": 60
+      },
+      "furtherStudy": {
+        "n": 46278,
+        "pct": 17.8
+      },
+      "upgradingSkills": {
+        "n": 5282,
+        "pct": 2
+      },
+      "waitingPlacement": {
+        "n": 12066,
+        "pct": 4.6
+      },
+      "unemployed": {
+        "n": 40550,
+        "pct": 15.6
+      },
+      "methodologyChange": false,
+      "notes": "Pre-pandemic cohort; 5-category classification"
+    },
+    {
+      "year": 2021,
+      "totalTracked": 286299,
+      "employed": {
+        "n": 176256,
+        "pct": 61.6
+      },
+      "furtherStudy": {
+        "n": 53770,
+        "pct": 18.8
+      },
+      "upgradingSkills": {
+        "n": 5253,
+        "pct": 1.8
+      },
+      "waitingPlacement": {
+        "n": 9553,
+        "pct": 3.3
+      },
+      "unemployed": {
+        "n": 41467,
+        "pct": 14.5
+      },
+      "methodologyChange": false,
+      "notes": "5-category classification"
+    },
+    {
+      "year": 2022,
+      "totalTracked": 295962,
+      "employed": {
+        "n": 204452,
+        "pct": 69.1
+      },
+      "furtherStudy": {
+        "n": 49095,
+        "pct": 16.6
+      },
+      "upgradingSkills": {
+        "n": 4612,
+        "pct": 1.6
+      },
+      "waitingPlacement": {
+        "n": 8704,
+        "pct": 2.9
+      },
+      "unemployed": {
+        "n": 29099,
+        "pct": 9.8
+      },
+      "methodologyChange": false,
+      "notes": "5-category classification"
+    },
+    {
+      "year": 2023,
+      "totalTracked": 304466,
+      "employed": {
+        "n": 206800,
+        "pct": 67.9
+      },
+      "furtherStudy": {
+        "n": 50510,
+        "pct": 16.6
+      },
+      "upgradingSkills": {
+        "n": 5871,
+        "pct": 1.9
+      },
+      "waitingPlacement": {
+        "n": 10179,
+        "pct": 3.3
+      },
+      "unemployed": {
+        "n": 31106,
+        "pct": 10.2
+      },
+      "methodologyChange": false,
+      "notes": "5-category classification"
+    },
+    {
+      "year": 2024,
+      "totalTracked": 231841,
+      "employed": {
+        "n": 214398,
+        "pct": 92.5
+      },
+      "furtherStudy": {
+        "n": 0,
+        "pct": 0
+      },
+      "upgradingSkills": {
+        "n": 0,
+        "pct": 0
+      },
+      "waitingPlacement": {
+        "n": 0,
+        "pct": 0
+      },
+      "unemployed": {
+        "n": 17443,
+        "pct": 7.5
+      },
+      "methodologyChange": true,
+      "notes": "METHODOLOGY CHANGE: 2024 uses binary GE rate (Employed vs Not Working Yet) — not directly comparable to 2020-2023"
+    }
+  ],
+  "byField": [
+    {
+      "field": "Education",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 17,
+          "total": 13445,
+          "hasAsterisk": false
+        },
+        "2021": {
+          "pct": 16.3,
+          "total": 17905,
+          "hasAsterisk": false
+        },
+        "2022": {
+          "pct": 10.1,
+          "total": 17630
+        },
+        "2023": {
+          "pct": 13.7,
+          "total": 21284
+        },
+        "2024": {
+          "pct": 10.2,
+          "total": 20003,
+          "methodologyChange": true
+        }
+      },
+      "notes": "Persistently high; volatile"
+    },
+    {
+      "field": "Arts & Humanities",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 18.8,
+          "total": 19909,
+          "hasAsterisk": false
+        },
+        "2021": {
+          "pct": 16.9,
+          "total": 23775,
+          "hasAsterisk": false
+        },
+        "2022": {
+          "pct": 12.7,
+          "total": 25746
+        },
+        "2023": {
+          "pct": 13,
+          "total": 26971
+        },
+        "2024": {
+          "pct": 9.2,
+          "total": 19019,
+          "methodologyChange": true
+        }
+      },
+      "notes": "High but gradually improving"
+    },
+    {
+      "field": "Social Sciences / Journalism & Info",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": null,
+          "total": null,
+          "hasAsterisk": true
+        },
+        "2021": {
+          "pct": null,
+          "total": null,
+          "hasAsterisk": true
+        },
+        "2022": {
+          "pct": 11.3,
+          "total": 14953
+        },
+        "2023": {
+          "pct": 12.6,
+          "total": 13744
+        },
+        "2024": {
+          "pct": 9.2,
+          "total": 12280,
+          "methodologyChange": true
+        }
+      },
+      "notes": "*2020-2021 grouped with Business & Law"
+    },
+    {
+      "field": "Business Admin & Law",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": null,
+          "total": null,
+          "hasAsterisk": true
+        },
+        "2021": {
+          "pct": null,
+          "total": null,
+          "hasAsterisk": true
+        },
+        "2022": {
+          "pct": 10.7,
+          "total": 85734
+        },
+        "2023": {
+          "pct": 11,
+          "total": 85300
+        },
+        "2024": {
+          "pct": 7.8,
+          "total": 61442,
+          "methodologyChange": true
+        }
+      },
+      "notes": "*2020-2021 grouped with Social Sciences"
+    },
+    {
+      "field": "Natural Sciences / Maths & Stats",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": null,
+          "total": null,
+          "hasAsterisk": true
+        },
+        "2021": {
+          "pct": null,
+          "total": null,
+          "hasAsterisk": true
+        },
+        "2022": {
+          "pct": 9.8,
+          "total": 13617
+        },
+        "2023": {
+          "pct": 9.1,
+          "total": 13565
+        },
+        "2024": {
+          "pct": 7.5,
+          "total": 10058,
+          "methodologyChange": true
+        }
+      },
+      "notes": "*2020-2021 grouped with Computing/ICT"
+    },
+    {
+      "field": "ICT / Computing",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": null,
+          "total": null,
+          "hasAsterisk": true
+        },
+        "2021": {
+          "pct": null,
+          "total": null,
+          "hasAsterisk": true
+        },
+        "2022": {
+          "pct": 8.1,
+          "total": 20894
+        },
+        "2023": {
+          "pct": 8.3,
+          "total": 22374
+        },
+        "2024": {
+          "pct": 6.3,
+          "total": 15998,
+          "methodologyChange": true
+        }
+      },
+      "notes": "*2020-2021 grouped with Natural Sciences"
+    },
+    {
+      "field": "Engineering Manufacturing & Construction",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 13.5,
+          "total": 81961,
+          "hasAsterisk": false
+        },
+        "2021": {
+          "pct": 11.4,
+          "total": 78628,
+          "hasAsterisk": false
+        },
+        "2022": {
+          "pct": 7.3,
+          "total": 78331
+        },
+        "2023": {
+          "pct": 6.5,
+          "total": 78818
+        },
+        "2024": {
+          "pct": 5.1,
+          "total": 62503,
+          "methodologyChange": true
+        }
+      },
+      "notes": "Consistently best performing field"
+    },
+    {
+      "field": "Agriculture Forestry Fisheries & Vet",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 18.8,
+          "total": 4818,
+          "hasAsterisk": false
+        },
+        "2021": {
+          "pct": 19.1,
+          "total": 5181,
+          "hasAsterisk": false
+        },
+        "2022": {
+          "pct": 12.1,
+          "total": 4695
+        },
+        "2023": {
+          "pct": 12.2,
+          "total": 4826
+        },
+        "2024": {
+          "pct": 10,
+          "total": 3348,
+          "methodologyChange": true
+        }
+      },
+      "notes": "Consistently high; structural issue"
+    },
+    {
+      "field": "Health & Welfare",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 15.6,
+          "total": 13299,
+          "hasAsterisk": false
+        },
+        "2021": {
+          "pct": 14.8,
+          "total": 14394,
+          "hasAsterisk": false
+        },
+        "2022": {
+          "pct": 11.3,
+          "total": 15547
+        },
+        "2023": {
+          "pct": 11.9,
+          "total": 17482
+        },
+        "2024": {
+          "pct": 7.4,
+          "total": 13067,
+          "methodologyChange": true
+        }
+      },
+      "notes": "High waiting-for-placement distorts; large cohort in 2022-2023"
+    },
+    {
+      "field": "Services",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 17.5,
+          "total": 19240,
+          "hasAsterisk": false
+        },
+        "2021": {
+          "pct": 18.2,
+          "total": 20252,
+          "hasAsterisk": false
+        },
+        "2022": {
+          "pct": 11.3,
+          "total": 18815
+        },
+        "2023": {
+          "pct": 13,
+          "total": 20034
+        },
+        "2024": {
+          "pct": 10.1,
+          "total": 14080,
+          "methodologyChange": true
+        }
+      },
+      "notes": "High and volatile"
+    }
+  ],
+  "byState": [
+    {
+      "state": "Johor",
+      "avgUnemployment": 10.1,
+      "rank2024": 6,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 13,
+          "total": 28356
+        },
+        "2021": {
+          "pct": 13.1,
+          "total": 30498
+        },
+        "2022": {
+          "pct": 8.7,
+          "total": 31236
+        },
+        "2023": {
+          "pct": 9.4,
+          "total": 32907
+        },
+        "2024": {
+          "pct": 6.1,
+          "total": 25454,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Kedah",
+      "avgUnemployment": 11.9,
+      "rank2024": 10,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 15.5,
+          "total": 19448
+        },
+        "2021": {
+          "pct": 15.3,
+          "total": 20294
+        },
+        "2022": {
+          "pct": 9.6,
+          "total": 21094
+        },
+        "2023": {
+          "pct": 10.3,
+          "total": 21977
+        },
+        "2024": {
+          "pct": 8.8,
+          "total": 15947,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Kelantan",
+      "avgUnemployment": 15.2,
+      "rank2024": 16,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 19.1,
+          "total": 16323
+        },
+        "2021": {
+          "pct": 19.8,
+          "total": 17289
+        },
+        "2022": {
+          "pct": 13,
+          "total": 15877
+        },
+        "2023": {
+          "pct": 13,
+          "total": 16318
+        },
+        "2024": {
+          "pct": 10.9,
+          "total": 12432,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Melaka",
+      "avgUnemployment": 10.6,
+      "rank2024": 7,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 13.8,
+          "total": 8971
+        },
+        "2021": {
+          "pct": 14,
+          "total": 9762
+        },
+        "2022": {
+          "pct": 8.6,
+          "total": 9476
+        },
+        "2023": {
+          "pct": 10.1,
+          "total": 9940
+        },
+        "2024": {
+          "pct": 6.7,
+          "total": 7065,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Negeri Sembilan",
+      "avgUnemployment": 11.2,
+      "rank2024": 8,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 14.8,
+          "total": 11275
+        },
+        "2021": {
+          "pct": 14.4,
+          "total": 12491
+        },
+        "2022": {
+          "pct": 9.5,
+          "total": 12718
+        },
+        "2023": {
+          "pct": 10.1,
+          "total": 13380
+        },
+        "2024": {
+          "pct": 7,
+          "total": 9491,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Pahang",
+      "avgUnemployment": 12.5,
+      "rank2024": 9,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 15.5,
+          "total": 12896
+        },
+        "2021": {
+          "pct": 16.3,
+          "total": 14327
+        },
+        "2022": {
+          "pct": 11.5,
+          "total": 13930
+        },
+        "2023": {
+          "pct": 11.4,
+          "total": 13649
+        },
+        "2024": {
+          "pct": 7.9,
+          "total": 10410,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Pulau Pinang",
+      "avgUnemployment": 9.2,
+      "rank2024": 5,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 12.4,
+          "total": 15888
+        },
+        "2021": {
+          "pct": 11.2,
+          "total": 16193
+        },
+        "2022": {
+          "pct": 7.6,
+          "total": 17730
+        },
+        "2023": {
+          "pct": 8.1,
+          "total": 18292
+        },
+        "2024": {
+          "pct": 6.5,
+          "total": 13411,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Perak",
+      "avgUnemployment": 13.2,
+      "rank2024": 12,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 18.2,
+          "total": 21253
+        },
+        "2021": {
+          "pct": 17.1,
+          "total": 21953
+        },
+        "2022": {
+          "pct": 11.2,
+          "total": 21774
+        },
+        "2023": {
+          "pct": 11.2,
+          "total": 22083
+        },
+        "2024": {
+          "pct": 8.3,
+          "total": 16523,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Perlis",
+      "avgUnemployment": 12.1,
+      "rank2024": 11,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 17,
+          "total": 2259
+        },
+        "2021": {
+          "pct": 14.3,
+          "total": 2692
+        },
+        "2022": {
+          "pct": 9.6,
+          "total": 2523
+        },
+        "2023": {
+          "pct": 10.2,
+          "total": 2782
+        },
+        "2024": {
+          "pct": 9.5,
+          "total": 1882,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Selangor",
+      "avgUnemployment": 9.6,
+      "rank2024": 4,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 13,
+          "total": 58301
+        },
+        "2021": {
+          "pct": 11.5,
+          "total": 70130
+        },
+        "2022": {
+          "pct": 8.4,
+          "total": 75354
+        },
+        "2023": {
+          "pct": 9,
+          "total": 75944
+        },
+        "2024": {
+          "pct": 6,
+          "total": 58447,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Terengganu",
+      "avgUnemployment": 13.6,
+      "rank2024": 13,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 17.4,
+          "total": 12246
+        },
+        "2021": {
+          "pct": 16.4,
+          "total": 12605
+        },
+        "2022": {
+          "pct": 11.9,
+          "total": 12505
+        },
+        "2023": {
+          "pct": 12.3,
+          "total": 13118
+        },
+        "2024": {
+          "pct": 9.8,
+          "total": 10306,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Sabah",
+      "avgUnemployment": 16.9,
+      "rank2024": 17,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 23.8,
+          "total": 15275
+        },
+        "2021": {
+          "pct": 21.8,
+          "total": 16420
+        },
+        "2022": {
+          "pct": 14.2,
+          "total": 16119
+        },
+        "2023": {
+          "pct": 13.8,
+          "total": 17601
+        },
+        "2024": {
+          "pct": 11,
+          "total": 13351,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "Sarawak",
+      "avgUnemployment": 14.3,
+      "rank2024": 14,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 19.9,
+          "total": 15902
+        },
+        "2021": {
+          "pct": 17.3,
+          "total": 17346
+        },
+        "2022": {
+          "pct": 12.4,
+          "total": 18485
+        },
+        "2023": {
+          "pct": 12,
+          "total": 18460
+        },
+        "2024": {
+          "pct": 9.8,
+          "total": 14786,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "WP Kuala Lumpur",
+      "avgUnemployment": 9.6,
+      "rank2024": 3,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 13.2,
+          "total": 18711
+        },
+        "2021": {
+          "pct": 11.6,
+          "total": 21427
+        },
+        "2022": {
+          "pct": 8.3,
+          "total": 24206
+        },
+        "2023": {
+          "pct": 8.7,
+          "total": 25032
+        },
+        "2024": {
+          "pct": 6.1,
+          "total": 19830,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "WP Labuan",
+      "avgUnemployment": 11.5,
+      "rank2024": 2,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 17.1,
+          "total": 651
+        },
+        "2021": {
+          "pct": 14.3,
+          "total": 600
+        },
+        "2022": {
+          "pct": 10.8,
+          "total": 591
+        },
+        "2023": {
+          "pct": 9.5,
+          "total": 651
+        },
+        "2024": {
+          "pct": 6,
+          "total": 655,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "state": "WP Putrajaya",
+      "avgUnemployment": 6.6,
+      "rank2024": 1,
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 9.7,
+          "total": 1335
+        },
+        "2021": {
+          "pct": 8.5,
+          "total": 1628
+        },
+        "2022": {
+          "pct": 4.6,
+          "total": 1826
+        },
+        "2023": {
+          "pct": 5.7,
+          "total": 1919
+        },
+        "2024": {
+          "pct": 4.7,
+          "total": 1520,
+          "methodologyChange": true
+        }
+      }
+    }
+  ],
+  "byInstitution": [
+    {
+      "type": "Public Universities (UA)",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 13.3,
+          "total": 104286
+        },
+        "2021": {
+          "pct": 11.8,
+          "total": 123362
+        },
+        "2022": {
+          "pct": 7.2,
+          "total": 133940
+        },
+        "2023": {
+          "pct": 7,
+          "total": 132676
+        },
+        "2024": {
+          "pct": 5.1,
+          "total": 104846,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "Private HEIs (IPTS)",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 20.6,
+          "total": 83323
+        },
+        "2021": {
+          "pct": 19.7,
+          "total": 93238
+        },
+        "2022": {
+          "pct": 14.5,
+          "total": 96095
+        },
+        "2023": {
+          "pct": 17,
+          "total": 101633
+        },
+        "2024": {
+          "pct": 12.8,
+          "total": 72192,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "Polytechnics",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 8.6,
+          "total": 25901
+        },
+        "2021": {
+          "pct": 6.3,
+          "total": 24640
+        },
+        "2022": {
+          "pct": 3.8,
+          "total": 24687
+        },
+        "2023": {
+          "pct": 2.9,
+          "total": 28407
+        },
+        "2024": {
+          "pct": 1.2,
+          "total": 16449,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "Community Colleges",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 5.8,
+          "total": 6471
+        },
+        "2021": {
+          "pct": 5.2,
+          "total": 8470
+        },
+        "2022": {
+          "pct": 3.2,
+          "total": 7625
+        },
+        "2023": {
+          "pct": 2,
+          "total": 6121
+        },
+        "2024": {
+          "pct": 1.2,
+          "total": 4639,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "Vocational Colleges",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 18.4,
+          "total": 11675
+        },
+        "2021": {
+          "pct": 18.5,
+          "total": 9607
+        },
+        "2022": {
+          "pct": 15.1,
+          "total": 9494
+        },
+        "2023": {
+          "pct": 18.6,
+          "total": 6614
+        },
+        "2024": {
+          "pct": 13.7,
+          "total": 8184,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "PSTI Ministry of Human Resources",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 15.2,
+          "total": 5781
+        },
+        "2021": {
+          "pct": 16.9,
+          "total": 4970
+        },
+        "2022": {
+          "pct": 14,
+          "total": 4822
+        },
+        "2023": {
+          "pct": 11.8,
+          "total": 6943
+        },
+        "2024": {
+          "pct": 8.3,
+          "total": 5922,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "PSTI Ministry of Youth & Sports",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 14.7,
+          "total": 3070
+        },
+        "2021": {
+          "pct": 18.5,
+          "total": 2473
+        },
+        "2022": {
+          "pct": 9,
+          "total": 2514
+        },
+        "2023": {
+          "pct": 10,
+          "total": 3861
+        },
+        "2024": {
+          "pct": 7.7,
+          "total": 3213,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "PSTI Ministry of Agriculture",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 36.3,
+          "total": 830
+        },
+        "2021": {
+          "pct": 33.7,
+          "total": 1150
+        },
+        "2022": {
+          "pct": 30.5,
+          "total": 843
+        },
+        "2023": {
+          "pct": 28.6,
+          "total": 958
+        },
+        "2024": {
+          "pct": 33.8,
+          "total": 547,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "PSTI Ministry of Tourism Arts & Culture",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 32.8,
+          "total": 61
+        },
+        "2021": {
+          "pct": 55,
+          "total": 40
+        },
+        "2022": {
+          "pct": 36.1,
+          "total": 72
+        },
+        "2023": {
+          "pct": 38.5,
+          "total": 65
+        },
+        "2024": {
+          "pct": 22.2,
+          "total": 54,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "PSTI Ministry of Rural Development",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 16.4,
+          "total": 17414
+        },
+        "2021": {
+          "pct": 16.6,
+          "total": 13862
+        },
+        "2022": {
+          "pct": 6.1,
+          "total": 11953
+        },
+        "2023": {
+          "pct": 2.3,
+          "total": 14712
+        },
+        "2024": {
+          "pct": 1.6,
+          "total": 14308,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "PSTI Ministry of Works",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 32,
+          "total": 125
+        },
+        "2021": {
+          "pct": 27,
+          "total": 538
+        },
+        "2022": {
+          "pct": 26.4,
+          "total": 564
+        },
+        "2023": {
+          "pct": 21.2,
+          "total": 146
+        },
+        "2024": {
+          "pct": 22.2,
+          "total": 845,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "type": "Others HEIs",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 13.2,
+          "total": 1764
+        },
+        "2021": {
+          "pct": 14.2,
+          "total": 3949
+        },
+        "2022": {
+          "pct": 23.7,
+          "total": 3353
+        },
+        "2023": {
+          "pct": 22.4,
+          "total": 2330
+        },
+        "2024": {
+          "pct": 16.8,
+          "total": 642,
+          "methodologyChange": true
+        }
+      }
+    }
+  ],
+  "byLevel": [
+    {
+      "level": "PhD",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 10.2,
+          "total": 2210
+        },
+        "2021": {
+          "pct": 8.8,
+          "total": 2501
+        },
+        "2022": {
+          "pct": 5.3,
+          "total": 2721
+        },
+        "2023": {
+          "pct": 5.8,
+          "total": 2646
+        },
+        "2024": {
+          "pct": 3.9,
+          "total": 2768,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "level": "Masters",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 9.5,
+          "total": 14280
+        },
+        "2021": {
+          "pct": 7.1,
+          "total": 16702
+        },
+        "2022": {
+          "pct": 4.6,
+          "total": 17495
+        },
+        "2023": {
+          "pct": 4.6,
+          "total": 18940
+        },
+        "2024": {
+          "pct": 3.2,
+          "total": 16711,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "level": "Postgraduate Diploma",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 8.5,
+          "total": 1133
+        },
+        "2021": {
+          "pct": 10.9,
+          "total": 1787
+        },
+        "2022": {
+          "pct": 7.6,
+          "total": 1482
+        },
+        "2023": {
+          "pct": 9.5,
+          "total": 2983
+        },
+        "2024": {
+          "pct": 0,
+          "total": 0,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "level": "Bachelor",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 17.9,
+          "total": 107119
+        },
+        "2021": {
+          "pct": 15.5,
+          "total": 121751
+        },
+        "2022": {
+          "pct": 10.2,
+          "total": 136243
+        },
+        "2023": {
+          "pct": 10.2,
+          "total": 135522
+        },
+        "2024": {
+          "pct": 7,
+          "total": 119894,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "level": "Advanced Diploma",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 12.3,
+          "total": 138
+        },
+        "2021": {
+          "pct": 15,
+          "total": 214
+        },
+        "2022": {
+          "pct": 6.8,
+          "total": 264
+        },
+        "2023": {
+          "pct": 5.3,
+          "total": 208
+        },
+        "2024": {
+          "pct": 0,
+          "total": 0,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "level": "Diploma",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 14.4,
+          "total": 107016
+        },
+        "2021": {
+          "pct": 14.6,
+          "total": 114798
+        },
+        "2022": {
+          "pct": 10.8,
+          "total": 114692
+        },
+        "2023": {
+          "pct": 12.4,
+          "total": 115296
+        },
+        "2024": {
+          "pct": 11,
+          "total": 62143,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "level": "Certificate",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 15,
+          "total": 28483
+        },
+        "2021": {
+          "pct": 14.7,
+          "total": 28024
+        },
+        "2022": {
+          "pct": 8,
+          "total": 22239
+        },
+        "2023": {
+          "pct": 5.9,
+          "total": 27822
+        },
+        "2024": {
+          "pct": 4.3,
+          "total": 22544,
+          "methodologyChange": true
+        }
+      }
+    },
+    {
+      "level": "Professional",
+      "unemploymentByYear": {
+        "2020": {
+          "pct": 6.6,
+          "total": 289
+        },
+        "2021": {
+          "pct": 6.9,
+          "total": 476
+        },
+        "2022": {
+          "pct": 3.8,
+          "total": 292
+        },
+        "2023": {
+          "pct": 4.3,
+          "total": 140
+        },
+        "2024": {
+          "pct": 0,
+          "total": 0,
+          "methodologyChange": true
+        }
+      }
+    }
+  ],
+  "publicPrivateGap": [
+    {
+      "year": 2020,
+      "publicUniversity": 13.3,
+      "privateHEI": 20.6,
+      "gap": 7.3,
+      "multiplier": "1.55x",
+      "methodologyChange": false
+    },
+    {
+      "year": 2021,
+      "publicUniversity": 11.8,
+      "privateHEI": 19.7,
+      "gap": 7.9,
+      "multiplier": "1.67x",
+      "methodologyChange": false
+    },
+    {
+      "year": 2022,
+      "publicUniversity": 7.2,
+      "privateHEI": 14.5,
+      "gap": 7.3,
+      "multiplier": "2.01x",
+      "methodologyChange": false
+    },
+    {
+      "year": 2023,
+      "publicUniversity": 7,
+      "privateHEI": 17,
+      "gap": 10,
+      "multiplier": "2.43x",
+      "methodologyChange": false
+    },
+    {
+      "year": 2024,
+      "publicUniversity": 5.1,
+      "privateHEI": 12.8,
+      "gap": 7.7,
+      "multiplier": "2.51x",
+      "methodologyChange": true
+    }
+  ],
+  "keyStatesLongitudinal": {
+    "Sabah": [
+      {
+        "year": 2020,
+        "employed": 8028,
+        "unemployed": 3641,
+        "unemployedPct": 23.8,
+        "total": 15275,
+        "rank": 1,
+        "methodologyChange": false
+      },
+      {
+        "year": 2021,
+        "employed": 9171,
+        "unemployed": 3580,
+        "unemployedPct": 21.8,
+        "total": 16420,
+        "rank": 1,
+        "methodologyChange": false
+      },
+      {
+        "year": 2022,
+        "employed": 10713,
+        "unemployed": 2284,
+        "unemployedPct": 14.2,
+        "total": 16119,
+        "rank": 1,
+        "methodologyChange": false
+      },
+      {
+        "year": 2023,
+        "employed": 11651,
+        "unemployed": 2423,
+        "unemployedPct": 13.8,
+        "total": 17601,
+        "rank": 1,
+        "methodologyChange": false
+      },
+      {
+        "year": 2024,
+        "employed": 11885,
+        "unemployed": 1466,
+        "unemployedPct": 11,
+        "total": 13351,
+        "rank": 1,
+        "methodologyChange": true
+      }
+    ],
+    "Kelantan": [
+      {
+        "year": 2020,
+        "employed": 9077,
+        "unemployed": 3114,
+        "unemployedPct": 19.1,
+        "total": 16323,
+        "rank": 3,
+        "methodologyChange": false
+      },
+      {
+        "year": 2021,
+        "employed": 9205,
+        "unemployed": 3429,
+        "unemployedPct": 19.8,
+        "total": 17289,
+        "rank": 2,
+        "methodologyChange": false
+      },
+      {
+        "year": 2022,
+        "employed": 10042,
+        "unemployed": 2057,
+        "unemployedPct": 13,
+        "total": 15877,
+        "rank": 3,
+        "methodologyChange": false
+      },
+      {
+        "year": 2023,
+        "employed": 10083,
+        "unemployed": 2125,
+        "unemployedPct": 13,
+        "total": 17601,
+        "rank": 2,
+        "methodologyChange": false
+      },
+      {
+        "year": 2024,
+        "employed": 11081,
+        "unemployed": 1351,
+        "unemployedPct": 10.9,
+        "total": 12432,
+        "rank": 2,
+        "methodologyChange": true
+      }
+    ],
+    "Sarawak": [
+      {
+        "year": 2020,
+        "employed": 9045,
+        "unemployed": 3162,
+        "unemployedPct": 19.9,
+        "total": 15902,
+        "rank": 2,
+        "methodologyChange": false
+      },
+      {
+        "year": 2021,
+        "employed": 10410,
+        "unemployed": 2995,
+        "unemployedPct": 17.3,
+        "total": 17346,
+        "rank": 3,
+        "methodologyChange": false
+      },
+      {
+        "year": 2022,
+        "employed": 12514,
+        "unemployed": 2301,
+        "unemployedPct": 12.4,
+        "total": 18485,
+        "rank": 4,
+        "methodologyChange": false
+      },
+      {
+        "year": 2023,
+        "employed": 12252,
+        "unemployed": 2214,
+        "unemployedPct": 12,
+        "total": 18460,
+        "rank": 3,
+        "methodologyChange": false
+      },
+      {
+        "year": 2024,
+        "employed": 13340,
+        "unemployed": 1446,
+        "unemployedPct": 9.8,
+        "total": 14786,
+        "rank": 3,
+        "methodologyChange": true
+      }
+    ],
+    "WP Putrajaya": [
+      {
+        "year": 2020,
+        "employed": 940,
+        "unemployed": 129,
+        "unemployedPct": 9.7,
+        "total": 1335,
+        "rank": 1,
+        "methodologyChange": false
+      },
+      {
+        "year": 2021,
+        "employed": 1149,
+        "unemployed": 139,
+        "unemployedPct": 8.5,
+        "total": 1628,
+        "rank": 1,
+        "methodologyChange": false
+      },
+      {
+        "year": 2022,
+        "employed": 1454,
+        "unemployed": 84,
+        "unemployedPct": 4.6,
+        "total": 1826,
+        "rank": 1,
+        "methodologyChange": false
+      },
+      {
+        "year": 2023,
+        "employed": 1476,
+        "unemployed": 109,
+        "unemployedPct": 5.7,
+        "total": 1919,
+        "rank": 1,
+        "methodologyChange": false
+      },
+      {
+        "year": 2024,
+        "employed": 1448,
+        "unemployed": 72,
+        "unemployedPct": 4.7,
+        "total": 1520,
+        "rank": 1,
+        "methodologyChange": true
+      }
+    ]
+  },
+  "metadata": {
+    "processedDate": "2026-03-04T14:13:16.918Z",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "methodologyNote": "2024 uses binary GE rate (Employed vs Not Working Yet) - not directly comparable to 2020-2023",
+    "sourceFiles": [
+      "GTS_01_National_Totals.csv",
+      "GTS_02_Field_of_Study.csv",
+      "GTS_03_State_Level.csv",
+      "GTS_04_Institution_Type.csv",
+      "GTS_05_Level_of_Study.csv",
+      "GTS_06_Public_vs_Private_Gap.csv",
+      "GTS_07_Key_States_Longitudinal.csv"
+    ]
+  }
+}

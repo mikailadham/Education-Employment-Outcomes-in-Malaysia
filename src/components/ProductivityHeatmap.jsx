@@ -48,34 +48,34 @@ export default function ProductivityHeatmap() {
   const lowestSector = mainSectors.reduce((min, s) => s[metric] < min[metric] ? s : min, mainSectors[0]);
 
   return (
-    <div className="bg-white p-6 rounded-xl">
+    <div className="bg-white p-4 md:p-6 rounded-xl">
       <div className="mb-6">
-        <div className="flex justify-between items-start mb-2">
+        <div className="flex flex-col gap-3 mb-2">
           <div>
-            <h3 className="text-xl font-bold text-gray-900 mb-2">
+            <h3 className="text-lg md:text-xl font-bold text-gray-900 mb-2">
               Labour Productivity by Sector (2025)
             </h3>
-            <p className="text-sm text-gray-600">
+            <p className="text-xs md:text-sm text-gray-600">
               Comparing productivity across Malaysia's main economic sectors. Higher values indicate greater economic output per unit of labour.
             </p>
           </div>
-          <div className="flex gap-2">
+          <div className="flex gap-2 flex-wrap">
             <button
               onClick={() => setMetric('productivity_per_hour')}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
+              className={`px-3 py-2 md:px-4 md:py-2 rounded-lg text-xs md:text-sm font-medium transition-all ${
                 metric === 'productivity_per_hour'
                   ? 'bg-blue-600 text-white'
-                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                  : 'bg-gray-100 text-gray-600 active:bg-gray-300'
               }`}
             >
               Per Hour
             </button>
             <button
               onClick={() => setMetric('productivity_per_employee')}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
+              className={`px-3 py-2 md:px-4 md:py-2 rounded-lg text-xs md:text-sm font-medium transition-all ${
                 metric === 'productivity_per_employee'
                   ? 'bg-blue-600 text-white'
-                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                  : 'bg-gray-100 text-gray-600 active:bg-gray-300'
               }`}
             >
               Per Employee
@@ -85,7 +85,7 @@ export default function ProductivityHeatmap() {
       </div>
 
       {/* Heatmap Grid */}
-      <div className="space-y-3">
+      <div className="space-y-2 md:space-y-3">
         {mainSectors.map((sector, index) => {
           const value = sector[metric];
           const intensity = getIntensity(value);
@@ -93,36 +93,38 @@ export default function ProductivityHeatmap() {
           return (
             <div
               key={index}
-              className="flex items-center gap-4 group hover:scale-105 transition-transform"
+              className="flex flex-col md:flex-row md:items-center gap-2 md:gap-4"
             >
               {/* Sector Name */}
-              <div className="w-48 text-sm font-medium text-gray-700">
+              <div className="text-xs md:text-sm font-medium text-gray-700 md:w-40 lg:w-48">
                 {sector.name}
               </div>
 
               {/* Heatmap Cell */}
               <div className="flex-1">
                 <div
-                  className={`relative h-16 rounded-lg flex items-center justify-between px-4 ${getColor(value)} transition-all shadow-sm hover:shadow-md`}
+                  className={`relative h-14 md:h-16 rounded-lg flex items-center justify-between px-3 md:px-4 ${getColor(value)} transition-all shadow-sm active:shadow-md touch-manipulation cursor-pointer`}
                   style={{
                     borderWidth: intensity + 1,
                     borderColor: 'rgba(0,0,0,0.1)'
                   }}
+                  role="button"
+                  tabIndex={0}
                 >
-                  <span className="font-bold text-lg">
+                  <span className="font-bold text-base md:text-lg">
                     {formatValue(value)}
                   </span>
 
-                  {/* Additional metrics on hover */}
-                  <div className="text-xs opacity-0 group-hover:opacity-100 transition-opacity">
-                    <div>GDP: RM {(sector.gdp / 1000).toFixed(0)}B</div>
-                    <div>Employment: {(sector.employment / 1000).toFixed(0)}k</div>
+                  {/* Additional metrics - always visible on mobile */}
+                  <div className="text-xs">
+                    <div className="whitespace-nowrap">GDP: RM {(sector.gdp / 1000).toFixed(0)}B</div>
+                    <div className="whitespace-nowrap">Employment: {(sector.employment / 1000).toFixed(0)}k</div>
                   </div>
                 </div>
               </div>
 
-              {/* Bar indicator */}
-              <div className="w-24 h-2 bg-gray-100 rounded-full overflow-hidden">
+              {/* Bar indicator - hidden on small mobile */}
+              <div className="hidden sm:block w-20 md:w-24 h-2 bg-gray-100 rounded-full overflow-hidden">
                 <div
                   className="h-full bg-blue-600 rounded-full transition-all"
                   style={{ width: `${(value / maxValue) * 100}%` }}

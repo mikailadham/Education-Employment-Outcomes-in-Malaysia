@@ -8,6 +8,20 @@ import { ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, Responsive
 import clusteringData from '../data/analytics/clustering-results.json';
 
 export default function ClusterVisualization() {
+  // Define cluster colors with proper mapping (must come first!)
+  const clusterColorMap = {
+    0: '#10b981', // Green - Advanced Economies
+    1: '#3b82f6', // Blue - Developing Markets
+    2: '#f59e0b'  // Orange - Emerging Regions
+  };
+
+  // Get actual cluster names
+  const clusterNames = {
+    0: 'Advanced Economies',
+    1: 'Developing Markets',
+    2: 'Emerging Regions'
+  };
+
   // Transform state data
   const stateData = clusteringData.states.map(state => ({
     state: state.state,
@@ -23,28 +37,14 @@ export default function ClusterVisualization() {
 
   // Get cluster information and calculate centroids
   const clusters = clusteringData.clusters;
-  const clusterCentroids = clusters.map(cluster => ({
+  const clusterCentroids = clusters.map((cluster, index) => ({
     name: cluster.name,
     esi: cluster.avgESI,
     eoi: cluster.avgEOI,
-    color: cluster.color,
+    color: clusterColorMap[index], // Use consistent colors from clusterColorMap
     count: cluster.count,
     states: cluster.states
   }));
-
-  // Define cluster colors with proper mapping
-  const clusterColorMap = {
-    0: '#10b981', // Green - Advanced Economies
-    1: '#3b82f6', // Blue - Developing Markets
-    2: '#f59e0b'  // Orange - Emerging Regions
-  };
-
-  // Get actual cluster names
-  const clusterNames = {
-    0: 'Advanced Economies',
-    1: 'Developing Markets',
-    2: 'Emerging Regions'
-  };
 
   // Assign proper colors based on cluster
   const enhancedStateData = stateData.map(state => ({
@@ -153,8 +153,8 @@ export default function ClusterVisualization() {
         </p>
       </div>
 
-      <ResponsiveContainer width="100%" height={600}>
-        <ScatterChart margin={{ top: 30, right: 30, bottom: 60, left: 60 }}>
+      <ResponsiveContainer width="100%" height={600} className="md:!h-[650px]">
+        <ScatterChart margin={{ top: 30, right: 30, bottom: 70, left: 70 }}>
           <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
 
           <XAxis
@@ -166,10 +166,11 @@ export default function ClusterVisualization() {
             label={{
               value: 'Education Supply Index (ESI)',
               position: 'bottom',
-              offset: 40,
+              offset: 50,
               style: { fill: '#1f2937', fontSize: 13, fontWeight: 'bold' }
             }}
-            domain={[0, 100]}
+            domain={[0, 90]}
+            padding={{ left: 10, right: 10 }}
           />
 
           <YAxis
@@ -182,9 +183,11 @@ export default function ClusterVisualization() {
               value: 'Employment Outcome Index (EOI)',
               angle: -90,
               position: 'insideLeft',
+              offset: 10,
               style: { fill: '#1f2937', fontSize: 13, fontWeight: 'bold' }
             }}
             domain={[0, 100]}
+            padding={{ top: 10, bottom: 10 }}
           />
 
           <Tooltip content={<CustomTooltip />} cursor={{ strokeDasharray: '3 3' }} />

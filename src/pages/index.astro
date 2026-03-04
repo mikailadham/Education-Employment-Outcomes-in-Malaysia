@@ -18,6 +18,12 @@ import GDPUnemploymentScatter from '../components/GDPUnemploymentScatter';
 import ProductivityHeatmap from '../components/ProductivityHeatmap';
 import QuadrantScatter from '../components/QuadrantScatter';
 import ClusterVisualization from '../components/ClusterVisualization';
+
+// Graduate Tracer Study components
+import GraduateFieldChart from '../components/GraduateFieldChart';
+import GraduateStateRanking from '../components/GraduateStateRanking';
+import PublicPrivateGapChart from '../components/PublicPrivateGapChart';
+import GraduateInstitutionChart from '../components/GraduateInstitutionChart';
 ---
 
 <Layout title="Malaysia Education & Employment Dashboard">
@@ -226,6 +232,83 @@ import ClusterVisualization from '../components/ClusterVisualization';
 			<!-- Cluster Visualization -->
 			<div class="bg-white rounded-lg shadow-lg p-2">
 				<ClusterVisualization client:load />
+			</div>
+		</div>
+	</section>
+
+	<!-- SECTION 8: Graduate Tracer Study Deep Dive (2020-2024) -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 bg-gradient-to-br from-slate-900 via-slate-800 to-teal-900">
+		<div class="text-center mb-10">
+			<div class="inline-block px-4 py-2 bg-teal-100 text-teal-700 rounded-full text-sm font-semibold mb-4">
+				📊 GRADUATE OUTCOMES
+			</div>
+			<h2 class="text-4xl font-bold text-white mb-3">
+				Graduate Tracer Study Deep Dive (2020–2024)
+			</h2>
+			<p class="text-lg text-teal-200 max-w-3xl mx-auto">
+				Comprehensive analysis of graduate employment outcomes across fields, states, and institution types
+			</p>
+			<p class="text-sm text-gray-300 mt-3">
+				⚠ Note: 2024 uses different methodology (binary GE rate) vs 2020-2023 (5-category classification)
+			</p>
+		</div>
+
+		<div class="space-y-8">
+			<!-- Row 1: Field of Study & State Ranking -->
+			<div class="grid grid-cols-1 xl:grid-cols-2 gap-8">
+				<div class="bg-white rounded-lg shadow-lg">
+					<GraduateFieldChart client:load />
+				</div>
+				<div class="bg-white rounded-lg shadow-lg">
+					<GraduateStateRanking client:load />
+				</div>
+			</div>
+
+			<!-- Row 2: Public-Private Gap (Full Width - KEY INSIGHT) -->
+			<div class="bg-white rounded-lg shadow-lg">
+				<PublicPrivateGapChart client:load />
+			</div>
+
+			<!-- Row 3: Institution Type Comparison -->
+			<div class="bg-white rounded-lg shadow-lg">
+				<GraduateInstitutionChart client:load />
+			</div>
+
+			<!-- Summary Insights -->
+			<div class="bg-white rounded-xl p-6 md:p-8 shadow-lg">
+				<h3 class="text-2xl font-bold text-gray-900 mb-4">
+					🎯 Key Graduate Employment Findings
+				</h3>
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+					<div class="bg-red-50 border-l-4 border-red-500 p-4 rounded">
+						<p class="text-sm font-bold text-red-900 mb-2">Geographic Disparities</p>
+						<p class="text-sm text-red-800">
+							Sabah (11.0%), Kelantan (10.9%), and Sarawak (9.8%) show persistently high graduate unemployment,
+							while Putrajaya (4.7%) and Labuan (6.0%) outperform the national average of 7.5% (2024).
+						</p>
+					</div>
+					<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded">
+						<p class="text-sm font-bold text-green-900 mb-2">Field Performance</p>
+						<p class="text-sm text-green-800">
+							Engineering graduates excel with only 5.1% unemployment (2024), while Education (10.2%),
+							Services (10.1%), and Agriculture (10.0%) face structural challenges.
+						</p>
+					</div>
+					<div class="bg-purple-50 border-l-4 border-purple-500 p-4 rounded">
+						<p class="text-sm font-bold text-purple-900 mb-2">Public vs Private Gap</p>
+						<p class="text-sm text-purple-800">
+							Private HEI graduates are 2.5x more likely to be unemployed than public university graduates,
+							with a persistent gap of 7-10 percentage points across all years (2020-2024).
+						</p>
+					</div>
+					<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded">
+						<p class="text-sm font-bold text-blue-900 mb-2">Institution Type Impact</p>
+						<p class="text-sm text-blue-800">
+							Polytechnics (1.2%) and Community Colleges (1.2%) show exceptional employment outcomes,
+							suggesting strong industry-aligned training programs compared to degree-granting institutions.
+						</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>

@@ -1,0 +1,6 @@
+Year,Total_Tracked,Employed_N,Employed_Pct,Further_Study_N,Further_Study_Pct,Upgrading_Skills_N,Upgrading_Skills_Pct,Waiting_Placement_N,Waiting_Placement_Pct,Unemployed_N,Unemployed_Pct,Notes
+2020,260701,156525,60.0,46278,17.8,5282,2.0,12066,4.6,40550,15.6,Pre-pandemic cohort; 5-category classification
+2021,286299,176256,61.6,53770,18.8,5253,1.8,9553,3.3,41467,14.5,5-category classification
+2022,295962,204452,69.1,49095,16.6,4612,1.6,8704,2.9,29099,9.8,5-category classification
+2023,304466,206800,67.9,50510,16.6,5871,1.9,10179,3.3,31106,10.2,5-category classification
+2024,231841,214398,92.5,,,,,,,17443,7.5,METHODOLOGY CHANGE: 2024 uses binary GE rate (Employed vs Not Working Yet) — not directly comparable to 2020-2023
