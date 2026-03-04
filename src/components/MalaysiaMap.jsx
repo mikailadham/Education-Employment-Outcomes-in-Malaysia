@@ -59,7 +59,7 @@ function getColorForValue(value, min, max, colorScheme) {
 }
 
 export default function MalaysiaMap({ onStateClick, onStateHover }) {
-  const [selectedMetric, setSelectedMetric] = useState('graduateEmploymentRate');
+  const [selectedMetric, setSelectedMetric] = useState('graduateUnemploymentRate');
   const [hoveredState, setHoveredState] = useState(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
   const [selectedState, setSelectedState] = useState(null);
@@ -112,8 +112,9 @@ export default function MalaysiaMap({ onStateClick, onStateHover }) {
       metrics: {
         'mywi_education': { label: 'MyWI Education Component', scheme: 'blue', format: (v) => v?.toFixed(1) },
         'mywi_working_life': { label: 'MyWI Working Life Component', scheme: 'teal', format: (v) => v?.toFixed(1) },
+        'graduateUnemploymentRate': { label: 'Graduate Unemployment Rate', scheme: 'red', format: (v) => `${v?.toFixed(1)}%` },
         'graduateEmploymentRate': { label: 'Graduate Employment Rate', scheme: 'green', format: (v) => `${v?.toFixed(1)}%` },
-        'unemployment_rate': { label: 'Unemployment Rate', scheme: 'red', format: (v) => `${v?.toFixed(1)}%` },
+        'unemployment_rate': { label: 'Overall Unemployment Rate', scheme: 'red', format: (v) => `${v?.toFixed(1)}%` },
         'participation_rate': { label: 'Labour Force Participation', scheme: 'green', format: (v) => `${v?.toFixed(1)}%` },
         'school_completion_rate': { label: 'School Completion Rate', scheme: 'blue', format: (v) => `${v?.toFixed(1)}%` }
       }
