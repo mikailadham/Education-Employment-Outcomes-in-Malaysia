@@ -75,6 +75,33 @@ function processStateSnapshot() {
     };
   });
 
+  // Handle WP data distribution - copy WP employment metrics to individual FTs if they're null
+  if (processed['WP']) {
+    const wpData = processed['WP'];
+    const federalTerritories = ['W.P. Kuala Lumpur', 'W.P. Putrajaya', 'W.P. Labuan'];
+
+    federalTerritories.forEach(ft => {
+      if (processed[ft]) {
+        // Copy employment rate metrics from WP if they're null
+        if (processed[ft].graduateEmploymentRate === null && wpData.graduateEmploymentRate !== null) {
+          processed[ft].graduateEmploymentRate = wpData.graduateEmploymentRate;
+        }
+        if (processed[ft].graduateUnemploymentRate === null && wpData.graduateUnemploymentRate !== null) {
+          processed[ft].graduateUnemploymentRate = wpData.graduateUnemploymentRate;
+        }
+        // Keep individual totalGraduatesProduced as they're different
+        // But copy absorption rate if null
+        if (processed[ft].employmentAbsorptionRate === null && wpData.employmentAbsorptionRate !== null) {
+          processed[ft].employmentAbsorptionRate = wpData.employmentAbsorptionRate;
+        }
+      }
+    });
+
+    // Remove the combined WP entry as we've distributed its data
+    delete processed['WP'];
+    console.log('  → Distributed WP employment metrics to federal territories');
+  }
+
   return processed;
 }
 

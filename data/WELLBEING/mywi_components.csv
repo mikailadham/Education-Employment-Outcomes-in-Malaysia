@@ -1,0 +1,42 @@
+year,subcomposite,component,yoy_pct_change,index_value,index_pt_change,source
+2021,Economic,Income and Distribution,2.4,,,pdf_2021
+2021,Economic,Communications,1.3,,,pdf_2021
+2021,Economic,Education,1.2,,,pdf_2021
+2021,Economic,Working Life,1.1,,,pdf_2021
+2021,Economic,Transportation,-1.1,,,pdf_2021
+2021,Social,Governance,6.8,,,pdf_2021
+2021,Social,Culture,6.4,,,pdf_2021
+2021,Social,Public Safety,3.4,,,pdf_2021
+2021,Social,Environment,2.7,,,pdf_2021
+2021,Social,Family,1.2,,,pdf_2021
+2021,Social,Housing,1.0,,,pdf_2021
+2021,Social,Entertainment and Recreation,-4.8,,,pdf_2021
+2021,Social,Health,-1.8,,,pdf_2021
+2021,Social,Social Participation,-1.4,,,pdf_2021
+2023,Economic,Transportation,2.4,134.7,,pdf_2023
+2023,Economic,Education,0.8,135.9,,pdf_2023
+2023,Economic,Communication,0.2,129.4,,pdf_2023
+2023,Economic,Working Life,-0.6,124.5,,pdf_2023
+2023,Economic,Income and Distribution,-0.1,128.9,,pdf_2023
+2023,Social,Culture,6.0,,,pdf_2023
+2023,Social,Entertainment and Recreation,2.2,,,pdf_2023
+2023,Social,Family,2.2,,,pdf_2023
+2023,Social,Social Participation,1.2,,,pdf_2023
+2023,Social,Governance,1.0,,,pdf_2023
+2023,Social,Health,0.8,,,pdf_2023
+2023,Social,Environment,-3.9,,,pdf_2023
+2023,Social,Public Safety,-1.3,,,pdf_2023
+2023,Social,Housing,-0.2,,,pdf_2023
+2024,Economic,Transportation,,136.7,3.4,pdf_2024
+2024,Economic,Communication,,128.7,0.1,pdf_2024
+2024,Economic,Income and Distribution,,134.7,5.9,pdf_2024
+2024,Economic,Working Life,,115.2,-0.4,pdf_2024
+2024,Social,Social Participation,,,5.1,pdf_2024
+2024,Social,Governance,,,4.7,pdf_2024
+2024,Social,Housing,,,1.7,pdf_2024
+2024,Social,Entertainment and Recreation,,,1.7,pdf_2024
+2024,Social,Culture,,,0.4,pdf_2024
+2024,Social,Public Safety,,,0.1,pdf_2024
+2024,Environmental,Air,,,1.1,pdf_2024
+2024,Environmental,Biodiversity Resources,,,0.2,pdf_2024
+2024,Environmental,Water,,,-0.7,pdf_2024

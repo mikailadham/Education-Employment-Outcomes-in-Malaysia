@@ -1,0 +1,4201 @@
+state,year,component,index_value
+Johor,2010,Air,100.0
+Johor,2011,Air,92.5
+Johor,2012,Air,87.6
+Johor,2013,Air,107.5
+Johor,2014,Air,102.5
+Johor,2015,Air,77.6
+Johor,2016,Air,107.5
+Johor,2017,Air,100.0
+Johor,2018,Air,29.1
+Johor,2019,Air,83.6
+Johor,2020,Air,111.8
+Johor,2021,Air,102.3
+Johor,2022,Air,105.7
+Johor,2023,Air,94.4
+Johor,2024,Air,95.6
+Johor,2010,Biodiversity Resources,100.0
+Johor,2011,Biodiversity Resources,105.3
+Johor,2012,Biodiversity Resources,96.7
+Johor,2013,Biodiversity Resources,108.8
+Johor,2014,Biodiversity Resources,98.8
+Johor,2015,Biodiversity Resources,96.1
+Johor,2016,Biodiversity Resources,104.2
+Johor,2017,Biodiversity Resources,105.4
+Johor,2018,Biodiversity Resources,98.2
+Johor,2019,Biodiversity Resources,104.8
+Johor,2020,Biodiversity Resources,102.1
+Johor,2021,Biodiversity Resources,102.8
+Johor,2022,Biodiversity Resources,102.7
+Johor,2023,Biodiversity Resources,102.7
+Johor,2024,Biodiversity Resources,102.5
+Johor,2010,Communication,100.0
+Johor,2011,Communication,104.2
+Johor,2012,Communication,109.0
+Johor,2013,Communication,106.4
+Johor,2014,Communication,117.9
+Johor,2015,Communication,121.2
+Johor,2016,Communication,122.9
+Johor,2017,Communication,124.3
+Johor,2018,Communication,124.0
+Johor,2019,Communication,125.2
+Johor,2020,Communication,121.6
+Johor,2021,Communication,122.8
+Johor,2022,Communication,123.5
+Johor,2023,Communication,124.3
+Johor,2024,Communication,124.5
+Johor,2010,Culture,100.0
+Johor,2011,Culture,99.9
+Johor,2012,Culture,97.3
+Johor,2013,Culture,94.4
+Johor,2014,Culture,102.5
+Johor,2015,Culture,104.5
+Johor,2016,Culture,115.7
+Johor,2017,Culture,122.0
+Johor,2018,Culture,116.8
+Johor,2019,Culture,119.0
+Johor,2020,Culture,108.6
+Johor,2021,Culture,106.6
+Johor,2022,Culture,107.4
+Johor,2023,Culture,119.7
+Johor,2024,Culture,114.6
+Johor,2010,Economic,100.0
+Johor,2011,Economic,105.4
+Johor,2012,Economic,109.6
+Johor,2013,Economic,112.5
+Johor,2014,Economic,118.7
+Johor,2015,Economic,119.5
+Johor,2016,Economic,118.5
+Johor,2017,Economic,120.8
+Johor,2018,Economic,123.0
+Johor,2019,Economic,124.6
+Johor,2020,Economic,122.5
+Johor,2021,Economic,123.0
+Johor,2022,Economic,124.9
+Johor,2023,Economic,127.3
+Johor,2024,Economic,130.4
+Johor,2010,Education,100.0
+Johor,2011,Education,106.5
+Johor,2012,Education,108.5
+Johor,2013,Education,111.7
+Johor,2014,Education,114.7
+Johor,2015,Education,114.0
+Johor,2016,Education,116.3
+Johor,2017,Education,121.8
+Johor,2018,Education,123.2
+Johor,2019,Education,123.8
+Johor,2020,Education,125.4
+Johor,2021,Education,126.3
+Johor,2022,Education,125.4
+Johor,2023,Education,128.2
+Johor,2024,Education,131.9
+Johor,2010,Entertainment and Recreation,100.0
+Johor,2011,Entertainment and Recreation,102.1
+Johor,2012,Entertainment and Recreation,104.5
+Johor,2013,Entertainment and Recreation,108.4
+Johor,2014,Entertainment and Recreation,110.9
+Johor,2015,Entertainment and Recreation,111.6
+Johor,2016,Entertainment and Recreation,112.7
+Johor,2017,Entertainment and Recreation,116.8
+Johor,2018,Entertainment and Recreation,119.0
+Johor,2019,Entertainment and Recreation,119.2
+Johor,2020,Entertainment and Recreation,105.3
+Johor,2021,Entertainment and Recreation,100.1
+Johor,2022,Entertainment and Recreation,113.9
+Johor,2023,Entertainment and Recreation,121.1
+Johor,2024,Entertainment and Recreation,121.7
+Johor,2010,Environmental,100.0
+Johor,2011,Environmental,99.3
+Johor,2012,Environmental,94.7
+Johor,2013,Environmental,105.4
+Johor,2014,Environmental,100.4
+Johor,2015,Environmental,91.2
+Johor,2016,Environmental,103.9
+Johor,2017,Environmental,101.8
+Johor,2018,Environmental,75.8
+Johor,2019,Environmental,96.1
+Johor,2020,Environmental,104.8
+Johor,2021,Environmental,101.9
+Johor,2022,Environmental,103.0
+Johor,2023,Environmental,99.3
+Johor,2024,Environmental,99.6
+Johor,2010,Family,100.0
+Johor,2011,Family,103.0
+Johor,2012,Family,96.4
+Johor,2013,Family,94.8
+Johor,2014,Family,95.8
+Johor,2015,Family,96.4
+Johor,2016,Family,100.9
+Johor,2017,Family,101.2
+Johor,2018,Family,99.9
+Johor,2019,Family,103.3
+Johor,2020,Family,101.3
+Johor,2021,Family,105.4
+Johor,2022,Family,103.6
+Johor,2023,Family,107.4
+Johor,2024,Family,101.7
+Johor,2010,Governance,100.0
+Johor,2011,Governance,98.8
+Johor,2012,Governance,102.6
+Johor,2013,Governance,102.7
+Johor,2014,Governance,116.2
+Johor,2015,Governance,102.1
+Johor,2016,Governance,92.6
+Johor,2017,Governance,105.5
+Johor,2018,Governance,102.6
+Johor,2019,Governance,105.0
+Johor,2020,Governance,101.5
+Johor,2021,Governance,98.8
+Johor,2022,Governance,96.6
+Johor,2023,Governance,107.5
+Johor,2024,Governance,109.1
+Johor,2010,Health,100.0
+Johor,2011,Health,102.7
+Johor,2012,Health,107.9
+Johor,2013,Health,109.0
+Johor,2014,Health,106.2
+Johor,2015,Health,106.0
+Johor,2016,Health,105.7
+Johor,2017,Health,106.1
+Johor,2018,Health,101.0
+Johor,2019,Health,108.2
+Johor,2020,Health,110.2
+Johor,2021,Health,110.3
+Johor,2022,Health,106.0
+Johor,2023,Health,111.8
+Johor,2024,Health,112.4
+Johor,2010,Housing,100.0
+Johor,2011,Housing,109.9
+Johor,2012,Housing,119.9
+Johor,2013,Housing,119.0
+Johor,2014,Housing,118.2
+Johor,2015,Housing,122.0
+Johor,2016,Housing,127.9
+Johor,2017,Housing,135.4
+Johor,2018,Housing,143.0
+Johor,2019,Housing,145.2
+Johor,2020,Housing,146.1
+Johor,2021,Housing,141.7
+Johor,2022,Housing,137.7
+Johor,2023,Housing,136.6
+Johor,2024,Housing,136.2
+Johor,2010,Income and Distribution,100.0
+Johor,2011,Income and Distribution,103.0
+Johor,2012,Income and Distribution,105.4
+Johor,2013,Income and Distribution,115.1
+Johor,2014,Income and Distribution,125.3
+Johor,2015,Income and Distribution,124.0
+Johor,2016,Income and Distribution,115.7
+Johor,2017,Income and Distribution,118.8
+Johor,2018,Income and Distribution,121.3
+Johor,2019,Income and Distribution,123.8
+Johor,2020,Income and Distribution,115.4
+Johor,2021,Income and Distribution,118.2
+Johor,2022,Income and Distribution,125.2
+Johor,2023,Income and Distribution,125.2
+Johor,2024,Income and Distribution,137.8
+Johor,2010,MyWI Overall,100.0
+Johor,2011,MyWI Overall,103.2
+Johor,2012,MyWI Overall,104.5
+Johor,2013,MyWI Overall,107.5
+Johor,2014,MyWI Overall,110.1
+Johor,2015,MyWI Overall,108.1
+Johor,2016,MyWI Overall,111.2
+Johor,2017,MyWI Overall,114.5
+Johor,2018,MyWI Overall,109.6
+Johor,2019,MyWI Overall,115.4
+Johor,2020,MyWI Overall,116.1
+Johor,2021,MyWI Overall,115.4
+Johor,2022,MyWI Overall,115.4
+Johor,2023,MyWI Overall,117.8
+Johor,2024,MyWI Overall,118.4
+Johor,2010,Public Safety,100.0
+Johor,2011,Public Safety,97.0
+Johor,2012,Public Safety,99.9
+Johor,2013,Public Safety,100.6
+Johor,2014,Public Safety,106.1
+Johor,2015,Public Safety,106.6
+Johor,2016,Public Safety,106.4
+Johor,2017,Public Safety,113.6
+Johor,2018,Public Safety,110.7
+Johor,2019,Public Safety,111.1
+Johor,2020,Public Safety,120.6
+Johor,2021,Public Safety,127.1
+Johor,2022,Public Safety,117.7
+Johor,2023,Public Safety,113.6
+Johor,2024,Public Safety,110.7
+Johor,2010,Social,100.0
+Johor,2011,Social,103.6
+Johor,2012,Social,105.4
+Johor,2013,Social,106.0
+Johor,2014,Social,109.5
+Johor,2015,Social,108.7
+Johor,2016,Social,110.4
+Johor,2017,Social,115.9
+Johor,2018,Social,114.9
+Johor,2019,Social,117.8
+Johor,2020,Social,117.1
+Johor,2021,Social,116.6
+Johor,2022,Social,115.4
+Johor,2023,Social,119.7
+Johor,2024,Social,119.4
+Johor,2010,Social Participation,100.0
+Johor,2011,Social Participation,112.6
+Johor,2012,Social Participation,111.8
+Johor,2013,Social Participation,113.6
+Johor,2014,Social Participation,115.1
+Johor,2015,Social Participation,115.3
+Johor,2016,Social Participation,115.8
+Johor,2017,Social Participation,121.0
+Johor,2018,Social Participation,118.2
+Johor,2019,Social Participation,125.0
+Johor,2020,Social Participation,134.6
+Johor,2021,Social Participation,132.7
+Johor,2022,Social Participation,130.0
+Johor,2023,Social Participation,131.0
+Johor,2024,Social Participation,135.9
+Johor,2010,Transportation,100.0
+Johor,2011,Transportation,102.9
+Johor,2012,Transportation,113.0
+Johor,2013,Transportation,114.6
+Johor,2014,Transportation,115.0
+Johor,2015,Transportation,115.6
+Johor,2016,Transportation,121.5
+Johor,2017,Transportation,124.8
+Johor,2018,Transportation,128.9
+Johor,2019,Transportation,130.5
+Johor,2020,Transportation,124.4
+Johor,2021,Transportation,123.8
+Johor,2022,Transportation,131.1
+Johor,2023,Transportation,133.5
+Johor,2024,Transportation,132.7
+Johor,2010,Water,100.0
+Johor,2011,Water,100.0
+Johor,2012,Water,100.0
+Johor,2013,Water,100.0
+Johor,2014,Water,100.0
+Johor,2015,Water,100.0
+Johor,2016,Water,100.0
+Johor,2017,Water,100.0
+Johor,2018,Water,100.0
+Johor,2019,Water,100.0
+Johor,2020,Water,100.5
+Johor,2021,Water,100.5
+Johor,2022,Water,100.5
+Johor,2023,Water,100.7
+Johor,2024,Water,100.7
+Johor,2010,Working Life,100.0
+Johor,2011,Working Life,111.3
+Johor,2012,Working Life,111.2
+Johor,2013,Working Life,113.8
+Johor,2014,Working Life,116.5
+Johor,2015,Working Life,117.2
+Johor,2016,Working Life,113.8
+Johor,2017,Working Life,115.3
+Johor,2018,Working Life,117.8
+Johor,2019,Working Life,118.8
+Johor,2020,Working Life,128.5
+Johor,2021,Working Life,127.4
+Johor,2022,Working Life,119.6
+Johor,2023,Working Life,126.3
+Johor,2024,Working Life,126.5
+Kedah,2010,Air,100.0
+Kedah,2011,Air,93.5
+Kedah,2012,Air,96.1
+Kedah,2013,Air,92.9
+Kedah,2014,Air,84.5
+Kedah,2015,Air,75.4
+Kedah,2016,Air,75.4
+Kedah,2017,Air,83.5
+Kedah,2018,Air,77.1
+Kedah,2019,Air,75.9
+Kedah,2020,Air,91.8
+Kedah,2021,Air,96.5
+Kedah,2022,Air,100.5
+Kedah,2023,Air,89.0
+Kedah,2024,Air,82.7
+Kedah,2010,Biodiversity Resources,100.0
+Kedah,2011,Biodiversity Resources,97.1
+Kedah,2012,Biodiversity Resources,89.6
+Kedah,2013,Biodiversity Resources,98.1
+Kedah,2014,Biodiversity Resources,101.3
+Kedah,2015,Biodiversity Resources,98.3
+Kedah,2016,Biodiversity Resources,89.6
+Kedah,2017,Biodiversity Resources,101.3
+Kedah,2018,Biodiversity Resources,105.1
+Kedah,2019,Biodiversity Resources,115.9
+Kedah,2020,Biodiversity Resources,99.4
+Kedah,2021,Biodiversity Resources,100.4
+Kedah,2022,Biodiversity Resources,100.1
+Kedah,2023,Biodiversity Resources,99.3
+Kedah,2024,Biodiversity Resources,99.3
+Kedah,2010,Communication,100.0
+Kedah,2011,Communication,102.5
+Kedah,2012,Communication,114.5
+Kedah,2013,Communication,105.7
+Kedah,2014,Communication,118.4
+Kedah,2015,Communication,120.1
+Kedah,2016,Communication,120.7
+Kedah,2017,Communication,120.6
+Kedah,2018,Communication,122.0
+Kedah,2019,Communication,119.9
+Kedah,2020,Communication,116.5
+Kedah,2021,Communication,119.8
+Kedah,2022,Communication,121.7
+Kedah,2023,Communication,122.0
+Kedah,2024,Communication,122.7
+Kedah,2010,Culture,100.0
+Kedah,2011,Culture,103.0
+Kedah,2012,Culture,103.9
+Kedah,2013,Culture,98.9
+Kedah,2014,Culture,97.8
+Kedah,2015,Culture,113.3
+Kedah,2016,Culture,110.8
+Kedah,2017,Culture,110.9
+Kedah,2018,Culture,110.4
+Kedah,2019,Culture,109.4
+Kedah,2020,Culture,97.9
+Kedah,2021,Culture,82.2
+Kedah,2022,Culture,102.0
+Kedah,2023,Culture,103.8
+Kedah,2024,Culture,116.8
+Kedah,2010,Economic,100.0
+Kedah,2011,Economic,104.0
+Kedah,2012,Economic,109.8
+Kedah,2013,Economic,109.4
+Kedah,2014,Economic,114.9
+Kedah,2015,Economic,117.0
+Kedah,2016,Economic,116.4
+Kedah,2017,Economic,119.4
+Kedah,2018,Economic,124.3
+Kedah,2019,Economic,125.7
+Kedah,2020,Economic,121.7
+Kedah,2021,Economic,123.1
+Kedah,2022,Economic,128.3
+Kedah,2023,Economic,126.4
+Kedah,2024,Economic,128.6
+Kedah,2010,Education,100.0
+Kedah,2011,Education,106.3
+Kedah,2012,Education,107.6
+Kedah,2013,Education,108.2
+Kedah,2014,Education,112.9
+Kedah,2015,Education,114.1
+Kedah,2016,Education,113.3
+Kedah,2017,Education,118.0
+Kedah,2018,Education,123.9
+Kedah,2019,Education,122.3
+Kedah,2020,Education,125.6
+Kedah,2021,Education,126.0
+Kedah,2022,Education,128.9
+Kedah,2023,Education,129.4
+Kedah,2024,Education,127.7
+Kedah,2010,Entertainment and Recreation,100.0
+Kedah,2011,Entertainment and Recreation,102.5
+Kedah,2012,Entertainment and Recreation,104.9
+Kedah,2013,Entertainment and Recreation,107.4
+Kedah,2014,Entertainment and Recreation,112.2
+Kedah,2015,Entertainment and Recreation,112.5
+Kedah,2016,Entertainment and Recreation,116.3
+Kedah,2017,Entertainment and Recreation,118.8
+Kedah,2018,Entertainment and Recreation,121.1
+Kedah,2019,Entertainment and Recreation,123.5
+Kedah,2020,Entertainment and Recreation,104.8
+Kedah,2021,Entertainment and Recreation,98.7
+Kedah,2022,Entertainment and Recreation,115.1
+Kedah,2023,Entertainment and Recreation,111.6
+Kedah,2024,Entertainment and Recreation,114.9
+Kedah,2010,Environmental,100.0
+Kedah,2011,Environmental,96.9
+Kedah,2012,Environmental,95.2
+Kedah,2013,Environmental,97.2
+Kedah,2014,Environmental,95.5
+Kedah,2015,Environmental,91.4
+Kedah,2016,Environmental,88.5
+Kedah,2017,Environmental,95.2
+Kedah,2018,Environmental,94.3
+Kedah,2019,Environmental,97.5
+Kedah,2020,Environmental,97.3
+Kedah,2021,Environmental,99.2
+Kedah,2022,Environmental,100.4
+Kedah,2023,Environmental,96.2
+Kedah,2024,Environmental,94.1
+Kedah,2010,Family,100.0
+Kedah,2011,Family,95.2
+Kedah,2012,Family,97.5
+Kedah,2013,Family,101.7
+Kedah,2014,Family,103.0
+Kedah,2015,Family,101.4
+Kedah,2016,Family,104.6
+Kedah,2017,Family,106.0
+Kedah,2018,Family,106.6
+Kedah,2019,Family,106.2
+Kedah,2020,Family,105.4
+Kedah,2021,Family,104.8
+Kedah,2022,Family,97.7
+Kedah,2023,Family,101.3
+Kedah,2024,Family,100.7
+Kedah,2010,Governance,100.0
+Kedah,2011,Governance,98.1
+Kedah,2012,Governance,97.5
+Kedah,2013,Governance,109.4
+Kedah,2014,Governance,102.2
+Kedah,2015,Governance,98.1
+Kedah,2016,Governance,89.4
+Kedah,2017,Governance,104.7
+Kedah,2018,Governance,99.4
+Kedah,2019,Governance,101.7
+Kedah,2020,Governance,97.9
+Kedah,2021,Governance,100.9
+Kedah,2022,Governance,95.5
+Kedah,2023,Governance,109.7
+Kedah,2024,Governance,114.3
+Kedah,2010,Health,100.0
+Kedah,2011,Health,104.0
+Kedah,2012,Health,106.2
+Kedah,2013,Health,110.0
+Kedah,2014,Health,102.3
+Kedah,2015,Health,105.2
+Kedah,2016,Health,109.6
+Kedah,2017,Health,106.5
+Kedah,2018,Health,108.0
+Kedah,2019,Health,109.8
+Kedah,2020,Health,112.3
+Kedah,2021,Health,108.8
+Kedah,2022,Health,98.3
+Kedah,2023,Health,104.5
+Kedah,2024,Health,103.0
+Kedah,2010,Housing,100.0
+Kedah,2011,Housing,107.0
+Kedah,2012,Housing,114.0
+Kedah,2013,Housing,116.8
+Kedah,2014,Housing,119.7
+Kedah,2015,Housing,121.1
+Kedah,2016,Housing,125.9
+Kedah,2017,Housing,135.7
+Kedah,2018,Housing,135.1
+Kedah,2019,Housing,139.2
+Kedah,2020,Housing,146.2
+Kedah,2021,Housing,134.9
+Kedah,2022,Housing,136.9
+Kedah,2023,Housing,136.2
+Kedah,2024,Housing,135.7
+Kedah,2010,Income and Distribution,100.0
+Kedah,2011,Income and Distribution,105.5
+Kedah,2012,Income and Distribution,110.3
+Kedah,2013,Income and Distribution,116.1
+Kedah,2014,Income and Distribution,122.1
+Kedah,2015,Income and Distribution,122.1
+Kedah,2016,Income and Distribution,113.5
+Kedah,2017,Income and Distribution,119.8
+Kedah,2018,Income and Distribution,125.5
+Kedah,2019,Income and Distribution,131.7
+Kedah,2020,Income and Distribution,122.7
+Kedah,2021,Income and Distribution,125.8
+Kedah,2022,Income and Distribution,133.0
+Kedah,2023,Income and Distribution,132.9
+Kedah,2024,Income and Distribution,139.4
+Kedah,2010,MyWI Overall,100.0
+Kedah,2011,MyWI Overall,102.1
+Kedah,2012,MyWI Overall,104.5
+Kedah,2013,MyWI Overall,106.9
+Kedah,2014,MyWI Overall,108.1
+Kedah,2015,MyWI Overall,108.5
+Kedah,2016,MyWI Overall,108.5
+Kedah,2017,MyWI Overall,112.9
+Kedah,2018,MyWI Overall,114.5
+Kedah,2019,MyWI Overall,116.2
+Kedah,2020,MyWI Overall,114.5
+Kedah,2021,MyWI Overall,113.3
+Kedah,2022,MyWI Overall,115.1
+Kedah,2023,MyWI Overall,115.1
+Kedah,2024,MyWI Overall,116.9
+Kedah,2010,Public Safety,100.0
+Kedah,2011,Public Safety,98.8
+Kedah,2012,Public Safety,101.3
+Kedah,2013,Public Safety,109.7
+Kedah,2014,Public Safety,110.6
+Kedah,2015,Public Safety,107.1
+Kedah,2016,Public Safety,113.1
+Kedah,2017,Public Safety,119.3
+Kedah,2018,Public Safety,120.7
+Kedah,2019,Public Safety,114.9
+Kedah,2020,Public Safety,128.4
+Kedah,2021,Public Safety,131.8
+Kedah,2022,Public Safety,119.0
+Kedah,2023,Public Safety,113.9
+Kedah,2024,Public Safety,117.8
+Kedah,2010,Social,100.0
+Kedah,2011,Social,103.0
+Kedah,2012,Social,105.2
+Kedah,2013,Social,109.1
+Kedah,2014,Social,109.2
+Kedah,2015,Social,110.4
+Kedah,2016,Social,111.7
+Kedah,2017,Social,116.0
+Kedah,2018,Social,117.0
+Kedah,2019,Social,118.2
+Kedah,2020,Social,117.1
+Kedah,2021,Social,113.6
+Kedah,2022,Social,114.2
+Kedah,2023,Social,116.3
+Kedah,2024,Social,119.3
+Kedah,2010,Social Participation,100.0
+Kedah,2011,Social Participation,112.1
+Kedah,2012,Social Participation,113.8
+Kedah,2013,Social Participation,119.7
+Kedah,2014,Social Participation,122.5
+Kedah,2015,Social Participation,120.5
+Kedah,2016,Social Participation,122.3
+Kedah,2017,Social Participation,123.8
+Kedah,2018,Social Participation,127.5
+Kedah,2019,Social Participation,136.8
+Kedah,2020,Social Participation,135.1
+Kedah,2021,Social Participation,134.0
+Kedah,2022,Social Participation,134.1
+Kedah,2023,Social Participation,136.3
+Kedah,2024,Social Participation,142.8
+Kedah,2010,Transportation,100.0
+Kedah,2011,Transportation,100.7
+Kedah,2012,Transportation,104.4
+Kedah,2013,Transportation,104.7
+Kedah,2014,Transportation,109.1
+Kedah,2015,Transportation,110.7
+Kedah,2016,Transportation,115.2
+Kedah,2017,Transportation,120.5
+Kedah,2018,Transportation,124.9
+Kedah,2019,Transportation,127.0
+Kedah,2020,Transportation,122.2
+Kedah,2021,Transportation,121.0
+Kedah,2022,Transportation,132.5
+Kedah,2023,Transportation,127.8
+Kedah,2024,Transportation,128.5
+Kedah,2010,Water,100.0
+Kedah,2011,Water,100.0
+Kedah,2012,Water,100.0
+Kedah,2013,Water,100.7
+Kedah,2014,Water,100.7
+Kedah,2015,Water,100.7
+Kedah,2016,Water,100.7
+Kedah,2017,Water,100.7
+Kedah,2018,Water,100.7
+Kedah,2019,Water,100.7
+Kedah,2020,Water,100.7
+Kedah,2021,Water,100.7
+Kedah,2022,Water,100.7
+Kedah,2023,Water,100.3
+Kedah,2024,Water,100.3
+Kedah,2010,Working Life,100.0
+Kedah,2011,Working Life,107.4
+Kedah,2012,Working Life,110.1
+Kedah,2013,Working Life,111.2
+Kedah,2014,Working Life,109.8
+Kedah,2015,Working Life,115.2
+Kedah,2016,Working Life,116.2
+Kedah,2017,Working Life,116.9
+Kedah,2018,Working Life,124.7
+Kedah,2019,Working Life,124.1
+Kedah,2020,Working Life,125.6
+Kedah,2021,Working Life,125.9
+Kedah,2022,Working Life,126.1
+Kedah,2023,Working Life,123.0
+Kedah,2024,Working Life,123.7
+Kelantan,2010,Air,100.0
+Kelantan,2011,Air,83.6
+Kelantan,2012,Air,97.3
+Kelantan,2013,Air,100.9
+Kelantan,2014,Air,109.1
+Kelantan,2015,Air,84.5
+Kelantan,2016,Air,112.8
+Kelantan,2017,Air,93.6
+Kelantan,2018,Air,95.5
+Kelantan,2019,Air,83.3
+Kelantan,2020,Air,98.8
+Kelantan,2021,Air,104.8
+Kelantan,2022,Air,116.3
+Kelantan,2023,Air,90.8
+Kelantan,2024,Air,94.4
+Kelantan,2010,Biodiversity Resources,100.0
+Kelantan,2011,Biodiversity Resources,90.5
+Kelantan,2012,Biodiversity Resources,98.5
+Kelantan,2013,Biodiversity Resources,103.5
+Kelantan,2014,Biodiversity Resources,103.3
+Kelantan,2015,Biodiversity Resources,108.1
+Kelantan,2016,Biodiversity Resources,105.2
+Kelantan,2017,Biodiversity Resources,111.9
+Kelantan,2018,Biodiversity Resources,95.4
+Kelantan,2019,Biodiversity Resources,91.3
+Kelantan,2020,Biodiversity Resources,100.0
+Kelantan,2021,Biodiversity Resources,100.0
+Kelantan,2022,Biodiversity Resources,100.0
+Kelantan,2023,Biodiversity Resources,101.9
+Kelantan,2024,Biodiversity Resources,101.9
+Kelantan,2010,Communication,100.0
+Kelantan,2011,Communication,101.4
+Kelantan,2012,Communication,106.0
+Kelantan,2013,Communication,107.2
+Kelantan,2014,Communication,120.5
+Kelantan,2015,Communication,115.7
+Kelantan,2016,Communication,116.6
+Kelantan,2017,Communication,121.2
+Kelantan,2018,Communication,122.3
+Kelantan,2019,Communication,120.3
+Kelantan,2020,Communication,117.3
+Kelantan,2021,Communication,121.4
+Kelantan,2022,Communication,121.7
+Kelantan,2023,Communication,122.0
+Kelantan,2024,Communication,122.6
+Kelantan,2010,Culture,100.0
+Kelantan,2011,Culture,89.3
+Kelantan,2012,Culture,90.9
+Kelantan,2013,Culture,91.7
+Kelantan,2014,Culture,94.4
+Kelantan,2015,Culture,98.9
+Kelantan,2016,Culture,94.2
+Kelantan,2017,Culture,89.8
+Kelantan,2018,Culture,97.8
+Kelantan,2019,Culture,93.2
+Kelantan,2020,Culture,87.7
+Kelantan,2021,Culture,81.3
+Kelantan,2022,Culture,96.3
+Kelantan,2023,Culture,92.5
+Kelantan,2024,Culture,104.8
+Kelantan,2010,Economic,100.0
+Kelantan,2011,Economic,106.3
+Kelantan,2012,Economic,109.3
+Kelantan,2013,Economic,110.5
+Kelantan,2014,Economic,114.9
+Kelantan,2015,Economic,114.9
+Kelantan,2016,Economic,113.5
+Kelantan,2017,Economic,116.8
+Kelantan,2018,Economic,117.8
+Kelantan,2019,Economic,117.8
+Kelantan,2020,Economic,114.2
+Kelantan,2021,Economic,116.5
+Kelantan,2022,Economic,121.6
+Kelantan,2023,Economic,121.5
+Kelantan,2024,Economic,123.0
+Kelantan,2010,Education,100.0
+Kelantan,2011,Education,111.0
+Kelantan,2012,Education,114.0
+Kelantan,2013,Education,113.0
+Kelantan,2014,Education,116.0
+Kelantan,2015,Education,118.6
+Kelantan,2016,Education,118.7
+Kelantan,2017,Education,120.6
+Kelantan,2018,Education,123.5
+Kelantan,2019,Education,127.6
+Kelantan,2020,Education,128.3
+Kelantan,2021,Education,133.6
+Kelantan,2022,Education,132.8
+Kelantan,2023,Education,135.6
+Kelantan,2024,Education,130.6
+Kelantan,2010,Entertainment and Recreation,100.0
+Kelantan,2011,Entertainment and Recreation,98.6
+Kelantan,2012,Entertainment and Recreation,100.9
+Kelantan,2013,Entertainment and Recreation,101.8
+Kelantan,2014,Entertainment and Recreation,109.4
+Kelantan,2015,Entertainment and Recreation,106.0
+Kelantan,2016,Entertainment and Recreation,109.1
+Kelantan,2017,Entertainment and Recreation,108.2
+Kelantan,2018,Entertainment and Recreation,110.1
+Kelantan,2019,Entertainment and Recreation,107.3
+Kelantan,2020,Entertainment and Recreation,98.9
+Kelantan,2021,Entertainment and Recreation,97.0
+Kelantan,2022,Entertainment and Recreation,108.8
+Kelantan,2023,Entertainment and Recreation,109.3
+Kelantan,2024,Entertainment and Recreation,109.1
+Kelantan,2010,Environmental,100.0
+Kelantan,2011,Environmental,92.2
+Kelantan,2012,Environmental,100.6
+Kelantan,2013,Environmental,104.2
+Kelantan,2014,Environmental,107.6
+Kelantan,2015,Environmental,101.4
+Kelantan,2016,Environmental,110.2
+Kelantan,2017,Environmental,107.5
+Kelantan,2018,Environmental,103.2
+Kelantan,2019,Environmental,98.4
+Kelantan,2020,Environmental,106.5
+Kelantan,2021,Environmental,109.6
+Kelantan,2022,Environmental,113.8
+Kelantan,2023,Environmental,106.1
+Kelantan,2024,Environmental,106.9
+Kelantan,2010,Family,100.0
+Kelantan,2011,Family,105.0
+Kelantan,2012,Family,101.4
+Kelantan,2013,Family,98.9
+Kelantan,2014,Family,94.2
+Kelantan,2015,Family,95.4
+Kelantan,2016,Family,98.3
+Kelantan,2017,Family,98.2
+Kelantan,2018,Family,99.7
+Kelantan,2019,Family,102.1
+Kelantan,2020,Family,100.2
+Kelantan,2021,Family,101.3
+Kelantan,2022,Family,100.7
+Kelantan,2023,Family,105.2
+Kelantan,2024,Family,105.6
+Kelantan,2010,Governance,100.0
+Kelantan,2011,Governance,99.0
+Kelantan,2012,Governance,96.0
+Kelantan,2013,Governance,102.5
+Kelantan,2014,Governance,103.9
+Kelantan,2015,Governance,99.4
+Kelantan,2016,Governance,87.5
+Kelantan,2017,Governance,110.7
+Kelantan,2018,Governance,99.0
+Kelantan,2019,Governance,100.8
+Kelantan,2020,Governance,94.7
+Kelantan,2021,Governance,92.6
+Kelantan,2022,Governance,103.7
+Kelantan,2023,Governance,110.9
+Kelantan,2024,Governance,107.7
+Kelantan,2010,Health,100.0
+Kelantan,2011,Health,108.2
+Kelantan,2012,Health,112.6
+Kelantan,2013,Health,109.2
+Kelantan,2014,Health,103.9
+Kelantan,2015,Health,102.3
+Kelantan,2016,Health,102.8
+Kelantan,2017,Health,104.0
+Kelantan,2018,Health,102.0
+Kelantan,2019,Health,107.0
+Kelantan,2020,Health,111.8
+Kelantan,2021,Health,112.1
+Kelantan,2022,Health,108.1
+Kelantan,2023,Health,110.3
+Kelantan,2024,Health,117.3
+Kelantan,2010,Housing,100.0
+Kelantan,2011,Housing,102.1
+Kelantan,2012,Housing,104.1
+Kelantan,2013,Housing,109.6
+Kelantan,2014,Housing,115.1
+Kelantan,2015,Housing,117.6
+Kelantan,2016,Housing,120.7
+Kelantan,2017,Housing,130.3
+Kelantan,2018,Housing,129.9
+Kelantan,2019,Housing,133.9
+Kelantan,2020,Housing,136.6
+Kelantan,2021,Housing,135.1
+Kelantan,2022,Housing,132.2
+Kelantan,2023,Housing,131.7
+Kelantan,2024,Housing,131.7
+Kelantan,2010,Income and Distribution,100.0
+Kelantan,2011,Income and Distribution,104.8
+Kelantan,2012,Income and Distribution,108.5
+Kelantan,2013,Income and Distribution,113.0
+Kelantan,2014,Income and Distribution,118.1
+Kelantan,2015,Income and Distribution,122.2
+Kelantan,2016,Income and Distribution,117.5
+Kelantan,2017,Income and Distribution,122.1
+Kelantan,2018,Income and Distribution,125.6
+Kelantan,2019,Income and Distribution,130.0
+Kelantan,2020,Income and Distribution,114.2
+Kelantan,2021,Income and Distribution,116.7
+Kelantan,2022,Income and Distribution,130.3
+Kelantan,2023,Income and Distribution,130.1
+Kelantan,2024,Income and Distribution,139.2
+Kelantan,2010,MyWI Overall,100.0
+Kelantan,2011,MyWI Overall,102.5
+Kelantan,2012,MyWI Overall,105.4
+Kelantan,2013,MyWI Overall,107.5
+Kelantan,2014,MyWI Overall,110.4
+Kelantan,2015,MyWI Overall,109.0
+Kelantan,2016,MyWI Overall,110.2
+Kelantan,2017,MyWI Overall,112.7
+Kelantan,2018,MyWI Overall,112.3
+Kelantan,2019,MyWI Overall,112.3
+Kelantan,2020,MyWI Overall,112.1
+Kelantan,2021,MyWI Overall,113.5
+Kelantan,2022,MyWI Overall,116.8
+Kelantan,2023,MyWI Overall,116.2
+Kelantan,2024,MyWI Overall,118.2
+Kelantan,2010,Public Safety,100.0
+Kelantan,2011,Public Safety,109.2
+Kelantan,2012,Public Safety,110.3
+Kelantan,2013,Public Safety,110.9
+Kelantan,2014,Public Safety,118.5
+Kelantan,2015,Public Safety,121.3
+Kelantan,2016,Public Safety,123.1
+Kelantan,2017,Public Safety,126.0
+Kelantan,2018,Public Safety,126.6
+Kelantan,2019,Public Safety,125.1
+Kelantan,2020,Public Safety,129.1
+Kelantan,2021,Public Safety,138.7
+Kelantan,2022,Public Safety,126.9
+Kelantan,2023,Public Safety,124.5
+Kelantan,2024,Public Safety,126.5
+Kelantan,2010,Social,100.0
+Kelantan,2011,Social,104.2
+Kelantan,2012,Social,105.2
+Kelantan,2013,Social,107.2
+Kelantan,2014,Social,109.3
+Kelantan,2015,Social,109.0
+Kelantan,2016,Social,108.7
+Kelantan,2017,Social,112.5
+Kelantan,2018,Social,112.8
+Kelantan,2019,Social,114.5
+Kelantan,2020,Social,113.1
+Kelantan,2021,Social,113.5
+Kelantan,2022,Social,115.6
+Kelantan,2023,Social,117.2
+Kelantan,2024,Social,119.8
+Kelantan,2010,Social Participation,100.0
+Kelantan,2011,Social Participation,115.7
+Kelantan,2012,Social Participation,116.4
+Kelantan,2013,Social Participation,127.0
+Kelantan,2014,Social Participation,128.3
+Kelantan,2015,Social Participation,121.3
+Kelantan,2016,Social Participation,124.1
+Kelantan,2017,Social Participation,124.8
+Kelantan,2018,Social Participation,127.1
+Kelantan,2019,Social Participation,133.7
+Kelantan,2020,Social Participation,130.5
+Kelantan,2021,Social Participation,129.8
+Kelantan,2022,Social Participation,131.0
+Kelantan,2023,Social Participation,134.9
+Kelantan,2024,Social Participation,145.2
+Kelantan,2010,Transportation,100.0
+Kelantan,2011,Transportation,109.4
+Kelantan,2012,Transportation,111.4
+Kelantan,2013,Transportation,113.7
+Kelantan,2014,Transportation,115.4
+Kelantan,2015,Transportation,114.8
+Kelantan,2016,Transportation,118.9
+Kelantan,2017,Transportation,122.0
+Kelantan,2018,Transportation,120.1
+Kelantan,2019,Transportation,120.1
+Kelantan,2020,Transportation,120.5
+Kelantan,2021,Transportation,120.0
+Kelantan,2022,Transportation,128.9
+Kelantan,2023,Transportation,128.9
+Kelantan,2024,Transportation,128.8
+Kelantan,2010,Water,100.0
+Kelantan,2011,Water,102.4
+Kelantan,2012,Water,106.0
+Kelantan,2013,Water,108.1
+Kelantan,2014,Water,110.4
+Kelantan,2015,Water,111.5
+Kelantan,2016,Water,112.5
+Kelantan,2017,Water,117.0
+Kelantan,2018,Water,118.7
+Kelantan,2019,Water,120.6
+Kelantan,2020,Water,120.6
+Kelantan,2021,Water,123.9
+Kelantan,2022,Water,125.0
+Kelantan,2023,Water,125.7
+Kelantan,2024,Water,124.5
+Kelantan,2010,Working Life,100.0
+Kelantan,2011,Working Life,109.5
+Kelantan,2012,Working Life,111.3
+Kelantan,2013,Working Life,108.2
+Kelantan,2014,Working Life,105.6
+Kelantan,2015,Working Life,106.8
+Kelantan,2016,Working Life,100.9
+Kelantan,2017,Working Life,102.0
+Kelantan,2018,Working Life,103.2
+Kelantan,2019,Working Life,100.6
+Kelantan,2020,Working Life,105.0
+Kelantan,2021,Working Life,107.7
+Kelantan,2022,Working Life,105.5
+Kelantan,2023,Working Life,104.9
+Kelantan,2024,Working Life,101.4
+Melaka,2010,Air,100.0
+Melaka,2011,Air,82.5
+Melaka,2012,Air,83.4
+Melaka,2013,Air,76.4
+Melaka,2014,Air,90.4
+Melaka,2015,Air,86.0
+Melaka,2016,Air,100.9
+Melaka,2017,Air,101.5
+Melaka,2018,Air,84.5
+Melaka,2019,Air,84.7
+Melaka,2020,Air,111.8
+Melaka,2021,Air,87.9
+Melaka,2022,Air,89.9
+Melaka,2023,Air,86.6
+Melaka,2024,Air,85.5
+Melaka,2010,Biodiversity Resources,100.0
+Melaka,2011,Biodiversity Resources,84.7
+Melaka,2012,Biodiversity Resources,88.5
+Melaka,2013,Biodiversity Resources,103.8
+Melaka,2014,Biodiversity Resources,98.1
+Melaka,2015,Biodiversity Resources,101.3
+Melaka,2016,Biodiversity Resources,101.3
+Melaka,2017,Biodiversity Resources,90.4
+Melaka,2018,Biodiversity Resources,94.8
+Melaka,2019,Biodiversity Resources,82.2
+Melaka,2020,Biodiversity Resources,88.9
+Melaka,2021,Biodiversity Resources,95.8
+Melaka,2022,Biodiversity Resources,95.8
+Melaka,2023,Biodiversity Resources,95.8
+Melaka,2024,Biodiversity Resources,95.8
+Melaka,2010,Communication,100.0
+Melaka,2011,Communication,105.3
+Melaka,2012,Communication,109.7
+Melaka,2013,Communication,104.7
+Melaka,2014,Communication,115.8
+Melaka,2015,Communication,120.5
+Melaka,2016,Communication,120.7
+Melaka,2017,Communication,124.7
+Melaka,2018,Communication,125.8
+Melaka,2019,Communication,122.0
+Melaka,2020,Communication,117.9
+Melaka,2021,Communication,119.6
+Melaka,2022,Communication,121.5
+Melaka,2023,Communication,121.6
+Melaka,2024,Communication,122.9
+Melaka,2010,Culture,100.0
+Melaka,2011,Culture,106.0
+Melaka,2012,Culture,101.2
+Melaka,2013,Culture,103.4
+Melaka,2014,Culture,107.3
+Melaka,2015,Culture,108.5
+Melaka,2016,Culture,113.4
+Melaka,2017,Culture,113.9
+Melaka,2018,Culture,113.3
+Melaka,2019,Culture,109.4
+Melaka,2020,Culture,103.0
+Melaka,2021,Culture,103.2
+Melaka,2022,Culture,106.8
+Melaka,2023,Culture,108.7
+Melaka,2024,Culture,119.7
+Melaka,2010,Economic,100.0
+Melaka,2011,Economic,106.4
+Melaka,2012,Economic,110.3
+Melaka,2013,Economic,111.9
+Melaka,2014,Economic,116.1
+Melaka,2015,Economic,118.2
+Melaka,2016,Economic,120.0
+Melaka,2017,Economic,122.0
+Melaka,2018,Economic,122.5
+Melaka,2019,Economic,121.5
+Melaka,2020,Economic,117.4
+Melaka,2021,Economic,120.3
+Melaka,2022,Economic,124.1
+Melaka,2023,Economic,124.8
+Melaka,2024,Economic,126.2
+Melaka,2010,Education,100.0
+Melaka,2011,Education,108.5
+Melaka,2012,Education,110.6
+Melaka,2013,Education,110.5
+Melaka,2014,Education,115.4
+Melaka,2015,Education,115.2
+Melaka,2016,Education,118.6
+Melaka,2017,Education,123.2
+Melaka,2018,Education,127.0
+Melaka,2019,Education,129.3
+Melaka,2020,Education,131.3
+Melaka,2021,Education,128.5
+Melaka,2022,Education,128.7
+Melaka,2023,Education,131.5
+Melaka,2024,Education,130.1
+Melaka,2010,Entertainment and Recreation,100.0
+Melaka,2011,Entertainment and Recreation,102.4
+Melaka,2012,Entertainment and Recreation,102.7
+Melaka,2013,Entertainment and Recreation,104.6
+Melaka,2014,Entertainment and Recreation,107.8
+Melaka,2015,Entertainment and Recreation,107.4
+Melaka,2016,Entertainment and Recreation,108.3
+Melaka,2017,Entertainment and Recreation,109.8
+Melaka,2018,Entertainment and Recreation,112.3
+Melaka,2019,Entertainment and Recreation,111.3
+Melaka,2020,Entertainment and Recreation,95.1
+Melaka,2021,Entertainment and Recreation,92.9
+Melaka,2022,Entertainment and Recreation,103.3
+Melaka,2023,Entertainment and Recreation,103.2
+Melaka,2024,Entertainment and Recreation,103.4
+Melaka,2010,Environmental,100.0
+Melaka,2011,Environmental,89.1
+Melaka,2012,Environmental,90.6
+Melaka,2013,Environmental,93.4
+Melaka,2014,Environmental,96.2
+Melaka,2015,Environmental,95.8
+Melaka,2016,Environmental,100.7
+Melaka,2017,Environmental,97.3
+Melaka,2018,Environmental,93.1
+Melaka,2019,Environmental,89.0
+Melaka,2020,Environmental,100.2
+Melaka,2021,Environmental,94.6
+Melaka,2022,Environmental,95.2
+Melaka,2023,Environmental,94.1
+Melaka,2024,Environmental,93.8
+Melaka,2010,Family,100.0
+Melaka,2011,Family,102.7
+Melaka,2012,Family,101.0
+Melaka,2013,Family,98.2
+Melaka,2014,Family,99.6
+Melaka,2015,Family,103.9
+Melaka,2016,Family,106.3
+Melaka,2017,Family,109.0
+Melaka,2018,Family,108.9
+Melaka,2019,Family,104.3
+Melaka,2020,Family,105.1
+Melaka,2021,Family,108.2
+Melaka,2022,Family,102.8
+Melaka,2023,Family,106.4
+Melaka,2024,Family,107.4
+Melaka,2010,Governance,100.0
+Melaka,2011,Governance,103.1
+Melaka,2012,Governance,108.2
+Melaka,2013,Governance,107.3
+Melaka,2014,Governance,109.4
+Melaka,2015,Governance,105.8
+Melaka,2016,Governance,95.2
+Melaka,2017,Governance,106.0
+Melaka,2018,Governance,116.7
+Melaka,2019,Governance,111.3
+Melaka,2020,Governance,97.7
+Melaka,2021,Governance,101.9
+Melaka,2022,Governance,105.1
+Melaka,2023,Governance,119.3
+Melaka,2024,Governance,117.5
+Melaka,2010,Health,100.0
+Melaka,2011,Health,109.0
+Melaka,2012,Health,119.6
+Melaka,2013,Health,114.5
+Melaka,2014,Health,111.6
+Melaka,2015,Health,114.4
+Melaka,2016,Health,114.2
+Melaka,2017,Health,113.6
+Melaka,2018,Health,118.6
+Melaka,2019,Health,118.3
+Melaka,2020,Health,113.8
+Melaka,2021,Health,117.0
+Melaka,2022,Health,112.5
+Melaka,2023,Health,115.1
+Melaka,2024,Health,109.4
+Melaka,2010,Housing,100.0
+Melaka,2011,Housing,109.3
+Melaka,2012,Housing,118.4
+Melaka,2013,Housing,116.5
+Melaka,2014,Housing,117.5
+Melaka,2015,Housing,118.7
+Melaka,2016,Housing,132.8
+Melaka,2017,Housing,133.2
+Melaka,2018,Housing,130.3
+Melaka,2019,Housing,134.7
+Melaka,2020,Housing,141.6
+Melaka,2021,Housing,135.2
+Melaka,2022,Housing,133.2
+Melaka,2023,Housing,132.9
+Melaka,2024,Housing,130.0
+Melaka,2010,Income and Distribution,100.0
+Melaka,2011,Income and Distribution,107.5
+Melaka,2012,Income and Distribution,114.7
+Melaka,2013,Income and Distribution,119.6
+Melaka,2014,Income and Distribution,125.4
+Melaka,2015,Income and Distribution,126.1
+Melaka,2016,Income and Distribution,127.0
+Melaka,2017,Income and Distribution,126.6
+Melaka,2018,Income and Distribution,124.6
+Melaka,2019,Income and Distribution,122.6
+Melaka,2020,Income and Distribution,112.6
+Melaka,2021,Income and Distribution,115.3
+Melaka,2022,Income and Distribution,125.5
+Melaka,2023,Income and Distribution,127.5
+Melaka,2024,Income and Distribution,136.6
+Melaka,2010,MyWI Overall,100.0
+Melaka,2011,MyWI Overall,103.0
+Melaka,2012,MyWI Overall,105.2
+Melaka,2013,MyWI Overall,106.3
+Melaka,2014,MyWI Overall,109.5
+Melaka,2015,MyWI Overall,110.0
+Melaka,2016,MyWI Overall,112.1
+Melaka,2017,MyWI Overall,113.7
+Melaka,2018,MyWI Overall,114.0
+Melaka,2019,MyWI Overall,113.3
+Melaka,2020,MyWI Overall,113.2
+Melaka,2021,MyWI Overall,113.1
+Melaka,2022,MyWI Overall,113.9
+Melaka,2023,MyWI Overall,114.9
+Melaka,2024,MyWI Overall,115.7
+Melaka,2010,Public Safety,100.0
+Melaka,2011,Public Safety,98.9
+Melaka,2012,Public Safety,96.4
+Melaka,2013,Public Safety,98.5
+Melaka,2014,Public Safety,105.7
+Melaka,2015,Public Safety,109.4
+Melaka,2016,Public Safety,103.3
+Melaka,2017,Public Safety,110.3
+Melaka,2018,Public Safety,103.5
+Melaka,2019,Public Safety,110.9
+Melaka,2020,Public Safety,120.1
+Melaka,2021,Public Safety,124.8
+Melaka,2022,Public Safety,114.7
+Melaka,2023,Public Safety,107.5
+Melaka,2024,Public Safety,110.8
+Melaka,2010,Social,100.0
+Melaka,2011,Social,106.1
+Melaka,2012,Social,107.9
+Melaka,2013,Social,108.2
+Melaka,2014,Social,111.0
+Melaka,2015,Social,111.1
+Melaka,2016,Social,112.3
+Melaka,2017,Social,115.5
+Melaka,2018,Social,117.2
+Melaka,2019,Social,117.8
+Melaka,2020,Social,115.6
+Melaka,2021,Social,116.0
+Melaka,2022,Social,115.6
+Melaka,2023,Social,117.5
+Melaka,2024,Social,118.4
+Melaka,2010,Social Participation,100.0
+Melaka,2011,Social Participation,114.9
+Melaka,2012,Social Participation,112.7
+Melaka,2013,Social Participation,120.0
+Melaka,2014,Social Participation,125.0
+Melaka,2015,Social Participation,116.4
+Melaka,2016,Social Participation,118.9
+Melaka,2017,Social Participation,120.7
+Melaka,2018,Social Participation,123.7
+Melaka,2019,Social Participation,130.6
+Melaka,2020,Social Participation,132.5
+Melaka,2021,Social Participation,132.8
+Melaka,2022,Social Participation,133.3
+Melaka,2023,Social Participation,132.6
+Melaka,2024,Social Participation,137.5
+Melaka,2010,Transportation,100.0
+Melaka,2011,Transportation,103.1
+Melaka,2012,Transportation,107.6
+Melaka,2013,Transportation,110.5
+Melaka,2014,Transportation,110.9
+Melaka,2015,Transportation,115.8
+Melaka,2016,Transportation,121.4
+Melaka,2017,Transportation,125.1
+Melaka,2018,Transportation,130.3
+Melaka,2019,Transportation,131.4
+Melaka,2020,Transportation,122.1
+Melaka,2021,Transportation,120.2
+Melaka,2022,Transportation,127.2
+Melaka,2023,Transportation,124.9
+Melaka,2024,Transportation,124.4
+Melaka,2010,Water,100.0
+Melaka,2011,Water,100.0
+Melaka,2012,Water,100.0
+Melaka,2013,Water,100.0
+Melaka,2014,Water,100.0
+Melaka,2015,Water,100.0
+Melaka,2016,Water,100.0
+Melaka,2017,Water,100.0
+Melaka,2018,Water,100.0
+Melaka,2019,Water,100.0
+Melaka,2020,Water,100.0
+Melaka,2021,Water,100.0
+Melaka,2022,Water,100.0
+Melaka,2023,Water,100.0
+Melaka,2024,Water,100.0
+Melaka,2010,Working Life,100.0
+Melaka,2011,Working Life,109.8
+Melaka,2012,Working Life,109.2
+Melaka,2013,Working Life,112.9
+Melaka,2014,Working Life,112.3
+Melaka,2015,Working Life,110.4
+Melaka,2016,Working Life,111.0
+Melaka,2017,Working Life,111.5
+Melaka,2018,Working Life,109.3
+Melaka,2019,Working Life,110.2
+Melaka,2020,Working Life,117.1
+Melaka,2021,Working Life,126.0
+Melaka,2022,Working Life,122.2
+Melaka,2023,Working Life,125.1
+Melaka,2024,Working Life,120.9
+Negeri Sembilan,2010,Air,100.0
+Negeri Sembilan,2011,Air,95.2
+Negeri Sembilan,2012,Air,95.2
+Negeri Sembilan,2013,Air,100.0
+Negeri Sembilan,2014,Air,102.4
+Negeri Sembilan,2015,Air,97.6
+Negeri Sembilan,2016,Air,126.3
+Negeri Sembilan,2017,Air,115.9
+Negeri Sembilan,2018,Air,98.2
+Negeri Sembilan,2019,Air,99.2
+Negeri Sembilan,2020,Air,122.3
+Negeri Sembilan,2021,Air,112.4
+Negeri Sembilan,2022,Air,90.1
+Negeri Sembilan,2023,Air,96.1
+Negeri Sembilan,2024,Air,110.3
+Negeri Sembilan,2010,Biodiversity Resources,100.0
+Negeri Sembilan,2011,Biodiversity Resources,77.4
+Negeri Sembilan,2012,Biodiversity Resources,113.5
+Negeri Sembilan,2013,Biodiversity Resources,119.4
+Negeri Sembilan,2014,Biodiversity Resources,116.4
+Negeri Sembilan,2015,Biodiversity Resources,112.7
+Negeri Sembilan,2016,Biodiversity Resources,108.5
+Negeri Sembilan,2017,Biodiversity Resources,107.2
+Negeri Sembilan,2018,Biodiversity Resources,105.5
+Negeri Sembilan,2019,Biodiversity Resources,108.3
+Negeri Sembilan,2020,Biodiversity Resources,109.3
+Negeri Sembilan,2021,Biodiversity Resources,108.5
+Negeri Sembilan,2022,Biodiversity Resources,108.5
+Negeri Sembilan,2023,Biodiversity Resources,108.5
+Negeri Sembilan,2024,Biodiversity Resources,108.5
+Negeri Sembilan,2010,Communication,100.0
+Negeri Sembilan,2011,Communication,106.5
+Negeri Sembilan,2012,Communication,110.0
+Negeri Sembilan,2013,Communication,105.1
+Negeri Sembilan,2014,Communication,116.6
+Negeri Sembilan,2015,Communication,122.7
+Negeri Sembilan,2016,Communication,124.2
+Negeri Sembilan,2017,Communication,125.6
+Negeri Sembilan,2018,Communication,127.4
+Negeri Sembilan,2019,Communication,124.4
+Negeri Sembilan,2020,Communication,119.5
+Negeri Sembilan,2021,Communication,123.4
+Negeri Sembilan,2022,Communication,125.2
+Negeri Sembilan,2023,Communication,125.5
+Negeri Sembilan,2024,Communication,126.3
+Negeri Sembilan,2010,Culture,100.0
+Negeri Sembilan,2011,Culture,97.9
+Negeri Sembilan,2012,Culture,96.1
+Negeri Sembilan,2013,Culture,98.6
+Negeri Sembilan,2014,Culture,102.3
+Negeri Sembilan,2015,Culture,109.3
+Negeri Sembilan,2016,Culture,110.3
+Negeri Sembilan,2017,Culture,114.8
+Negeri Sembilan,2018,Culture,118.1
+Negeri Sembilan,2019,Culture,112.8
+Negeri Sembilan,2020,Culture,101.4
+Negeri Sembilan,2021,Culture,100.6
+Negeri Sembilan,2022,Culture,117.2
+Negeri Sembilan,2023,Culture,121.3
+Negeri Sembilan,2024,Culture,117.4
+Negeri Sembilan,2010,Economic,100.0
+Negeri Sembilan,2011,Economic,106.2
+Negeri Sembilan,2012,Economic,110.2
+Negeri Sembilan,2013,Economic,111.3
+Negeri Sembilan,2014,Economic,115.5
+Negeri Sembilan,2015,Economic,117.5
+Negeri Sembilan,2016,Economic,117.7
+Negeri Sembilan,2017,Economic,118.9
+Negeri Sembilan,2018,Economic,120.5
+Negeri Sembilan,2019,Economic,121.4
+Negeri Sembilan,2020,Economic,118.0
+Negeri Sembilan,2021,Economic,121.3
+Negeri Sembilan,2022,Economic,125.7
+Negeri Sembilan,2023,Economic,125.1
+Negeri Sembilan,2024,Economic,123.5
+Negeri Sembilan,2010,Education,100.0
+Negeri Sembilan,2011,Education,107.4
+Negeri Sembilan,2012,Education,107.7
+Negeri Sembilan,2013,Education,109.4
+Negeri Sembilan,2014,Education,111.5
+Negeri Sembilan,2015,Education,112.7
+Negeri Sembilan,2016,Education,115.0
+Negeri Sembilan,2017,Education,120.3
+Negeri Sembilan,2018,Education,121.6
+Negeri Sembilan,2019,Education,121.2
+Negeri Sembilan,2020,Education,122.9
+Negeri Sembilan,2021,Education,127.8
+Negeri Sembilan,2022,Education,131.7
+Negeri Sembilan,2023,Education,133.6
+Negeri Sembilan,2024,Education,131.9
+Negeri Sembilan,2010,Entertainment and Recreation,100.0
+Negeri Sembilan,2011,Entertainment and Recreation,100.2
+Negeri Sembilan,2012,Entertainment and Recreation,102.3
+Negeri Sembilan,2013,Entertainment and Recreation,103.6
+Negeri Sembilan,2014,Entertainment and Recreation,108.0
+Negeri Sembilan,2015,Entertainment and Recreation,107.2
+Negeri Sembilan,2016,Entertainment and Recreation,109.4
+Negeri Sembilan,2017,Entertainment and Recreation,111.1
+Negeri Sembilan,2018,Entertainment and Recreation,112.6
+Negeri Sembilan,2019,Entertainment and Recreation,113.2
+Negeri Sembilan,2020,Entertainment and Recreation,96.4
+Negeri Sembilan,2021,Entertainment and Recreation,91.0
+Negeri Sembilan,2022,Entertainment and Recreation,102.7
+Negeri Sembilan,2023,Entertainment and Recreation,104.7
+Negeri Sembilan,2024,Entertainment and Recreation,105.3
+Negeri Sembilan,2010,Environmental,100.0
+Negeri Sembilan,2011,Environmental,91.1
+Negeri Sembilan,2012,Environmental,103.1
+Negeri Sembilan,2013,Environmental,106.7
+Negeri Sembilan,2014,Environmental,106.5
+Negeri Sembilan,2015,Environmental,103.6
+Negeri Sembilan,2016,Environmental,111.8
+Negeri Sembilan,2017,Environmental,107.9
+Negeri Sembilan,2018,Environmental,101.4
+Negeri Sembilan,2019,Environmental,102.7
+Negeri Sembilan,2020,Environmental,110.7
+Negeri Sembilan,2021,Environmental,107.1
+Negeri Sembilan,2022,Environmental,99.7
+Negeri Sembilan,2023,Environmental,101.7
+Negeri Sembilan,2024,Environmental,106.4
+Negeri Sembilan,2010,Family,100.0
+Negeri Sembilan,2011,Family,105.1
+Negeri Sembilan,2012,Family,97.3
+Negeri Sembilan,2013,Family,94.1
+Negeri Sembilan,2014,Family,93.6
+Negeri Sembilan,2015,Family,100.5
+Negeri Sembilan,2016,Family,104.7
+Negeri Sembilan,2017,Family,106.3
+Negeri Sembilan,2018,Family,104.5
+Negeri Sembilan,2019,Family,110.6
+Negeri Sembilan,2020,Family,105.7
+Negeri Sembilan,2021,Family,99.9
+Negeri Sembilan,2022,Family,101.1
+Negeri Sembilan,2023,Family,101.2
+Negeri Sembilan,2024,Family,101.5
+Negeri Sembilan,2010,Governance,100.0
+Negeri Sembilan,2011,Governance,100.9
+Negeri Sembilan,2012,Governance,101.6
+Negeri Sembilan,2013,Governance,102.3
+Negeri Sembilan,2014,Governance,106.1
+Negeri Sembilan,2015,Governance,101.6
+Negeri Sembilan,2016,Governance,89.5
+Negeri Sembilan,2017,Governance,103.1
+Negeri Sembilan,2018,Governance,99.1
+Negeri Sembilan,2019,Governance,105.9
+Negeri Sembilan,2020,Governance,102.5
+Negeri Sembilan,2021,Governance,114.5
+Negeri Sembilan,2022,Governance,103.2
+Negeri Sembilan,2023,Governance,116.0
+Negeri Sembilan,2024,Governance,111.3
+Negeri Sembilan,2010,Health,100.0
+Negeri Sembilan,2011,Health,107.2
+Negeri Sembilan,2012,Health,109.9
+Negeri Sembilan,2013,Health,109.4
+Negeri Sembilan,2014,Health,109.0
+Negeri Sembilan,2015,Health,112.3
+Negeri Sembilan,2016,Health,112.0
+Negeri Sembilan,2017,Health,115.0
+Negeri Sembilan,2018,Health,116.4
+Negeri Sembilan,2019,Health,114.6
+Negeri Sembilan,2020,Health,119.0
+Negeri Sembilan,2021,Health,118.7
+Negeri Sembilan,2022,Health,109.4
+Negeri Sembilan,2023,Health,113.7
+Negeri Sembilan,2024,Health,117.3
+Negeri Sembilan,2010,Housing,100.0
+Negeri Sembilan,2011,Housing,114.3
+Negeri Sembilan,2012,Housing,128.6
+Negeri Sembilan,2013,Housing,127.8
+Negeri Sembilan,2014,Housing,127.1
+Negeri Sembilan,2015,Housing,132.6
+Negeri Sembilan,2016,Housing,150.4
+Negeri Sembilan,2017,Housing,144.2
+Negeri Sembilan,2018,Housing,142.6
+Negeri Sembilan,2019,Housing,137.0
+Negeri Sembilan,2020,Housing,150.0
+Negeri Sembilan,2021,Housing,134.2
+Negeri Sembilan,2022,Housing,137.8
+Negeri Sembilan,2023,Housing,140.2
+Negeri Sembilan,2024,Housing,136.8
+Negeri Sembilan,2010,Income and Distribution,100.0
+Negeri Sembilan,2011,Income and Distribution,104.3
+Negeri Sembilan,2012,Income and Distribution,108.1
+Negeri Sembilan,2013,Income and Distribution,113.0
+Negeri Sembilan,2014,Income and Distribution,118.5
+Negeri Sembilan,2015,Income and Distribution,117.9
+Negeri Sembilan,2016,Income and Distribution,109.9
+Negeri Sembilan,2017,Income and Distribution,113.2
+Negeri Sembilan,2018,Income and Distribution,115.7
+Negeri Sembilan,2019,Income and Distribution,118.6
+Negeri Sembilan,2020,Income and Distribution,108.3
+Negeri Sembilan,2021,Income and Distribution,113.6
+Negeri Sembilan,2022,Income and Distribution,127.2
+Negeri Sembilan,2023,Income and Distribution,129.8
+Negeri Sembilan,2024,Income and Distribution,130.8
+Negeri Sembilan,2010,MyWI Overall,100.0
+Negeri Sembilan,2011,MyWI Overall,103.0
+Negeri Sembilan,2012,MyWI Overall,107.2
+Negeri Sembilan,2013,MyWI Overall,107.7
+Negeri Sembilan,2014,MyWI Overall,109.7
+Negeri Sembilan,2015,MyWI Overall,111.5
+Negeri Sembilan,2016,MyWI Overall,114.3
+Negeri Sembilan,2017,MyWI Overall,115.9
+Negeri Sembilan,2018,MyWI Overall,115.4
+Negeri Sembilan,2019,MyWI Overall,116.1
+Negeri Sembilan,2020,MyWI Overall,116.3
+Negeri Sembilan,2021,MyWI Overall,115.9
+Negeri Sembilan,2022,MyWI Overall,116.0
+Negeri Sembilan,2023,MyWI Overall,117.9
+Negeri Sembilan,2024,MyWI Overall,118.0
+Negeri Sembilan,2010,Public Safety,100.0
+Negeri Sembilan,2011,Public Safety,101.4
+Negeri Sembilan,2012,Public Safety,104.6
+Negeri Sembilan,2013,Public Safety,100.6
+Negeri Sembilan,2014,Public Safety,101.7
+Negeri Sembilan,2015,Public Safety,107.0
+Negeri Sembilan,2016,Public Safety,109.5
+Negeri Sembilan,2017,Public Safety,116.8
+Negeri Sembilan,2018,Public Safety,115.7
+Negeri Sembilan,2019,Public Safety,115.6
+Negeri Sembilan,2020,Public Safety,125.3
+Negeri Sembilan,2021,Public Safety,127.3
+Negeri Sembilan,2022,Public Safety,118.4
+Negeri Sembilan,2023,Public Safety,116.5
+Negeri Sembilan,2024,Public Safety,113.3
+Negeri Sembilan,2010,Social,100.0
+Negeri Sembilan,2011,Social,105.5
+Negeri Sembilan,2012,Social,107.2
+Negeri Sembilan,2013,Social,106.5
+Negeri Sembilan,2014,Social,108.2
+Negeri Sembilan,2015,Social,111.4
+Negeri Sembilan,2016,Social,113.7
+Negeri Sembilan,2017,Social,117.3
+Negeri Sembilan,2018,Social,117.7
+Negeri Sembilan,2019,Social,118.3
+Negeri Sembilan,2020,Social,117.3
+Negeri Sembilan,2021,Social,116.4
+Negeri Sembilan,2022,Social,117.1
+Negeri Sembilan,2023,Social,120.1
+Negeri Sembilan,2024,Social,119.5
+Negeri Sembilan,2010,Social Participation,100.0
+Negeri Sembilan,2011,Social Participation,115.3
+Negeri Sembilan,2012,Social Participation,116.9
+Negeri Sembilan,2013,Social Participation,112.3
+Negeri Sembilan,2014,Social Participation,114.6
+Negeri Sembilan,2015,Social Participation,119.4
+Negeri Sembilan,2016,Social Participation,122.3
+Negeri Sembilan,2017,Social Participation,123.6
+Negeri Sembilan,2018,Social Participation,129.0
+Negeri Sembilan,2019,Social Participation,133.5
+Negeri Sembilan,2020,Social Participation,132.9
+Negeri Sembilan,2021,Social Participation,133.0
+Negeri Sembilan,2022,Social Participation,132.5
+Negeri Sembilan,2023,Social Participation,134.0
+Negeri Sembilan,2024,Social Participation,140.8
+Negeri Sembilan,2010,Transportation,100.0
+Negeri Sembilan,2011,Transportation,103.2
+Negeri Sembilan,2012,Transportation,106.2
+Negeri Sembilan,2013,Transportation,109.5
+Negeri Sembilan,2014,Transportation,111.0
+Negeri Sembilan,2015,Transportation,112.4
+Negeri Sembilan,2016,Transportation,117.4
+Negeri Sembilan,2017,Transportation,119.1
+Negeri Sembilan,2018,Transportation,121.5
+Negeri Sembilan,2019,Transportation,121.5
+Negeri Sembilan,2020,Transportation,118.0
+Negeri Sembilan,2021,Transportation,117.9
+Negeri Sembilan,2022,Transportation,122.6
+Negeri Sembilan,2023,Transportation,119.9
+Negeri Sembilan,2024,Transportation,112.3
+Negeri Sembilan,2010,Water,100.0
+Negeri Sembilan,2011,Water,100.5
+Negeri Sembilan,2012,Water,100.5
+Negeri Sembilan,2013,Water,100.5
+Negeri Sembilan,2014,Water,100.5
+Negeri Sembilan,2015,Water,100.5
+Negeri Sembilan,2016,Water,100.5
+Negeri Sembilan,2017,Water,100.5
+Negeri Sembilan,2018,Water,100.5
+Negeri Sembilan,2019,Water,100.5
+Negeri Sembilan,2020,Water,100.5
+Negeri Sembilan,2021,Water,100.5
+Negeri Sembilan,2022,Water,100.5
+Negeri Sembilan,2023,Water,100.5
+Negeri Sembilan,2024,Water,100.5
+Negeri Sembilan,2010,Working Life,100.0
+Negeri Sembilan,2011,Working Life,110.8
+Negeri Sembilan,2012,Working Life,116.6
+Negeri Sembilan,2013,Working Life,117.7
+Negeri Sembilan,2014,Working Life,115.8
+Negeri Sembilan,2015,Working Life,116.9
+Negeri Sembilan,2016,Working Life,119.2
+Negeri Sembilan,2017,Working Life,117.7
+Negeri Sembilan,2018,Working Life,117.4
+Negeri Sembilan,2019,Working Life,120.9
+Negeri Sembilan,2020,Working Life,126.1
+Negeri Sembilan,2021,Working Life,130.3
+Negeri Sembilan,2022,Working Life,127.8
+Negeri Sembilan,2023,Working Life,125.2
+Negeri Sembilan,2024,Working Life,124.4
+Pahang,2010,Air,100.0
+Pahang,2011,Air,96.2
+Pahang,2012,Air,102.5
+Pahang,2013,Air,116.4
+Pahang,2014,Air,105.0
+Pahang,2015,Air,88.7
+Pahang,2016,Air,122.7
+Pahang,2017,Air,97.5
+Pahang,2018,Air,95.4
+Pahang,2019,Air,86.6
+Pahang,2020,Air,117.9
+Pahang,2021,Air,104.1
+Pahang,2022,Air,117.2
+Pahang,2023,Air,101.6
+Pahang,2024,Air,102.5
+Pahang,2010,Biodiversity Resources,100.0
+Pahang,2011,Biodiversity Resources,89.3
+Pahang,2012,Biodiversity Resources,93.7
+Pahang,2013,Biodiversity Resources,93.2
+Pahang,2014,Biodiversity Resources,94.7
+Pahang,2015,Biodiversity Resources,95.3
+Pahang,2016,Biodiversity Resources,81.6
+Pahang,2017,Biodiversity Resources,88.1
+Pahang,2018,Biodiversity Resources,94.4
+Pahang,2019,Biodiversity Resources,96.1
+Pahang,2020,Biodiversity Resources,84.5
+Pahang,2021,Biodiversity Resources,93.4
+Pahang,2022,Biodiversity Resources,91.3
+Pahang,2023,Biodiversity Resources,91.4
+Pahang,2024,Biodiversity Resources,89.5
+Pahang,2010,Communication,100.0
+Pahang,2011,Communication,106.6
+Pahang,2012,Communication,114.6
+Pahang,2013,Communication,108.0
+Pahang,2014,Communication,121.0
+Pahang,2015,Communication,121.8
+Pahang,2016,Communication,122.4
+Pahang,2017,Communication,122.3
+Pahang,2018,Communication,123.7
+Pahang,2019,Communication,125.3
+Pahang,2020,Communication,120.0
+Pahang,2021,Communication,123.3
+Pahang,2022,Communication,124.2
+Pahang,2023,Communication,124.3
+Pahang,2024,Communication,125.5
+Pahang,2010,Culture,100.0
+Pahang,2011,Culture,99.2
+Pahang,2012,Culture,94.4
+Pahang,2013,Culture,97.4
+Pahang,2014,Culture,102.9
+Pahang,2015,Culture,103.0
+Pahang,2016,Culture,106.4
+Pahang,2017,Culture,93.9
+Pahang,2018,Culture,93.1
+Pahang,2019,Culture,93.3
+Pahang,2020,Culture,80.3
+Pahang,2021,Culture,80.7
+Pahang,2022,Culture,92.1
+Pahang,2023,Culture,105.1
+Pahang,2024,Culture,104.7
+Pahang,2010,Economic,100.0
+Pahang,2011,Economic,106.2
+Pahang,2012,Economic,109.1
+Pahang,2013,Economic,109.2
+Pahang,2014,Economic,113.1
+Pahang,2015,Economic,116.0
+Pahang,2016,Economic,115.5
+Pahang,2017,Economic,116.8
+Pahang,2018,Economic,120.4
+Pahang,2019,Economic,120.5
+Pahang,2020,Economic,119.5
+Pahang,2021,Economic,122.2
+Pahang,2022,Economic,126.1
+Pahang,2023,Economic,126.0
+Pahang,2024,Economic,127.3
+Pahang,2010,Education,100.0
+Pahang,2011,Education,109.0
+Pahang,2012,Education,115.3
+Pahang,2013,Education,114.0
+Pahang,2014,Education,118.4
+Pahang,2015,Education,120.3
+Pahang,2016,Education,124.7
+Pahang,2017,Education,129.4
+Pahang,2018,Education,131.5
+Pahang,2019,Education,133.2
+Pahang,2020,Education,135.4
+Pahang,2021,Education,137.6
+Pahang,2022,Education,139.0
+Pahang,2023,Education,140.9
+Pahang,2024,Education,137.8
+Pahang,2010,Entertainment and Recreation,100.0
+Pahang,2011,Entertainment and Recreation,101.2
+Pahang,2012,Entertainment and Recreation,103.0
+Pahang,2013,Entertainment and Recreation,102.6
+Pahang,2014,Entertainment and Recreation,108.2
+Pahang,2015,Entertainment and Recreation,109.1
+Pahang,2016,Entertainment and Recreation,110.5
+Pahang,2017,Entertainment and Recreation,111.9
+Pahang,2018,Entertainment and Recreation,114.4
+Pahang,2019,Entertainment and Recreation,115.4
+Pahang,2020,Entertainment and Recreation,100.9
+Pahang,2021,Entertainment and Recreation,91.7
+Pahang,2022,Entertainment and Recreation,106.8
+Pahang,2023,Entertainment and Recreation,112.4
+Pahang,2024,Entertainment and Recreation,113.2
+Pahang,2010,Environmental,100.0
+Pahang,2011,Environmental,95.2
+Pahang,2012,Environmental,98.7
+Pahang,2013,Environmental,103.2
+Pahang,2014,Environmental,99.9
+Pahang,2015,Environmental,94.7
+Pahang,2016,Environmental,101.4
+Pahang,2017,Environmental,95.2
+Pahang,2018,Environmental,96.6
+Pahang,2019,Environmental,94.2
+Pahang,2020,Environmental,100.8
+Pahang,2021,Environmental,99.2
+Pahang,2022,Environmental,102.8
+Pahang,2023,Environmental,97.6
+Pahang,2024,Environmental,101.5
+Pahang,2010,Family,100.0
+Pahang,2011,Family,102.2
+Pahang,2012,Family,101.2
+Pahang,2013,Family,103.3
+Pahang,2014,Family,100.9
+Pahang,2015,Family,99.9
+Pahang,2016,Family,104.0
+Pahang,2017,Family,105.4
+Pahang,2018,Family,102.6
+Pahang,2019,Family,97.7
+Pahang,2020,Family,106.7
+Pahang,2021,Family,106.9
+Pahang,2022,Family,103.5
+Pahang,2023,Family,110.0
+Pahang,2024,Family,109.2
+Pahang,2010,Governance,100.0
+Pahang,2011,Governance,100.9
+Pahang,2012,Governance,104.2
+Pahang,2013,Governance,105.5
+Pahang,2014,Governance,107.6
+Pahang,2015,Governance,116.1
+Pahang,2016,Governance,102.2
+Pahang,2017,Governance,107.1
+Pahang,2018,Governance,115.5
+Pahang,2019,Governance,104.7
+Pahang,2020,Governance,105.7
+Pahang,2021,Governance,104.4
+Pahang,2022,Governance,101.4
+Pahang,2023,Governance,109.2
+Pahang,2024,Governance,113.9
+Pahang,2010,Health,100.0
+Pahang,2011,Health,103.4
+Pahang,2012,Health,103.0
+Pahang,2013,Health,102.1
+Pahang,2014,Health,101.9
+Pahang,2015,Health,103.6
+Pahang,2016,Health,104.8
+Pahang,2017,Health,103.0
+Pahang,2018,Health,105.5
+Pahang,2019,Health,108.6
+Pahang,2020,Health,109.4
+Pahang,2021,Health,111.2
+Pahang,2022,Health,104.3
+Pahang,2023,Health,104.3
+Pahang,2024,Health,103.5
+Pahang,2010,Housing,100.0
+Pahang,2011,Housing,110.0
+Pahang,2012,Housing,119.3
+Pahang,2013,Housing,121.3
+Pahang,2014,Housing,123.4
+Pahang,2015,Housing,123.9
+Pahang,2016,Housing,124.5
+Pahang,2017,Housing,133.4
+Pahang,2018,Housing,130.0
+Pahang,2019,Housing,130.7
+Pahang,2020,Housing,131.2
+Pahang,2021,Housing,128.4
+Pahang,2022,Housing,127.2
+Pahang,2023,Housing,126.1
+Pahang,2024,Housing,125.8
+Pahang,2010,Income and Distribution,100.0
+Pahang,2011,Income and Distribution,104.9
+Pahang,2012,Income and Distribution,108.7
+Pahang,2013,Income and Distribution,111.2
+Pahang,2014,Income and Distribution,114.1
+Pahang,2015,Income and Distribution,120.6
+Pahang,2016,Income and Distribution,116.9
+Pahang,2017,Income and Distribution,121.8
+Pahang,2018,Income and Distribution,125.4
+Pahang,2019,Income and Distribution,129.5
+Pahang,2020,Income and Distribution,118.8
+Pahang,2021,Income and Distribution,121.6
+Pahang,2022,Income and Distribution,132.9
+Pahang,2023,Income and Distribution,132.3
+Pahang,2024,Income and Distribution,133.9
+Pahang,2010,MyWI Overall,100.0
+Pahang,2011,MyWI Overall,103.0
+Pahang,2012,MyWI Overall,105.2
+Pahang,2013,MyWI Overall,106.7
+Pahang,2014,MyWI Overall,108.4
+Pahang,2015,MyWI Overall,109.6
+Pahang,2016,MyWI Overall,111.0
+Pahang,2017,MyWI Overall,111.2
+Pahang,2018,MyWI Overall,112.9
+Pahang,2019,MyWI Overall,112.3
+Pahang,2020,MyWI Overall,113.0
+Pahang,2021,MyWI Overall,112.6
+Pahang,2022,MyWI Overall,114.7
+Pahang,2023,MyWI Overall,116.0
+Pahang,2024,MyWI Overall,117.2
+Pahang,2010,Public Safety,100.0
+Pahang,2011,Public Safety,96.2
+Pahang,2012,Public Safety,93.7
+Pahang,2013,Public Safety,99.5
+Pahang,2014,Public Safety,102.1
+Pahang,2015,Public Safety,107.2
+Pahang,2016,Public Safety,109.6
+Pahang,2017,Public Safety,115.2
+Pahang,2018,Public Safety,114.2
+Pahang,2019,Public Safety,111.1
+Pahang,2020,Public Safety,123.0
+Pahang,2021,Public Safety,125.1
+Pahang,2022,Public Safety,115.9
+Pahang,2023,Public Safety,117.4
+Pahang,2024,Public Safety,113.8
+Pahang,2010,Social,100.0
+Pahang,2011,Social,104.2
+Pahang,2012,Social,105.5
+Pahang,2013,Social,106.8
+Pahang,2014,Social,109.1
+Pahang,2015,Social,111.7
+Pahang,2016,Social,112.2
+Pahang,2017,Social,114.0
+Pahang,2018,Social,115.1
+Pahang,2019,Social,114.6
+Pahang,2020,Social,114.2
+Pahang,2021,Social,112.8
+Pahang,2022,Social,113.5
+Pahang,2023,Social,117.7
+Pahang,2024,Social,117.9
+Pahang,2010,Social Participation,100.0
+Pahang,2011,Social Participation,115.3
+Pahang,2012,Social Participation,115.8
+Pahang,2013,Social Participation,115.1
+Pahang,2014,Social Participation,116.5
+Pahang,2015,Social Participation,122.4
+Pahang,2016,Social Participation,123.1
+Pahang,2017,Social Participation,126.8
+Pahang,2018,Social Participation,128.8
+Pahang,2019,Social Participation,137.0
+Pahang,2020,Social Participation,135.3
+Pahang,2021,Social Participation,129.0
+Pahang,2022,Social Participation,131.5
+Pahang,2023,Social Participation,133.5
+Pahang,2024,Social Participation,139.2
+Pahang,2010,Transportation,100.0
+Pahang,2011,Transportation,103.1
+Pahang,2012,Transportation,99.1
+Pahang,2013,Transportation,100.7
+Pahang,2014,Transportation,101.7
+Pahang,2015,Transportation,102.6
+Pahang,2016,Transportation,104.2
+Pahang,2017,Transportation,106.2
+Pahang,2018,Transportation,108.8
+Pahang,2019,Transportation,111.5
+Pahang,2020,Transportation,112.4
+Pahang,2021,Transportation,113.6
+Pahang,2022,Transportation,123.5
+Pahang,2023,Transportation,125.1
+Pahang,2024,Transportation,124.3
+Pahang,2010,Water,100.0
+Pahang,2011,Water,100.0
+Pahang,2012,Water,100.0
+Pahang,2013,Water,100.0
+Pahang,2014,Water,100.0
+Pahang,2015,Water,100.0
+Pahang,2016,Water,100.0
+Pahang,2017,Water,100.0
+Pahang,2018,Water,100.0
+Pahang,2019,Water,100.0
+Pahang,2020,Water,100.0
+Pahang,2021,Water,100.0
+Pahang,2022,Water,100.0
+Pahang,2023,Water,100.0
+Pahang,2024,Water,112.3
+Pahang,2010,Working Life,100.0
+Pahang,2011,Working Life,110.0
+Pahang,2012,Working Life,114.0
+Pahang,2013,Working Life,116.9
+Pahang,2014,Working Life,115.6
+Pahang,2015,Working Life,118.9
+Pahang,2016,Working Life,118.5
+Pahang,2017,Working Life,116.6
+Pahang,2018,Working Life,123.6
+Pahang,2019,Working Life,115.7
+Pahang,2020,Working Life,126.7
+Pahang,2021,Working Life,130.4
+Pahang,2022,Working Life,123.7
+Pahang,2023,Working Life,122.1
+Pahang,2024,Working Life,125.6
+Perak,2010,Air,100.0
+Perak,2011,Air,88.5
+Perak,2012,Air,91.1
+Perak,2013,Air,89.8
+Perak,2014,Air,75.8
+Perak,2015,Air,75.8
+Perak,2016,Air,87.2
+Perak,2017,Air,74.5
+Perak,2018,Air,77.3
+Perak,2019,Air,73.9
+Perak,2020,Air,89.3
+Perak,2021,Air,89.5
+Perak,2022,Air,91.3
+Perak,2023,Air,87.9
+Perak,2024,Air,74.3
+Perak,2010,Biodiversity Resources,100.0
+Perak,2011,Biodiversity Resources,98.0
+Perak,2012,Biodiversity Resources,102.8
+Perak,2013,Biodiversity Resources,111.8
+Perak,2014,Biodiversity Resources,99.6
+Perak,2015,Biodiversity Resources,102.8
+Perak,2016,Biodiversity Resources,99.5
+Perak,2017,Biodiversity Resources,101.3
+Perak,2018,Biodiversity Resources,77.2
+Perak,2019,Biodiversity Resources,98.3
+Perak,2020,Biodiversity Resources,93.9
+Perak,2021,Biodiversity Resources,101.9
+Perak,2022,Biodiversity Resources,102.4
+Perak,2023,Biodiversity Resources,107.1
+Perak,2024,Biodiversity Resources,102.2
+Perak,2010,Communication,100.0
+Perak,2011,Communication,101.6
+Perak,2012,Communication,109.6
+Perak,2013,Communication,106.9
+Perak,2014,Communication,119.4
+Perak,2015,Communication,119.5
+Perak,2016,Communication,120.6
+Perak,2017,Communication,123.2
+Perak,2018,Communication,124.9
+Perak,2019,Communication,127.1
+Perak,2020,Communication,121.3
+Perak,2021,Communication,124.0
+Perak,2022,Communication,123.7
+Perak,2023,Communication,123.8
+Perak,2024,Communication,124.4
+Perak,2010,Culture,100.0
+Perak,2011,Culture,99.9
+Perak,2012,Culture,98.1
+Perak,2013,Culture,98.3
+Perak,2014,Culture,101.5
+Perak,2015,Culture,102.4
+Perak,2016,Culture,98.2
+Perak,2017,Culture,103.3
+Perak,2018,Culture,99.7
+Perak,2019,Culture,100.2
+Perak,2020,Culture,99.6
+Perak,2021,Culture,97.9
+Perak,2022,Culture,100.7
+Perak,2023,Culture,112.9
+Perak,2024,Culture,128.4
+Perak,2010,Economic,100.0
+Perak,2011,Economic,104.2
+Perak,2012,Economic,108.4
+Perak,2013,Economic,110.2
+Perak,2014,Economic,115.0
+Perak,2015,Economic,118.9
+Perak,2016,Economic,119.3
+Perak,2017,Economic,122.1
+Perak,2018,Economic,123.8
+Perak,2019,Economic,123.3
+Perak,2020,Economic,121.0
+Perak,2021,Economic,122.3
+Perak,2022,Economic,125.9
+Perak,2023,Economic,126.1
+Perak,2024,Economic,127.9
+Perak,2010,Education,100.0
+Perak,2011,Education,108.6
+Perak,2012,Education,108.4
+Perak,2013,Education,110.7
+Perak,2014,Education,113.2
+Perak,2015,Education,114.5
+Perak,2016,Education,118.1
+Perak,2017,Education,119.7
+Perak,2018,Education,121.8
+Perak,2019,Education,123.3
+Perak,2020,Education,126.6
+Perak,2021,Education,130.8
+Perak,2022,Education,132.2
+Perak,2023,Education,133.2
+Perak,2024,Education,129.7
+Perak,2010,Entertainment and Recreation,100.0
+Perak,2011,Entertainment and Recreation,101.7
+Perak,2012,Entertainment and Recreation,104.1
+Perak,2013,Entertainment and Recreation,105.7
+Perak,2014,Entertainment and Recreation,106.8
+Perak,2015,Entertainment and Recreation,107.1
+Perak,2016,Entertainment and Recreation,108.9
+Perak,2017,Entertainment and Recreation,112.9
+Perak,2018,Entertainment and Recreation,115.6
+Perak,2019,Entertainment and Recreation,117.5
+Perak,2020,Entertainment and Recreation,95.6
+Perak,2021,Entertainment and Recreation,97.7
+Perak,2022,Entertainment and Recreation,116.8
+Perak,2023,Entertainment and Recreation,116.0
+Perak,2024,Entertainment and Recreation,114.9
+Perak,2010,Environmental,100.0
+Perak,2011,Environmental,96.2
+Perak,2012,Environmental,98.7
+Perak,2013,Environmental,101.3
+Perak,2014,Environmental,92.5
+Perak,2015,Environmental,93.6
+Perak,2016,Environmental,96.3
+Perak,2017,Environmental,92.7
+Perak,2018,Environmental,85.6
+Perak,2019,Environmental,91.5
+Perak,2020,Environmental,95.1
+Perak,2021,Environmental,97.9
+Perak,2022,Environmental,98.6
+Perak,2023,Environmental,99.1
+Perak,2024,Environmental,90.0
+Perak,2010,Family,100.0
+Perak,2011,Family,109.9
+Perak,2012,Family,110.9
+Perak,2013,Family,107.5
+Perak,2014,Family,109.6
+Perak,2015,Family,114.6
+Perak,2016,Family,111.1
+Perak,2017,Family,113.7
+Perak,2018,Family,111.5
+Perak,2019,Family,110.4
+Perak,2020,Family,114.4
+Perak,2021,Family,113.5
+Perak,2022,Family,120.1
+Perak,2023,Family,117.9
+Perak,2024,Family,112.0
+Perak,2010,Governance,100.0
+Perak,2011,Governance,100.9
+Perak,2012,Governance,96.6
+Perak,2013,Governance,105.9
+Perak,2014,Governance,108.9
+Perak,2015,Governance,101.7
+Perak,2016,Governance,90.5
+Perak,2017,Governance,107.9
+Perak,2018,Governance,103.7
+Perak,2019,Governance,100.7
+Perak,2020,Governance,97.5
+Perak,2021,Governance,103.0
+Perak,2022,Governance,102.5
+Perak,2023,Governance,108.4
+Perak,2024,Governance,111.2
+Perak,2010,Health,100.0
+Perak,2011,Health,105.3
+Perak,2012,Health,111.8
+Perak,2013,Health,108.5
+Perak,2014,Health,104.8
+Perak,2015,Health,103.9
+Perak,2016,Health,106.7
+Perak,2017,Health,101.1
+Perak,2018,Health,100.3
+Perak,2019,Health,107.5
+Perak,2020,Health,107.0
+Perak,2021,Health,110.0
+Perak,2022,Health,103.4
+Perak,2023,Health,100.4
+Perak,2024,Health,109.7
+Perak,2010,Housing,100.0
+Perak,2011,Housing,99.5
+Perak,2012,Housing,98.3
+Perak,2013,Housing,107.7
+Perak,2014,Housing,117.0
+Perak,2015,Housing,117.1
+Perak,2016,Housing,118.6
+Perak,2017,Housing,123.1
+Perak,2018,Housing,127.0
+Perak,2019,Housing,128.3
+Perak,2020,Housing,138.6
+Perak,2021,Housing,133.1
+Perak,2022,Housing,135.2
+Perak,2023,Housing,133.6
+Perak,2024,Housing,133.7
+Perak,2010,Income and Distribution,100.0
+Perak,2011,Income and Distribution,103.2
+Perak,2012,Income and Distribution,106.0
+Perak,2013,Income and Distribution,113.1
+Perak,2014,Income and Distribution,120.7
+Perak,2015,Income and Distribution,124.5
+Perak,2016,Income and Distribution,123.3
+Perak,2017,Income and Distribution,124.7
+Perak,2018,Income and Distribution,125.6
+Perak,2019,Income and Distribution,126.7
+Perak,2020,Income and Distribution,114.6
+Perak,2021,Income and Distribution,118.9
+Perak,2022,Income and Distribution,130.5
+Perak,2023,Income and Distribution,131.0
+Perak,2024,Income and Distribution,133.9
+Perak,2010,MyWI Overall,100.0
+Perak,2011,MyWI Overall,103.0
+Perak,2012,MyWI Overall,104.6
+Perak,2013,MyWI Overall,106.7
+Perak,2014,MyWI Overall,108.3
+Perak,2015,MyWI Overall,109.4
+Perak,2016,MyWI Overall,109.6
+Perak,2017,MyWI Overall,112.8
+Perak,2018,MyWI Overall,111.7
+Perak,2019,MyWI Overall,113.4
+Perak,2020,MyWI Overall,113.7
+Perak,2021,MyWI Overall,114.9
+Perak,2022,MyWI Overall,117.5
+Perak,2023,MyWI Overall,118.4
+Perak,2024,MyWI Overall,117.6
+Perak,2010,Public Safety,100.0
+Perak,2011,Public Safety,103.6
+Perak,2012,Public Safety,106.6
+Perak,2013,Public Safety,105.7
+Perak,2014,Public Safety,115.1
+Perak,2015,Public Safety,109.4
+Perak,2016,Public Safety,112.0
+Perak,2017,Public Safety,123.1
+Perak,2018,Public Safety,117.6
+Perak,2019,Public Safety,117.7
+Perak,2020,Public Safety,132.0
+Perak,2021,Public Safety,133.7
+Perak,2022,Public Safety,122.5
+Perak,2023,Public Safety,119.8
+Perak,2024,Public Safety,114.4
+Perak,2010,Social,100.0
+Perak,2011,Social,105.0
+Perak,2012,Social,105.7
+Perak,2013,Social,107.2
+Perak,2014,Social,110.2
+Perak,2015,Social,109.8
+Perak,2016,Social,109.4
+Perak,2017,Social,114.1
+Perak,2018,Social,113.7
+Perak,2019,Social,115.7
+Perak,2020,Social,115.9
+Perak,2021,Social,116.8
+Perak,2022,Social,118.4
+Perak,2023,Social,119.4
+Perak,2024,Social,121.4
+Perak,2010,Social Participation,100.0
+Perak,2011,Social Participation,116.0
+Perak,2012,Social Participation,116.4
+Perak,2013,Social Participation,114.5
+Perak,2014,Social Participation,114.8
+Perak,2015,Social Participation,117.5
+Perak,2016,Social Participation,119.9
+Perak,2017,Social Participation,122.1
+Perak,2018,Social Participation,126.3
+Perak,2019,Social Participation,135.4
+Perak,2020,Social Participation,131.4
+Perak,2021,Social Participation,131.7
+Perak,2022,Social Participation,132.4
+Perak,2023,Social Participation,132.6
+Perak,2024,Social Participation,138.3
+Perak,2010,Transportation,100.0
+Perak,2011,Transportation,102.5
+Perak,2012,Transportation,108.9
+Perak,2013,Transportation,110.1
+Perak,2014,Transportation,113.9
+Perak,2015,Transportation,118.1
+Perak,2016,Transportation,122.1
+Perak,2017,Transportation,127.6
+Perak,2018,Transportation,129.9
+Perak,2019,Transportation,128.3
+Perak,2020,Transportation,122.6
+Perak,2021,Transportation,120.0
+Perak,2022,Transportation,127.9
+Perak,2023,Transportation,129.5
+Perak,2024,Transportation,131.8
+Perak,2010,Water,100.0
+Perak,2011,Water,102.2
+Perak,2012,Water,102.2
+Perak,2013,Water,102.2
+Perak,2014,Water,102.2
+Perak,2015,Water,102.2
+Perak,2016,Water,102.2
+Perak,2017,Water,102.2
+Perak,2018,Water,102.2
+Perak,2019,Water,102.2
+Perak,2020,Water,102.2
+Perak,2021,Water,102.2
+Perak,2022,Water,102.2
+Perak,2023,Water,102.2
+Perak,2024,Water,93.4
+Perak,2010,Working Life,100.0
+Perak,2011,Working Life,109.4
+Perak,2012,Working Life,109.2
+Perak,2013,Working Life,110.6
+Perak,2014,Working Life,106.2
+Perak,2015,Working Life,113.4
+Perak,2016,Working Life,111.1
+Perak,2017,Working Life,112.7
+Perak,2018,Working Life,114.8
+Perak,2019,Working Life,111.3
+Perak,2020,Working Life,125.5
+Perak,2021,Working Life,126.2
+Perak,2022,Working Life,121.3
+Perak,2023,Working Life,120.0
+Perak,2024,Working Life,121.6
+Perlis,2010,Air,100.0
+Perlis,2011,Air,93.7
+Perlis,2012,Air,100.8
+Perlis,2013,Air,85.1
+Perlis,2014,Air,81.2
+Perlis,2015,Air,81.2
+Perlis,2016,Air,77.3
+Perlis,2017,Air,80.4
+Perlis,2018,Air,82.6
+Perlis,2019,Air,73.8
+Perlis,2020,Air,85.2
+Perlis,2021,Air,89.6
+Perlis,2022,Air,104.0
+Perlis,2023,Air,86.3
+Perlis,2024,Air,81.6
+Perlis,2010,Biodiversity Resources,100.0
+Perlis,2011,Biodiversity Resources,100.4
+Perlis,2012,Biodiversity Resources,101.4
+Perlis,2013,Biodiversity Resources,98.8
+Perlis,2014,Biodiversity Resources,102.5
+Perlis,2015,Biodiversity Resources,93.9
+Perlis,2016,Biodiversity Resources,102.0
+Perlis,2017,Biodiversity Resources,99.5
+Perlis,2018,Biodiversity Resources,92.6
+Perlis,2019,Biodiversity Resources,95.2
+Perlis,2020,Biodiversity Resources,81.1
+Perlis,2021,Biodiversity Resources,84.0
+Perlis,2022,Biodiversity Resources,81.5
+Perlis,2023,Biodiversity Resources,82.1
+Perlis,2024,Biodiversity Resources,79.2
+Perlis,2010,Communication,100.0
+Perlis,2011,Communication,102.2
+Perlis,2012,Communication,110.7
+Perlis,2013,Communication,105.2
+Perlis,2014,Communication,118.9
+Perlis,2015,Communication,119.6
+Perlis,2016,Communication,121.4
+Perlis,2017,Communication,124.8
+Perlis,2018,Communication,125.1
+Perlis,2019,Communication,121.8
+Perlis,2020,Communication,117.4
+Perlis,2021,Communication,119.7
+Perlis,2022,Communication,120.7
+Perlis,2023,Communication,121.3
+Perlis,2024,Communication,122.5
+Perlis,2010,Culture,100.0
+Perlis,2011,Culture,86.3
+Perlis,2012,Culture,85.1
+Perlis,2013,Culture,85.6
+Perlis,2014,Culture,88.6
+Perlis,2015,Culture,88.5
+Perlis,2016,Culture,87.3
+Perlis,2017,Culture,86.0
+Perlis,2018,Culture,86.2
+Perlis,2019,Culture,86.1
+Perlis,2020,Culture,80.5
+Perlis,2021,Culture,79.4
+Perlis,2022,Culture,89.3
+Perlis,2023,Culture,100.3
+Perlis,2024,Culture,104.2
+Perlis,2010,Economic,100.0
+Perlis,2011,Economic,104.3
+Perlis,2012,Economic,109.3
+Perlis,2013,Economic,112.8
+Perlis,2014,Economic,117.9
+Perlis,2015,Economic,119.5
+Perlis,2016,Economic,119.7
+Perlis,2017,Economic,121.2
+Perlis,2018,Economic,124.6
+Perlis,2019,Economic,124.9
+Perlis,2020,Economic,118.8
+Perlis,2021,Economic,117.4
+Perlis,2022,Economic,123.3
+Perlis,2023,Economic,126.2
+Perlis,2024,Economic,126.9
+Perlis,2010,Education,100.0
+Perlis,2011,Education,109.1
+Perlis,2012,Education,111.4
+Perlis,2013,Education,110.1
+Perlis,2014,Education,114.3
+Perlis,2015,Education,116.2
+Perlis,2016,Education,118.2
+Perlis,2017,Education,124.4
+Perlis,2018,Education,123.9
+Perlis,2019,Education,126.3
+Perlis,2020,Education,130.2
+Perlis,2021,Education,131.9
+Perlis,2022,Education,133.0
+Perlis,2023,Education,129.7
+Perlis,2024,Education,127.2
+Perlis,2010,Entertainment and Recreation,100.0
+Perlis,2011,Entertainment and Recreation,105.3
+Perlis,2012,Entertainment and Recreation,107.2
+Perlis,2013,Entertainment and Recreation,113.6
+Perlis,2014,Entertainment and Recreation,111.3
+Perlis,2015,Entertainment and Recreation,105.9
+Perlis,2016,Entertainment and Recreation,110.5
+Perlis,2017,Entertainment and Recreation,114.0
+Perlis,2018,Entertainment and Recreation,112.4
+Perlis,2019,Entertainment and Recreation,113.1
+Perlis,2020,Entertainment and Recreation,109.8
+Perlis,2021,Entertainment and Recreation,112.0
+Perlis,2022,Entertainment and Recreation,129.3
+Perlis,2023,Entertainment and Recreation,126.4
+Perlis,2024,Entertainment and Recreation,121.8
+Perlis,2010,Environmental,100.0
+Perlis,2011,Environmental,98.2
+Perlis,2012,Environmental,100.9
+Perlis,2013,Environmental,94.8
+Perlis,2014,Environmental,94.8
+Perlis,2015,Environmental,91.9
+Perlis,2016,Environmental,93.3
+Perlis,2017,Environmental,93.5
+Perlis,2018,Environmental,91.9
+Perlis,2019,Environmental,89.8
+Perlis,2020,Environmental,89.0
+Perlis,2021,Environmental,91.4
+Perlis,2022,Environmental,95.4
+Perlis,2023,Environmental,89.6
+Perlis,2024,Environmental,87.3
+Perlis,2010,Family,100.0
+Perlis,2011,Family,97.9
+Perlis,2012,Family,91.3
+Perlis,2013,Family,92.2
+Perlis,2014,Family,98.9
+Perlis,2015,Family,90.8
+Perlis,2016,Family,92.5
+Perlis,2017,Family,92.6
+Perlis,2018,Family,96.7
+Perlis,2019,Family,89.1
+Perlis,2020,Family,102.2
+Perlis,2021,Family,101.4
+Perlis,2022,Family,100.4
+Perlis,2023,Family,104.1
+Perlis,2024,Family,106.0
+Perlis,2010,Governance,100.0
+Perlis,2011,Governance,99.9
+Perlis,2012,Governance,113.5
+Perlis,2013,Governance,101.7
+Perlis,2014,Governance,104.2
+Perlis,2015,Governance,103.5
+Perlis,2016,Governance,90.7
+Perlis,2017,Governance,104.6
+Perlis,2018,Governance,101.3
+Perlis,2019,Governance,103.1
+Perlis,2020,Governance,100.6
+Perlis,2021,Governance,110.6
+Perlis,2022,Governance,98.4
+Perlis,2023,Governance,110.9
+Perlis,2024,Governance,110.9
+Perlis,2010,Health,100.0
+Perlis,2011,Health,106.3
+Perlis,2012,Health,110.4
+Perlis,2013,Health,109.6
+Perlis,2014,Health,108.8
+Perlis,2015,Health,108.5
+Perlis,2016,Health,111.6
+Perlis,2017,Health,109.0
+Perlis,2018,Health,110.9
+Perlis,2019,Health,107.9
+Perlis,2020,Health,118.5
+Perlis,2021,Health,113.2
+Perlis,2022,Health,102.8
+Perlis,2023,Health,106.8
+Perlis,2024,Health,117.3
+Perlis,2010,Housing,100.0
+Perlis,2011,Housing,110.5
+Perlis,2012,Housing,121.0
+Perlis,2013,Housing,123.3
+Perlis,2014,Housing,126.0
+Perlis,2015,Housing,126.8
+Perlis,2016,Housing,129.3
+Perlis,2017,Housing,134.4
+Perlis,2018,Housing,134.3
+Perlis,2019,Housing,137.7
+Perlis,2020,Housing,141.5
+Perlis,2021,Housing,134.1
+Perlis,2022,Housing,135.7
+Perlis,2023,Housing,135.6
+Perlis,2024,Housing,135.4
+Perlis,2010,Income and Distribution,100.0
+Perlis,2011,Income and Distribution,104.6
+Perlis,2012,Income and Distribution,109.7
+Perlis,2013,Income and Distribution,117.5
+Perlis,2014,Income and Distribution,125.5
+Perlis,2015,Income and Distribution,126.0
+Perlis,2016,Income and Distribution,124.1
+Perlis,2017,Income and Distribution,126.9
+Perlis,2018,Income and Distribution,129.6
+Perlis,2019,Income and Distribution,132.6
+Perlis,2020,Income and Distribution,118.6
+Perlis,2021,Income and Distribution,121.0
+Perlis,2022,Income and Distribution,133.2
+Perlis,2023,Income and Distribution,134.9
+Perlis,2024,Income and Distribution,137.5
+Perlis,2010,MyWI Overall,100.0
+Perlis,2011,MyWI Overall,101.2
+Perlis,2012,MyWI Overall,105.3
+Perlis,2013,MyWI Overall,106.1
+Perlis,2014,MyWI Overall,108.4
+Perlis,2015,MyWI Overall,107.3
+Perlis,2016,MyWI Overall,107.9
+Perlis,2017,MyWI Overall,110.3
+Perlis,2018,MyWI Overall,110.9
+Perlis,2019,MyWI Overall,110.9
+Perlis,2020,MyWI Overall,109.9
+Perlis,2021,MyWI Overall,110.3
+Perlis,2022,MyWI Overall,113.8
+Perlis,2023,MyWI Overall,114.4
+Perlis,2024,MyWI Overall,114.5
+Perlis,2010,Public Safety,100.0
+Perlis,2011,Public Safety,89.4
+Perlis,2012,Public Safety,100.2
+Perlis,2013,Public Safety,107.3
+Perlis,2014,Public Safety,102.8
+Perlis,2015,Public Safety,109.4
+Perlis,2016,Public Safety,113.1
+Perlis,2017,Public Safety,113.0
+Perlis,2018,Public Safety,112.3
+Perlis,2019,Public Safety,113.6
+Perlis,2020,Public Safety,117.4
+Perlis,2021,Public Safety,118.8
+Perlis,2022,Public Safety,118.3
+Perlis,2023,Public Safety,109.3
+Perlis,2024,Public Safety,112.6
+Perlis,2010,Social,100.0
+Perlis,2011,Social,101.3
+Perlis,2012,Social,105.6
+Perlis,2013,Social,107.2
+Perlis,2014,Social,108.8
+Perlis,2015,Social,107.2
+Perlis,2016,Social,107.8
+Perlis,2017,Social,110.9
+Perlis,2018,Social,111.0
+Perlis,2019,Social,111.4
+Perlis,2020,Social,113.9
+Perlis,2021,Social,113.8
+Perlis,2022,Social,114.6
+Perlis,2023,Social,116.5
+Perlis,2024,Social,118.4
+Perlis,2010,Social Participation,100.0
+Perlis,2011,Social Participation,107.4
+Perlis,2012,Social Participation,110.8
+Perlis,2013,Social Participation,121.8
+Perlis,2014,Social Participation,124.2
+Perlis,2015,Social Participation,115.2
+Perlis,2016,Social Participation,117.4
+Perlis,2017,Social Participation,120.1
+Perlis,2018,Social Participation,121.3
+Perlis,2019,Social Participation,125.2
+Perlis,2020,Social Participation,124.5
+Perlis,2021,Social Participation,122.4
+Perlis,2022,Social Participation,123.8
+Perlis,2023,Social Participation,125.4
+Perlis,2024,Social Participation,130.0
+Perlis,2010,Transportation,100.0
+Perlis,2011,Transportation,100.8
+Perlis,2012,Transportation,102.0
+Perlis,2013,Transportation,101.7
+Perlis,2014,Transportation,103.6
+Perlis,2015,Transportation,110.8
+Perlis,2016,Transportation,114.8
+Perlis,2017,Transportation,117.9
+Perlis,2018,Transportation,122.8
+Perlis,2019,Transportation,123.8
+Perlis,2020,Transportation,118.3
+Perlis,2021,Transportation,117.2
+Perlis,2022,Transportation,125.8
+Perlis,2023,Transportation,127.9
+Perlis,2024,Transportation,130.2
+Perlis,2010,Water,100.0
+Perlis,2011,Water,100.6
+Perlis,2012,Water,100.6
+Perlis,2013,Water,100.6
+Perlis,2014,Water,100.6
+Perlis,2015,Water,100.6
+Perlis,2016,Water,100.6
+Perlis,2017,Water,100.6
+Perlis,2018,Water,100.6
+Perlis,2019,Water,100.6
+Perlis,2020,Water,100.6
+Perlis,2021,Water,100.6
+Perlis,2022,Water,100.6
+Perlis,2023,Water,100.6
+Perlis,2024,Water,101.1
+Perlis,2010,Working Life,100.0
+Perlis,2011,Working Life,109.5
+Perlis,2012,Working Life,114.7
+Perlis,2013,Working Life,126.8
+Perlis,2014,Working Life,123.5
+Perlis,2015,Working Life,121.6
+Perlis,2016,Working Life,118.6
+Perlis,2017,Working Life,115.0
+Perlis,2018,Working Life,121.1
+Perlis,2019,Working Life,121.4
+Perlis,2020,Working Life,121.1
+Perlis,2021,Working Life,111.7
+Perlis,2022,Working Life,113.6
+Perlis,2023,Working Life,120.6
+Perlis,2024,Working Life,117.3
+Pulau Pinang,2010,Air,100.0
+Pulau Pinang,2011,Air,90.4
+Pulau Pinang,2012,Air,97.1
+Pulau Pinang,2013,Air,90.4
+Pulau Pinang,2014,Air,81.7
+Pulau Pinang,2015,Air,70.2
+Pulau Pinang,2016,Air,92.3
+Pulau Pinang,2017,Air,95.2
+Pulau Pinang,2018,Air,82.4
+Pulau Pinang,2019,Air,79.9
+Pulau Pinang,2020,Air,87.1
+Pulau Pinang,2021,Air,90.6
+Pulau Pinang,2022,Air,94.3
+Pulau Pinang,2023,Air,85.3
+Pulau Pinang,2024,Air,86.9
+Pulau Pinang,2010,Biodiversity Resources,100.0
+Pulau Pinang,2011,Biodiversity Resources,93.1
+Pulau Pinang,2012,Biodiversity Resources,81.0
+Pulau Pinang,2013,Biodiversity Resources,98.6
+Pulau Pinang,2014,Biodiversity Resources,99.4
+Pulau Pinang,2015,Biodiversity Resources,99.4
+Pulau Pinang,2016,Biodiversity Resources,99.4
+Pulau Pinang,2017,Biodiversity Resources,98.5
+Pulau Pinang,2018,Biodiversity Resources,99.3
+Pulau Pinang,2019,Biodiversity Resources,99.3
+Pulau Pinang,2020,Biodiversity Resources,96.7
+Pulau Pinang,2021,Biodiversity Resources,95.9
+Pulau Pinang,2022,Biodiversity Resources,111.0
+Pulau Pinang,2023,Biodiversity Resources,111.0
+Pulau Pinang,2024,Biodiversity Resources,111.0
+Pulau Pinang,2010,Communication,100.0
+Pulau Pinang,2011,Communication,103.5
+Pulau Pinang,2012,Communication,112.6
+Pulau Pinang,2013,Communication,110.8
+Pulau Pinang,2014,Communication,121.3
+Pulau Pinang,2015,Communication,123.2
+Pulau Pinang,2016,Communication,126.4
+Pulau Pinang,2017,Communication,130.0
+Pulau Pinang,2018,Communication,131.6
+Pulau Pinang,2019,Communication,130.3
+Pulau Pinang,2020,Communication,126.7
+Pulau Pinang,2021,Communication,130.2
+Pulau Pinang,2022,Communication,131.7
+Pulau Pinang,2023,Communication,131.2
+Pulau Pinang,2024,Communication,131.8
+Pulau Pinang,2010,Culture,100.0
+Pulau Pinang,2011,Culture,101.9
+Pulau Pinang,2012,Culture,100.6
+Pulau Pinang,2013,Culture,104.0
+Pulau Pinang,2014,Culture,108.7
+Pulau Pinang,2015,Culture,108.6
+Pulau Pinang,2016,Culture,110.4
+Pulau Pinang,2017,Culture,105.9
+Pulau Pinang,2018,Culture,103.8
+Pulau Pinang,2019,Culture,105.1
+Pulau Pinang,2020,Culture,104.2
+Pulau Pinang,2021,Culture,104.2
+Pulau Pinang,2022,Culture,107.9
+Pulau Pinang,2023,Culture,109.9
+Pulau Pinang,2024,Culture,111.5
+Pulau Pinang,2010,Economic,100.0
+Pulau Pinang,2011,Economic,105.8
+Pulau Pinang,2012,Economic,110.7
+Pulau Pinang,2013,Economic,114.4
+Pulau Pinang,2014,Economic,116.5
+Pulau Pinang,2015,Economic,119.2
+Pulau Pinang,2016,Economic,120.9
+Pulau Pinang,2017,Economic,121.5
+Pulau Pinang,2018,Economic,124.4
+Pulau Pinang,2019,Economic,124.3
+Pulau Pinang,2020,Economic,123.6
+Pulau Pinang,2021,Economic,126.6
+Pulau Pinang,2022,Economic,127.5
+Pulau Pinang,2023,Economic,127.1
+Pulau Pinang,2024,Economic,128.9
+Pulau Pinang,2010,Education,100.0
+Pulau Pinang,2011,Education,100.8
+Pulau Pinang,2012,Education,105.6
+Pulau Pinang,2013,Education,103.2
+Pulau Pinang,2014,Education,107.2
+Pulau Pinang,2015,Education,108.3
+Pulau Pinang,2016,Education,108.0
+Pulau Pinang,2017,Education,111.9
+Pulau Pinang,2018,Education,114.9
+Pulau Pinang,2019,Education,116.4
+Pulau Pinang,2020,Education,117.3
+Pulau Pinang,2021,Education,116.5
+Pulau Pinang,2022,Education,118.6
+Pulau Pinang,2023,Education,123.5
+Pulau Pinang,2024,Education,120.5
+Pulau Pinang,2010,Entertainment and Recreation,100.0
+Pulau Pinang,2011,Entertainment and Recreation,105.1
+Pulau Pinang,2012,Entertainment and Recreation,108.8
+Pulau Pinang,2013,Entertainment and Recreation,108.8
+Pulau Pinang,2014,Entertainment and Recreation,113.5
+Pulau Pinang,2015,Entertainment and Recreation,118.2
+Pulau Pinang,2016,Entertainment and Recreation,120.9
+Pulau Pinang,2017,Entertainment and Recreation,117.5
+Pulau Pinang,2018,Entertainment and Recreation,121.4
+Pulau Pinang,2019,Entertainment and Recreation,121.7
+Pulau Pinang,2020,Entertainment and Recreation,104.3
+Pulau Pinang,2021,Entertainment and Recreation,98.4
+Pulau Pinang,2022,Entertainment and Recreation,114.6
+Pulau Pinang,2023,Entertainment and Recreation,117.0
+Pulau Pinang,2024,Entertainment and Recreation,117.2
+Pulau Pinang,2010,Environmental,100.0
+Pulau Pinang,2011,Environmental,94.3
+Pulau Pinang,2012,Environmental,92.7
+Pulau Pinang,2013,Environmental,96.3
+Pulau Pinang,2014,Environmental,93.7
+Pulau Pinang,2015,Environmental,89.9
+Pulau Pinang,2016,Environmental,97.3
+Pulau Pinang,2017,Environmental,97.9
+Pulau Pinang,2018,Environmental,93.9
+Pulau Pinang,2019,Environmental,93.1
+Pulau Pinang,2020,Environmental,94.6
+Pulau Pinang,2021,Environmental,95.5
+Pulau Pinang,2022,Environmental,101.8
+Pulau Pinang,2023,Environmental,98.8
+Pulau Pinang,2024,Environmental,98.6
+Pulau Pinang,2010,Family,100.0
+Pulau Pinang,2011,Family,102.2
+Pulau Pinang,2012,Family,102.0
+Pulau Pinang,2013,Family,99.9
+Pulau Pinang,2014,Family,100.9
+Pulau Pinang,2015,Family,99.7
+Pulau Pinang,2016,Family,104.7
+Pulau Pinang,2017,Family,103.2
+Pulau Pinang,2018,Family,104.5
+Pulau Pinang,2019,Family,102.8
+Pulau Pinang,2020,Family,107.9
+Pulau Pinang,2021,Family,106.8
+Pulau Pinang,2022,Family,103.1
+Pulau Pinang,2023,Family,107.1
+Pulau Pinang,2024,Family,105.4
+Pulau Pinang,2010,Governance,100.0
+Pulau Pinang,2011,Governance,96.8
+Pulau Pinang,2012,Governance,99.8
+Pulau Pinang,2013,Governance,102.8
+Pulau Pinang,2014,Governance,105.2
+Pulau Pinang,2015,Governance,98.7
+Pulau Pinang,2016,Governance,86.4
+Pulau Pinang,2017,Governance,102.6
+Pulau Pinang,2018,Governance,96.9
+Pulau Pinang,2019,Governance,99.1
+Pulau Pinang,2020,Governance,96.4
+Pulau Pinang,2021,Governance,96.9
+Pulau Pinang,2022,Governance,95.8
+Pulau Pinang,2023,Governance,106.1
+Pulau Pinang,2024,Governance,106.0
+Pulau Pinang,2010,Health,100.0
+Pulau Pinang,2011,Health,101.4
+Pulau Pinang,2012,Health,110.2
+Pulau Pinang,2013,Health,107.2
+Pulau Pinang,2014,Health,102.9
+Pulau Pinang,2015,Health,100.9
+Pulau Pinang,2016,Health,104.4
+Pulau Pinang,2017,Health,106.4
+Pulau Pinang,2018,Health,104.4
+Pulau Pinang,2019,Health,105.8
+Pulau Pinang,2020,Health,107.4
+Pulau Pinang,2021,Health,107.1
+Pulau Pinang,2022,Health,106.0
+Pulau Pinang,2023,Health,104.9
+Pulau Pinang,2024,Health,103.8
+Pulau Pinang,2010,Housing,100.0
+Pulau Pinang,2011,Housing,113.4
+Pulau Pinang,2012,Housing,112.6
+Pulau Pinang,2013,Housing,115.4
+Pulau Pinang,2014,Housing,118.3
+Pulau Pinang,2015,Housing,119.6
+Pulau Pinang,2016,Housing,124.5
+Pulau Pinang,2017,Housing,129.1
+Pulau Pinang,2018,Housing,132.8
+Pulau Pinang,2019,Housing,133.9
+Pulau Pinang,2020,Housing,143.3
+Pulau Pinang,2021,Housing,136.1
+Pulau Pinang,2022,Housing,137.1
+Pulau Pinang,2023,Housing,135.7
+Pulau Pinang,2024,Housing,135.5
+Pulau Pinang,2010,Income and Distribution,100.0
+Pulau Pinang,2011,Income and Distribution,107.4
+Pulau Pinang,2012,Income and Distribution,114.7
+Pulau Pinang,2013,Income and Distribution,118.2
+Pulau Pinang,2014,Income and Distribution,122.3
+Pulau Pinang,2015,Income and Distribution,126.6
+Pulau Pinang,2016,Income and Distribution,125.7
+Pulau Pinang,2017,Income and Distribution,127.5
+Pulau Pinang,2018,Income and Distribution,129.1
+Pulau Pinang,2019,Income and Distribution,130.7
+Pulau Pinang,2020,Income and Distribution,120.5
+Pulau Pinang,2021,Income and Distribution,126.8
+Pulau Pinang,2022,Income and Distribution,131.1
+Pulau Pinang,2023,Income and Distribution,130.9
+Pulau Pinang,2024,Income and Distribution,137.7
+Pulau Pinang,2010,MyWI Overall,100.0
+Pulau Pinang,2011,MyWI Overall,103.4
+Pulau Pinang,2012,MyWI Overall,104.9
+Pulau Pinang,2013,MyWI Overall,107.4
+Pulau Pinang,2014,MyWI Overall,108.8
+Pulau Pinang,2015,MyWI Overall,109.2
+Pulau Pinang,2016,MyWI Overall,111.6
+Pulau Pinang,2017,MyWI Overall,113.3
+Pulau Pinang,2018,MyWI Overall,113.5
+Pulau Pinang,2019,MyWI Overall,114.0
+Pulau Pinang,2020,MyWI Overall,114.4
+Pulau Pinang,2021,MyWI Overall,114.4
+Pulau Pinang,2022,MyWI Overall,116.6
+Pulau Pinang,2023,MyWI Overall,117.2
+Pulau Pinang,2024,MyWI Overall,117.7
+Pulau Pinang,2010,Public Safety,100.0
+Pulau Pinang,2011,Public Safety,104.5
+Pulau Pinang,2012,Public Safety,104.0
+Pulau Pinang,2013,Public Safety,107.7
+Pulau Pinang,2014,Public Safety,105.8
+Pulau Pinang,2015,Public Safety,112.4
+Pulau Pinang,2016,Public Safety,113.7
+Pulau Pinang,2017,Public Safety,119.2
+Pulau Pinang,2018,Public Safety,116.1
+Pulau Pinang,2019,Public Safety,116.7
+Pulau Pinang,2020,Public Safety,126.0
+Pulau Pinang,2021,Public Safety,128.4
+Pulau Pinang,2022,Public Safety,120.3
+Pulau Pinang,2023,Public Safety,116.9
+Pulau Pinang,2024,Public Safety,115.5
+Pulau Pinang,2010,Social,100.0
+Pulau Pinang,2011,Social,105.1
+Pulau Pinang,2012,Social,107.0
+Pulau Pinang,2013,Social,108.0
+Pulau Pinang,2014,Social,109.7
+Pulau Pinang,2015,Social,110.2
+Pulau Pinang,2016,Social,111.4
+Pulau Pinang,2017,Social,114.0
+Pulau Pinang,2018,Social,114.1
+Pulau Pinang,2019,Social,115.5
+Pulau Pinang,2020,Social,116.1
+Pulau Pinang,2021,Social,114.5
+Pulau Pinang,2022,Social,115.5
+Pulau Pinang,2023,Social,117.6
+Pulau Pinang,2024,Social,117.6
+Pulau Pinang,2010,Social Participation,100.0
+Pulau Pinang,2011,Social Participation,120.1
+Pulau Pinang,2012,Social Participation,119.0
+Pulau Pinang,2013,Social Participation,122.8
+Pulau Pinang,2014,Social Participation,124.9
+Pulau Pinang,2015,Social Participation,125.6
+Pulau Pinang,2016,Social Participation,129.7
+Pulau Pinang,2017,Social Participation,129.8
+Pulau Pinang,2018,Social Participation,132.4
+Pulau Pinang,2019,Social Participation,137.6
+Pulau Pinang,2020,Social Participation,137.7
+Pulau Pinang,2021,Social Participation,135.7
+Pulau Pinang,2022,Social Participation,136.1
+Pulau Pinang,2023,Social Participation,136.9
+Pulau Pinang,2024,Social Participation,143.0
+Pulau Pinang,2010,Transportation,100.0
+Pulau Pinang,2011,Transportation,102.3
+Pulau Pinang,2012,Transportation,105.4
+Pulau Pinang,2013,Transportation,115.1
+Pulau Pinang,2014,Transportation,109.5
+Pulau Pinang,2015,Transportation,110.3
+Pulau Pinang,2016,Transportation,114.4
+Pulau Pinang,2017,Transportation,119.3
+Pulau Pinang,2018,Transportation,123.7
+Pulau Pinang,2019,Transportation,126.2
+Pulau Pinang,2020,Transportation,124.9
+Pulau Pinang,2021,Transportation,122.8
+Pulau Pinang,2022,Transportation,129.4
+Pulau Pinang,2023,Transportation,128.3
+Pulau Pinang,2024,Transportation,129.1
+Pulau Pinang,2010,Water,100.0
+Pulau Pinang,2011,Water,99.5
+Pulau Pinang,2012,Water,100.0
+Pulau Pinang,2013,Water,100.0
+Pulau Pinang,2014,Water,100.0
+Pulau Pinang,2015,Water,100.0
+Pulau Pinang,2016,Water,100.0
+Pulau Pinang,2017,Water,100.0
+Pulau Pinang,2018,Water,100.0
+Pulau Pinang,2019,Water,100.0
+Pulau Pinang,2020,Water,100.0
+Pulau Pinang,2021,Water,100.0
+Pulau Pinang,2022,Water,100.0
+Pulau Pinang,2023,Water,100.0
+Pulau Pinang,2024,Water,97.9
+Pulau Pinang,2010,Working Life,100.0
+Pulau Pinang,2011,Working Life,110.1
+Pulau Pinang,2012,Working Life,110.0
+Pulau Pinang,2013,Working Life,113.3
+Pulau Pinang,2014,Working Life,112.9
+Pulau Pinang,2015,Working Life,116.7
+Pulau Pinang,2016,Working Life,117.2
+Pulau Pinang,2017,Working Life,109.3
+Pulau Pinang,2018,Working Life,113.2
+Pulau Pinang,2019,Working Life,110.0
+Pulau Pinang,2020,Working Life,122.4
+Pulau Pinang,2021,Working Life,126.7
+Pulau Pinang,2022,Working Life,117.7
+Pulau Pinang,2023,Working Life,118.1
+Pulau Pinang,2024,Working Life,117.1
+Sabah,2010,Air,100.0
+Sabah,2011,Air,94.2
+Sabah,2012,Air,97.1
+Sabah,2013,Air,94.2
+Sabah,2014,Air,102.9
+Sabah,2015,Air,70.9
+Sabah,2016,Air,100.0
+Sabah,2017,Air,91.3
+Sabah,2018,Air,88.7
+Sabah,2019,Air,83.3
+Sabah,2020,Air,101.3
+Sabah,2021,Air,107.4
+Sabah,2022,Air,104.1
+Sabah,2023,Air,87.9
+Sabah,2024,Air,84.0
+Sabah,2010,Biodiversity Resources,100.0
+Sabah,2011,Biodiversity Resources,99.8
+Sabah,2012,Biodiversity Resources,101.7
+Sabah,2013,Biodiversity Resources,106.7
+Sabah,2014,Biodiversity Resources,105.4
+Sabah,2015,Biodiversity Resources,115.2
+Sabah,2016,Biodiversity Resources,113.9
+Sabah,2017,Biodiversity Resources,112.9
+Sabah,2018,Biodiversity Resources,126.7
+Sabah,2019,Biodiversity Resources,127.2
+Sabah,2020,Biodiversity Resources,125.9
+Sabah,2021,Biodiversity Resources,121.5
+Sabah,2022,Biodiversity Resources,118.6
+Sabah,2023,Biodiversity Resources,123.1
+Sabah,2024,Biodiversity Resources,120.6
+Sabah,2010,Communication,100.0
+Sabah,2011,Communication,100.9
+Sabah,2012,Communication,107.9
+Sabah,2013,Communication,104.6
+Sabah,2014,Communication,126.6
+Sabah,2015,Communication,120.9
+Sabah,2016,Communication,123.7
+Sabah,2017,Communication,121.9
+Sabah,2018,Communication,123.9
+Sabah,2019,Communication,125.9
+Sabah,2020,Communication,122.0
+Sabah,2021,Communication,124.6
+Sabah,2022,Communication,125.7
+Sabah,2023,Communication,125.1
+Sabah,2024,Communication,125.6
+Sabah,2010,Culture,100.0
+Sabah,2011,Culture,99.0
+Sabah,2012,Culture,97.9
+Sabah,2013,Culture,101.0
+Sabah,2014,Culture,97.2
+Sabah,2015,Culture,99.6
+Sabah,2016,Culture,109.3
+Sabah,2017,Culture,98.3
+Sabah,2018,Culture,99.8
+Sabah,2019,Culture,104.7
+Sabah,2020,Culture,101.3
+Sabah,2021,Culture,88.9
+Sabah,2022,Culture,88.5
+Sabah,2023,Culture,102.6
+Sabah,2024,Culture,114.5
+Sabah,2010,Economic,100.0
+Sabah,2011,Economic,104.9
+Sabah,2012,Economic,109.2
+Sabah,2013,Economic,110.8
+Sabah,2014,Economic,118.3
+Sabah,2015,Economic,117.8
+Sabah,2016,Economic,117.6
+Sabah,2017,Economic,117.5
+Sabah,2018,Economic,119.9
+Sabah,2019,Economic,122.0
+Sabah,2020,Economic,120.0
+Sabah,2021,Economic,121.8
+Sabah,2022,Economic,126.4
+Sabah,2023,Economic,126.0
+Sabah,2024,Economic,127.3
+Sabah,2010,Education,100.0
+Sabah,2011,Education,110.2
+Sabah,2012,Education,113.7
+Sabah,2013,Education,116.9
+Sabah,2014,Education,118.2
+Sabah,2015,Education,118.3
+Sabah,2016,Education,117.1
+Sabah,2017,Education,124.5
+Sabah,2018,Education,128.5
+Sabah,2019,Education,128.8
+Sabah,2020,Education,131.0
+Sabah,2021,Education,129.6
+Sabah,2022,Education,131.6
+Sabah,2023,Education,128.5
+Sabah,2024,Education,131.3
+Sabah,2010,Entertainment and Recreation,100.0
+Sabah,2011,Entertainment and Recreation,102.5
+Sabah,2012,Entertainment and Recreation,105.2
+Sabah,2013,Entertainment and Recreation,108.5
+Sabah,2014,Entertainment and Recreation,113.0
+Sabah,2015,Entertainment and Recreation,113.3
+Sabah,2016,Entertainment and Recreation,117.0
+Sabah,2017,Entertainment and Recreation,119.6
+Sabah,2018,Entertainment and Recreation,122.9
+Sabah,2019,Entertainment and Recreation,116.0
+Sabah,2020,Entertainment and Recreation,100.4
+Sabah,2021,Entertainment and Recreation,98.4
+Sabah,2022,Entertainment and Recreation,114.4
+Sabah,2023,Entertainment and Recreation,113.1
+Sabah,2024,Entertainment and Recreation,112.0
+Sabah,2010,Environmental,100.0
+Sabah,2011,Environmental,98.2
+Sabah,2012,Environmental,101.6
+Sabah,2013,Environmental,105.7
+Sabah,2014,Environmental,108.6
+Sabah,2015,Environmental,102.4
+Sabah,2016,Environmental,113.0
+Sabah,2017,Environmental,109.4
+Sabah,2018,Environmental,113.2
+Sabah,2019,Environmental,111.5
+Sabah,2020,Environmental,106.7
+Sabah,2021,Environmental,108.1
+Sabah,2022,Environmental,108.3
+Sabah,2023,Environmental,105.9
+Sabah,2024,Environmental,105.2
+Sabah,2010,Family,100.0
+Sabah,2011,Family,104.1
+Sabah,2012,Family,102.1
+Sabah,2013,Family,103.9
+Sabah,2014,Family,100.3
+Sabah,2015,Family,103.4
+Sabah,2016,Family,100.5
+Sabah,2017,Family,99.8
+Sabah,2018,Family,97.5
+Sabah,2019,Family,96.0
+Sabah,2020,Family,96.9
+Sabah,2021,Family,96.9
+Sabah,2022,Family,90.4
+Sabah,2023,Family,92.3
+Sabah,2024,Family,89.1
+Sabah,2010,Governance,100.0
+Sabah,2011,Governance,101.5
+Sabah,2012,Governance,99.3
+Sabah,2013,Governance,107.8
+Sabah,2014,Governance,109.4
+Sabah,2015,Governance,106.7
+Sabah,2016,Governance,104.5
+Sabah,2017,Governance,109.3
+Sabah,2018,Governance,93.9
+Sabah,2019,Governance,109.6
+Sabah,2020,Governance,112.3
+Sabah,2021,Governance,116.0
+Sabah,2022,Governance,109.5
+Sabah,2023,Governance,113.4
+Sabah,2024,Governance,118.3
+Sabah,2010,Health,100.0
+Sabah,2011,Health,99.1
+Sabah,2012,Health,96.9
+Sabah,2013,Health,97.4
+Sabah,2014,Health,96.4
+Sabah,2015,Health,94.9
+Sabah,2016,Health,96.3
+Sabah,2017,Health,92.9
+Sabah,2018,Health,91.2
+Sabah,2019,Health,90.4
+Sabah,2020,Health,94.7
+Sabah,2021,Health,95.4
+Sabah,2022,Health,90.0
+Sabah,2023,Health,94.3
+Sabah,2024,Health,90.9
+Sabah,2010,Housing,100.0
+Sabah,2011,Housing,105.5
+Sabah,2012,Housing,110.9
+Sabah,2013,Housing,116.1
+Sabah,2014,Housing,120.9
+Sabah,2015,Housing,122.5
+Sabah,2016,Housing,123.6
+Sabah,2017,Housing,135.7
+Sabah,2018,Housing,141.5
+Sabah,2019,Housing,144.1
+Sabah,2020,Housing,151.6
+Sabah,2021,Housing,145.7
+Sabah,2022,Housing,142.4
+Sabah,2023,Housing,142.9
+Sabah,2024,Housing,142.9
+Sabah,2010,Income and Distribution,100.0
+Sabah,2011,Income and Distribution,106.3
+Sabah,2012,Income and Distribution,111.5
+Sabah,2013,Income and Distribution,117.9
+Sabah,2014,Income and Distribution,125.2
+Sabah,2015,Income and Distribution,126.1
+Sabah,2016,Income and Distribution,119.3
+Sabah,2017,Income and Distribution,124.0
+Sabah,2018,Income and Distribution,127.4
+Sabah,2019,Income and Distribution,130.0
+Sabah,2020,Income and Distribution,118.4
+Sabah,2021,Income and Distribution,124.0
+Sabah,2022,Income and Distribution,136.4
+Sabah,2023,Income and Distribution,134.5
+Sabah,2024,Income and Distribution,138.5
+Sabah,2010,MyWI Overall,100.0
+Sabah,2011,MyWI Overall,105.3
+Sabah,2012,MyWI Overall,106.0
+Sabah,2013,MyWI Overall,109.1
+Sabah,2014,MyWI Overall,112.0
+Sabah,2015,MyWI Overall,111.5
+Sabah,2016,MyWI Overall,113.9
+Sabah,2017,MyWI Overall,114.2
+Sabah,2018,MyWI Overall,115.4
+Sabah,2019,MyWI Overall,117.6
+Sabah,2020,MyWI Overall,116.3
+Sabah,2021,MyWI Overall,115.9
+Sabah,2022,MyWI Overall,116.4
+Sabah,2023,MyWI Overall,117.1
+Sabah,2024,MyWI Overall,118.4
+Sabah,2010,Public Safety,100.0
+Sabah,2011,Public Safety,136.5
+Sabah,2012,Public Safety,116.9
+Sabah,2013,Public Safety,119.1
+Sabah,2014,Public Safety,124.2
+Sabah,2015,Public Safety,130.6
+Sabah,2016,Public Safety,126.1
+Sabah,2017,Public Safety,129.1
+Sabah,2018,Public Safety,127.8
+Sabah,2019,Public Safety,130.9
+Sabah,2020,Public Safety,142.5
+Sabah,2021,Public Safety,143.8
+Sabah,2022,Public Safety,135.3
+Sabah,2023,Public Safety,134.4
+Sabah,2024,Public Safety,134.6
+Sabah,2010,Social,100.0
+Sabah,2011,Social,107.8
+Sabah,2012,Social,106.1
+Sabah,2013,Social,109.4
+Sabah,2014,Social,110.3
+Sabah,2015,Social,111.7
+Sabah,2016,Social,112.5
+Sabah,2017,Social,114.3
+Sabah,2018,Social,114.1
+Sabah,2019,Social,117.6
+Sabah,2020,Social,117.9
+Sabah,2021,Social,115.8
+Sabah,2022,Social,114.7
+Sabah,2023,Social,117.0
+Sabah,2024,Social,118.9
+Sabah,2010,Social Participation,100.0
+Sabah,2011,Social Participation,111.6
+Sabah,2012,Social Participation,112.0
+Sabah,2013,Social Participation,114.2
+Sabah,2014,Social Participation,113.1
+Sabah,2015,Social Participation,115.9
+Sabah,2016,Social Participation,117.7
+Sabah,2017,Social Participation,119.1
+Sabah,2018,Social Participation,123.8
+Sabah,2019,Social Participation,137.9
+Sabah,2020,Social Participation,130.4
+Sabah,2021,Social Participation,127.7
+Sabah,2022,Social Participation,130.4
+Sabah,2023,Social Participation,131.4
+Sabah,2024,Social Participation,136.2
+Sabah,2010,Transportation,100.0
+Sabah,2011,Transportation,102.8
+Sabah,2012,Transportation,104.8
+Sabah,2013,Transportation,103.6
+Sabah,2014,Transportation,103.2
+Sabah,2015,Transportation,105.0
+Sabah,2016,Transportation,108.0
+Sabah,2017,Transportation,107.4
+Sabah,2018,Transportation,111.3
+Sabah,2019,Transportation,113.9
+Sabah,2020,Transportation,112.6
+Sabah,2021,Transportation,110.4
+Sabah,2022,Transportation,125.4
+Sabah,2023,Transportation,122.0
+Sabah,2024,Transportation,123.5
+Sabah,2010,Water,100.0
+Sabah,2011,Water,100.8
+Sabah,2012,Water,105.9
+Sabah,2013,Water,116.3
+Sabah,2014,Water,117.6
+Sabah,2015,Water,121.2
+Sabah,2016,Water,125.1
+Sabah,2017,Water,124.0
+Sabah,2018,Water,124.0
+Sabah,2019,Water,124.0
+Sabah,2020,Water,93.0
+Sabah,2021,Water,95.6
+Sabah,2022,Water,102.1
+Sabah,2023,Water,106.6
+Sabah,2024,Water,111.1
+Sabah,2010,Working Life,100.0
+Sabah,2011,Working Life,109.5
+Sabah,2012,Working Life,112.7
+Sabah,2013,Working Life,117.1
+Sabah,2014,Working Life,118.3
+Sabah,2015,Working Life,119.2
+Sabah,2016,Working Life,119.5
+Sabah,2017,Working Life,116.6
+Sabah,2018,Working Life,116.8
+Sabah,2019,Working Life,118.4
+Sabah,2020,Working Life,127.0
+Sabah,2021,Working Life,128.3
+Sabah,2022,Working Life,117.9
+Sabah,2023,Working Life,122.3
+Sabah,2024,Working Life,121.7
+Sarawak,2010,Air,100.0
+Sarawak,2011,Air,86.6
+Sarawak,2012,Air,78.5
+Sarawak,2013,Air,81.2
+Sarawak,2014,Air,85.2
+Sarawak,2015,Air,77.1
+Sarawak,2016,Air,94.6
+Sarawak,2017,Air,73.4
+Sarawak,2018,Air,76.2
+Sarawak,2019,Air,71.2
+Sarawak,2020,Air,93.5
+Sarawak,2021,Air,91.0
+Sarawak,2022,Air,93.3
+Sarawak,2023,Air,78.4
+Sarawak,2024,Air,88.3
+Sarawak,2010,Biodiversity Resources,100.0
+Sarawak,2011,Biodiversity Resources,103.3
+Sarawak,2012,Biodiversity Resources,107.9
+Sarawak,2013,Biodiversity Resources,107.5
+Sarawak,2014,Biodiversity Resources,117.2
+Sarawak,2015,Biodiversity Resources,119.7
+Sarawak,2016,Biodiversity Resources,114.3
+Sarawak,2017,Biodiversity Resources,111.5
+Sarawak,2018,Biodiversity Resources,109.7
+Sarawak,2019,Biodiversity Resources,113.1
+Sarawak,2020,Biodiversity Resources,115.1
+Sarawak,2021,Biodiversity Resources,113.0
+Sarawak,2022,Biodiversity Resources,115.3
+Sarawak,2023,Biodiversity Resources,113.5
+Sarawak,2024,Biodiversity Resources,115.7
+Sarawak,2010,Communication,100.0
+Sarawak,2011,Communication,102.2
+Sarawak,2012,Communication,111.7
+Sarawak,2013,Communication,104.0
+Sarawak,2014,Communication,114.0
+Sarawak,2015,Communication,118.5
+Sarawak,2016,Communication,121.2
+Sarawak,2017,Communication,126.2
+Sarawak,2018,Communication,128.0
+Sarawak,2019,Communication,129.0
+Sarawak,2020,Communication,124.2
+Sarawak,2021,Communication,128.8
+Sarawak,2022,Communication,129.1
+Sarawak,2023,Communication,129.0
+Sarawak,2024,Communication,130.8
+Sarawak,2010,Culture,100.0
+Sarawak,2011,Culture,98.0
+Sarawak,2012,Culture,98.4
+Sarawak,2013,Culture,101.0
+Sarawak,2014,Culture,98.5
+Sarawak,2015,Culture,98.6
+Sarawak,2016,Culture,98.6
+Sarawak,2017,Culture,114.7
+Sarawak,2018,Culture,109.0
+Sarawak,2019,Culture,106.9
+Sarawak,2020,Culture,96.2
+Sarawak,2021,Culture,94.6
+Sarawak,2022,Culture,101.4
+Sarawak,2023,Culture,113.0
+Sarawak,2024,Culture,115.4
+Sarawak,2010,Economic,100.0
+Sarawak,2011,Economic,104.5
+Sarawak,2012,Economic,110.1
+Sarawak,2013,Economic,110.9
+Sarawak,2014,Economic,115.3
+Sarawak,2015,Economic,117.5
+Sarawak,2016,Economic,118.3
+Sarawak,2017,Economic,119.7
+Sarawak,2018,Economic,122.1
+Sarawak,2019,Economic,124.0
+Sarawak,2020,Economic,120.0
+Sarawak,2021,Economic,121.2
+Sarawak,2022,Economic,126.0
+Sarawak,2023,Economic,126.0
+Sarawak,2024,Economic,129.7
+Sarawak,2010,Education,100.0
+Sarawak,2011,Education,112.1
+Sarawak,2012,Education,115.1
+Sarawak,2013,Education,115.7
+Sarawak,2014,Education,118.9
+Sarawak,2015,Education,121.7
+Sarawak,2016,Education,125.6
+Sarawak,2017,Education,130.5
+Sarawak,2018,Education,128.8
+Sarawak,2019,Education,129.8
+Sarawak,2020,Education,132.7
+Sarawak,2021,Education,134.5
+Sarawak,2022,Education,139.0
+Sarawak,2023,Education,140.2
+Sarawak,2024,Education,140.8
+Sarawak,2010,Entertainment and Recreation,100.0
+Sarawak,2011,Entertainment and Recreation,101.7
+Sarawak,2012,Entertainment and Recreation,103.2
+Sarawak,2013,Entertainment and Recreation,107.7
+Sarawak,2014,Entertainment and Recreation,114.1
+Sarawak,2015,Entertainment and Recreation,116.0
+Sarawak,2016,Entertainment and Recreation,118.6
+Sarawak,2017,Entertainment and Recreation,121.2
+Sarawak,2018,Entertainment and Recreation,122.1
+Sarawak,2019,Entertainment and Recreation,124.2
+Sarawak,2020,Entertainment and Recreation,108.1
+Sarawak,2021,Entertainment and Recreation,108.1
+Sarawak,2022,Entertainment and Recreation,126.6
+Sarawak,2023,Entertainment and Recreation,124.5
+Sarawak,2024,Entertainment and Recreation,125.3
+Sarawak,2010,Environmental,100.0
+Sarawak,2011,Environmental,96.6
+Sarawak,2012,Environmental,95.5
+Sarawak,2013,Environmental,96.3
+Sarawak,2014,Environmental,101.0
+Sarawak,2015,Environmental,94.7
+Sarawak,2016,Environmental,99.7
+Sarawak,2017,Environmental,92.0
+Sarawak,2018,Environmental,92.4
+Sarawak,2019,Environmental,86.1
+Sarawak,2020,Environmental,95.3
+Sarawak,2021,Environmental,93.9
+Sarawak,2022,Environmental,95.5
+Sarawak,2023,Environmental,90.0
+Sarawak,2024,Environmental,94.1
+Sarawak,2010,Family,100.0
+Sarawak,2011,Family,99.1
+Sarawak,2012,Family,105.6
+Sarawak,2013,Family,93.4
+Sarawak,2014,Family,95.0
+Sarawak,2015,Family,97.8
+Sarawak,2016,Family,98.8
+Sarawak,2017,Family,96.2
+Sarawak,2018,Family,99.7
+Sarawak,2019,Family,100.0
+Sarawak,2020,Family,91.6
+Sarawak,2021,Family,95.1
+Sarawak,2022,Family,93.3
+Sarawak,2023,Family,93.4
+Sarawak,2024,Family,93.7
+Sarawak,2010,Governance,100.0
+Sarawak,2011,Governance,99.6
+Sarawak,2012,Governance,103.7
+Sarawak,2013,Governance,106.6
+Sarawak,2014,Governance,108.7
+Sarawak,2015,Governance,103.6
+Sarawak,2016,Governance,104.2
+Sarawak,2017,Governance,111.5
+Sarawak,2018,Governance,100.1
+Sarawak,2019,Governance,94.2
+Sarawak,2020,Governance,100.3
+Sarawak,2021,Governance,104.1
+Sarawak,2022,Governance,98.8
+Sarawak,2023,Governance,111.6
+Sarawak,2024,Governance,112.2
+Sarawak,2010,Health,100.0
+Sarawak,2011,Health,109.3
+Sarawak,2012,Health,110.9
+Sarawak,2013,Health,112.4
+Sarawak,2014,Health,105.7
+Sarawak,2015,Health,111.7
+Sarawak,2016,Health,112.4
+Sarawak,2017,Health,112.7
+Sarawak,2018,Health,110.5
+Sarawak,2019,Health,110.2
+Sarawak,2020,Health,113.8
+Sarawak,2021,Health,115.0
+Sarawak,2022,Health,112.5
+Sarawak,2023,Health,115.6
+Sarawak,2024,Health,114.4
+Sarawak,2010,Housing,100.0
+Sarawak,2011,Housing,101.9
+Sarawak,2012,Housing,103.5
+Sarawak,2013,Housing,108.1
+Sarawak,2014,Housing,112.8
+Sarawak,2015,Housing,115.1
+Sarawak,2016,Housing,119.7
+Sarawak,2017,Housing,118.6
+Sarawak,2018,Housing,118.2
+Sarawak,2019,Housing,120.9
+Sarawak,2020,Housing,122.9
+Sarawak,2021,Housing,121.2
+Sarawak,2022,Housing,123.7
+Sarawak,2023,Housing,124.6
+Sarawak,2024,Housing,124.1
+Sarawak,2010,Income and Distribution,100.0
+Sarawak,2011,Income and Distribution,104.4
+Sarawak,2012,Income and Distribution,107.7
+Sarawak,2013,Income and Distribution,113.3
+Sarawak,2014,Income and Distribution,119.4
+Sarawak,2015,Income and Distribution,122.8
+Sarawak,2016,Income and Distribution,117.8
+Sarawak,2017,Income and Distribution,121.7
+Sarawak,2018,Income and Distribution,125.0
+Sarawak,2019,Income and Distribution,128.1
+Sarawak,2020,Income and Distribution,117.0
+Sarawak,2021,Income and Distribution,122.5
+Sarawak,2022,Income and Distribution,131.3
+Sarawak,2023,Income and Distribution,128.8
+Sarawak,2024,Income and Distribution,138.6
+Sarawak,2010,MyWI Overall,100.0
+Sarawak,2011,MyWI Overall,103.0
+Sarawak,2012,MyWI Overall,104.2
+Sarawak,2013,MyWI Overall,105.4
+Sarawak,2014,MyWI Overall,108.6
+Sarawak,2015,MyWI Overall,109.4
+Sarawak,2016,MyWI Overall,111.6
+Sarawak,2017,MyWI Overall,112.4
+Sarawak,2018,MyWI Overall,112.4
+Sarawak,2019,MyWI Overall,111.7
+Sarawak,2020,MyWI Overall,111.5
+Sarawak,2021,MyWI Overall,111.9
+Sarawak,2022,MyWI Overall,114.7
+Sarawak,2023,MyWI Overall,115.4
+Sarawak,2024,MyWI Overall,117.2
+Sarawak,2010,Public Safety,100.0
+Sarawak,2011,Public Safety,115.6
+Sarawak,2012,Public Safety,97.2
+Sarawak,2013,Public Safety,103.9
+Sarawak,2014,Public Safety,112.3
+Sarawak,2015,Public Safety,113.1
+Sarawak,2016,Public Safety,115.8
+Sarawak,2017,Public Safety,119.9
+Sarawak,2018,Public Safety,120.5
+Sarawak,2019,Public Safety,117.1
+Sarawak,2020,Public Safety,129.0
+Sarawak,2021,Public Safety,131.8
+Sarawak,2022,Public Safety,126.2
+Sarawak,2023,Public Safety,126.0
+Sarawak,2024,Public Safety,121.2
+Sarawak,2010,Social,100.0
+Sarawak,2011,Social,104.4
+Sarawak,2012,Social,104.5
+Sarawak,2013,Social,106.1
+Sarawak,2014,Social,108.1
+Sarawak,2015,Social,110.8
+Sarawak,2016,Social,112.6
+Sarawak,2017,Social,116.0
+Sarawak,2018,Social,114.7
+Sarawak,2019,Social,114.7
+Sarawak,2020,Social,113.1
+Sarawak,2021,Social,113.8
+Sarawak,2022,Social,116.0
+Sarawak,2023,Social,119.1
+Sarawak,2024,Social,119.3
+Sarawak,2010,Social Participation,100.0
+Sarawak,2011,Social Participation,102.3
+Sarawak,2012,Social Participation,102.6
+Sarawak,2013,Social Participation,105.7
+Sarawak,2014,Social Participation,106.8
+Sarawak,2015,Social Participation,119.5
+Sarawak,2016,Social Participation,119.4
+Sarawak,2017,Social Participation,118.5
+Sarawak,2018,Social Participation,123.6
+Sarawak,2019,Social Participation,129.1
+Sarawak,2020,Social Participation,123.7
+Sarawak,2021,Social Participation,120.1
+Sarawak,2022,Social Participation,122.2
+Sarawak,2023,Social Participation,123.4
+Sarawak,2024,Social Participation,126.6
+Sarawak,2010,Transportation,100.0
+Sarawak,2011,Transportation,102.2
+Sarawak,2012,Transportation,109.8
+Sarawak,2013,Transportation,112.5
+Sarawak,2014,Transportation,112.9
+Sarawak,2015,Transportation,114.5
+Sarawak,2016,Transportation,119.7
+Sarawak,2017,Transportation,118.1
+Sarawak,2018,Transportation,122.7
+Sarawak,2019,Transportation,124.0
+Sarawak,2020,Transportation,116.6
+Sarawak,2021,Transportation,115.6
+Sarawak,2022,Transportation,127.4
+Sarawak,2023,Transportation,130.3
+Sarawak,2024,Transportation,131.2
+Sarawak,2010,Water,100.0
+Sarawak,2011,Water,100.0
+Sarawak,2012,Water,100.2
+Sarawak,2013,Water,100.2
+Sarawak,2014,Water,100.7
+Sarawak,2015,Water,87.2
+Sarawak,2016,Water,90.1
+Sarawak,2017,Water,90.9
+Sarawak,2018,Water,91.4
+Sarawak,2019,Water,73.9
+Sarawak,2020,Water,77.2
+Sarawak,2021,Water,77.7
+Sarawak,2022,Water,77.9
+Sarawak,2023,Water,78.1
+Sarawak,2024,Water,78.4
+Sarawak,2010,Working Life,100.0
+Sarawak,2011,Working Life,109.3
+Sarawak,2012,Working Life,111.0
+Sarawak,2013,Working Life,113.8
+Sarawak,2014,Working Life,114.8
+Sarawak,2015,Working Life,114.2
+Sarawak,2016,Working Life,114.6
+Sarawak,2017,Working Life,112.8
+Sarawak,2018,Working Life,112.8
+Sarawak,2019,Working Life,114.8
+Sarawak,2020,Working Life,122.2
+Sarawak,2021,Working Life,117.9
+Sarawak,2022,Working Life,116.4
+Sarawak,2023,Working Life,116.1
+Sarawak,2024,Working Life,118.0
+Selangor,2010,Air,100.0
+Selangor,2011,Air,83.3
+Selangor,2012,Air,104.8
+Selangor,2013,Air,107.1
+Selangor,2014,Air,95.2
+Selangor,2015,Air,78.6
+Selangor,2016,Air,102.4
+Selangor,2017,Air,92.9
+Selangor,2018,Air,118.9
+Selangor,2019,Air,90.8
+Selangor,2020,Air,92.3
+Selangor,2021,Air,91.1
+Selangor,2022,Air,91.8
+Selangor,2023,Air,91.5
+Selangor,2024,Air,92.4
+Selangor,2010,Biodiversity Resources,100.0
+Selangor,2011,Biodiversity Resources,100.8
+Selangor,2012,Biodiversity Resources,100.9
+Selangor,2013,Biodiversity Resources,100.7
+Selangor,2014,Biodiversity Resources,81.0
+Selangor,2015,Biodiversity Resources,101.1
+Selangor,2016,Biodiversity Resources,100.9
+Selangor,2017,Biodiversity Resources,101.0
+Selangor,2018,Biodiversity Resources,104.9
+Selangor,2019,Biodiversity Resources,105.7
+Selangor,2020,Biodiversity Resources,102.3
+Selangor,2021,Biodiversity Resources,111.6
+Selangor,2022,Biodiversity Resources,114.8
+Selangor,2023,Biodiversity Resources,114.7
+Selangor,2024,Biodiversity Resources,113.1
+Selangor,2010,Communication,100.0
+Selangor,2011,Communication,100.6
+Selangor,2012,Communication,102.0
+Selangor,2013,Communication,102.8
+Selangor,2014,Communication,116.8
+Selangor,2015,Communication,122.6
+Selangor,2016,Communication,123.3
+Selangor,2017,Communication,123.1
+Selangor,2018,Communication,123.0
+Selangor,2019,Communication,121.7
+Selangor,2020,Communication,128.2
+Selangor,2021,Communication,130.6
+Selangor,2022,Communication,131.1
+Selangor,2023,Communication,130.9
+Selangor,2024,Communication,131.1
+Selangor,2010,Culture,100.0
+Selangor,2011,Culture,102.1
+Selangor,2012,Culture,98.0
+Selangor,2013,Culture,99.5
+Selangor,2014,Culture,104.6
+Selangor,2015,Culture,108.0
+Selangor,2016,Culture,112.4
+Selangor,2017,Culture,112.8
+Selangor,2018,Culture,112.2
+Selangor,2019,Culture,112.8
+Selangor,2020,Culture,100.7
+Selangor,2021,Culture,101.8
+Selangor,2022,Culture,107.9
+Selangor,2023,Culture,110.0
+Selangor,2024,Culture,112.7
+Selangor,2010,Economic,100.0
+Selangor,2011,Economic,104.6
+Selangor,2012,Economic,106.3
+Selangor,2013,Economic,108.5
+Selangor,2014,Economic,112.1
+Selangor,2015,Economic,116.6
+Selangor,2016,Economic,118.8
+Selangor,2017,Economic,118.4
+Selangor,2018,Economic,119.5
+Selangor,2019,Economic,118.8
+Selangor,2020,Economic,118.5
+Selangor,2021,Economic,119.2
+Selangor,2022,Economic,124.3
+Selangor,2023,Economic,125.3
+Selangor,2024,Economic,127.4
+Selangor,2010,Education,100.0
+Selangor,2011,Education,105.9
+Selangor,2012,Education,107.8
+Selangor,2013,Education,106.9
+Selangor,2014,Education,109.6
+Selangor,2015,Education,112.1
+Selangor,2016,Education,113.2
+Selangor,2017,Education,117.1
+Selangor,2018,Education,118.2
+Selangor,2019,Education,120.6
+Selangor,2020,Education,122.5
+Selangor,2021,Education,117.6
+Selangor,2022,Education,123.6
+Selangor,2023,Education,124.5
+Selangor,2024,Education,122.5
+Selangor,2010,Entertainment and Recreation,100.0
+Selangor,2011,Entertainment and Recreation,103.3
+Selangor,2012,Entertainment and Recreation,104.9
+Selangor,2013,Entertainment and Recreation,108.2
+Selangor,2014,Entertainment and Recreation,111.1
+Selangor,2015,Entertainment and Recreation,112.7
+Selangor,2016,Entertainment and Recreation,113.1
+Selangor,2017,Entertainment and Recreation,114.8
+Selangor,2018,Entertainment and Recreation,117.7
+Selangor,2019,Entertainment and Recreation,117.3
+Selangor,2020,Entertainment and Recreation,100.0
+Selangor,2021,Entertainment and Recreation,98.6
+Selangor,2022,Entertainment and Recreation,107.9
+Selangor,2023,Entertainment and Recreation,110.2
+Selangor,2024,Entertainment and Recreation,108.2
+Selangor,2010,Environmental,100.0
+Selangor,2011,Environmental,95.3
+Selangor,2012,Environmental,102.4
+Selangor,2013,Environmental,103.2
+Selangor,2014,Environmental,92.6
+Selangor,2015,Environmental,93.8
+Selangor,2016,Environmental,101.6
+Selangor,2017,Environmental,98.5
+Selangor,2018,Environmental,108.5
+Selangor,2019,Environmental,99.4
+Selangor,2020,Environmental,98.7
+Selangor,2021,Environmental,101.4
+Selangor,2022,Environmental,102.8
+Selangor,2023,Environmental,102.5
+Selangor,2024,Environmental,102.3
+Selangor,2010,Family,100.0
+Selangor,2011,Family,102.6
+Selangor,2012,Family,96.8
+Selangor,2013,Family,95.9
+Selangor,2014,Family,95.0
+Selangor,2015,Family,91.8
+Selangor,2016,Family,95.1
+Selangor,2017,Family,95.9
+Selangor,2018,Family,94.5
+Selangor,2019,Family,90.7
+Selangor,2020,Family,92.1
+Selangor,2021,Family,89.7
+Selangor,2022,Family,88.0
+Selangor,2023,Family,90.7
+Selangor,2024,Family,89.8
+Selangor,2010,Governance,100.0
+Selangor,2011,Governance,99.8
+Selangor,2012,Governance,100.8
+Selangor,2013,Governance,107.9
+Selangor,2014,Governance,111.2
+Selangor,2015,Governance,104.9
+Selangor,2016,Governance,96.5
+Selangor,2017,Governance,102.8
+Selangor,2018,Governance,97.5
+Selangor,2019,Governance,103.9
+Selangor,2020,Governance,93.0
+Selangor,2021,Governance,105.7
+Selangor,2022,Governance,96.5
+Selangor,2023,Governance,108.2
+Selangor,2024,Governance,113.0
+Selangor,2010,Health,100.0
+Selangor,2011,Health,102.9
+Selangor,2012,Health,103.5
+Selangor,2013,Health,103.2
+Selangor,2014,Health,100.8
+Selangor,2015,Health,104.6
+Selangor,2016,Health,100.0
+Selangor,2017,Health,104.7
+Selangor,2018,Health,105.8
+Selangor,2019,Health,105.2
+Selangor,2020,Health,115.2
+Selangor,2021,Health,115.5
+Selangor,2022,Health,105.6
+Selangor,2023,Health,105.2
+Selangor,2024,Health,107.6
+Selangor,2010,Housing,100.0
+Selangor,2011,Housing,112.6
+Selangor,2012,Housing,125.3
+Selangor,2013,Housing,122.3
+Selangor,2014,Housing,119.4
+Selangor,2015,Housing,120.8
+Selangor,2016,Housing,122.7
+Selangor,2017,Housing,125.1
+Selangor,2018,Housing,125.8
+Selangor,2019,Housing,129.2
+Selangor,2020,Housing,130.2
+Selangor,2021,Housing,127.4
+Selangor,2022,Housing,129.5
+Selangor,2023,Housing,130.2
+Selangor,2024,Housing,129.6
+Selangor,2010,Income and Distribution,100.0
+Selangor,2011,Income and Distribution,104.2
+Selangor,2012,Income and Distribution,108.5
+Selangor,2013,Income and Distribution,112.6
+Selangor,2014,Income and Distribution,117.2
+Selangor,2015,Income and Distribution,120.8
+Selangor,2016,Income and Distribution,122.4
+Selangor,2017,Income and Distribution,121.8
+Selangor,2018,Income and Distribution,120.9
+Selangor,2019,Income and Distribution,120.2
+Selangor,2020,Income and Distribution,113.1
+Selangor,2021,Income and Distribution,114.2
+Selangor,2022,Income and Distribution,126.4
+Selangor,2023,Income and Distribution,128.6
+Selangor,2024,Income and Distribution,139.3
+Selangor,2010,MyWI Overall,100.0
+Selangor,2011,MyWI Overall,103.5
+Selangor,2012,MyWI Overall,105.9
+Selangor,2013,MyWI Overall,107.2
+Selangor,2014,MyWI Overall,107.3
+Selangor,2015,MyWI Overall,108.7
+Selangor,2016,MyWI Overall,111.5
+Selangor,2017,MyWI Overall,112.2
+Selangor,2018,MyWI Overall,114.1
+Selangor,2019,MyWI Overall,113.2
+Selangor,2020,MyWI Overall,111.7
+Selangor,2021,MyWI Overall,112.7
+Selangor,2022,MyWI Overall,114.7
+Selangor,2023,MyWI Overall,116.1
+Selangor,2024,MyWI Overall,117.0
+Selangor,2010,Public Safety,100.0
+Selangor,2011,Public Safety,104.9
+Selangor,2012,Public Safety,104.5
+Selangor,2013,Public Safety,104.4
+Selangor,2014,Public Safety,112.7
+Selangor,2015,Public Safety,112.4
+Selangor,2016,Public Safety,114.6
+Selangor,2017,Public Safety,121.3
+Selangor,2018,Public Safety,117.7
+Selangor,2019,Public Safety,117.9
+Selangor,2020,Public Safety,129.1
+Selangor,2021,Public Safety,131.9
+Selangor,2022,Public Safety,125.4
+Selangor,2023,Public Safety,122.0
+Selangor,2024,Public Safety,121.3
+Selangor,2010,Social,100.0
+Selangor,2011,Social,105.7
+Selangor,2012,Social,106.6
+Selangor,2013,Social,107.5
+Selangor,2014,Social,109.4
+Selangor,2015,Social,109.7
+Selangor,2016,Social,110.2
+Selangor,2017,Social,113.2
+Selangor,2018,Social,112.7
+Selangor,2019,Social,114.4
+Selangor,2020,Social,113.4
+Selangor,2021,Social,113.9
+Selangor,2022,Social,113.4
+Selangor,2023,Social,115.4
+Selangor,2024,Social,116.2
+Selangor,2010,Social Participation,100.0
+Selangor,2011,Social Participation,117.4
+Selangor,2012,Social Participation,118.1
+Selangor,2013,Social Participation,119.1
+Selangor,2014,Social Participation,120.6
+Selangor,2015,Social Participation,120.3
+Selangor,2016,Social Participation,124.3
+Selangor,2017,Social Participation,124.2
+Selangor,2018,Social Participation,124.9
+Selangor,2019,Social Participation,131.8
+Selangor,2020,Social Participation,137.3
+Selangor,2021,Social Participation,136.9
+Selangor,2022,Social Participation,135.8
+Selangor,2023,Social Participation,137.2
+Selangor,2024,Social Participation,141.2
+Selangor,2010,Transportation,100.0
+Selangor,2011,Transportation,104.2
+Selangor,2012,Transportation,106.9
+Selangor,2013,Transportation,109.1
+Selangor,2014,Transportation,105.3
+Selangor,2015,Transportation,109.3
+Selangor,2016,Transportation,116.5
+Selangor,2017,Transportation,113.1
+Selangor,2018,Transportation,115.7
+Selangor,2019,Transportation,118.5
+Selangor,2020,Transportation,114.2
+Selangor,2021,Transportation,114.2
+Selangor,2022,Transportation,120.8
+Selangor,2023,Transportation,117.9
+Selangor,2024,Transportation,117.9
+Selangor,2010,Water,100.0
+Selangor,2011,Water,101.6
+Selangor,2012,Water,101.6
+Selangor,2013,Water,101.6
+Selangor,2014,Water,101.6
+Selangor,2015,Water,101.6
+Selangor,2016,Water,101.6
+Selangor,2017,Water,101.6
+Selangor,2018,Water,101.6
+Selangor,2019,Water,101.6
+Selangor,2020,Water,101.6
+Selangor,2021,Water,101.6
+Selangor,2022,Water,101.6
+Selangor,2023,Water,101.3
+Selangor,2024,Water,101.3
+Selangor,2010,Working Life,100.0
+Selangor,2011,Working Life,109.2
+Selangor,2012,Working Life,107.8
+Selangor,2013,Working Life,109.7
+Selangor,2014,Working Life,108.9
+Selangor,2015,Working Life,113.5
+Selangor,2016,Working Life,112.8
+Selangor,2017,Working Life,115.7
+Selangor,2018,Working Life,118.3
+Selangor,2019,Working Life,114.7
+Selangor,2020,Working Life,118.4
+Selangor,2021,Working Life,117.9
+Selangor,2022,Working Life,119.0
+Selangor,2023,Working Life,123.9
+Selangor,2024,Working Life,121.5
+Terengganu,2010,Air,100.0
+Terengganu,2011,Air,93.2
+Terengganu,2012,Air,90.9
+Terengganu,2013,Air,90.3
+Terengganu,2014,Air,95.4
+Terengganu,2015,Air,85.8
+Terengganu,2016,Air,68.1
+Terengganu,2017,Air,92.0
+Terengganu,2018,Air,82.1
+Terengganu,2019,Air,80.9
+Terengganu,2020,Air,106.3
+Terengganu,2021,Air,95.4
+Terengganu,2022,Air,95.3
+Terengganu,2023,Air,83.1
+Terengganu,2024,Air,83.1
+Terengganu,2010,Biodiversity Resources,100.0
+Terengganu,2011,Biodiversity Resources,102.4
+Terengganu,2012,Biodiversity Resources,97.7
+Terengganu,2013,Biodiversity Resources,103.3
+Terengganu,2014,Biodiversity Resources,102.1
+Terengganu,2015,Biodiversity Resources,112.0
+Terengganu,2016,Biodiversity Resources,104.7
+Terengganu,2017,Biodiversity Resources,103.2
+Terengganu,2018,Biodiversity Resources,106.2
+Terengganu,2019,Biodiversity Resources,119.0
+Terengganu,2020,Biodiversity Resources,125.4
+Terengganu,2021,Biodiversity Resources,125.4
+Terengganu,2022,Biodiversity Resources,125.4
+Terengganu,2023,Biodiversity Resources,125.5
+Terengganu,2024,Biodiversity Resources,125.5
+Terengganu,2010,Communication,100.0
+Terengganu,2011,Communication,101.9
+Terengganu,2012,Communication,109.6
+Terengganu,2013,Communication,105.8
+Terengganu,2014,Communication,121.6
+Terengganu,2015,Communication,124.4
+Terengganu,2016,Communication,125.6
+Terengganu,2017,Communication,126.0
+Terengganu,2018,Communication,126.3
+Terengganu,2019,Communication,122.2
+Terengganu,2020,Communication,115.9
+Terengganu,2021,Communication,120.7
+Terengganu,2022,Communication,121.6
+Terengganu,2023,Communication,121.7
+Terengganu,2024,Communication,123.5
+Terengganu,2010,Culture,100.0
+Terengganu,2011,Culture,98.5
+Terengganu,2012,Culture,101.5
+Terengganu,2013,Culture,103.3
+Terengganu,2014,Culture,100.1
+Terengganu,2015,Culture,89.7
+Terengganu,2016,Culture,87.9
+Terengganu,2017,Culture,85.0
+Terengganu,2018,Culture,86.8
+Terengganu,2019,Culture,91.5
+Terengganu,2020,Culture,83.0
+Terengganu,2021,Culture,76.4
+Terengganu,2022,Culture,81.8
+Terengganu,2023,Culture,85.5
+Terengganu,2024,Culture,88.3
+Terengganu,2010,Economic,100.0
+Terengganu,2011,Economic,105.4
+Terengganu,2012,Economic,107.6
+Terengganu,2013,Economic,109.2
+Terengganu,2014,Economic,115.4
+Terengganu,2015,Economic,117.9
+Terengganu,2016,Economic,119.6
+Terengganu,2017,Economic,122.3
+Terengganu,2018,Economic,124.2
+Terengganu,2019,Economic,126.7
+Terengganu,2020,Economic,119.5
+Terengganu,2021,Economic,119.6
+Terengganu,2022,Economic,122.3
+Terengganu,2023,Economic,123.8
+Terengganu,2024,Economic,125.6
+Terengganu,2010,Education,100.0
+Terengganu,2011,Education,109.3
+Terengganu,2012,Education,109.0
+Terengganu,2013,Education,108.8
+Terengganu,2014,Education,111.5
+Terengganu,2015,Education,113.3
+Terengganu,2016,Education,112.7
+Terengganu,2017,Education,116.6
+Terengganu,2018,Education,121.6
+Terengganu,2019,Education,124.6
+Terengganu,2020,Education,125.9
+Terengganu,2021,Education,131.1
+Terengganu,2022,Education,132.0
+Terengganu,2023,Education,135.0
+Terengganu,2024,Education,128.9
+Terengganu,2010,Entertainment and Recreation,100.0
+Terengganu,2011,Entertainment and Recreation,101.6
+Terengganu,2012,Entertainment and Recreation,103.3
+Terengganu,2013,Entertainment and Recreation,106.5
+Terengganu,2014,Entertainment and Recreation,108.0
+Terengganu,2015,Entertainment and Recreation,107.9
+Terengganu,2016,Entertainment and Recreation,110.2
+Terengganu,2017,Entertainment and Recreation,116.0
+Terengganu,2018,Entertainment and Recreation,120.7
+Terengganu,2019,Entertainment and Recreation,122.0
+Terengganu,2020,Entertainment and Recreation,107.5
+Terengganu,2021,Entertainment and Recreation,103.9
+Terengganu,2022,Entertainment and Recreation,118.4
+Terengganu,2023,Entertainment and Recreation,125.7
+Terengganu,2024,Entertainment and Recreation,124.2
+Terengganu,2010,Environmental,100.0
+Terengganu,2011,Environmental,98.9
+Terengganu,2012,Environmental,97.3
+Terengganu,2013,Environmental,98.9
+Terengganu,2014,Environmental,100.3
+Terengganu,2015,Environmental,100.3
+Terengganu,2016,Environmental,92.0
+Terengganu,2017,Environmental,99.5
+Terengganu,2018,Environmental,97.2
+Terengganu,2019,Environmental,101.0
+Terengganu,2020,Environmental,111.6
+Terengganu,2021,Environmental,108.0
+Terengganu,2022,Environmental,108.0
+Terengganu,2023,Environmental,103.9
+Terengganu,2024,Environmental,103.9
+Terengganu,2010,Family,100.0
+Terengganu,2011,Family,96.0
+Terengganu,2012,Family,100.2
+Terengganu,2013,Family,100.9
+Terengganu,2014,Family,98.0
+Terengganu,2015,Family,99.7
+Terengganu,2016,Family,104.9
+Terengganu,2017,Family,103.9
+Terengganu,2018,Family,102.7
+Terengganu,2019,Family,103.0
+Terengganu,2020,Family,103.0
+Terengganu,2021,Family,104.7
+Terengganu,2022,Family,103.2
+Terengganu,2023,Family,103.7
+Terengganu,2024,Family,103.2
+Terengganu,2010,Governance,100.0
+Terengganu,2011,Governance,99.5
+Terengganu,2012,Governance,104.8
+Terengganu,2013,Governance,104.9
+Terengganu,2014,Governance,106.2
+Terengganu,2015,Governance,99.2
+Terengganu,2016,Governance,86.2
+Terengganu,2017,Governance,101.4
+Terengganu,2018,Governance,99.3
+Terengganu,2019,Governance,98.8
+Terengganu,2020,Governance,102.7
+Terengganu,2021,Governance,106.1
+Terengganu,2022,Governance,104.2
+Terengganu,2023,Governance,108.7
+Terengganu,2024,Governance,109.0
+Terengganu,2010,Health,100.0
+Terengganu,2011,Health,106.8
+Terengganu,2012,Health,104.0
+Terengganu,2013,Health,107.7
+Terengganu,2014,Health,106.7
+Terengganu,2015,Health,108.9
+Terengganu,2016,Health,113.8
+Terengganu,2017,Health,118.3
+Terengganu,2018,Health,111.8
+Terengganu,2019,Health,108.8
+Terengganu,2020,Health,113.9
+Terengganu,2021,Health,113.1
+Terengganu,2022,Health,106.8
+Terengganu,2023,Health,108.8
+Terengganu,2024,Health,107.0
+Terengganu,2010,Housing,100.0
+Terengganu,2011,Housing,101.5
+Terengganu,2012,Housing,101.2
+Terengganu,2013,Housing,107.1
+Terengganu,2014,Housing,113.4
+Terengganu,2015,Housing,118.1
+Terengganu,2016,Housing,123.7
+Terengganu,2017,Housing,130.8
+Terengganu,2018,Housing,132.1
+Terengganu,2019,Housing,133.7
+Terengganu,2020,Housing,137.0
+Terengganu,2021,Housing,133.7
+Terengganu,2022,Housing,130.3
+Terengganu,2023,Housing,129.1
+Terengganu,2024,Housing,126.6
+Terengganu,2010,Income and Distribution,100.0
+Terengganu,2011,Income and Distribution,104.1
+Terengganu,2012,Income and Distribution,107.2
+Terengganu,2013,Income and Distribution,112.6
+Terengganu,2014,Income and Distribution,119.2
+Terengganu,2015,Income and Distribution,124.2
+Terengganu,2016,Income and Distribution,124.0
+Terengganu,2017,Income and Distribution,127.3
+Terengganu,2018,Income and Distribution,128.7
+Terengganu,2019,Income and Distribution,130.6
+Terengganu,2020,Income and Distribution,117.4
+Terengganu,2021,Income and Distribution,119.2
+Terengganu,2022,Income and Distribution,131.1
+Terengganu,2023,Income and Distribution,130.7
+Terengganu,2024,Income and Distribution,135.8
+Terengganu,2010,MyWI Overall,100.0
+Terengganu,2011,MyWI Overall,103.2
+Terengganu,2012,MyWI Overall,104.2
+Terengganu,2013,MyWI Overall,106.9
+Terengganu,2014,MyWI Overall,109.0
+Terengganu,2015,MyWI Overall,108.9
+Terengganu,2016,MyWI Overall,107.9
+Terengganu,2017,MyWI Overall,113.1
+Terengganu,2018,MyWI Overall,113.7
+Terengganu,2019,MyWI Overall,116.0
+Terengganu,2020,MyWI Overall,115.3
+Terengganu,2021,MyWI Overall,114.6
+Terengganu,2022,MyWI Overall,115.3
+Terengganu,2023,MyWI Overall,116.1
+Terengganu,2024,MyWI Overall,116.7
+Terengganu,2010,Public Safety,100.0
+Terengganu,2011,Public Safety,104.3
+Terengganu,2012,Public Safety,106.5
+Terengganu,2013,Public Safety,110.0
+Terengganu,2014,Public Safety,110.3
+Terengganu,2015,Public Safety,114.6
+Terengganu,2016,Public Safety,111.8
+Terengganu,2017,Public Safety,124.5
+Terengganu,2018,Public Safety,127.0
+Terengganu,2019,Public Safety,127.0
+Terengganu,2020,Public Safety,129.3
+Terengganu,2021,Public Safety,132.1
+Terengganu,2022,Public Safety,124.8
+Terengganu,2023,Public Safety,122.7
+Terengganu,2024,Public Safety,128.4
+Terengganu,2010,Social,100.0
+Terengganu,2011,Social,103.6
+Terengganu,2012,Social,105.0
+Terengganu,2013,Social,108.5
+Terengganu,2014,Social,109.2
+Terengganu,2015,Social,107.8
+Terengganu,2016,Social,108.0
+Terengganu,2017,Social,113.6
+Terengganu,2018,Social,114.4
+Terengganu,2019,Social,116.3
+Terengganu,2020,Social,114.8
+Terengganu,2021,Social,114.6
+Terengganu,2022,Social,114.7
+Terengganu,2023,Social,116.7
+Terengganu,2024,Social,117.0
+Terengganu,2010,Social Participation,100.0
+Terengganu,2011,Social Participation,114.6
+Terengganu,2012,Social Participation,115.0
+Terengganu,2013,Social Participation,127.2
+Terengganu,2014,Social Participation,128.2
+Terengganu,2015,Social Participation,119.2
+Terengganu,2016,Social Participation,120.9
+Terengganu,2017,Social Participation,126.2
+Terengganu,2018,Social Participation,128.0
+Terengganu,2019,Social Participation,137.4
+Terengganu,2020,Social Participation,130.5
+Terengganu,2021,Social Participation,130.2
+Terengganu,2022,Social Participation,131.0
+Terengganu,2023,Social Participation,130.9
+Terengganu,2024,Social Participation,137.5
+Terengganu,2010,Transportation,100.0
+Terengganu,2011,Transportation,102.0
+Terengganu,2012,Transportation,103.1
+Terengganu,2013,Transportation,104.7
+Terengganu,2014,Transportation,105.8
+Terengganu,2015,Transportation,107.9
+Terengganu,2016,Transportation,110.7
+Terengganu,2017,Transportation,114.2
+Terengganu,2018,Transportation,123.1
+Terengganu,2019,Transportation,126.3
+Terengganu,2020,Transportation,119.9
+Terengganu,2021,Transportation,115.0
+Terengganu,2022,Transportation,122.0
+Terengganu,2023,Transportation,123.8
+Terengganu,2024,Transportation,123.2
+Terengganu,2010,Water,100.0
+Terengganu,2011,Water,101.1
+Terengganu,2012,Water,103.2
+Terengganu,2013,Water,103.2
+Terengganu,2014,Water,103.2
+Terengganu,2015,Water,103.2
+Terengganu,2016,Water,103.2
+Terengganu,2017,Water,103.2
+Terengganu,2018,Water,103.2
+Terengganu,2019,Water,103.2
+Terengganu,2020,Water,103.2
+Terengganu,2021,Water,103.2
+Terengganu,2022,Water,103.2
+Terengganu,2023,Water,103.2
+Terengganu,2024,Water,103.2
+Terengganu,2010,Working Life,100.0
+Terengganu,2011,Working Life,113.8
+Terengganu,2012,Working Life,110.5
+Terengganu,2013,Working Life,113.7
+Terengganu,2014,Working Life,114.9
+Terengganu,2015,Working Life,115.1
+Terengganu,2016,Working Life,118.1
+Terengganu,2017,Working Life,121.7
+Terengganu,2018,Working Life,118.8
+Terengganu,2019,Working Life,127.7
+Terengganu,2020,Working Life,124.6
+Terengganu,2021,Working Life,123.6
+Terengganu,2022,Working Life,114.4
+Terengganu,2023,Working Life,119.0
+Terengganu,2024,Working Life,120.0
+Wilayah Persekutuan,2010,Air,100.0
+Wilayah Persekutuan,2011,Air,101.8
+Wilayah Persekutuan,2012,Air,109.1
+Wilayah Persekutuan,2013,Air,105.4
+Wilayah Persekutuan,2014,Air,105.4
+Wilayah Persekutuan,2015,Air,81.9
+Wilayah Persekutuan,2016,Air,107.3
+Wilayah Persekutuan,2017,Air,121.8
+Wilayah Persekutuan,2018,Air,96.5
+Wilayah Persekutuan,2019,Air,93.0
+Wilayah Persekutuan,2020,Air,105.1
+Wilayah Persekutuan,2021,Air,108.5
+Wilayah Persekutuan,2022,Air,125.7
+Wilayah Persekutuan,2023,Air,105.1
+Wilayah Persekutuan,2024,Air,94.7
+Wilayah Persekutuan,2010,Biodiversity Resources,100.0
+Wilayah Persekutuan,2011,Biodiversity Resources,100.0
+Wilayah Persekutuan,2012,Biodiversity Resources,119.3
+Wilayah Persekutuan,2013,Biodiversity Resources,119.3
+Wilayah Persekutuan,2014,Biodiversity Resources,119.3
+Wilayah Persekutuan,2015,Biodiversity Resources,119.3
+Wilayah Persekutuan,2016,Biodiversity Resources,119.3
+Wilayah Persekutuan,2017,Biodiversity Resources,119.5
+Wilayah Persekutuan,2018,Biodiversity Resources,119.5
+Wilayah Persekutuan,2019,Biodiversity Resources,119.3
+Wilayah Persekutuan,2020,Biodiversity Resources,119.2
+Wilayah Persekutuan,2021,Biodiversity Resources,120.4
+Wilayah Persekutuan,2022,Biodiversity Resources,120.4
+Wilayah Persekutuan,2023,Biodiversity Resources,89.5
+Wilayah Persekutuan,2024,Biodiversity Resources,89.5
+Wilayah Persekutuan,2010,Communication,100.0
+Wilayah Persekutuan,2011,Communication,103.3
+Wilayah Persekutuan,2012,Communication,105.6
+Wilayah Persekutuan,2013,Communication,107.2
+Wilayah Persekutuan,2014,Communication,119.0
+Wilayah Persekutuan,2015,Communication,126.3
+Wilayah Persekutuan,2016,Communication,124.9
+Wilayah Persekutuan,2017,Communication,123.7
+Wilayah Persekutuan,2018,Communication,123.6
+Wilayah Persekutuan,2019,Communication,128.5
+Wilayah Persekutuan,2020,Communication,124.4
+Wilayah Persekutuan,2021,Communication,126.6
+Wilayah Persekutuan,2022,Communication,127.2
+Wilayah Persekutuan,2023,Communication,126.7
+Wilayah Persekutuan,2024,Communication,125.1
+Wilayah Persekutuan,2010,Culture,100.0
+Wilayah Persekutuan,2011,Culture,100.9
+Wilayah Persekutuan,2012,Culture,101.9
+Wilayah Persekutuan,2013,Culture,99.8
+Wilayah Persekutuan,2014,Culture,103.5
+Wilayah Persekutuan,2015,Culture,87.7
+Wilayah Persekutuan,2016,Culture,85.5
+Wilayah Persekutuan,2017,Culture,101.4
+Wilayah Persekutuan,2018,Culture,100.8
+Wilayah Persekutuan,2019,Culture,100.1
+Wilayah Persekutuan,2020,Culture,90.9
+Wilayah Persekutuan,2021,Culture,89.8
+Wilayah Persekutuan,2022,Culture,96.4
+Wilayah Persekutuan,2023,Culture,96.7
+Wilayah Persekutuan,2024,Culture,96.2
+Wilayah Persekutuan,2010,Economic,100.0
+Wilayah Persekutuan,2011,Economic,107.1
+Wilayah Persekutuan,2012,Economic,105.6
+Wilayah Persekutuan,2013,Economic,108.6
+Wilayah Persekutuan,2014,Economic,113.4
+Wilayah Persekutuan,2015,Economic,116.8
+Wilayah Persekutuan,2016,Economic,115.4
+Wilayah Persekutuan,2017,Economic,116.3
+Wilayah Persekutuan,2018,Economic,117.4
+Wilayah Persekutuan,2019,Economic,121.7
+Wilayah Persekutuan,2020,Economic,119.3
+Wilayah Persekutuan,2021,Economic,119.4
+Wilayah Persekutuan,2022,Economic,122.2
+Wilayah Persekutuan,2023,Economic,122.5
+Wilayah Persekutuan,2024,Economic,124.8
+Wilayah Persekutuan,2010,Education,100.0
+Wilayah Persekutuan,2011,Education,107.1
+Wilayah Persekutuan,2012,Education,109.7
+Wilayah Persekutuan,2013,Education,108.8
+Wilayah Persekutuan,2014,Education,112.6
+Wilayah Persekutuan,2015,Education,114.8
+Wilayah Persekutuan,2016,Education,120.2
+Wilayah Persekutuan,2017,Education,120.3
+Wilayah Persekutuan,2018,Education,120.8
+Wilayah Persekutuan,2019,Education,120.8
+Wilayah Persekutuan,2020,Education,121.6
+Wilayah Persekutuan,2021,Education,122.9
+Wilayah Persekutuan,2022,Education,125.7
+Wilayah Persekutuan,2023,Education,126.7
+Wilayah Persekutuan,2024,Education,131.6
+Wilayah Persekutuan,2010,Entertainment and Recreation,100.0
+Wilayah Persekutuan,2011,Entertainment and Recreation,99.6
+Wilayah Persekutuan,2012,Entertainment and Recreation,101.8
+Wilayah Persekutuan,2013,Entertainment and Recreation,102.3
+Wilayah Persekutuan,2014,Entertainment and Recreation,103.9
+Wilayah Persekutuan,2015,Entertainment and Recreation,110.4
+Wilayah Persekutuan,2016,Entertainment and Recreation,108.2
+Wilayah Persekutuan,2017,Entertainment and Recreation,110.0
+Wilayah Persekutuan,2018,Entertainment and Recreation,110.4
+Wilayah Persekutuan,2019,Entertainment and Recreation,108.2
+Wilayah Persekutuan,2020,Entertainment and Recreation,92.1
+Wilayah Persekutuan,2021,Entertainment and Recreation,87.5
+Wilayah Persekutuan,2022,Entertainment and Recreation,101.9
+Wilayah Persekutuan,2023,Entertainment and Recreation,101.9
+Wilayah Persekutuan,2024,Entertainment and Recreation,101.9
+Wilayah Persekutuan,2010,Environmental,100.0
+Wilayah Persekutuan,2011,Environmental,100.6
+Wilayah Persekutuan,2012,Environmental,109.5
+Wilayah Persekutuan,2013,Environmental,108.3
+Wilayah Persekutuan,2014,Environmental,108.3
+Wilayah Persekutuan,2015,Environmental,100.4
+Wilayah Persekutuan,2016,Environmental,108.9
+Wilayah Persekutuan,2017,Environmental,113.7
+Wilayah Persekutuan,2018,Environmental,105.3
+Wilayah Persekutuan,2019,Environmental,98.1
+Wilayah Persekutuan,2020,Environmental,103.3
+Wilayah Persekutuan,2021,Environmental,109.6
+Wilayah Persekutuan,2022,Environmental,115.4
+Wilayah Persekutuan,2023,Environmental,98.2
+Wilayah Persekutuan,2024,Environmental,94.7
+Wilayah Persekutuan,2010,Family,100.0
+Wilayah Persekutuan,2011,Family,95.8
+Wilayah Persekutuan,2012,Family,94.0
+Wilayah Persekutuan,2013,Family,94.9
+Wilayah Persekutuan,2014,Family,94.9
+Wilayah Persekutuan,2015,Family,91.4
+Wilayah Persekutuan,2016,Family,81.8
+Wilayah Persekutuan,2017,Family,82.0
+Wilayah Persekutuan,2018,Family,87.8
+Wilayah Persekutuan,2019,Family,80.0
+Wilayah Persekutuan,2020,Family,84.8
+Wilayah Persekutuan,2021,Family,83.1
+Wilayah Persekutuan,2022,Family,85.0
+Wilayah Persekutuan,2023,Family,91.6
+Wilayah Persekutuan,2024,Family,89.1
+Wilayah Persekutuan,2010,Governance,100.0
+Wilayah Persekutuan,2011,Governance,93.5
+Wilayah Persekutuan,2012,Governance,99.1
+Wilayah Persekutuan,2013,Governance,109.1
+Wilayah Persekutuan,2014,Governance,111.2
+Wilayah Persekutuan,2015,Governance,103.0
+Wilayah Persekutuan,2016,Governance,104.2
+Wilayah Persekutuan,2017,Governance,105.5
+Wilayah Persekutuan,2018,Governance,97.5
+Wilayah Persekutuan,2019,Governance,110.3
+Wilayah Persekutuan,2020,Governance,100.0
+Wilayah Persekutuan,2021,Governance,103.8
+Wilayah Persekutuan,2022,Governance,104.0
+Wilayah Persekutuan,2023,Governance,113.4
+Wilayah Persekutuan,2024,Governance,114.9
+Wilayah Persekutuan,2010,Health,100.0
+Wilayah Persekutuan,2011,Health,106.6
+Wilayah Persekutuan,2012,Health,114.5
+Wilayah Persekutuan,2013,Health,114.6
+Wilayah Persekutuan,2014,Health,113.1
+Wilayah Persekutuan,2015,Health,110.1
+Wilayah Persekutuan,2016,Health,114.2
+Wilayah Persekutuan,2017,Health,117.4
+Wilayah Persekutuan,2018,Health,116.2
+Wilayah Persekutuan,2019,Health,113.6
+Wilayah Persekutuan,2020,Health,111.7
+Wilayah Persekutuan,2021,Health,110.1
+Wilayah Persekutuan,2022,Health,113.6
+Wilayah Persekutuan,2023,Health,116.5
+Wilayah Persekutuan,2024,Health,117.6
+Wilayah Persekutuan,2010,Housing,100.0
+Wilayah Persekutuan,2011,Housing,106.6
+Wilayah Persekutuan,2012,Housing,109.7
+Wilayah Persekutuan,2013,Housing,114.2
+Wilayah Persekutuan,2014,Housing,113.8
+Wilayah Persekutuan,2015,Housing,117.9
+Wilayah Persekutuan,2016,Housing,123.2
+Wilayah Persekutuan,2017,Housing,124.6
+Wilayah Persekutuan,2018,Housing,128.8
+Wilayah Persekutuan,2019,Housing,130.4
+Wilayah Persekutuan,2020,Housing,139.2
+Wilayah Persekutuan,2021,Housing,133.8
+Wilayah Persekutuan,2022,Housing,132.6
+Wilayah Persekutuan,2023,Housing,134.4
+Wilayah Persekutuan,2024,Housing,133.6
+Wilayah Persekutuan,2010,Income and Distribution,100.0
+Wilayah Persekutuan,2011,Income and Distribution,100.4
+Wilayah Persekutuan,2012,Income and Distribution,100.8
+Wilayah Persekutuan,2013,Income and Distribution,106.7
+Wilayah Persekutuan,2014,Income and Distribution,113.0
+Wilayah Persekutuan,2015,Income and Distribution,117.8
+Wilayah Persekutuan,2016,Income and Distribution,116.0
+Wilayah Persekutuan,2017,Income and Distribution,120.1
+Wilayah Persekutuan,2018,Income and Distribution,123.9
+Wilayah Persekutuan,2019,Income and Distribution,127.8
+Wilayah Persekutuan,2020,Income and Distribution,122.4
+Wilayah Persekutuan,2021,Income and Distribution,116.6
+Wilayah Persekutuan,2022,Income and Distribution,120.4
+Wilayah Persekutuan,2023,Income and Distribution,118.1
+Wilayah Persekutuan,2024,Income and Distribution,125.5
+Wilayah Persekutuan,2010,MyWI Overall,100.0
+Wilayah Persekutuan,2011,MyWI Overall,104.4
+Wilayah Persekutuan,2012,MyWI Overall,106.5
+Wilayah Persekutuan,2013,MyWI Overall,107.7
+Wilayah Persekutuan,2014,MyWI Overall,110.2
+Wilayah Persekutuan,2015,MyWI Overall,108.9
+Wilayah Persekutuan,2016,MyWI Overall,110.4
+Wilayah Persekutuan,2017,MyWI Overall,113.4
+Wilayah Persekutuan,2018,MyWI Overall,112.1
+Wilayah Persekutuan,2019,MyWI Overall,112.7
+Wilayah Persekutuan,2020,MyWI Overall,111.9
+Wilayah Persekutuan,2021,MyWI Overall,112.9
+Wilayah Persekutuan,2022,MyWI Overall,116.0
+Wilayah Persekutuan,2023,MyWI Overall,114.3
+Wilayah Persekutuan,2024,MyWI Overall,114.3
+Wilayah Persekutuan,2010,Public Safety,100.0
+Wilayah Persekutuan,2011,Public Safety,109.1
+Wilayah Persekutuan,2012,Public Safety,107.7
+Wilayah Persekutuan,2013,Public Safety,105.3
+Wilayah Persekutuan,2014,Public Safety,113.3
+Wilayah Persekutuan,2015,Public Safety,117.3
+Wilayah Persekutuan,2016,Public Safety,114.3
+Wilayah Persekutuan,2017,Public Safety,122.1
+Wilayah Persekutuan,2018,Public Safety,118.0
+Wilayah Persekutuan,2019,Public Safety,122.6
+Wilayah Persekutuan,2020,Public Safety,131.5
+Wilayah Persekutuan,2021,Public Safety,138.7
+Wilayah Persekutuan,2022,Public Safety,130.6
+Wilayah Persekutuan,2023,Public Safety,128.5
+Wilayah Persekutuan,2024,Public Safety,125.8
+Wilayah Persekutuan,2010,Social,100.0
+Wilayah Persekutuan,2011,Social,104.5
+Wilayah Persekutuan,2012,Social,105.8
+Wilayah Persekutuan,2013,Social,107.2
+Wilayah Persekutuan,2014,Social,109.3
+Wilayah Persekutuan,2015,Social,108.2
+Wilayah Persekutuan,2016,Social,108.8
+Wilayah Persekutuan,2017,Social,112.1
+Wilayah Persekutuan,2018,Social,112.1
+Wilayah Persekutuan,2019,Social,113.5
+Wilayah Persekutuan,2020,Social,111.4
+Wilayah Persekutuan,2021,Social,111.1
+Wilayah Persekutuan,2022,Social,113.4
+Wilayah Persekutuan,2023,Social,116.0
+Wilayah Persekutuan,2024,Social,116.1
+Wilayah Persekutuan,2010,Social Participation,100.0
+Wilayah Persekutuan,2011,Social Participation,121.0
+Wilayah Persekutuan,2012,Social Participation,114.1
+Wilayah Persekutuan,2013,Social Participation,115.5
+Wilayah Persekutuan,2014,Social Participation,117.8
+Wilayah Persekutuan,2015,Social Participation,121.0
+Wilayah Persekutuan,2016,Social Participation,127.2
+Wilayah Persekutuan,2017,Social Participation,125.2
+Wilayah Persekutuan,2018,Social Participation,128.2
+Wilayah Persekutuan,2019,Social Participation,135.6
+Wilayah Persekutuan,2020,Social Participation,131.0
+Wilayah Persekutuan,2021,Social Participation,130.4
+Wilayah Persekutuan,2022,Social Participation,131.1
+Wilayah Persekutuan,2023,Social Participation,134.2
+Wilayah Persekutuan,2024,Social Participation,134.1
+Wilayah Persekutuan,2010,Transportation,100.0
+Wilayah Persekutuan,2011,Transportation,115.6
+Wilayah Persekutuan,2012,Transportation,108.0
+Wilayah Persekutuan,2013,Transportation,110.0
+Wilayah Persekutuan,2014,Transportation,111.8
+Wilayah Persekutuan,2015,Transportation,112.1
+Wilayah Persekutuan,2016,Transportation,112.6
+Wilayah Persekutuan,2017,Transportation,111.5
+Wilayah Persekutuan,2018,Transportation,114.1
+Wilayah Persekutuan,2019,Transportation,120.9
+Wilayah Persekutuan,2020,Transportation,117.7
+Wilayah Persekutuan,2021,Transportation,114.8
+Wilayah Persekutuan,2022,Transportation,123.9
+Wilayah Persekutuan,2023,Transportation,126.3
+Wilayah Persekutuan,2024,Transportation,127.4
+Wilayah Persekutuan,2010,Water,100.0
+Wilayah Persekutuan,2011,Water,100.0
+Wilayah Persekutuan,2012,Water,100.0
+Wilayah Persekutuan,2013,Water,100.0
+Wilayah Persekutuan,2014,Water,100.0
+Wilayah Persekutuan,2015,Water,100.0
+Wilayah Persekutuan,2016,Water,100.0
+Wilayah Persekutuan,2017,Water,100.0
+Wilayah Persekutuan,2018,Water,100.0
+Wilayah Persekutuan,2019,Water,82.0
+Wilayah Persekutuan,2020,Water,85.6
+Wilayah Persekutuan,2021,Water,100.0
+Wilayah Persekutuan,2022,Water,100.0
+Wilayah Persekutuan,2023,Water,100.0
+Wilayah Persekutuan,2024,Water,100.0
+Wilayah Persekutuan,2010,Working Life,100.0
+Wilayah Persekutuan,2011,Working Life,109.2
+Wilayah Persekutuan,2012,Working Life,108.1
+Wilayah Persekutuan,2013,Working Life,110.4
+Wilayah Persekutuan,2014,Working Life,109.9
+Wilayah Persekutuan,2015,Working Life,110.9
+Wilayah Persekutuan,2016,Working Life,108.1
+Wilayah Persekutuan,2017,Working Life,109.9
+Wilayah Persekutuan,2018,Working Life,108.2
+Wilayah Persekutuan,2019,Working Life,109.5
+Wilayah Persekutuan,2020,Working Life,112.6
+Wilayah Persekutuan,2021,Working Life,119.6
+Wilayah Persekutuan,2022,Working Life,117.3
+Wilayah Persekutuan,2023,Working Life,119.1
+Wilayah Persekutuan,2024,Working Life,121.1

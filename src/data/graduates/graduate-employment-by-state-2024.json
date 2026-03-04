@@ -116,19 +116,10 @@
     "graduatesUnemployed": 1011,
     "employmentAbsorptionRate": 5.39
   },
-  "WP": {
-    "state": "WP",
-    "graduateEmploymentRate": 95.3,
-    "graduateUnemploymentRate": 4.7,
-    "totalGraduatesProduced": null,
-    "graduatesEmployed": 1448,
-    "graduatesUnemployed": 72,
-    "employmentAbsorptionRate": null
-  },
   "W.P. Kuala Lumpur": {
     "state": "W.P. Kuala Lumpur",
-    "graduateEmploymentRate": null,
-    "graduateUnemploymentRate": null,
+    "graduateEmploymentRate": 95.3,
+    "graduateUnemploymentRate": 4.7,
     "totalGraduatesProduced": 697400,
     "graduatesEmployed": null,
     "graduatesUnemployed": null,
@@ -136,8 +127,8 @@
   },
   "W.P. Labuan": {
     "state": "W.P. Labuan",
-    "graduateEmploymentRate": null,
-    "graduateUnemploymentRate": null,
+    "graduateEmploymentRate": 95.3,
+    "graduateUnemploymentRate": 4.7,
     "totalGraduatesProduced": 13700,
     "graduatesEmployed": null,
     "graduatesUnemployed": null,
@@ -145,8 +136,8 @@
   },
   "W.P. Putrajaya": {
     "state": "W.P. Putrajaya",
-    "graduateEmploymentRate": null,
-    "graduateUnemploymentRate": null,
+    "graduateEmploymentRate": 95.3,
+    "graduateUnemploymentRate": 4.7,
     "totalGraduatesProduced": 41300,
     "graduatesEmployed": null,
     "graduatesUnemployed": null,

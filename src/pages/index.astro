@@ -3,6 +3,9 @@ import Layout from '../layouts/Layout.astro';
 import MalaysiaMap from '../components/MalaysiaMap';
 import StateMetricCards from '../components/StateMetricCards';
 import StateList from '../components/StateList';
+import MyWITrendChart from '../components/MyWITrendChart';
+import MyWIComponentsChart from '../components/MyWIComponentsChart';
+import StateComparison from '../components/StateComparison';
 ---
 
 <Layout title="Malaysia Education & Employment Dashboard">
@@ -10,14 +13,15 @@ import StateList from '../components/StateList';
 	<section class="bg-gradient-to-br from-slate-900 via-slate-800 to-teal-900 text-white py-16 px-4 fade-in">
 		<div class="max-w-7xl mx-auto text-center">
 			<h1 class="text-4xl md:text-6xl font-bold mb-4">
-				Education & Employment Outcomes in Malaysia
+				Education, Employment & Well-Being in Malaysia
 			</h1>
 			<p class="text-xl md:text-2xl text-teal-200 mb-6 font-light">
 				Data Challenge 5.0 — Sustainable Well-Being
 			</p>
 			<p class="text-base md:text-lg max-w-3xl mx-auto text-gray-300">
-				Explore Malaysia's education and employment landscape through interactive visualizations.
-				Hover over states to see detailed metrics, or click to dive deeper into regional trends.
+				Explore how education and employment connect to well-being across Malaysian states.
+				The Malaysian Well-Being Index (MyWI) reveals the full picture: from schools to jobs to quality of life.
+				Click any state to see its complete well-being profile.
 			</p>
 		</div>
 	</section>
@@ -28,8 +32,8 @@ import StateList from '../components/StateList';
 			Interactive Malaysia Map
 		</h2>
 		<p class="text-center text-gray-600 mb-8 max-w-2xl mx-auto">
-			<strong>Showing:</strong> Graduate Employment Rate by State (2024)<br/>
-			<span class="text-sm">Click on any state on the map or use the list below</span>
+			<strong>Currently showing:</strong> Graduate Employment Rate by State (2024)<br/>
+			<span class="text-sm">Click on any state to view its complete well-being profile with MyWI index, education metrics, and economic indicators</span>
 		</p>
 
 		<div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
@@ -49,6 +53,16 @@ import StateList from '../components/StateList';
 	<section id="state-metrics" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 hidden">
 		<div class="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl p-6 md:p-10 border border-gray-200">
 			<StateMetricCards client:load />
+		</div>
+
+		<!-- MyWI Trend Chart -->
+		<div class="mt-6">
+			<MyWITrendChart client:load />
+		</div>
+
+		<!-- MyWI Components Breakdown Chart -->
+		<div class="mt-6">
+			<MyWIComponentsChart client:load />
 		</div>
 	</section>
 
@@ -113,6 +127,11 @@ import StateList from '../components/StateList';
 		</div>
 	</section>
 
+	<!-- State Comparison Section -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 fade-in-delay-3">
+		<StateComparison client:load />
+	</section>
+
 	<!-- State Detail Section (Hidden initially, shown on state click) -->
 	<section id="state-detail" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 hidden">
 		<div class="bg-white rounded-2xl shadow-xl p-6 md:p-10">
@@ -139,28 +158,38 @@ import StateList from '../components/StateList';
 
 				<h3 class="text-xl font-semibold mt-6 mb-3 text-gray-900">Data Sources</h3>
 				<ul class="list-disc pl-6 text-gray-700 space-y-2">
-					<li><strong>Labour Force Survey (LFS)</strong> — Annual, quarterly, and monthly employment statistics</li>
-					<li><strong>Graduate Tracer Study (2023-2024)</strong> — Graduate employment outcomes by state and field</li>
+					<li><strong>Malaysian Well-Being Index (MyWI) 2010-2024</strong> — State-level well-being index with 3 sub-composites (Economic, Social, Environmental) and 16 components. Base year 2010 = 100.</li>
+					<li><strong>Labour Force Survey (LFS)</strong> — Annual, quarterly, and monthly employment statistics by state and demographic</li>
+					<li><strong>Graduate Tracer Study (2023-2024)</strong> — Graduate employment outcomes by state and field from Ministry of Higher Education</li>
 					<li><strong>Graduates Statistics (2020-2024)</strong> — Graduate production trends by state with gender breakdown</li>
 					<li><strong>GDP by State</strong> — Economic output by sector at constant 2015 prices</li>
-					<li><strong>Household Income & Inequality</strong> — Mean, median income, and Gini coefficients</li>
-					<li><strong>Education Statistics</strong> — School completion, enrolment, teachers, and lecturers data</li>
+					<li><strong>Household Income & Inequality</strong> — Mean, median income, and Gini coefficients by state</li>
+					<li><strong>Education Statistics</strong> — School completion, enrolment, teachers, and lecturers data by state and district</li>
 				</ul>
 
 				<h3 class="text-xl font-semibold mt-6 mb-3 text-gray-900">Key Metrics Explained</h3>
 				<ul class="list-disc pl-6 text-gray-700 space-y-2">
-					<li><strong>Unemployment Rate</strong> — Percentage of labour force actively seeking work</li>
+					<li><strong>MyWI (Malaysian Well-Being Index)</strong> — Composite index measuring quality of life across economic, social, and environmental dimensions. Base year 2010 = 100. Values above 100 indicate improvement.</li>
+					<li><strong>MyWI Sub-Composites</strong> — Economic (transportation, communication, income, working life), Social (education, housing, entertainment, safety, participation, governance, culture, health, family), Environmental (air, water, biodiversity)</li>
+					<li><strong>MyWI Education Component</strong> — State's performance in education indicators within the well-being index</li>
+					<li><strong>MyWI Working Life Component</strong> — Quality of employment conditions and opportunities</li>
 					<li><strong>Graduate Employment Rate</strong> — Percentage of recent graduates who are employed</li>
 					<li><strong>Employment Absorption Rate</strong> — Percentage of graduates produced who find employment (indicates market capacity)</li>
+					<li><strong>Unemployment Rate</strong> — Percentage of labour force actively seeking work</li>
 					<li><strong>Labour Force Participation Rate</strong> — Percentage of working-age population in the labour force</li>
 					<li><strong>Gini Coefficient</strong> — Income inequality measure (0 = perfect equality, 1 = perfect inequality)</li>
 					<li><strong>School Completion Rate</strong> — Percentage of students completing each education level</li>
 				</ul>
 
 				<p class="text-sm text-gray-600 mt-8">
-					<strong>Data Integration:</strong> This dashboard combines structured CSV data from OpenDOSM with extracted PDF data
-					from Ministry of Higher Education (Graduate Tracer Studies 2023-2024, Graduates Statistics 2020-2024). The integration
-					provides a complete view of the education → employment pipeline across all Malaysian states.
+					<strong>Data Integration:</strong> This dashboard integrates the Malaysian Well-Being Index (MyWI) 2010-2024 with
+					structured CSV data from OpenDOSM and extracted PDF data from Ministry of Higher Education (Graduate Tracer Studies 2023-2024,
+					Graduates Statistics 2020-2024). The integration provides a complete view of the education → employment → well-being
+					connection across all Malaysian states.
+				</p>
+				<p class="text-xs text-gray-500 mt-4">
+					<strong>Note on Wilayah Persekutuan:</strong> MyWI data combines Kuala Lumpur, Putrajaya, and Labuan into one
+					"Wilayah Persekutuan" entity. The same MyWI values are applied to all three federal territories on this dashboard.
 				</p>
 			</div>
 		</div>
@@ -185,6 +214,11 @@ import StateList from '../components/StateList';
 				// Update cards with state data
 				window.dispatchEvent(new CustomEvent('updateStateMetrics', {
 					detail: { stateName, stateData }
+				}));
+
+				// Update MyWI trend chart with state name
+				window.dispatchEvent(new CustomEvent('updateMyWIChart', {
+					detail: { stateName }
 				}));
 
 				// Smooth scroll to metrics section

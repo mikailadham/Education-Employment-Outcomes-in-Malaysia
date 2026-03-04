@@ -96,20 +96,44 @@ export default function MalaysiaMap({ onStateClick, onStateHover }) {
   const min = Math.min(...metricValues.map(d => d.value));
   const max = Math.max(...metricValues.map(d => d.value));
 
-  // Color schemes per metric
-  const metricConfig = {
-    'gdp_total': { label: 'GDP Total', scheme: 'blue', unit: '', format: (v) => `RM ${v?.toFixed(2)}B` },
-    'mean_income': { label: 'Mean Income', scheme: 'teal', unit: 'RM', format: (v) => `RM ${v?.toLocaleString()}` },
-    'median_income': { label: 'Median Income', scheme: 'teal', unit: 'RM', format: (v) => `RM ${v?.toLocaleString()}` },
-    'gini': { label: 'Gini Coefficient', scheme: 'amber', unit: '', format: (v) => v?.toFixed(3) },
-    'unemployment_rate': { label: 'Unemployment Rate', scheme: 'red', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
-    'participation_rate': { label: 'Labour Force Participation Rate', scheme: 'green', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
-    'school_completion_rate': { label: 'School Completion Rate', scheme: 'blue', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
-    'graduateEmploymentRate': { label: 'Graduate Employment Rate', scheme: 'green', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
-    'graduateUnemploymentRate': { label: 'Graduate Unemployment Rate', scheme: 'red', unit: '%', format: (v) => `${v?.toFixed(1)}%` },
-    'totalGraduatesProduced': { label: 'Total Graduates Produced', scheme: 'blue', unit: '', format: (v) => v?.toLocaleString() },
-    'employmentAbsorptionRate': { label: 'Employment Absorption Rate', scheme: 'teal', unit: '%', format: (v) => `${v?.toFixed(1)}%` }
+  // Grouped metrics configuration
+  const metricGroups = {
+    'wellbeing': {
+      label: 'Well-Being (MyWI)',
+      metrics: {
+        'mywi_overall': { label: 'MyWI Overall Index', scheme: 'teal', format: (v) => v?.toFixed(1) },
+        'mywi_economic': { label: 'MyWI Economic', scheme: 'blue', format: (v) => v?.toFixed(1) },
+        'mywi_social': { label: 'MyWI Social', scheme: 'green', format: (v) => v?.toFixed(1) },
+        'mywi_environmental': { label: 'MyWI Environmental', scheme: 'green', format: (v) => v?.toFixed(1) }
+      }
+    },
+    'education_employment': {
+      label: 'Education & Employment',
+      metrics: {
+        'mywi_education': { label: 'MyWI Education Component', scheme: 'blue', format: (v) => v?.toFixed(1) },
+        'mywi_working_life': { label: 'MyWI Working Life Component', scheme: 'teal', format: (v) => v?.toFixed(1) },
+        'graduateEmploymentRate': { label: 'Graduate Employment Rate', scheme: 'green', format: (v) => `${v?.toFixed(1)}%` },
+        'unemployment_rate': { label: 'Unemployment Rate', scheme: 'red', format: (v) => `${v?.toFixed(1)}%` },
+        'participation_rate': { label: 'Labour Force Participation', scheme: 'green', format: (v) => `${v?.toFixed(1)}%` },
+        'school_completion_rate': { label: 'School Completion Rate', scheme: 'blue', format: (v) => `${v?.toFixed(1)}%` }
+      }
+    },
+    'economic': {
+      label: 'Economic Context',
+      metrics: {
+        'gdp_total': { label: 'GDP Total', scheme: 'blue', format: (v) => `RM ${v?.toFixed(2)}B` },
+        'mean_income': { label: 'Mean Household Income', scheme: 'teal', format: (v) => `RM ${v?.toLocaleString()}` },
+        'mywi_income_distribution': { label: 'MyWI Income & Distribution', scheme: 'teal', format: (v) => v?.toFixed(1) },
+        'gini': { label: 'Gini Coefficient', scheme: 'amber', format: (v) => v?.toFixed(3) }
+      }
+    }
   };
+
+  // Flatten all metrics for easy lookup
+  const metricConfig = {};
+  Object.values(metricGroups).forEach(group => {
+    Object.assign(metricConfig, group.metrics);
+  });
 
   const currentConfig = metricConfig[selectedMetric] || metricConfig.unemployment_rate;
 
