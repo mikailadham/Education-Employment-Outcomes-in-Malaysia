@@ -3,7 +3,7 @@
  * Allows selecting 2-5 states and comparing their MyWI metrics side-by-side
  */
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import {
   LineChart,
   Line,
@@ -43,19 +43,22 @@ export default function StateComparison() {
   const [availableStates, setAvailableStates] = useState([]);
 
   // Merge summary data with graduate data (same as MalaysiaMap)
-  const mergedData = {};
-  Object.keys(summaryData).forEach(state => {
-    mergedData[state] = {
-      ...summaryData[state],
-      ...graduateData[state]
-    };
-  });
+  const mergedData = useMemo(() => {
+    const merged = {};
+    Object.keys(summaryData).forEach(state => {
+      merged[state] = {
+        ...summaryData[state],
+        ...graduateData[state]
+      };
+    });
+    return merged;
+  }, []);
 
   useEffect(() => {
     // Get all available states
     const states = Object.keys(mergedData).sort();
     setAvailableStates(states);
-  }, []);
+  }, [mergedData]);
 
   const toggleState = (state) => {
     if (selectedStates.includes(state)) {
