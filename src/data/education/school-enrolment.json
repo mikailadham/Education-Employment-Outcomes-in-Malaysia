@@ -1,0 +1,528 @@
+{
+  "Malaysia": {
+    "2017": {
+      "primary": 2689810,
+      "secondary": 2133323
+    },
+    "2018": {
+      "primary": 2694779,
+      "secondary": 1947606,
+      "post_secondary": 128012
+    },
+    "2019": {
+      "primary": 2729704,
+      "secondary": 1930241,
+      "post_secondary": 115536
+    },
+    "2020": {
+      "primary": 2741995,
+      "secondary": 1920485,
+      "post_secondary": 68296
+    },
+    "2021": {
+      "primary": 2766202,
+      "secondary": 1959787,
+      "post_secondary": 64904
+    },
+    "2022": {
+      "primary": 2770015,
+      "secondary": 1984995,
+      "post_secondary": 66770
+    }
+  },
+  "Johor": {
+    "2017": {
+      "primary": 653418,
+      "secondary": 524138
+    },
+    "2018": {
+      "primary": 656186,
+      "secondary": 480468,
+      "post_secondary": 27332
+    },
+    "2019": {
+      "primary": 662260,
+      "secondary": 472978,
+      "post_secondary": 25978
+    },
+    "2020": {
+      "primary": 662380,
+      "secondary": 473604,
+      "post_secondary": 14128
+    },
+    "2021": {
+      "primary": 663754,
+      "secondary": 477628,
+      "post_secondary": 13410
+    },
+    "2022": {
+      "primary": 662410,
+      "secondary": 476982,
+      "post_secondary": 13876
+    }
+  },
+  "Kedah": {
+    "2017": {
+      "primary": 380056,
+      "secondary": 319224
+    },
+    "2018": {
+      "primary": 379594,
+      "secondary": 287070,
+      "post_secondary": 18324
+    },
+    "2019": {
+      "primary": 379938,
+      "secondary": 280692,
+      "post_secondary": 17616
+    },
+    "2020": {
+      "primary": 378340,
+      "secondary": 278384,
+      "post_secondary": 10206
+    },
+    "2021": {
+      "primary": 378490,
+      "secondary": 282432,
+      "post_secondary": 9276
+    },
+    "2022": {
+      "primary": 377048,
+      "secondary": 287182,
+      "post_secondary": 9882
+    }
+  },
+  "Kelantan": {
+    "2017": {
+      "primary": 343678,
+      "secondary": 260744
+    },
+    "2018": {
+      "primary": 342812,
+      "secondary": 231440,
+      "post_secondary": 19532
+    },
+    "2019": {
+      "primary": 344066,
+      "secondary": 243204
+    },
+    "2020": {
+      "primary": 341348,
+      "secondary": 218972,
+      "post_secondary": 10202
+    },
+    "2021": {
+      "primary": 343126,
+      "secondary": 222146,
+      "post_secondary": 9674
+    },
+    "2022": {
+      "primary": 344290,
+      "secondary": 226658,
+      "post_secondary": 9552
+    }
+  },
+  "Melaka": {
+    "2017": {
+      "primary": 162172,
+      "secondary": 136486
+    },
+    "2018": {
+      "primary": 164228,
+      "secondary": 124366,
+      "post_secondary": 8036
+    },
+    "2019": {
+      "primary": 167268,
+      "secondary": 122514,
+      "post_secondary": 8018
+    },
+    "2020": {
+      "primary": 168348,
+      "secondary": 122758,
+      "post_secondary": 4314
+    },
+    "2021": {
+      "primary": 170866,
+      "secondary": 124662,
+      "post_secondary": 3834
+    },
+    "2022": {
+      "primary": 172538,
+      "secondary": 124770,
+      "post_secondary": 4466
+    }
+  },
+  "Negeri Sembilan": {
+    "2017": {
+      "primary": 203582,
+      "secondary": 177456
+    },
+    "2018": {
+      "primary": 205078,
+      "secondary": 162790,
+      "post_secondary": 10412
+    },
+    "2019": {
+      "primary": 208658,
+      "secondary": 160556,
+      "post_secondary": 9986
+    },
+    "2020": {
+      "primary": 210392,
+      "secondary": 162126,
+      "post_secondary": 6158
+    },
+    "2021": {
+      "primary": 215202,
+      "secondary": 165252,
+      "post_secondary": 5680
+    },
+    "2022": {
+      "primary": 217712,
+      "secondary": 167142,
+      "post_secondary": 6358
+    }
+  },
+  "Pahang": {
+    "2017": {
+      "primary": 290234,
+      "secondary": 217746
+    },
+    "2018": {
+      "primary": 291396,
+      "secondary": 196966,
+      "post_secondary": 14164
+    },
+    "2019": {
+      "primary": 293360,
+      "secondary": 193452,
+      "post_secondary": 13440
+    },
+    "2020": {
+      "primary": 295528,
+      "secondary": 194016,
+      "post_secondary": 7340
+    },
+    "2021": {
+      "primary": 301342,
+      "secondary": 198718,
+      "post_secondary": 7086
+    },
+    "2022": {
+      "primary": 303248,
+      "secondary": 203646,
+      "post_secondary": 7470
+    }
+  },
+  "Perak": {
+    "2017": {
+      "primary": 402234,
+      "secondary": 367712
+    },
+    "2018": {
+      "primary": 401258,
+      "secondary": 325922,
+      "post_secondary": 25474
+    },
+    "2019": {
+      "primary": 403576,
+      "secondary": 316788,
+      "post_secondary": 23896
+    },
+    "2020": {
+      "primary": 401228,
+      "secondary": 313828,
+      "post_secondary": 13084
+    },
+    "2021": {
+      "primary": 402068,
+      "secondary": 317484,
+      "post_secondary": 11482
+    },
+    "2022": {
+      "primary": 401086,
+      "secondary": 320774,
+      "post_secondary": 12752
+    }
+  },
+  "Perlis": {
+    "2017": {
+      "primary": 68492,
+      "secondary": 42402
+    },
+    "2018": {
+      "primary": 46496,
+      "secondary": 36996,
+      "post_secondary": 3810
+    },
+    "2019": {
+      "primary": 47300,
+      "secondary": 35974,
+      "post_secondary": 3508
+    },
+    "2020": {
+      "primary": 47458,
+      "secondary": 36030,
+      "post_secondary": 2162
+    },
+    "2021": {
+      "primary": 48350,
+      "secondary": 37188,
+      "post_secondary": 1894
+    },
+    "2022": {
+      "primary": 48506,
+      "secondary": 38230,
+      "post_secondary": 2104
+    }
+  },
+  "Pulau Pinang": {
+    "2017": {
+      "primary": 260910,
+      "secondary": 222210
+    },
+    "2018": {
+      "primary": 260380,
+      "secondary": 201196,
+      "post_secondary": 13728
+    },
+    "2019": {
+      "primary": 263150,
+      "secondary": 196760,
+      "post_secondary": 13184
+    },
+    "2020": {
+      "primary": 261426,
+      "secondary": 195440,
+      "post_secondary": 7210
+    },
+    "2021": {
+      "primary": 260830,
+      "secondary": 197216,
+      "post_secondary": 6758
+    },
+    "2022": {
+      "primary": 259196,
+      "secondary": 197156,
+      "post_secondary": 6908
+    }
+  },
+  "Sabah": {
+    "2017": {
+      "primary": 547674,
+      "secondary": 420536
+    },
+    "2018": {
+      "primary": 555166,
+      "secondary": 381484,
+      "post_secondary": 35666
+    },
+    "2019": {
+      "primary": 568532,
+      "secondary": 378818,
+      "post_secondary": 37842
+    },
+    "2020": {
+      "primary": 579056,
+      "secondary": 381200,
+      "post_secondary": 20012
+    },
+    "2021": {
+      "primary": 584376,
+      "secondary": 397870,
+      "post_secondary": 20338
+    },
+    "2022": {
+      "primary": 585082,
+      "secondary": 409560,
+      "post_secondary": 19086
+    }
+  },
+  "Sarawak": {
+    "2017": {
+      "primary": 490846,
+      "secondary": 405488
+    },
+    "2018": {
+      "primary": 489882,
+      "secondary": 371704,
+      "post_secondary": 29926
+    },
+    "2019": {
+      "primary": 489626,
+      "secondary": 367732,
+      "post_secondary": 29444
+    },
+    "2020": {
+      "primary": 484516,
+      "secondary": 368380,
+      "post_secondary": 15194
+    },
+    "2021": {
+      "primary": 478746,
+      "secondary": 376294,
+      "post_secondary": 15586
+    },
+    "2022": {
+      "primary": 470638,
+      "secondary": 379316,
+      "post_secondary": 15004
+    }
+  },
+  "Selangor": {
+    "2017": {
+      "primary": 1025434,
+      "secondary": 751914
+    },
+    "2018": {
+      "primary": 1036776,
+      "secondary": 707862,
+      "post_secondary": 28442
+    },
+    "2019": {
+      "primary": 1058062,
+      "secondary": 708324,
+      "post_secondary": 27388
+    },
+    "2020": {
+      "primary": 1070972,
+      "secondary": 712048,
+      "post_secondary": 15036
+    },
+    "2021": {
+      "primary": 1090172,
+      "secondary": 727408,
+      "post_secondary": 14602
+    },
+    "2022": {
+      "primary": 1097244,
+      "secondary": 735328,
+      "post_secondary": 14958
+    }
+  },
+  "Terengganu": {
+    "2017": {
+      "primary": 249700,
+      "secondary": 206762
+    },
+    "2018": {
+      "primary": 252930,
+      "secondary": 187342,
+      "post_secondary": 13390
+    },
+    "2019": {
+      "primary": 257102,
+      "secondary": 184708,
+      "post_secondary": 12840
+    },
+    "2020": {
+      "primary": 260416,
+      "secondary": 183940,
+      "post_secondary": 6890
+    },
+    "2021": {
+      "primary": 265678,
+      "secondary": 189956,
+      "post_secondary": 6268
+    },
+    "2022": {
+      "primary": 269114,
+      "secondary": 194338,
+      "post_secondary": 6810
+    }
+  },
+  "W.P. Kuala Lumpur": {
+    "2017": {
+      "primary": 253458,
+      "secondary": 185296
+    },
+    "2018": {
+      "primary": 255266,
+      "secondary": 172530,
+      "post_secondary": 6212
+    },
+    "2019": {
+      "primary": 260552,
+      "secondary": 169522,
+      "post_secondary": 6202
+    },
+    "2020": {
+      "primary": 262930,
+      "secondary": 169880,
+      "post_secondary": 3728
+    },
+    "2021": {
+      "primary": 266496,
+      "secondary": 172018,
+      "post_secondary": 3196
+    },
+    "2022": {
+      "primary": 267062,
+      "secondary": 172394,
+      "post_secondary": 3474
+    }
+  },
+  "W.P. Labuan": {
+    "2017": {
+      "primary": 17538,
+      "secondary": 12958
+    },
+    "2018": {
+      "primary": 18130,
+      "secondary": 11420,
+      "post_secondary": 1226
+    },
+    "2019": {
+      "primary": 18786,
+      "secondary": 11530,
+      "post_secondary": 1214
+    },
+    "2020": {
+      "primary": 19406,
+      "secondary": 11946,
+      "post_secondary": 606
+    },
+    "2021": {
+      "primary": 19728,
+      "secondary": 12634,
+      "post_secondary": 464
+    },
+    "2022": {
+      "primary": 19850,
+      "secondary": 13642,
+      "post_secondary": 562
+    }
+  },
+  "W.P. Putrajaya": {
+    "2017": {
+      "primary": 30194,
+      "secondary": 15574
+    },
+    "2018": {
+      "primary": 33980,
+      "secondary": 15656,
+      "post_secondary": 350
+    },
+    "2019": {
+      "primary": 37172,
+      "secondary": 16930,
+      "post_secondary": 516
+    },
+    "2020": {
+      "primary": 40246,
+      "secondary": 18418,
+      "post_secondary": 322
+    },
+    "2021": {
+      "primary": 43180,
+      "secondary": 20668,
+      "post_secondary": 260
+    },
+    "2022": {
+      "primary": 45006,
+      "secondary": 22872,
+      "post_secondary": 278
+    }
+  }
+}

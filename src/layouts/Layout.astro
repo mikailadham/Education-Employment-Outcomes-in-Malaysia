@@ -1,0 +1,42 @@
+---
+import '../styles/global.css';
+
+interface Props {
+	title: string;
+	description?: string;
+}
+
+const { title, description = "Malaysia Education & Employment Dashboard - Data Challenge 5.0" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={description} />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="generator" content={Astro.generator} />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+		<!-- Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+
+		<title>{title}</title>
+	</head>
+	<body class="bg-gray-50 text-gray-900 font-sans">
+		<slot />
+
+		<footer class="mt-16 py-8 bg-gray-900 text-gray-300">
+			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+				<p class="text-sm">
+					Data source: <a href="https://open.dosm.gov.my/" target="_blank" rel="noopener" class="text-teal-400 hover:text-teal-300">Department of Statistics Malaysia (OpenDOSM)</a>
+				</p>
+				<p class="text-xs mt-2 text-gray-400">
+					Data Challenge 5.0 — Sustainable Well-Being
+				</p>
+			</div>
+		</footer>
+	</body>
+</html>

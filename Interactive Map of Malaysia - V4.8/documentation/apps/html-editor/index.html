@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple HTML Visual Editor</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" href="https://www.html5interactivemaps.com/assets/images/favicon.ico">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Simple HTML Visual Editor</h1>
+
+        <div class="left">
+            <div class="editor-container">
+                <div class="toolbar">
+                    <button class="toolbar-btn" onclick="applyStyle('bold')">
+                        <i class="fas fa-bold"></i> Bold
+                    </button>
+                    <button class="toolbar-btn" onclick="applyStyle('italic')">
+                        <i class="fas fa-italic"></i> Italic
+                    </button>
+                    <button class="toolbar-btn" onclick="applyStyle('underline')">
+                        <i class="fas fa-underline"></i> Underline
+                    </button>
+                    <button class="toolbar-btn" onclick="changeTextColor()">
+                        <i class="fas fa-paint-brush"></i> Color
+                    </button>
+                    <!--<button class="toolbar-btn" onclick="addLink()">
+                        <i class="fas fa-link"></i> Link
+                    </button>-->
+                    <button class="toolbar-btn" onclick="addImage()">
+                        <i class="fas fa-image"></i> Image
+                    </button>
+                </div>
+
+                <div class="editor" contenteditable="true" id="editor" placeholder="Type something here..."></div>
+
+                <div class="action-buttons">
+                    <button class="action-btn" onclick="copyToClipboard()">
+                        <i class="fas fa-copy"></i> Copy To Clipboard
+                    </button>
+                    <button class="action-btn clear-btn" onclick="clearContent()">
+                        <i class="fas fa-trash"></i> Clear
+                    </button>
+                </div>
+            </div>
+        </div><!-- left -->
+
+        <div class="right">
+                <div class="color-swatch-bar" id="colorSwatches"></div>
+                <div class="gradient-bar" id="gradientBar"></div>
+                <div class="color-output">
+                    <div class="color-preview-box" id="colorPreviewBox"></div>
+                    <div class="color-code" id="colorCode">
+                      <button class="action-btn" id="copyButton">
+                        <i class="fas fa-copy"></i> Copy
+                      </button>
+                      <span id="hexCode">#ffffff</span>
+                    </div>
+                </div>
+        </div><!-- right -->
+
+    </div><!-- container -->
+
+    <p>COPYRIGHT © All rights reserved to <a href="https://www.html5interactivemaps.com/">html5interactivemaps.com</a></p>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

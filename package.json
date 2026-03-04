@@ -1,0 +1,27 @@
+{
+  "name": "malaysia-edu-employment-dashboard",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run process-data && astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "process-data": "node scripts/process-data.js"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.4.2",
+    "@tailwindcss/vite": "^4.2.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "astro": "^5.17.1",
+    "papaparse": "^5.5.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "recharts": "^3.7.0",
+    "tailwindcss": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/papaparse": "^5.5.2"
+  }
+}

@@ -1,0 +1,4226 @@
+{
+  "Johor": {
+    "Batu Pahat": {
+      "2019": {
+        "employed": 209.8,
+        "unemployed": 3.7,
+        "labour_force": 213.6,
+        "participation_rate": 70.3,
+        "unemployment_rate": 1.7
+      },
+      "2020": {
+        "employed": 214.4,
+        "unemployed": 4.7,
+        "labour_force": 219.1,
+        "participation_rate": 70.4,
+        "unemployment_rate": 2.1
+      },
+      "2021": {
+        "employed": 211,
+        "unemployed": 5,
+        "labour_force": 216,
+        "participation_rate": 69,
+        "unemployment_rate": 2.3
+      },
+      "2022": {
+        "employed": 216.8,
+        "unemployed": 4,
+        "labour_force": 220.8,
+        "participation_rate": 70,
+        "unemployment_rate": 1.8
+      }
+    },
+    "Johor Bahru": {
+      "2019": {
+        "employed": 767.8,
+        "unemployed": 24.6,
+        "labour_force": 792.4,
+        "participation_rate": 73,
+        "unemployment_rate": 3.1
+      },
+      "2020": {
+        "employed": 771.3,
+        "unemployed": 32.5,
+        "labour_force": 803.8,
+        "participation_rate": 73,
+        "unemployment_rate": 4
+      },
+      "2021": {
+        "employed": 771.6,
+        "unemployed": 34.1,
+        "labour_force": 805.7,
+        "participation_rate": 73,
+        "unemployment_rate": 4.2
+      },
+      "2022": {
+        "employed": 799,
+        "unemployed": 30.5,
+        "labour_force": 829.5,
+        "participation_rate": 73.9,
+        "unemployment_rate": 3.7
+      }
+    },
+    "Kluang": {
+      "2019": {
+        "employed": 160.5,
+        "unemployed": 5.6,
+        "labour_force": 166.1,
+        "participation_rate": 71.3,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 160.9,
+        "unemployed": 7.1,
+        "labour_force": 167.9,
+        "participation_rate": 71.4,
+        "unemployment_rate": 4.2
+      },
+      "2021": {
+        "employed": 160.3,
+        "unemployed": 7.7,
+        "labour_force": 168,
+        "participation_rate": 71.3,
+        "unemployment_rate": 4.6
+      },
+      "2022": {
+        "employed": 162.8,
+        "unemployed": 6.8,
+        "labour_force": 169.6,
+        "participation_rate": 72.1,
+        "unemployment_rate": 4
+      }
+    },
+    "Kota Tinggi": {
+      "2019": {
+        "employed": 98,
+        "unemployed": 2.8,
+        "labour_force": 100.7,
+        "participation_rate": 69.7,
+        "unemployment_rate": 2.7
+      },
+      "2020": {
+        "employed": 99.9,
+        "unemployed": 3.5,
+        "labour_force": 103.4,
+        "participation_rate": 69.8,
+        "unemployment_rate": 3.4
+      },
+      "2021": {
+        "employed": 99.9,
+        "unemployed": 4.2,
+        "labour_force": 104.1,
+        "participation_rate": 70,
+        "unemployment_rate": 4
+      },
+      "2022": {
+        "employed": 104,
+        "unemployed": 3.8,
+        "labour_force": 107.8,
+        "participation_rate": 71.1,
+        "unemployment_rate": 3.5
+      }
+    },
+    "Kulai": {
+      "2019": {
+        "employed": 128.1,
+        "unemployed": 3.6,
+        "labour_force": 131.7,
+        "participation_rate": 66.4,
+        "unemployment_rate": 2.7
+      },
+      "2020": {
+        "employed": 129.1,
+        "unemployed": 4.5,
+        "labour_force": 133.6,
+        "participation_rate": 66.7,
+        "unemployment_rate": 3.4
+      },
+      "2021": {
+        "employed": 126,
+        "unemployed": 4.9,
+        "labour_force": 130.9,
+        "participation_rate": 65.2,
+        "unemployment_rate": 3.7
+      },
+      "2022": {
+        "employed": 130.6,
+        "unemployed": 4.4,
+        "labour_force": 135,
+        "participation_rate": 66,
+        "unemployment_rate": 3.3
+      }
+    },
+    "Mersing": {
+      "2019": {
+        "employed": 32.4,
+        "unemployed": 0.8,
+        "labour_force": 33.2,
+        "participation_rate": 60.4,
+        "unemployment_rate": 2.4
+      },
+      "2020": {
+        "employed": 32.8,
+        "unemployed": 1.1,
+        "labour_force": 33.9,
+        "participation_rate": 60.8,
+        "unemployment_rate": 3.3
+      },
+      "2021": {
+        "employed": 32,
+        "unemployed": 1.2,
+        "labour_force": 33.2,
+        "participation_rate": 59.2,
+        "unemployment_rate": 3.6
+      },
+      "2022": {
+        "employed": 33.3,
+        "unemployed": 1,
+        "labour_force": 34.4,
+        "participation_rate": 60,
+        "unemployment_rate": 3
+      }
+    },
+    "Muar": {
+      "2019": {
+        "employed": 124.3,
+        "unemployed": 2.1,
+        "labour_force": 126.4,
+        "participation_rate": 67.5,
+        "unemployment_rate": 1.7
+      },
+      "2020": {
+        "employed": 126.9,
+        "unemployed": 2.9,
+        "labour_force": 129.9,
+        "participation_rate": 67.7,
+        "unemployment_rate": 2.3
+      },
+      "2021": {
+        "employed": 126.7,
+        "unemployed": 3.4,
+        "labour_force": 130,
+        "participation_rate": 67.5,
+        "unemployment_rate": 2.6
+      },
+      "2022": {
+        "employed": 128.6,
+        "unemployed": 3.1,
+        "labour_force": 131.7,
+        "participation_rate": 68.5,
+        "unemployment_rate": 2.3
+      }
+    },
+    "Pontian": {
+      "2019": {
+        "employed": 74.8,
+        "unemployed": 2.4,
+        "labour_force": 77.2,
+        "participation_rate": 66.2,
+        "unemployment_rate": 3.1
+      },
+      "2020": {
+        "employed": 76.1,
+        "unemployed": 3.1,
+        "labour_force": 79.3,
+        "participation_rate": 66.4,
+        "unemployment_rate": 4
+      },
+      "2021": {
+        "employed": 74.3,
+        "unemployed": 3.6,
+        "labour_force": 77.9,
+        "participation_rate": 65,
+        "unemployment_rate": 4.7
+      },
+      "2022": {
+        "employed": 76.1,
+        "unemployed": 2.9,
+        "labour_force": 78.9,
+        "participation_rate": 65.8,
+        "unemployment_rate": 3.6
+      }
+    },
+    "Segamat": {
+      "2019": {
+        "employed": 97.6,
+        "unemployed": 2.6,
+        "labour_force": 100.1,
+        "participation_rate": 70.4,
+        "unemployment_rate": 2.6
+      },
+      "2020": {
+        "employed": 99.7,
+        "unemployed": 3.7,
+        "labour_force": 103.3,
+        "participation_rate": 70.5,
+        "unemployment_rate": 3.6
+      },
+      "2021": {
+        "employed": 98.4,
+        "unemployed": 4.1,
+        "labour_force": 102.5,
+        "participation_rate": 69.6,
+        "unemployment_rate": 4
+      },
+      "2022": {
+        "employed": 101.3,
+        "unemployed": 3.8,
+        "labour_force": 105.1,
+        "participation_rate": 70.3,
+        "unemployment_rate": 3.6
+      }
+    },
+    "Tangkak": {
+      "2019": {
+        "employed": 62.9,
+        "unemployed": 1.4,
+        "labour_force": 64.3,
+        "participation_rate": 64.1,
+        "unemployment_rate": 2.1
+      },
+      "2020": {
+        "employed": 64.5,
+        "unemployed": 1.8,
+        "labour_force": 66.3,
+        "participation_rate": 64.4,
+        "unemployment_rate": 2.7
+      },
+      "2021": {
+        "employed": 64.5,
+        "unemployed": 2.1,
+        "labour_force": 66.6,
+        "participation_rate": 64.3,
+        "unemployment_rate": 3.1
+      },
+      "2022": {
+        "employed": 67,
+        "unemployed": 1.7,
+        "labour_force": 68.7,
+        "participation_rate": 65,
+        "unemployment_rate": 2.5
+      }
+    }
+  },
+  "Kedah": {
+    "Baling": {
+      "2019": {
+        "employed": 68.9,
+        "unemployed": 1.6,
+        "labour_force": 70.5,
+        "participation_rate": 67.9,
+        "unemployment_rate": 2.3
+      },
+      "2020": {
+        "employed": 67.7,
+        "unemployed": 2.7,
+        "labour_force": 70.4,
+        "participation_rate": 66.9,
+        "unemployment_rate": 3.8
+      },
+      "2021": {
+        "employed": 70.3,
+        "unemployed": 2.3,
+        "labour_force": 72.6,
+        "participation_rate": 67.1,
+        "unemployment_rate": 3.1
+      },
+      "2022": {
+        "employed": 72.5,
+        "unemployed": 1.6,
+        "labour_force": 74.1,
+        "participation_rate": 67.8,
+        "unemployment_rate": 2.2
+      }
+    },
+    "Bandar Baharu": {
+      "2019": {
+        "employed": 22,
+        "unemployed": 0.6,
+        "labour_force": 22.6,
+        "participation_rate": 68.4,
+        "unemployment_rate": 2.6
+      },
+      "2020": {
+        "employed": 22.6,
+        "unemployed": 1.1,
+        "labour_force": 23.7,
+        "participation_rate": 69.7,
+        "unemployment_rate": 4.6
+      },
+      "2021": {
+        "employed": 23.1,
+        "unemployed": 1,
+        "labour_force": 24.1,
+        "participation_rate": 69.1,
+        "unemployment_rate": 4.2
+      },
+      "2022": {
+        "employed": 23.9,
+        "unemployed": 0.8,
+        "labour_force": 24.7,
+        "participation_rate": 70,
+        "unemployment_rate": 3.1
+      }
+    },
+    "Kota Setar": {
+      "2019": {
+        "employed": 165.3,
+        "unemployed": 6.1,
+        "labour_force": 171.4,
+        "participation_rate": 61.6,
+        "unemployment_rate": 3.5
+      },
+      "2020": {
+        "employed": 164.7,
+        "unemployed": 8.8,
+        "labour_force": 173.5,
+        "participation_rate": 61.6,
+        "unemployment_rate": 5.1
+      },
+      "2021": {
+        "employed": 168,
+        "unemployed": 8.3,
+        "labour_force": 176.3,
+        "participation_rate": 61.1,
+        "unemployment_rate": 4.7
+      },
+      "2022": {
+        "employed": 173.1,
+        "unemployed": 6.7,
+        "labour_force": 179.8,
+        "participation_rate": 61.7,
+        "unemployment_rate": 3.8
+      }
+    },
+    "Kuala Muda": {
+      "2019": {
+        "employed": 209.1,
+        "unemployed": 5.6,
+        "labour_force": 214.7,
+        "participation_rate": 60.4,
+        "unemployment_rate": 2.6
+      },
+      "2020": {
+        "employed": 205.8,
+        "unemployed": 7.9,
+        "labour_force": 213.7,
+        "participation_rate": 60,
+        "unemployment_rate": 3.7
+      },
+      "2021": {
+        "employed": 209.5,
+        "unemployed": 7.4,
+        "labour_force": 217,
+        "participation_rate": 60.4,
+        "unemployment_rate": 3.4
+      },
+      "2022": {
+        "employed": 216.8,
+        "unemployed": 5.7,
+        "labour_force": 222.5,
+        "participation_rate": 61,
+        "unemployment_rate": 2.6
+      }
+    },
+    "Kubang Pasu": {
+      "2019": {
+        "employed": 99.9,
+        "unemployed": 2.4,
+        "labour_force": 102.3,
+        "participation_rate": 60.8,
+        "unemployment_rate": 2.3
+      },
+      "2020": {
+        "employed": 101.3,
+        "unemployed": 4.1,
+        "labour_force": 105.3,
+        "participation_rate": 61.8,
+        "unemployment_rate": 3.9
+      },
+      "2021": {
+        "employed": 103.7,
+        "unemployed": 3.9,
+        "labour_force": 107.6,
+        "participation_rate": 61.6,
+        "unemployment_rate": 3.7
+      },
+      "2022": {
+        "employed": 107.5,
+        "unemployed": 3.1,
+        "labour_force": 110.6,
+        "participation_rate": 62.5,
+        "unemployment_rate": 2.8
+      }
+    },
+    "Kulim": {
+      "2019": {
+        "employed": 150.8,
+        "unemployed": 3.1,
+        "labour_force": 153.9,
+        "participation_rate": 67.7,
+        "unemployment_rate": 2
+      },
+      "2020": {
+        "employed": 143.4,
+        "unemployed": 5.2,
+        "labour_force": 148.7,
+        "participation_rate": 65.3,
+        "unemployment_rate": 3.5
+      },
+      "2021": {
+        "employed": 146.3,
+        "unemployed": 4.7,
+        "labour_force": 151,
+        "participation_rate": 66.2,
+        "unemployment_rate": 3.1
+      },
+      "2022": {
+        "employed": 150.9,
+        "unemployed": 3.4,
+        "labour_force": 154.3,
+        "participation_rate": 66.8,
+        "unemployment_rate": 2.2
+      }
+    },
+    "Langkawi": {
+      "2019": {
+        "employed": 49.4,
+        "unemployed": 1.9,
+        "labour_force": 51.3,
+        "participation_rate": 68.1,
+        "unemployment_rate": 3.7
+      },
+      "2020": {
+        "employed": 47.1,
+        "unemployed": 3.5,
+        "labour_force": 50.6,
+        "participation_rate": 68.3,
+        "unemployment_rate": 6.9
+      },
+      "2021": {
+        "employed": 46.9,
+        "unemployed": 3.7,
+        "labour_force": 50.6,
+        "participation_rate": 68.8,
+        "unemployment_rate": 7.3
+      },
+      "2022": {
+        "employed": 48.8,
+        "unemployed": 3,
+        "labour_force": 51.9,
+        "participation_rate": 69.5,
+        "unemployment_rate": 5.8
+      }
+    },
+    "Padang Terap": {
+      "2019": {
+        "employed": 30.7,
+        "unemployed": 1,
+        "labour_force": 31.7,
+        "participation_rate": 65.3,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 31.4,
+        "unemployed": 1.3,
+        "labour_force": 32.7,
+        "participation_rate": 65.7,
+        "unemployment_rate": 4
+      },
+      "2021": {
+        "employed": 32.8,
+        "unemployed": 1.2,
+        "labour_force": 34,
+        "participation_rate": 66.5,
+        "unemployment_rate": 3.6
+      },
+      "2022": {
+        "employed": 33.5,
+        "unemployed": 1.1,
+        "labour_force": 34.6,
+        "participation_rate": 67.2,
+        "unemployment_rate": 3.1
+      }
+    },
+    "Pendang": {
+      "2019": {
+        "employed": 44.3,
+        "unemployed": 1.3,
+        "labour_force": 45.6,
+        "participation_rate": 63.6,
+        "unemployment_rate": 2.8
+      },
+      "2020": {
+        "employed": 45.2,
+        "unemployed": 2.2,
+        "labour_force": 47.4,
+        "participation_rate": 64.4,
+        "unemployment_rate": 4.7
+      },
+      "2021": {
+        "employed": 45.9,
+        "unemployed": 2.6,
+        "labour_force": 48.5,
+        "participation_rate": 63.7,
+        "unemployment_rate": 5.5
+      },
+      "2022": {
+        "employed": 47.4,
+        "unemployed": 2.2,
+        "labour_force": 49.6,
+        "participation_rate": 64.4,
+        "unemployment_rate": 4.3
+      }
+    },
+    "Pokok Sena": {
+      "2019": {
+        "employed": 23.3,
+        "unemployed": 0.7,
+        "labour_force": 24,
+        "participation_rate": 63.8,
+        "unemployment_rate": 3.1
+      },
+      "2020": {
+        "employed": 24.2,
+        "unemployed": 1.2,
+        "labour_force": 25.4,
+        "participation_rate": 66.3,
+        "unemployment_rate": 4.7
+      },
+      "2021": {
+        "employed": 24.7,
+        "unemployed": 1.1,
+        "labour_force": 25.8,
+        "participation_rate": 66.1,
+        "unemployment_rate": 4.1
+      },
+      "2022": {
+        "employed": 25.4,
+        "unemployed": 0.8,
+        "labour_force": 26.2,
+        "participation_rate": 66.7,
+        "unemployment_rate": 3.1
+      }
+    },
+    "Sik": {
+      "2019": {
+        "employed": 30.8,
+        "unemployed": 1,
+        "labour_force": 31.8,
+        "participation_rate": 61.1,
+        "unemployment_rate": 3.2
+      },
+      "2020": {
+        "employed": 31.4,
+        "unemployed": 1,
+        "labour_force": 32.4,
+        "participation_rate": 61,
+        "unemployment_rate": 3.1
+      },
+      "2021": {
+        "employed": 32.1,
+        "unemployed": 1.1,
+        "labour_force": 33.2,
+        "participation_rate": 60.8,
+        "unemployment_rate": 3.3
+      },
+      "2022": {
+        "employed": 33.1,
+        "unemployed": 0.8,
+        "labour_force": 33.9,
+        "participation_rate": 61.4,
+        "unemployment_rate": 2.4
+      }
+    },
+    "Yan": {
+      "2019": {
+        "employed": 29.2,
+        "unemployed": 1.1,
+        "labour_force": 30.3,
+        "participation_rate": 60,
+        "unemployment_rate": 3.8
+      },
+      "2020": {
+        "employed": 30.1,
+        "unemployed": 0.8,
+        "labour_force": 30.9,
+        "participation_rate": 60.4,
+        "unemployment_rate": 2.7
+      },
+      "2021": {
+        "employed": 30.8,
+        "unemployed": 1,
+        "labour_force": 31.8,
+        "participation_rate": 60.1,
+        "unemployment_rate": 3.1
+      },
+      "2022": {
+        "employed": 31.9,
+        "unemployed": 0.7,
+        "labour_force": 32.6,
+        "participation_rate": 60.7,
+        "unemployment_rate": 2.3
+      }
+    }
+  },
+  "Kelantan": {
+    "Bachok": {
+      "2019": {
+        "employed": 55.3,
+        "unemployed": 1.8,
+        "labour_force": 57.1,
+        "participation_rate": 55.9,
+        "unemployment_rate": 3.1
+      },
+      "2020": {
+        "employed": 55.1,
+        "unemployed": 2.2,
+        "labour_force": 57.2,
+        "participation_rate": 55.1,
+        "unemployment_rate": 3.8
+      },
+      "2021": {
+        "employed": 56.7,
+        "unemployed": 2.2,
+        "labour_force": 58.9,
+        "participation_rate": 55.1,
+        "unemployment_rate": 3.8
+      },
+      "2022": {
+        "employed": 58.5,
+        "unemployed": 2,
+        "labour_force": 60.5,
+        "participation_rate": 56,
+        "unemployment_rate": 3.4
+      }
+    },
+    "Gua Musang": {
+      "2019": {
+        "employed": 42.1,
+        "unemployed": 1.5,
+        "labour_force": 43.7,
+        "participation_rate": 58.4,
+        "unemployment_rate": 3.5
+      },
+      "2020": {
+        "employed": 39.8,
+        "unemployed": 1.8,
+        "labour_force": 41.6,
+        "participation_rate": 55.3,
+        "unemployment_rate": 4.4
+      },
+      "2021": {
+        "employed": 40.3,
+        "unemployed": 1.9,
+        "labour_force": 42.2,
+        "participation_rate": 55,
+        "unemployment_rate": 4.4
+      },
+      "2022": {
+        "employed": 41.8,
+        "unemployed": 1.7,
+        "labour_force": 43.5,
+        "participation_rate": 55.2,
+        "unemployment_rate": 3.9
+      }
+    },
+    "Jeli": {
+      "2019": {
+        "employed": 18.5,
+        "unemployed": 0.5,
+        "labour_force": 19,
+        "participation_rate": 57.6,
+        "unemployment_rate": 2.7
+      },
+      "2020": {
+        "employed": 18.7,
+        "unemployed": 0.6,
+        "labour_force": 19.3,
+        "participation_rate": 57.1,
+        "unemployment_rate": 3
+      },
+      "2021": {
+        "employed": 18.8,
+        "unemployed": 0.6,
+        "labour_force": 19.4,
+        "participation_rate": 55.7,
+        "unemployment_rate": 3.1
+      },
+      "2022": {
+        "employed": 19.7,
+        "unemployed": 0.5,
+        "labour_force": 20.2,
+        "participation_rate": 56.4,
+        "unemployment_rate": 2.7
+      }
+    },
+    "Kota Bharu": {
+      "2019": {
+        "employed": 222,
+        "unemployed": 11.2,
+        "labour_force": 233.2,
+        "participation_rate": 60.7,
+        "unemployment_rate": 4.8
+      },
+      "2020": {
+        "employed": 223.4,
+        "unemployed": 12.8,
+        "labour_force": 236.2,
+        "participation_rate": 60.2,
+        "unemployment_rate": 5.4
+      },
+      "2021": {
+        "employed": 226.3,
+        "unemployed": 12.4,
+        "labour_force": 238.7,
+        "participation_rate": 60.1,
+        "unemployment_rate": 5.2
+      },
+      "2022": {
+        "employed": 234.5,
+        "unemployed": 11.3,
+        "labour_force": 245.8,
+        "participation_rate": 61,
+        "unemployment_rate": 4.6
+      }
+    },
+    "Kuala Krai": {
+      "2019": {
+        "employed": 52.9,
+        "unemployed": 1.3,
+        "labour_force": 54.2,
+        "participation_rate": 61.7,
+        "unemployment_rate": 2.4
+      },
+      "2020": {
+        "employed": 53.6,
+        "unemployed": 1.4,
+        "labour_force": 55,
+        "participation_rate": 61.8,
+        "unemployment_rate": 2.5
+      },
+      "2021": {
+        "employed": 52.9,
+        "unemployed": 1.3,
+        "labour_force": 54.2,
+        "participation_rate": 59.9,
+        "unemployment_rate": 2.4
+      },
+      "2022": {
+        "employed": 54.6,
+        "unemployed": 1.2,
+        "labour_force": 55.8,
+        "participation_rate": 60.3,
+        "unemployment_rate": 2.1
+      }
+    },
+    "Machang": {
+      "2019": {
+        "employed": 39.7,
+        "unemployed": 2,
+        "labour_force": 41.7,
+        "participation_rate": 59.1,
+        "unemployment_rate": 4.9
+      },
+      "2020": {
+        "employed": 39.8,
+        "unemployed": 2.3,
+        "labour_force": 42.1,
+        "participation_rate": 57.6,
+        "unemployment_rate": 5.5
+      },
+      "2021": {
+        "employed": 39.4,
+        "unemployed": 2.4,
+        "labour_force": 41.8,
+        "participation_rate": 57.3,
+        "unemployment_rate": 5.7
+      },
+      "2022": {
+        "employed": 40.9,
+        "unemployed": 2.2,
+        "labour_force": 43,
+        "participation_rate": 57.8,
+        "unemployment_rate": 5.1
+      }
+    },
+    "Pasir Mas": {
+      "2019": {
+        "employed": 78.7,
+        "unemployed": 4,
+        "labour_force": 82.7,
+        "participation_rate": 56.6,
+        "unemployment_rate": 4.8
+      },
+      "2020": {
+        "employed": 77.6,
+        "unemployed": 3.8,
+        "labour_force": 81.4,
+        "participation_rate": 54.8,
+        "unemployment_rate": 4.6
+      },
+      "2021": {
+        "employed": 79.2,
+        "unemployed": 3.8,
+        "labour_force": 83,
+        "participation_rate": 54.2,
+        "unemployment_rate": 4.6
+      },
+      "2022": {
+        "employed": 82,
+        "unemployed": 3.5,
+        "labour_force": 85.5,
+        "participation_rate": 54.9,
+        "unemployment_rate": 4
+      }
+    },
+    "Pasir Puteh": {
+      "2019": {
+        "employed": 51,
+        "unemployed": 1.7,
+        "labour_force": 52.7,
+        "participation_rate": 57.9,
+        "unemployment_rate": 3.3
+      },
+      "2020": {
+        "employed": 52.3,
+        "unemployed": 1.6,
+        "labour_force": 53.9,
+        "participation_rate": 58.2,
+        "unemployment_rate": 3.1
+      },
+      "2021": {
+        "employed": 54.1,
+        "unemployed": 1.8,
+        "labour_force": 55.9,
+        "participation_rate": 57.5,
+        "unemployment_rate": 3.2
+      },
+      "2022": {
+        "employed": 55.9,
+        "unemployed": 1.6,
+        "labour_force": 57.5,
+        "participation_rate": 57.9,
+        "unemployment_rate": 2.8
+      }
+    },
+    "Tanah Merah": {
+      "2019": {
+        "employed": 55,
+        "unemployed": 1.5,
+        "labour_force": 56.5,
+        "participation_rate": 58.4,
+        "unemployment_rate": 2.7
+      },
+      "2020": {
+        "employed": 55.9,
+        "unemployed": 1.7,
+        "labour_force": 57.6,
+        "participation_rate": 58.7,
+        "unemployment_rate": 3
+      },
+      "2021": {
+        "employed": 55.5,
+        "unemployed": 1.6,
+        "labour_force": 57.1,
+        "participation_rate": 56.8,
+        "unemployment_rate": 2.9
+      },
+      "2022": {
+        "employed": 57.3,
+        "unemployed": 1.5,
+        "labour_force": 58.8,
+        "participation_rate": 57.5,
+        "unemployment_rate": 2.5
+      }
+    },
+    "Tumpat": {
+      "2019": {
+        "employed": 67.2,
+        "unemployed": 2.4,
+        "labour_force": 69.6,
+        "participation_rate": 58.4,
+        "unemployment_rate": 3.5
+      },
+      "2020": {
+        "employed": 64.7,
+        "unemployed": 2.2,
+        "labour_force": 66.9,
+        "participation_rate": 55.4,
+        "unemployment_rate": 3.3
+      },
+      "2021": {
+        "employed": 66.4,
+        "unemployed": 2.1,
+        "labour_force": 68.5,
+        "participation_rate": 54.6,
+        "unemployment_rate": 3.1
+      },
+      "2022": {
+        "employed": 68.6,
+        "unemployed": 2,
+        "labour_force": 70.6,
+        "participation_rate": 55,
+        "unemployment_rate": 2.8
+      }
+    }
+  },
+  "Melaka": {
+    "Alor Gajah": {
+      "2019": {
+        "employed": 93.8,
+        "unemployed": 1.5,
+        "labour_force": 95.3,
+        "participation_rate": 67.3,
+        "unemployment_rate": 1.6
+      },
+      "2020": {
+        "employed": 98.1,
+        "unemployed": 2.8,
+        "labour_force": 100.9,
+        "participation_rate": 69.8,
+        "unemployment_rate": 2.8
+      },
+      "2021": {
+        "employed": 100.9,
+        "unemployed": 3.9,
+        "labour_force": 104.8,
+        "participation_rate": 72,
+        "unemployment_rate": 3.7
+      },
+      "2022": {
+        "employed": 104.1,
+        "unemployed": 2.9,
+        "labour_force": 107,
+        "participation_rate": 73.3,
+        "unemployment_rate": 2.7
+      }
+    },
+    "Jasin": {
+      "2019": {
+        "employed": 65.7,
+        "unemployed": 0.5,
+        "labour_force": 66.3,
+        "participation_rate": 63.8,
+        "unemployment_rate": 0.8
+      },
+      "2020": {
+        "employed": 64.9,
+        "unemployed": 1.1,
+        "labour_force": 65.9,
+        "participation_rate": 62,
+        "unemployment_rate": 1.6
+      },
+      "2021": {
+        "employed": 67.6,
+        "unemployed": 0.9,
+        "labour_force": 68.5,
+        "participation_rate": 63.7,
+        "unemployment_rate": 1.3
+      },
+      "2022": {
+        "employed": 67.7,
+        "unemployed": 0.8,
+        "labour_force": 68.5,
+        "participation_rate": 64.4,
+        "unemployment_rate": 1.2
+      }
+    },
+    "Melaka Tengah": {
+      "2019": {
+        "employed": 268.8,
+        "unemployed": 2.6,
+        "labour_force": 271.3,
+        "participation_rate": 68.7,
+        "unemployment_rate": 0.9
+      },
+      "2020": {
+        "employed": 254.4,
+        "unemployed": 5.6,
+        "labour_force": 260,
+        "participation_rate": 65.9,
+        "unemployment_rate": 2.1
+      },
+      "2021": {
+        "employed": 266.6,
+        "unemployed": 4.2,
+        "labour_force": 270.8,
+        "participation_rate": 68.1,
+        "unemployment_rate": 1.6
+      },
+      "2022": {
+        "employed": 275.9,
+        "unemployed": 3.3,
+        "labour_force": 279.2,
+        "participation_rate": 69.2,
+        "unemployment_rate": 1.2
+      }
+    }
+  },
+  "Negeri Sembilan": {
+    "Jelebu": {
+      "2019": {
+        "employed": 18.2,
+        "unemployed": 0.6,
+        "labour_force": 18.8,
+        "participation_rate": 61,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 18.8,
+        "unemployed": 0.8,
+        "labour_force": 19.7,
+        "participation_rate": 63.9,
+        "unemployment_rate": 4.3
+      },
+      "2021": {
+        "employed": 19.1,
+        "unemployed": 0.8,
+        "labour_force": 19.8,
+        "participation_rate": 64.2,
+        "unemployment_rate": 3.9
+      },
+      "2022": {
+        "employed": 19.3,
+        "unemployed": 0.7,
+        "labour_force": 20.1,
+        "participation_rate": 64.7,
+        "unemployment_rate": 3.7
+      }
+    },
+    "Jempol": {
+      "2019": {
+        "employed": 46.3,
+        "unemployed": 1.4,
+        "labour_force": 47.7,
+        "participation_rate": 63.7,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 44.3,
+        "unemployed": 1.8,
+        "labour_force": 46.1,
+        "participation_rate": 61.4,
+        "unemployment_rate": 3.8
+      },
+      "2021": {
+        "employed": 44.1,
+        "unemployed": 2,
+        "labour_force": 46.1,
+        "participation_rate": 61.1,
+        "unemployment_rate": 4.4
+      },
+      "2022": {
+        "employed": 44,
+        "unemployed": 2,
+        "labour_force": 46,
+        "participation_rate": 61.4,
+        "unemployment_rate": 4.2
+      }
+    },
+    "Kuala Pilah": {
+      "2019": {
+        "employed": 30.4,
+        "unemployed": 1.1,
+        "labour_force": 31.5,
+        "participation_rate": 69.1,
+        "unemployment_rate": 3.5
+      },
+      "2020": {
+        "employed": 28.9,
+        "unemployed": 1.4,
+        "labour_force": 30.3,
+        "participation_rate": 66.4,
+        "unemployment_rate": 4.5
+      },
+      "2021": {
+        "employed": 28.5,
+        "unemployed": 1.5,
+        "labour_force": 29.9,
+        "participation_rate": 65.1,
+        "unemployment_rate": 4.9
+      },
+      "2022": {
+        "employed": 28.4,
+        "unemployed": 1.3,
+        "labour_force": 29.7,
+        "participation_rate": 65.4,
+        "unemployment_rate": 4.5
+      }
+    },
+    "Port Dickson": {
+      "2019": {
+        "employed": 55.3,
+        "unemployed": 1.8,
+        "labour_force": 57.1,
+        "participation_rate": 64.4,
+        "unemployment_rate": 3.2
+      },
+      "2020": {
+        "employed": 56.3,
+        "unemployed": 2.7,
+        "labour_force": 59,
+        "participation_rate": 66.6,
+        "unemployment_rate": 4.6
+      },
+      "2021": {
+        "employed": 56.5,
+        "unemployed": 3,
+        "labour_force": 59.5,
+        "participation_rate": 66.9,
+        "unemployment_rate": 5
+      },
+      "2022": {
+        "employed": 58.6,
+        "unemployed": 2.4,
+        "labour_force": 61,
+        "participation_rate": 68.2,
+        "unemployment_rate": 3.9
+      }
+    },
+    "Rembau": {
+      "2019": {
+        "employed": 19.5,
+        "unemployed": 0.7,
+        "labour_force": 20.2,
+        "participation_rate": 66.9,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 19.6,
+        "unemployed": 0.8,
+        "labour_force": 20.4,
+        "participation_rate": 67.5,
+        "unemployment_rate": 4
+      },
+      "2021": {
+        "employed": 19.4,
+        "unemployed": 0.8,
+        "labour_force": 20.2,
+        "participation_rate": 66.2,
+        "unemployment_rate": 3.7
+      },
+      "2022": {
+        "employed": 19.6,
+        "unemployed": 0.7,
+        "labour_force": 20.3,
+        "participation_rate": 66.5,
+        "unemployment_rate": 3.6
+      }
+    },
+    "Seremban": {
+      "2019": {
+        "employed": 273.4,
+        "unemployed": 8.1,
+        "labour_force": 281.5,
+        "participation_rate": 64.6,
+        "unemployment_rate": 2.9
+      },
+      "2020": {
+        "employed": 266,
+        "unemployed": 9.7,
+        "labour_force": 275.6,
+        "participation_rate": 63.4,
+        "unemployment_rate": 3.5
+      },
+      "2021": {
+        "employed": 261,
+        "unemployed": 10.6,
+        "labour_force": 271.6,
+        "participation_rate": 62.4,
+        "unemployment_rate": 3.9
+      },
+      "2022": {
+        "employed": 264.3,
+        "unemployed": 9.4,
+        "labour_force": 273.7,
+        "participation_rate": 63.4,
+        "unemployment_rate": 3.4
+      }
+    },
+    "Tampin": {
+      "2019": {
+        "employed": 39.5,
+        "unemployed": 1.6,
+        "labour_force": 41.1,
+        "participation_rate": 64.4,
+        "unemployment_rate": 3.9
+      },
+      "2020": {
+        "employed": 40,
+        "unemployed": 1.6,
+        "labour_force": 41.6,
+        "participation_rate": 65.1,
+        "unemployment_rate": 3.8
+      },
+      "2021": {
+        "employed": 39,
+        "unemployed": 1.7,
+        "labour_force": 40.7,
+        "participation_rate": 63.3,
+        "unemployment_rate": 4.2
+      },
+      "2022": {
+        "employed": 39.4,
+        "unemployed": 1.5,
+        "labour_force": 41,
+        "participation_rate": 63.6,
+        "unemployment_rate": 3.8
+      }
+    }
+  },
+  "Pahang": {
+    "Bentong": {
+      "2019": {
+        "employed": 58.4,
+        "unemployed": 1.9,
+        "labour_force": 60.3,
+        "participation_rate": 65.6,
+        "unemployment_rate": 3.2
+      },
+      "2020": {
+        "employed": 58.7,
+        "unemployed": 2,
+        "labour_force": 60.6,
+        "participation_rate": 65.9,
+        "unemployment_rate": 3.2
+      },
+      "2021": {
+        "employed": 59,
+        "unemployed": 1.8,
+        "labour_force": 60.8,
+        "participation_rate": 65.7,
+        "unemployment_rate": 2.9
+      },
+      "2022": {
+        "employed": 60.1,
+        "unemployed": 1.3,
+        "labour_force": 61.4,
+        "participation_rate": 66.3,
+        "unemployment_rate": 2.1
+      }
+    },
+    "Bera": {
+      "2019": {
+        "employed": 42.1,
+        "unemployed": 1.2,
+        "labour_force": 43.3,
+        "participation_rate": 61.7,
+        "unemployment_rate": 2.8
+      },
+      "2020": {
+        "employed": 39.4,
+        "unemployed": 1.5,
+        "labour_force": 40.9,
+        "participation_rate": 58.3,
+        "unemployment_rate": 3.6
+      },
+      "2021": {
+        "employed": 38,
+        "unemployed": 1.7,
+        "labour_force": 39.7,
+        "participation_rate": 55.7,
+        "unemployment_rate": 4.3
+      },
+      "2022": {
+        "employed": 38.5,
+        "unemployed": 1.4,
+        "labour_force": 39.9,
+        "participation_rate": 55.8,
+        "unemployment_rate": 3.6
+      }
+    },
+    "Cameron Highlands": {
+      "2019": {
+        "employed": 20.9,
+        "unemployed": 0.5,
+        "labour_force": 21.4,
+        "participation_rate": 71.4,
+        "unemployment_rate": 2.3
+      },
+      "2020": {
+        "employed": 21.5,
+        "unemployed": 0.7,
+        "labour_force": 22.2,
+        "participation_rate": 74.1,
+        "unemployment_rate": 3.1
+      },
+      "2021": {
+        "employed": 21.5,
+        "unemployed": 0.6,
+        "labour_force": 22.1,
+        "participation_rate": 74.3,
+        "unemployment_rate": 2.9
+      },
+      "2022": {
+        "employed": 22,
+        "unemployed": 0.5,
+        "labour_force": 22.5,
+        "participation_rate": 75.2,
+        "unemployment_rate": 2
+      }
+    },
+    "Jerantut": {
+      "2019": {
+        "employed": 43.5,
+        "unemployed": 1.3,
+        "labour_force": 44.8,
+        "participation_rate": 65.1,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 43.9,
+        "unemployed": 1.8,
+        "labour_force": 45.7,
+        "participation_rate": 65.8,
+        "unemployment_rate": 3.9
+      },
+      "2021": {
+        "employed": 42.8,
+        "unemployed": 2,
+        "labour_force": 44.8,
+        "participation_rate": 64.1,
+        "unemployment_rate": 4.5
+      },
+      "2022": {
+        "employed": 43.4,
+        "unemployed": 1.7,
+        "labour_force": 45.1,
+        "participation_rate": 64.3,
+        "unemployment_rate": 3.8
+      }
+    },
+    "Kuantan": {
+      "2019": {
+        "employed": 234.5,
+        "unemployed": 7.1,
+        "labour_force": 241.6,
+        "participation_rate": 70.2,
+        "unemployment_rate": 2.9
+      },
+      "2020": {
+        "employed": 235.1,
+        "unemployed": 7,
+        "labour_force": 242.2,
+        "participation_rate": 69.7,
+        "unemployment_rate": 2.9
+      },
+      "2021": {
+        "employed": 230.6,
+        "unemployed": 7.2,
+        "labour_force": 237.9,
+        "participation_rate": 67.9,
+        "unemployment_rate": 3
+      },
+      "2022": {
+        "employed": 234.2,
+        "unemployed": 5.3,
+        "labour_force": 239.6,
+        "participation_rate": 68.3,
+        "unemployment_rate": 2.2
+      }
+    },
+    "Lipis": {
+      "2019": {
+        "employed": 40.4,
+        "unemployed": 1.2,
+        "labour_force": 41.6,
+        "participation_rate": 61.3,
+        "unemployment_rate": 2.9
+      },
+      "2020": {
+        "employed": 39.3,
+        "unemployed": 1.2,
+        "labour_force": 40.4,
+        "participation_rate": 59,
+        "unemployment_rate": 2.9
+      },
+      "2021": {
+        "employed": 38.4,
+        "unemployed": 1,
+        "labour_force": 39.4,
+        "participation_rate": 57.1,
+        "unemployment_rate": 2.6
+      },
+      "2022": {
+        "employed": 39.1,
+        "unemployed": 0.7,
+        "labour_force": 39.8,
+        "participation_rate": 57.5,
+        "unemployment_rate": 1.7
+      }
+    },
+    "Maran": {
+      "2019": {
+        "employed": 53.2,
+        "unemployed": 1.3,
+        "labour_force": 54.5,
+        "participation_rate": 64.9,
+        "unemployment_rate": 2.4
+      },
+      "2020": {
+        "employed": 54.1,
+        "unemployed": 1.4,
+        "labour_force": 55.5,
+        "participation_rate": 65.4,
+        "unemployment_rate": 2.5
+      },
+      "2021": {
+        "employed": 54.1,
+        "unemployed": 1.7,
+        "labour_force": 55.7,
+        "participation_rate": 65.2,
+        "unemployment_rate": 3
+      },
+      "2022": {
+        "employed": 55.2,
+        "unemployed": 1.2,
+        "labour_force": 56.4,
+        "participation_rate": 65.8,
+        "unemployment_rate": 2.2
+      }
+    },
+    "Pekan": {
+      "2019": {
+        "employed": 51.1,
+        "unemployed": 1.5,
+        "labour_force": 52.6,
+        "participation_rate": 66.5,
+        "unemployment_rate": 2.8
+      },
+      "2020": {
+        "employed": 51.1,
+        "unemployed": 1.6,
+        "labour_force": 52.8,
+        "participation_rate": 66,
+        "unemployment_rate": 3.1
+      },
+      "2021": {
+        "employed": 50.3,
+        "unemployed": 1.7,
+        "labour_force": 52,
+        "participation_rate": 64.5,
+        "unemployment_rate": 3.3
+      },
+      "2022": {
+        "employed": 50.8,
+        "unemployed": 1.4,
+        "labour_force": 52.2,
+        "participation_rate": 64.7,
+        "unemployment_rate": 2.7
+      }
+    },
+    "Raub": {
+      "2019": {
+        "employed": 43.9,
+        "unemployed": 1.3,
+        "labour_force": 45.2,
+        "participation_rate": 64.3,
+        "unemployment_rate": 2.9
+      },
+      "2020": {
+        "employed": 44.2,
+        "unemployed": 1.7,
+        "labour_force": 45.8,
+        "participation_rate": 64.9,
+        "unemployment_rate": 3.6
+      },
+      "2021": {
+        "employed": 43.3,
+        "unemployed": 1.6,
+        "labour_force": 44.9,
+        "participation_rate": 63.9,
+        "unemployment_rate": 3.6
+      },
+      "2022": {
+        "employed": 43.8,
+        "unemployed": 1.5,
+        "labour_force": 45.3,
+        "participation_rate": 64.3,
+        "unemployment_rate": 3.2
+      }
+    },
+    "Rompin": {
+      "2019": {
+        "employed": 52.4,
+        "unemployed": 1.7,
+        "labour_force": 54.2,
+        "participation_rate": 63.7,
+        "unemployment_rate": 3.2
+      },
+      "2020": {
+        "employed": 51.3,
+        "unemployed": 1.5,
+        "labour_force": 52.8,
+        "participation_rate": 62.1,
+        "unemployment_rate": 2.9
+      },
+      "2021": {
+        "employed": 51.3,
+        "unemployed": 1.7,
+        "labour_force": 53,
+        "participation_rate": 61.9,
+        "unemployment_rate": 3.2
+      },
+      "2022": {
+        "employed": 52,
+        "unemployed": 1.3,
+        "labour_force": 53.3,
+        "participation_rate": 62.2,
+        "unemployment_rate": 2.5
+      }
+    },
+    "Temerloh": {
+      "2019": {
+        "employed": 79.2,
+        "unemployed": 2.4,
+        "labour_force": 81.6,
+        "participation_rate": 65.4,
+        "unemployment_rate": 2.9
+      },
+      "2020": {
+        "employed": 77.4,
+        "unemployed": 2.9,
+        "labour_force": 80.3,
+        "participation_rate": 63.9,
+        "unemployment_rate": 3.6
+      },
+      "2021": {
+        "employed": 76.1,
+        "unemployed": 2.8,
+        "labour_force": 78.9,
+        "participation_rate": 62.4,
+        "unemployment_rate": 3.6
+      },
+      "2022": {
+        "employed": 77.2,
+        "unemployed": 2.2,
+        "labour_force": 79.4,
+        "participation_rate": 62.6,
+        "unemployment_rate": 2.8
+      }
+    }
+  },
+  "Perak": {
+    "Batang Padang": {
+      "2019": {
+        "employed": 80.7,
+        "unemployed": 3,
+        "labour_force": 83.7,
+        "participation_rate": 65,
+        "unemployment_rate": 3.6
+      },
+      "2020": {
+        "employed": 88,
+        "unemployed": 3.4,
+        "labour_force": 91.4,
+        "participation_rate": 67.7,
+        "unemployment_rate": 3.7
+      },
+      "2021": {
+        "employed": 89.5,
+        "unemployed": 3,
+        "labour_force": 92.5,
+        "participation_rate": 68.2,
+        "unemployment_rate": 3.3
+      },
+      "2022": {
+        "employed": 92.2,
+        "unemployed": 1.9,
+        "labour_force": 94,
+        "participation_rate": 69.1,
+        "unemployment_rate": 2
+      }
+    },
+    "Hilir Perak": {
+      "2019": {
+        "employed": 92.1,
+        "unemployed": 3.2,
+        "labour_force": 95.4,
+        "participation_rate": 62.2,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 93.6,
+        "unemployed": 5.4,
+        "labour_force": 99,
+        "participation_rate": 65,
+        "unemployment_rate": 5.5
+      },
+      "2021": {
+        "employed": 92.7,
+        "unemployed": 4.7,
+        "labour_force": 97.4,
+        "participation_rate": 64,
+        "unemployment_rate": 4.8
+      },
+      "2022": {
+        "employed": 94.1,
+        "unemployed": 4.4,
+        "labour_force": 98.5,
+        "participation_rate": 65,
+        "unemployment_rate": 4.5
+      }
+    },
+    "Hulu Perak": {
+      "2019": {
+        "employed": 44.3,
+        "unemployed": 1.6,
+        "labour_force": 45.9,
+        "participation_rate": 67.4,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 41.8,
+        "unemployed": 1.7,
+        "labour_force": 43.6,
+        "participation_rate": 65.7,
+        "unemployment_rate": 4
+      },
+      "2021": {
+        "employed": 42.5,
+        "unemployed": 1.6,
+        "labour_force": 44.1,
+        "participation_rate": 65.2,
+        "unemployment_rate": 3.7
+      },
+      "2022": {
+        "employed": 43.4,
+        "unemployed": 1.1,
+        "labour_force": 44.5,
+        "participation_rate": 66,
+        "unemployment_rate": 2.5
+      }
+    },
+    "Kampar": {
+      "2019": {
+        "employed": 41.7,
+        "unemployed": 1.8,
+        "labour_force": 43.6,
+        "participation_rate": 62.8,
+        "unemployment_rate": 4.2
+      },
+      "2020": {
+        "employed": 41,
+        "unemployed": 1.7,
+        "labour_force": 42.8,
+        "participation_rate": 61,
+        "unemployment_rate": 4
+      },
+      "2021": {
+        "employed": 41.1,
+        "unemployed": 2,
+        "labour_force": 43.1,
+        "participation_rate": 60.9,
+        "unemployment_rate": 4.6
+      },
+      "2022": {
+        "employed": 43.4,
+        "unemployed": 1.4,
+        "labour_force": 44.9,
+        "participation_rate": 61.8,
+        "unemployment_rate": 3.2
+      }
+    },
+    "Kerian": {
+      "2019": {
+        "employed": 73.7,
+        "unemployed": 2.7,
+        "labour_force": 76.4,
+        "participation_rate": 59.6,
+        "unemployment_rate": 3.6
+      },
+      "2020": {
+        "employed": 75.1,
+        "unemployed": 4.2,
+        "labour_force": 79.3,
+        "participation_rate": 60.2,
+        "unemployment_rate": 5.4
+      },
+      "2021": {
+        "employed": 73.5,
+        "unemployed": 4.7,
+        "labour_force": 78.2,
+        "participation_rate": 59.6,
+        "unemployment_rate": 6
+      },
+      "2022": {
+        "employed": 76,
+        "unemployed": 4.2,
+        "labour_force": 80.2,
+        "participation_rate": 60.3,
+        "unemployment_rate": 5.2
+      }
+    },
+    "Kinta": {
+      "2019": {
+        "employed": 345.5,
+        "unemployed": 10.7,
+        "labour_force": 356.2,
+        "participation_rate": 64.7,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 338.3,
+        "unemployed": 16.3,
+        "labour_force": 354.6,
+        "participation_rate": 65.1,
+        "unemployment_rate": 4.6
+      },
+      "2021": {
+        "employed": 343.5,
+        "unemployed": 18.9,
+        "labour_force": 362.5,
+        "participation_rate": 66.4,
+        "unemployment_rate": 5.2
+      },
+      "2022": {
+        "employed": 351.9,
+        "unemployed": 17.2,
+        "labour_force": 369.1,
+        "participation_rate": 67.1,
+        "unemployment_rate": 4.7
+      }
+    },
+    "Kuala Kangsar": {
+      "2019": {
+        "employed": 67.3,
+        "unemployed": 2.2,
+        "labour_force": 69.5,
+        "participation_rate": 60.1,
+        "unemployment_rate": 3.1
+      },
+      "2020": {
+        "employed": 65.9,
+        "unemployed": 3.7,
+        "labour_force": 69.6,
+        "participation_rate": 59.4,
+        "unemployment_rate": 5.3
+      },
+      "2021": {
+        "employed": 66.2,
+        "unemployed": 4.3,
+        "labour_force": 70.5,
+        "participation_rate": 60.3,
+        "unemployment_rate": 6
+      },
+      "2022": {
+        "employed": 70.2,
+        "unemployed": 4.2,
+        "labour_force": 74.3,
+        "participation_rate": 61.1,
+        "unemployment_rate": 5.6
+      }
+    },
+    "Larut Dan Matang": {
+      "2019": {
+        "employed": 150.4,
+        "unemployed": 5.9,
+        "labour_force": 156.3,
+        "participation_rate": 65,
+        "unemployment_rate": 3.8
+      },
+      "2020": {
+        "employed": 152.2,
+        "unemployed": 8.7,
+        "labour_force": 161,
+        "participation_rate": 66.4,
+        "unemployment_rate": 5.4
+      },
+      "2021": {
+        "employed": 147.2,
+        "unemployed": 9.8,
+        "labour_force": 157,
+        "participation_rate": 65,
+        "unemployment_rate": 6.2
+      },
+      "2022": {
+        "employed": 148.8,
+        "unemployed": 9.4,
+        "labour_force": 158.2,
+        "participation_rate": 65.7,
+        "unemployment_rate": 5.9
+      }
+    },
+    "Manjung": {
+      "2019": {
+        "employed": 106.5,
+        "unemployed": 4.2,
+        "labour_force": 110.7,
+        "participation_rate": 64.1,
+        "unemployment_rate": 3.8
+      },
+      "2020": {
+        "employed": 103.4,
+        "unemployed": 5.4,
+        "labour_force": 108.8,
+        "participation_rate": 64,
+        "unemployment_rate": 4.9
+      },
+      "2021": {
+        "employed": 101.9,
+        "unemployed": 6.2,
+        "labour_force": 108.2,
+        "participation_rate": 63.7,
+        "unemployment_rate": 5.8
+      },
+      "2022": {
+        "employed": 104.1,
+        "unemployed": 5.8,
+        "labour_force": 109.9,
+        "participation_rate": 64,
+        "unemployment_rate": 5.3
+      }
+    },
+    "Perak Tengah": {
+      "2019": {
+        "employed": 41.3,
+        "unemployed": 1.5,
+        "labour_force": 42.8,
+        "participation_rate": 60.1,
+        "unemployment_rate": 3.5
+      },
+      "2020": {
+        "employed": 43.4,
+        "unemployed": 2.3,
+        "labour_force": 45.8,
+        "participation_rate": 62,
+        "unemployment_rate": 5.1
+      },
+      "2021": {
+        "employed": 44.3,
+        "unemployed": 2.8,
+        "labour_force": 47.1,
+        "participation_rate": 62.6,
+        "unemployment_rate": 5.9
+      },
+      "2022": {
+        "employed": 42.8,
+        "unemployed": 2.4,
+        "labour_force": 45.2,
+        "participation_rate": 63.1,
+        "unemployment_rate": 5.4
+      }
+    }
+  },
+  "Pulau Pinang": {
+    "Barat Daya": {
+      "2019": {
+        "employed": 109.4,
+        "unemployed": 1.7,
+        "labour_force": 111.1,
+        "participation_rate": 67.4,
+        "unemployment_rate": 1.5
+      },
+      "2020": {
+        "employed": 110.4,
+        "unemployed": 3.8,
+        "labour_force": 114.2,
+        "participation_rate": 68.7,
+        "unemployment_rate": 3.3
+      },
+      "2021": {
+        "employed": 115.4,
+        "unemployed": 2.8,
+        "labour_force": 118.2,
+        "participation_rate": 70.4,
+        "unemployment_rate": 2.3
+      },
+      "2022": {
+        "employed": 118,
+        "unemployed": 1.9,
+        "labour_force": 119.9,
+        "participation_rate": 71,
+        "unemployment_rate": 1.6
+      }
+    },
+    "Seberang Perai Selatan": {
+      "2019": {
+        "employed": 100.7,
+        "unemployed": 2,
+        "labour_force": 102.7,
+        "participation_rate": 74.3,
+        "unemployment_rate": 1.9
+      },
+      "2020": {
+        "employed": 101.5,
+        "unemployed": 3.9,
+        "labour_force": 105.3,
+        "participation_rate": 75.9,
+        "unemployment_rate": 3.7
+      },
+      "2021": {
+        "employed": 102.7,
+        "unemployed": 5.4,
+        "labour_force": 108.1,
+        "participation_rate": 77.5,
+        "unemployment_rate": 5
+      },
+      "2022": {
+        "employed": 103.3,
+        "unemployed": 4.7,
+        "labour_force": 107.9,
+        "participation_rate": 77.9,
+        "unemployment_rate": 4.3
+      }
+    },
+    "Seberang Perai Tengah": {
+      "2019": {
+        "employed": 210.7,
+        "unemployed": 3,
+        "labour_force": 213.7,
+        "participation_rate": 68.5,
+        "unemployment_rate": 1.4
+      },
+      "2020": {
+        "employed": 209.1,
+        "unemployed": 5.9,
+        "labour_force": 215,
+        "participation_rate": 69.3,
+        "unemployment_rate": 2.8
+      },
+      "2021": {
+        "employed": 213.1,
+        "unemployed": 8.4,
+        "labour_force": 221.5,
+        "participation_rate": 71.3,
+        "unemployment_rate": 3.8
+      },
+      "2022": {
+        "employed": 218.1,
+        "unemployed": 6,
+        "labour_force": 224.1,
+        "participation_rate": 71.7,
+        "unemployment_rate": 2.7
+      }
+    },
+    "Seberang Perai Utara": {
+      "2019": {
+        "employed": 146.7,
+        "unemployed": 3.3,
+        "labour_force": 150,
+        "participation_rate": 63.3,
+        "unemployment_rate": 2.2
+      },
+      "2020": {
+        "employed": 146.1,
+        "unemployed": 6.3,
+        "labour_force": 152.4,
+        "participation_rate": 63.2,
+        "unemployment_rate": 4.1
+      },
+      "2021": {
+        "employed": 151.6,
+        "unemployed": 7.3,
+        "labour_force": 158.8,
+        "participation_rate": 65.2,
+        "unemployment_rate": 4.6
+      },
+      "2022": {
+        "employed": 156.1,
+        "unemployed": 6,
+        "labour_force": 162.1,
+        "participation_rate": 66.2,
+        "unemployment_rate": 3.7
+      }
+    },
+    "Timur Laut": {
+      "2019": {
+        "employed": 267.9,
+        "unemployed": 6.7,
+        "labour_force": 274.6,
+        "participation_rate": 66.3,
+        "unemployment_rate": 2.5
+      },
+      "2020": {
+        "employed": 265.8,
+        "unemployed": 10.7,
+        "labour_force": 276.5,
+        "participation_rate": 66.8,
+        "unemployment_rate": 3.9
+      },
+      "2021": {
+        "employed": 274.4,
+        "unemployed": 8.4,
+        "labour_force": 282.8,
+        "participation_rate": 68.3,
+        "unemployment_rate": 3
+      },
+      "2022": {
+        "employed": 278.5,
+        "unemployed": 6.1,
+        "labour_force": 284.6,
+        "participation_rate": 68.8,
+        "unemployment_rate": 2.1
+      }
+    }
+  },
+  "Sabah": {
+    "Beaufort": {
+      "2019": {
+        "employed": 38.9,
+        "unemployed": 2.2,
+        "labour_force": 41.2,
+        "participation_rate": 73,
+        "unemployment_rate": 5.5
+      },
+      "2020": {
+        "employed": 38.5,
+        "unemployed": 2.2,
+        "labour_force": 40.7,
+        "participation_rate": 70.5,
+        "unemployment_rate": 5.4
+      },
+      "2021": {
+        "employed": 37,
+        "unemployed": 2.3,
+        "labour_force": 39.3,
+        "participation_rate": 69.6,
+        "unemployment_rate": 5.8
+      },
+      "2022": {
+        "employed": 38,
+        "unemployed": 1.9,
+        "labour_force": 39.9,
+        "participation_rate": 69.8,
+        "unemployment_rate": 4.8
+      }
+    },
+    "Beluran": {
+      "2019": {
+        "employed": 71.1,
+        "unemployed": 4.7,
+        "labour_force": 75.7,
+        "participation_rate": 73.7,
+        "unemployment_rate": 6.2
+      },
+      "2020": {
+        "employed": 71.5,
+        "unemployed": 7.2,
+        "labour_force": 78.7,
+        "participation_rate": 76.5,
+        "unemployment_rate": 9.2
+      },
+      "2021": {
+        "employed": 71.8,
+        "unemployed": 6.5,
+        "labour_force": 78.3,
+        "participation_rate": 77.9,
+        "unemployment_rate": 8.3
+      },
+      "2022": {
+        "employed": 72.7,
+        "unemployed": 5.8,
+        "labour_force": 78.5,
+        "participation_rate": 78.3,
+        "unemployment_rate": 7.3
+      }
+    },
+    "Keningau": {
+      "2019": {
+        "employed": 100.2,
+        "unemployed": 6.6,
+        "labour_force": 106.8,
+        "participation_rate": 67.9,
+        "unemployment_rate": 6.2
+      },
+      "2020": {
+        "employed": 99.8,
+        "unemployed": 8,
+        "labour_force": 107.7,
+        "participation_rate": 67.3,
+        "unemployment_rate": 7.4
+      },
+      "2021": {
+        "employed": 99.5,
+        "unemployed": 6.8,
+        "labour_force": 106.3,
+        "participation_rate": 68.9,
+        "unemployment_rate": 6.4
+      },
+      "2022": {
+        "employed": 101,
+        "unemployed": 6,
+        "labour_force": 107,
+        "participation_rate": 69.1,
+        "unemployment_rate": 5.6
+      }
+    },
+    "Kinabatangan": {
+      "2019": {
+        "employed": 94.2,
+        "unemployed": 6.1,
+        "labour_force": 100.3,
+        "participation_rate": 70.4,
+        "unemployment_rate": 6.1
+      },
+      "2020": {
+        "employed": 86.8,
+        "unemployed": 9.5,
+        "labour_force": 96.4,
+        "participation_rate": 69.1,
+        "unemployment_rate": 9.9
+      },
+      "2021": {
+        "employed": 84.6,
+        "unemployed": 8.6,
+        "labour_force": 93.2,
+        "participation_rate": 70,
+        "unemployment_rate": 9.2
+      },
+      "2022": {
+        "employed": 83.7,
+        "unemployed": 7.7,
+        "labour_force": 91.4,
+        "participation_rate": 70.4,
+        "unemployment_rate": 8.4
+      }
+    },
+    "Kota Belud": {
+      "2019": {
+        "employed": 48.2,
+        "unemployed": 3,
+        "labour_force": 51.1,
+        "participation_rate": 65.4,
+        "unemployment_rate": 5.8
+      },
+      "2020": {
+        "employed": 44.6,
+        "unemployed": 4.5,
+        "labour_force": 49.1,
+        "participation_rate": 62.7,
+        "unemployment_rate": 9.2
+      },
+      "2021": {
+        "employed": 44.5,
+        "unemployed": 4.6,
+        "labour_force": 49.1,
+        "participation_rate": 63.1,
+        "unemployment_rate": 9.3
+      },
+      "2022": {
+        "employed": 45.7,
+        "unemployed": 4.2,
+        "labour_force": 49.8,
+        "participation_rate": 63.4,
+        "unemployment_rate": 8.4
+      }
+    },
+    "Kota Kinabalu": {
+      "2019": {
+        "employed": 290,
+        "unemployed": 15.6,
+        "labour_force": 305.6,
+        "participation_rate": 73,
+        "unemployment_rate": 5.1
+      },
+      "2020": {
+        "employed": 271.9,
+        "unemployed": 21.5,
+        "labour_force": 293.4,
+        "participation_rate": 69.9,
+        "unemployment_rate": 7.3
+      },
+      "2021": {
+        "employed": 279.6,
+        "unemployed": 23.1,
+        "labour_force": 302.7,
+        "participation_rate": 71.4,
+        "unemployment_rate": 7.6
+      },
+      "2022": {
+        "employed": 288.8,
+        "unemployed": 21.1,
+        "labour_force": 309.9,
+        "participation_rate": 72.3,
+        "unemployment_rate": 6.8
+      }
+    },
+    "Kota Marudu": {
+      "2019": {
+        "employed": 37.9,
+        "unemployed": 2.2,
+        "labour_force": 40.1,
+        "participation_rate": 70.3,
+        "unemployment_rate": 5.5
+      },
+      "2020": {
+        "employed": 39.3,
+        "unemployed": 3.5,
+        "labour_force": 42.8,
+        "participation_rate": 73.7,
+        "unemployment_rate": 8.2
+      },
+      "2021": {
+        "employed": 38.3,
+        "unemployed": 3.4,
+        "labour_force": 41.8,
+        "participation_rate": 73.4,
+        "unemployment_rate": 8.2
+      },
+      "2022": {
+        "employed": 39.6,
+        "unemployed": 3.1,
+        "labour_force": 42.7,
+        "participation_rate": 73.6,
+        "unemployment_rate": 7.3
+      }
+    },
+    "Kuala Penyu": {
+      "2019": {
+        "employed": 11.6,
+        "unemployed": 0.6,
+        "labour_force": 12.2,
+        "participation_rate": 73.6,
+        "unemployment_rate": 5.3
+      },
+      "2020": {
+        "employed": 11,
+        "unemployed": 0.9,
+        "labour_force": 11.9,
+        "participation_rate": 72.3,
+        "unemployment_rate": 7.9
+      },
+      "2021": {
+        "employed": 10.9,
+        "unemployed": 0.8,
+        "labour_force": 11.7,
+        "participation_rate": 70.9,
+        "unemployment_rate": 7.2
+      },
+      "2022": {
+        "employed": 11.2,
+        "unemployed": 0.8,
+        "labour_force": 12,
+        "participation_rate": 71,
+        "unemployment_rate": 6.4
+      }
+    },
+    "Kudat": {
+      "2019": {
+        "employed": 50.2,
+        "unemployed": 2.8,
+        "labour_force": 52.9,
+        "participation_rate": 71.3,
+        "unemployment_rate": 5.2
+      },
+      "2020": {
+        "employed": 49.1,
+        "unemployed": 4.6,
+        "labour_force": 53.7,
+        "participation_rate": 72.2,
+        "unemployment_rate": 8.5
+      },
+      "2021": {
+        "employed": 49.7,
+        "unemployed": 4.3,
+        "labour_force": 54.1,
+        "participation_rate": 73,
+        "unemployment_rate": 8
+      },
+      "2022": {
+        "employed": 49.8,
+        "unemployed": 3.8,
+        "labour_force": 53.6,
+        "participation_rate": 73.3,
+        "unemployment_rate": 7
+      }
+    },
+    "Kunak": {
+      "2019": {
+        "employed": 39.3,
+        "unemployed": 2.6,
+        "labour_force": 41.9,
+        "participation_rate": 69.2,
+        "unemployment_rate": 6.2
+      },
+      "2020": {
+        "employed": 36.4,
+        "unemployed": 3.7,
+        "labour_force": 40.1,
+        "participation_rate": 66.7,
+        "unemployment_rate": 9.2
+      },
+      "2021": {
+        "employed": 36.3,
+        "unemployed": 3.8,
+        "labour_force": 40.2,
+        "participation_rate": 67.1,
+        "unemployment_rate": 9.6
+      },
+      "2022": {
+        "employed": 37.3,
+        "unemployed": 3.6,
+        "labour_force": 41,
+        "participation_rate": 67.4,
+        "unemployment_rate": 8.8
+      }
+    },
+    "Lahad Datu": {
+      "2019": {
+        "employed": 127,
+        "unemployed": 8.7,
+        "labour_force": 135.8,
+        "participation_rate": 67.8,
+        "unemployment_rate": 6.4
+      },
+      "2020": {
+        "employed": 128,
+        "unemployed": 13.2,
+        "labour_force": 141.3,
+        "participation_rate": 70.6,
+        "unemployment_rate": 9.4
+      },
+      "2021": {
+        "employed": 125.4,
+        "unemployed": 14,
+        "labour_force": 139.4,
+        "participation_rate": 70.2,
+        "unemployment_rate": 10
+      },
+      "2022": {
+        "employed": 122.4,
+        "unemployed": 12.9,
+        "labour_force": 135.3,
+        "participation_rate": 70.3,
+        "unemployment_rate": 9.5
+      }
+    },
+    "Nabawan": {
+      "2019": {
+        "employed": 17.3,
+        "unemployed": 1.1,
+        "labour_force": 18.4,
+        "participation_rate": 64.6,
+        "unemployment_rate": 6.2
+      },
+      "2020": {
+        "employed": 17.1,
+        "unemployed": 1.9,
+        "labour_force": 19,
+        "participation_rate": 64.4,
+        "unemployment_rate": 9.9
+      },
+      "2021": {
+        "employed": 16.3,
+        "unemployed": 1.7,
+        "labour_force": 18,
+        "participation_rate": 63.2,
+        "unemployment_rate": 9.7
+      },
+      "2022": {
+        "employed": 16.6,
+        "unemployed": 1.6,
+        "labour_force": 18.2,
+        "participation_rate": 63.2,
+        "unemployment_rate": 8.8
+      }
+    },
+    "Papar": {
+      "2019": {
+        "employed": 75.4,
+        "unemployed": 4.2,
+        "labour_force": 79.7,
+        "participation_rate": 67.8,
+        "unemployment_rate": 5.3
+      },
+      "2020": {
+        "employed": 72.4,
+        "unemployed": 5.7,
+        "labour_force": 78.2,
+        "participation_rate": 65.8,
+        "unemployment_rate": 7.3
+      },
+      "2021": {
+        "employed": 72.2,
+        "unemployed": 5.6,
+        "labour_force": 77.8,
+        "participation_rate": 66.7,
+        "unemployment_rate": 7.2
+      },
+      "2022": {
+        "employed": 72.1,
+        "unemployed": 5.2,
+        "labour_force": 77.3,
+        "participation_rate": 67.4,
+        "unemployment_rate": 6.7
+      }
+    },
+    "Penampang": {
+      "2019": {
+        "employed": 70.6,
+        "unemployed": 4.5,
+        "labour_force": 75.1,
+        "participation_rate": 65.2,
+        "unemployment_rate": 6
+      },
+      "2020": {
+        "employed": 69.8,
+        "unemployed": 7.1,
+        "labour_force": 76.9,
+        "participation_rate": 66.4,
+        "unemployment_rate": 9.2
+      },
+      "2021": {
+        "employed": 69.3,
+        "unemployed": 7.7,
+        "labour_force": 77,
+        "participation_rate": 67.3,
+        "unemployment_rate": 9.9
+      },
+      "2022": {
+        "employed": 68,
+        "unemployed": 7,
+        "labour_force": 75,
+        "participation_rate": 68.2,
+        "unemployment_rate": 9.3
+      }
+    },
+    "Pitas": {
+      "2019": {
+        "employed": 20.7,
+        "unemployed": 1.3,
+        "labour_force": 22,
+        "participation_rate": 68.4,
+        "unemployment_rate": 5.9
+      },
+      "2020": {
+        "employed": 20.8,
+        "unemployed": 2.1,
+        "labour_force": 22.9,
+        "participation_rate": 69.6,
+        "unemployment_rate": 9
+      },
+      "2021": {
+        "employed": 19.7,
+        "unemployed": 2,
+        "labour_force": 21.7,
+        "participation_rate": 68.5,
+        "unemployment_rate": 9.3
+      },
+      "2022": {
+        "employed": 20.4,
+        "unemployed": 1.9,
+        "labour_force": 22.2,
+        "participation_rate": 68.6,
+        "unemployment_rate": 8.4
+      }
+    },
+    "Putatan": {
+      "2019": {
+        "employed": 27.7,
+        "unemployed": 2,
+        "labour_force": 29.6,
+        "participation_rate": 64.8,
+        "unemployment_rate": 6.7
+      },
+      "2020": {
+        "employed": 29,
+        "unemployed": 2.4,
+        "labour_force": 31.4,
+        "participation_rate": 66.6,
+        "unemployment_rate": 7.8
+      },
+      "2021": {
+        "employed": 27.7,
+        "unemployed": 2.5,
+        "labour_force": 30.2,
+        "participation_rate": 66.3,
+        "unemployment_rate": 8.2
+      },
+      "2022": {
+        "employed": 28.6,
+        "unemployed": 2.3,
+        "labour_force": 30.8,
+        "participation_rate": 66.5,
+        "unemployment_rate": 7.3
+      }
+    },
+    "Ranau": {
+      "2019": {
+        "employed": 55.5,
+        "unemployed": 3.2,
+        "labour_force": 58.7,
+        "participation_rate": 72,
+        "unemployment_rate": 5.5
+      },
+      "2020": {
+        "employed": 56.6,
+        "unemployed": 5.4,
+        "labour_force": 62,
+        "participation_rate": 75.1,
+        "unemployment_rate": 8.7
+      },
+      "2021": {
+        "employed": 56.3,
+        "unemployed": 5.8,
+        "labour_force": 62.1,
+        "participation_rate": 76.7,
+        "unemployment_rate": 9.3
+      },
+      "2022": {
+        "employed": 57.1,
+        "unemployed": 5.3,
+        "labour_force": 62.4,
+        "participation_rate": 77,
+        "unemployment_rate": 8.5
+      }
+    },
+    "Sandakan": {
+      "2019": {
+        "employed": 236.4,
+        "unemployed": 15.4,
+        "labour_force": 251.8,
+        "participation_rate": 71.1,
+        "unemployment_rate": 6.1
+      },
+      "2020": {
+        "employed": 238.1,
+        "unemployed": 21.7,
+        "labour_force": 259.8,
+        "participation_rate": 73.6,
+        "unemployment_rate": 8.4
+      },
+      "2021": {
+        "employed": 237.5,
+        "unemployed": 21.5,
+        "labour_force": 259,
+        "participation_rate": 73.7,
+        "unemployment_rate": 8.3
+      },
+      "2022": {
+        "employed": 238.6,
+        "unemployed": 19.7,
+        "labour_force": 258.3,
+        "participation_rate": 74.2,
+        "unemployment_rate": 7.6
+      }
+    },
+    "Semporna": {
+      "2019": {
+        "employed": 78.1,
+        "unemployed": 5.2,
+        "labour_force": 83.4,
+        "participation_rate": 63.7,
+        "unemployment_rate": 6.3
+      },
+      "2020": {
+        "employed": 73.1,
+        "unemployed": 7.8,
+        "labour_force": 80.8,
+        "participation_rate": 61.6,
+        "unemployment_rate": 9.6
+      },
+      "2021": {
+        "employed": 73.1,
+        "unemployed": 7.9,
+        "labour_force": 81,
+        "participation_rate": 62.4,
+        "unemployment_rate": 9.7
+      },
+      "2022": {
+        "employed": 76.1,
+        "unemployed": 7.7,
+        "labour_force": 83.8,
+        "participation_rate": 63.1,
+        "unemployment_rate": 9.2
+      }
+    },
+    "Sipitang": {
+      "2019": {
+        "employed": 19.2,
+        "unemployed": 1.4,
+        "labour_force": 20.5,
+        "participation_rate": 67.9,
+        "unemployment_rate": 6.7
+      },
+      "2020": {
+        "employed": 18.6,
+        "unemployed": 1.2,
+        "labour_force": 19.8,
+        "participation_rate": 65.3,
+        "unemployment_rate": 6.2
+      },
+      "2021": {
+        "employed": 18,
+        "unemployed": 1.3,
+        "labour_force": 19.3,
+        "participation_rate": 63.9,
+        "unemployment_rate": 6.7
+      },
+      "2022": {
+        "employed": 18.8,
+        "unemployed": 1.2,
+        "labour_force": 20,
+        "participation_rate": 64.4,
+        "unemployment_rate": 5.9
+      }
+    },
+    "Tambunan": {
+      "2019": {
+        "employed": 23.8,
+        "unemployed": 1.3,
+        "labour_force": 25.1,
+        "participation_rate": 73.1,
+        "unemployment_rate": 5.3
+      },
+      "2020": {
+        "employed": 23.6,
+        "unemployed": 1.3,
+        "labour_force": 24.9,
+        "participation_rate": 71.5,
+        "unemployment_rate": 5.2
+      },
+      "2021": {
+        "employed": 23,
+        "unemployed": 1.3,
+        "labour_force": 24.3,
+        "participation_rate": 71.1,
+        "unemployment_rate": 5.4
+      },
+      "2022": {
+        "employed": 23.6,
+        "unemployed": 1.2,
+        "labour_force": 24.8,
+        "participation_rate": 71.4,
+        "unemployment_rate": 4.8
+      }
+    },
+    "Tawau": {
+      "2019": {
+        "employed": 264.6,
+        "unemployed": 15.6,
+        "labour_force": 280.2,
+        "participation_rate": 71.9,
+        "unemployment_rate": 5.6
+      },
+      "2020": {
+        "employed": 265.4,
+        "unemployed": 20.4,
+        "labour_force": 285.7,
+        "participation_rate": 73.7,
+        "unemployment_rate": 7.1
+      },
+      "2021": {
+        "employed": 258.9,
+        "unemployed": 22.7,
+        "labour_force": 281.6,
+        "participation_rate": 73.1,
+        "unemployment_rate": 8.1
+      },
+      "2022": {
+        "employed": 257.2,
+        "unemployed": 21.3,
+        "labour_force": 278.6,
+        "participation_rate": 73.3,
+        "unemployment_rate": 7.7
+      }
+    },
+    "Tenom": {
+      "2019": {
+        "employed": 32,
+        "unemployed": 2,
+        "labour_force": 34,
+        "participation_rate": 70,
+        "unemployment_rate": 5.9
+      },
+      "2020": {
+        "employed": 30.9,
+        "unemployed": 1.9,
+        "labour_force": 32.8,
+        "participation_rate": 67.3,
+        "unemployment_rate": 5.8
+      },
+      "2021": {
+        "employed": 30.9,
+        "unemployed": 2.1,
+        "labour_force": 33,
+        "participation_rate": 67.9,
+        "unemployment_rate": 6.4
+      },
+      "2022": {
+        "employed": 31.5,
+        "unemployed": 1.9,
+        "labour_force": 33.5,
+        "participation_rate": 68.1,
+        "unemployment_rate": 5.8
+      }
+    },
+    "Tongod": {
+      "2019": {
+        "employed": 21.4,
+        "unemployed": 1.4,
+        "labour_force": 22.8,
+        "participation_rate": 70.9,
+        "unemployment_rate": 6.3
+      },
+      "2020": {
+        "employed": 22.2,
+        "unemployed": 2.2,
+        "labour_force": 24.4,
+        "participation_rate": 73,
+        "unemployment_rate": 8.9
+      },
+      "2021": {
+        "employed": 21.4,
+        "unemployed": 2,
+        "labour_force": 23.4,
+        "participation_rate": 73.7,
+        "unemployment_rate": 8.6
+      },
+      "2022": {
+        "employed": 22.1,
+        "unemployed": 1.8,
+        "labour_force": 24,
+        "participation_rate": 74.2,
+        "unemployment_rate": 7.7
+      }
+    },
+    "Tuaran": {
+      "2019": {
+        "employed": 57.3,
+        "unemployed": 3.3,
+        "labour_force": 60.6,
+        "participation_rate": 67.8,
+        "unemployment_rate": 5.4
+      },
+      "2020": {
+        "employed": 55.2,
+        "unemployed": 3,
+        "labour_force": 58.2,
+        "participation_rate": 64.9,
+        "unemployment_rate": 5.1
+      },
+      "2021": {
+        "employed": 54.6,
+        "unemployed": 3,
+        "labour_force": 57.6,
+        "participation_rate": 64.8,
+        "unemployment_rate": 5.2
+      },
+      "2022": {
+        "employed": 54.7,
+        "unemployed": 2.6,
+        "labour_force": 57.2,
+        "participation_rate": 65.3,
+        "unemployment_rate": 4.5
+      }
+    }
+  },
+  "Sarawak": {
+    "Asajaya": {
+      "2019": {
+        "employed": 16.3,
+        "unemployed": 0.6,
+        "labour_force": 16.9,
+        "participation_rate": 66.8,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 15.5,
+        "unemployed": 0.5,
+        "labour_force": 16,
+        "participation_rate": 63.1,
+        "unemployment_rate": 3.2
+      },
+      "2021": {
+        "employed": 16.1,
+        "unemployed": 0.7,
+        "labour_force": 16.8,
+        "participation_rate": 64.3,
+        "unemployment_rate": 4.3
+      },
+      "2022": {
+        "employed": 16.6,
+        "unemployed": 0.6,
+        "labour_force": 17.1,
+        "participation_rate": 64.9,
+        "unemployment_rate": 3.3
+      }
+    },
+    "Bau": {
+      "2019": {
+        "employed": 28.5,
+        "unemployed": 1,
+        "labour_force": 29.5,
+        "participation_rate": 69.7,
+        "unemployment_rate": 3.2
+      },
+      "2020": {
+        "employed": 27.6,
+        "unemployed": 0.9,
+        "labour_force": 28.5,
+        "participation_rate": 67,
+        "unemployment_rate": 3.1
+      },
+      "2021": {
+        "employed": 27.4,
+        "unemployed": 1,
+        "labour_force": 28.4,
+        "participation_rate": 65.7,
+        "unemployment_rate": 3.6
+      },
+      "2022": {
+        "employed": 28,
+        "unemployed": 1,
+        "labour_force": 29,
+        "participation_rate": 66.6,
+        "unemployment_rate": 3.3
+      }
+    },
+    "Belaga": {
+      "2019": {
+        "employed": 20.9,
+        "unemployed": 0.6,
+        "labour_force": 21.5,
+        "participation_rate": 69.6,
+        "unemployment_rate": 2.8
+      },
+      "2020": {
+        "employed": 21.5,
+        "unemployed": 1,
+        "labour_force": 22.5,
+        "participation_rate": 73.2,
+        "unemployment_rate": 4.4
+      },
+      "2021": {
+        "employed": 18.8,
+        "unemployed": 0.8,
+        "labour_force": 19.6,
+        "participation_rate": 63.9,
+        "unemployment_rate": 4.2
+      },
+      "2022": {
+        "employed": 19.1,
+        "unemployed": 0.7,
+        "labour_force": 19.7,
+        "participation_rate": 64.5,
+        "unemployment_rate": 3.3
+      }
+    },
+    "Betong": {
+      "2019": {
+        "employed": 31.9,
+        "unemployed": 0.9,
+        "labour_force": 32.8,
+        "participation_rate": 67,
+        "unemployment_rate": 2.7
+      },
+      "2020": {
+        "employed": 30.3,
+        "unemployed": 1.4,
+        "labour_force": 31.7,
+        "participation_rate": 64,
+        "unemployment_rate": 4.4
+      },
+      "2021": {
+        "employed": 29.7,
+        "unemployed": 1.6,
+        "labour_force": 31.3,
+        "participation_rate": 61.7,
+        "unemployment_rate": 5
+      },
+      "2022": {
+        "employed": 30.3,
+        "unemployed": 1.3,
+        "labour_force": 31.6,
+        "participation_rate": 61.9,
+        "unemployment_rate": 4.1
+      }
+    },
+    "Bintulu": {
+      "2019": {
+        "employed": 113.1,
+        "unemployed": 3,
+        "labour_force": 116.1,
+        "participation_rate": 72,
+        "unemployment_rate": 2.6
+      },
+      "2020": {
+        "employed": 105.7,
+        "unemployed": 3.4,
+        "labour_force": 109.1,
+        "participation_rate": 68.6,
+        "unemployment_rate": 3.1
+      },
+      "2021": {
+        "employed": 106.7,
+        "unemployed": 3.7,
+        "labour_force": 110.4,
+        "participation_rate": 69.4,
+        "unemployment_rate": 3.4
+      },
+      "2022": {
+        "employed": 111.6,
+        "unemployed": 2.8,
+        "labour_force": 114.4,
+        "participation_rate": 70.5,
+        "unemployment_rate": 2.5
+      }
+    },
+    "Dalat": {
+      "2019": {
+        "employed": 9.9,
+        "unemployed": 0.3,
+        "labour_force": 10.2,
+        "participation_rate": 68.9,
+        "unemployment_rate": 3.1
+      },
+      "2020": {
+        "employed": 9.9,
+        "unemployed": 0.5,
+        "labour_force": 10.5,
+        "participation_rate": 70.1,
+        "unemployment_rate": 5.2
+      },
+      "2021": {
+        "employed": 10.1,
+        "unemployed": 0.5,
+        "labour_force": 10.5,
+        "participation_rate": 69,
+        "unemployment_rate": 4.6
+      },
+      "2022": {
+        "employed": 10.2,
+        "unemployed": 0.4,
+        "labour_force": 10.6,
+        "participation_rate": 69.1,
+        "unemployment_rate": 4
+      }
+    },
+    "Daro": {
+      "2019": {
+        "employed": 15.5,
+        "unemployed": 0.4,
+        "labour_force": 15.9,
+        "participation_rate": 64.4,
+        "unemployment_rate": 2.5
+      },
+      "2020": {
+        "employed": 15,
+        "unemployed": 0.6,
+        "labour_force": 15.6,
+        "participation_rate": 63.1,
+        "unemployment_rate": 3.9
+      },
+      "2021": {
+        "employed": 15,
+        "unemployed": 0.7,
+        "labour_force": 15.8,
+        "participation_rate": 62.5,
+        "unemployment_rate": 4.7
+      },
+      "2022": {
+        "employed": 15.3,
+        "unemployed": 0.7,
+        "labour_force": 15.9,
+        "participation_rate": 63.1,
+        "unemployment_rate": 4.1
+      }
+    },
+    "Julau": {
+      "2019": {
+        "employed": 7.9,
+        "unemployed": 0.3,
+        "labour_force": 8.2,
+        "participation_rate": 66.4,
+        "unemployment_rate": 4
+      },
+      "2020": {
+        "employed": 8.1,
+        "unemployed": 0.3,
+        "labour_force": 8.4,
+        "participation_rate": 66.9,
+        "unemployment_rate": 3.7
+      },
+      "2021": {
+        "employed": 7.4,
+        "unemployed": 0.4,
+        "labour_force": 7.9,
+        "participation_rate": 61.3,
+        "unemployment_rate": 5.5
+      },
+      "2022": {
+        "employed": 7.6,
+        "unemployed": 0.4,
+        "labour_force": 8,
+        "participation_rate": 62.1,
+        "unemployment_rate": 4.7
+      }
+    },
+    "Kanowit": {
+      "2019": {
+        "employed": 14.7,
+        "unemployed": 0.5,
+        "labour_force": 15.2,
+        "participation_rate": 66.6,
+        "unemployment_rate": 3.5
+      },
+      "2020": {
+        "employed": 15.1,
+        "unemployed": 0.8,
+        "labour_force": 16,
+        "participation_rate": 69.3,
+        "unemployment_rate": 5.2
+      },
+      "2021": {
+        "employed": 14.5,
+        "unemployed": 0.8,
+        "labour_force": 15.4,
+        "participation_rate": 65.6,
+        "unemployment_rate": 5.3
+      },
+      "2022": {
+        "employed": 14.7,
+        "unemployed": 0.8,
+        "labour_force": 15.5,
+        "participation_rate": 65.9,
+        "unemployment_rate": 5.1
+      }
+    },
+    "Kapit": {
+      "2019": {
+        "employed": 28.1,
+        "unemployed": 1.1,
+        "labour_force": 29.2,
+        "participation_rate": 66.9,
+        "unemployment_rate": 3.9
+      },
+      "2020": {
+        "employed": 28.6,
+        "unemployed": 1.9,
+        "labour_force": 30.4,
+        "participation_rate": 69.1,
+        "unemployment_rate": 6.1
+      },
+      "2021": {
+        "employed": 27.9,
+        "unemployed": 1.6,
+        "labour_force": 29.5,
+        "participation_rate": 65.8,
+        "unemployment_rate": 5.5
+      },
+      "2022": {
+        "employed": 28.4,
+        "unemployed": 1.6,
+        "labour_force": 30,
+        "participation_rate": 66.5,
+        "unemployment_rate": 5.3
+      }
+    },
+    "Kuching": {
+      "2019": {
+        "employed": 315.3,
+        "unemployed": 9.7,
+        "labour_force": 325,
+        "participation_rate": 67.8,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 297.3,
+        "unemployed": 14.9,
+        "labour_force": 312.2,
+        "participation_rate": 64.9,
+        "unemployment_rate": 4.8
+      },
+      "2021": {
+        "employed": 319.5,
+        "unemployed": 14.5,
+        "labour_force": 334,
+        "participation_rate": 68.4,
+        "unemployment_rate": 4.3
+      },
+      "2022": {
+        "employed": 330.5,
+        "unemployed": 11.3,
+        "labour_force": 341.8,
+        "participation_rate": 69.6,
+        "unemployment_rate": 3.3
+      }
+    },
+    "Lawas": {
+      "2019": {
+        "employed": 21.6,
+        "unemployed": 0.7,
+        "labour_force": 22.4,
+        "participation_rate": 71.9,
+        "unemployment_rate": 3.2
+      },
+      "2020": {
+        "employed": 21.9,
+        "unemployed": 1.2,
+        "labour_force": 23.2,
+        "participation_rate": 74.2,
+        "unemployment_rate": 5.3
+      },
+      "2021": {
+        "employed": 21.4,
+        "unemployed": 1.2,
+        "labour_force": 22.6,
+        "participation_rate": 71.2,
+        "unemployment_rate": 5.3
+      },
+      "2022": {
+        "employed": 21.9,
+        "unemployed": 1,
+        "labour_force": 23,
+        "participation_rate": 71.7,
+        "unemployment_rate": 4.5
+      }
+    },
+    "Limbang": {
+      "2019": {
+        "employed": 26.4,
+        "unemployed": 1,
+        "labour_force": 27.5,
+        "participation_rate": 72.2,
+        "unemployment_rate": 3.7
+      },
+      "2020": {
+        "employed": 25,
+        "unemployed": 1.4,
+        "labour_force": 26.3,
+        "participation_rate": 68.8,
+        "unemployment_rate": 5.2
+      },
+      "2021": {
+        "employed": 25,
+        "unemployed": 1.2,
+        "labour_force": 26.2,
+        "participation_rate": 67.4,
+        "unemployment_rate": 4.5
+      },
+      "2022": {
+        "employed": 25.7,
+        "unemployed": 1,
+        "labour_force": 26.7,
+        "participation_rate": 68,
+        "unemployment_rate": 3.7
+      }
+    },
+    "Lubok Antu": {
+      "2019": {
+        "employed": 14.7,
+        "unemployed": 0.6,
+        "labour_force": 15.3,
+        "participation_rate": 69.3,
+        "unemployment_rate": 3.7
+      },
+      "2020": {
+        "employed": 14.6,
+        "unemployed": 0.5,
+        "labour_force": 15.2,
+        "participation_rate": 68.6,
+        "unemployment_rate": 3.6
+      },
+      "2021": {
+        "employed": 14.7,
+        "unemployed": 0.8,
+        "labour_force": 15.5,
+        "participation_rate": 68.1,
+        "unemployment_rate": 5.1
+      },
+      "2022": {
+        "employed": 14.9,
+        "unemployed": 0.7,
+        "labour_force": 15.6,
+        "participation_rate": 68.7,
+        "unemployment_rate": 4.6
+      }
+    },
+    "Lundu": {
+      "2019": {
+        "employed": 18.8,
+        "unemployed": 0.6,
+        "labour_force": 19.4,
+        "participation_rate": 72.7,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 19.1,
+        "unemployed": 0.6,
+        "labour_force": 19.6,
+        "participation_rate": 73,
+        "unemployment_rate": 2.8
+      },
+      "2021": {
+        "employed": 18.2,
+        "unemployed": 0.8,
+        "labour_force": 19,
+        "participation_rate": 69.7,
+        "unemployment_rate": 4.2
+      },
+      "2022": {
+        "employed": 18.5,
+        "unemployed": 0.7,
+        "labour_force": 19.2,
+        "participation_rate": 70,
+        "unemployment_rate": 3.5
+      }
+    },
+    "Maradong": {
+      "2019": {
+        "employed": 14.8,
+        "unemployed": 0.5,
+        "labour_force": 15.3,
+        "participation_rate": 65,
+        "unemployment_rate": 3.3
+      },
+      "2020": {
+        "employed": 15,
+        "unemployed": 0.9,
+        "labour_force": 15.8,
+        "participation_rate": 66.7,
+        "unemployment_rate": 5.4
+      },
+      "2021": {
+        "employed": 14.4,
+        "unemployed": 0.9,
+        "labour_force": 15.2,
+        "participation_rate": 63.7,
+        "unemployment_rate": 5.7
+      },
+      "2022": {
+        "employed": 14.7,
+        "unemployed": 0.8,
+        "labour_force": 15.5,
+        "participation_rate": 64.5,
+        "unemployment_rate": 5.2
+      }
+    },
+    "Marudi": {
+      "2019": {
+        "employed": 32.5,
+        "unemployed": 0.8,
+        "labour_force": 33.4,
+        "participation_rate": 64.2,
+        "unemployment_rate": 2.5
+      },
+      "2020": {
+        "employed": 32.9,
+        "unemployed": 1.3,
+        "labour_force": 34.2,
+        "participation_rate": 65.7,
+        "unemployment_rate": 3.7
+      },
+      "2021": {
+        "employed": 31.8,
+        "unemployed": 1,
+        "labour_force": 32.8,
+        "participation_rate": 62.5,
+        "unemployment_rate": 3.1
+      },
+      "2022": {
+        "employed": 31.9,
+        "unemployed": 0.9,
+        "labour_force": 32.7,
+        "participation_rate": 63.2,
+        "unemployment_rate": 2.6
+      }
+    },
+    "Matu": {
+      "2019": {
+        "employed": 9.2,
+        "unemployed": 0.3,
+        "labour_force": 9.5,
+        "participation_rate": 69.5,
+        "unemployment_rate": 3.5
+      },
+      "2020": {
+        "employed": 9.7,
+        "unemployed": 0.4,
+        "labour_force": 10.1,
+        "participation_rate": 72.7,
+        "unemployment_rate": 3.8
+      },
+      "2021": {
+        "employed": 8.9,
+        "unemployed": 0.4,
+        "labour_force": 9.3,
+        "participation_rate": 66.2,
+        "unemployment_rate": 4.5
+      },
+      "2022": {
+        "employed": 9,
+        "unemployed": 0.4,
+        "labour_force": 9.3,
+        "participation_rate": 66.9,
+        "unemployment_rate": 3.8
+      }
+    },
+    "Miri": {
+      "2019": {
+        "employed": 158.6,
+        "unemployed": 5.5,
+        "labour_force": 164.2,
+        "participation_rate": 66.5,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 154.4,
+        "unemployed": 5.3,
+        "labour_force": 159.7,
+        "participation_rate": 64.9,
+        "unemployment_rate": 3.3
+      },
+      "2021": {
+        "employed": 155.3,
+        "unemployed": 6.2,
+        "labour_force": 161.5,
+        "participation_rate": 65.3,
+        "unemployment_rate": 3.8
+      },
+      "2022": {
+        "employed": 159.3,
+        "unemployed": 5,
+        "labour_force": 164.3,
+        "participation_rate": 66.5,
+        "unemployment_rate": 3
+      }
+    },
+    "Mukah": {
+      "2019": {
+        "employed": 22.6,
+        "unemployed": 0.8,
+        "labour_force": 23.3,
+        "participation_rate": 66.7,
+        "unemployment_rate": 3.2
+      },
+      "2020": {
+        "employed": 22.9,
+        "unemployed": 0.7,
+        "labour_force": 23.6,
+        "participation_rate": 67.7,
+        "unemployment_rate": 2.9
+      },
+      "2021": {
+        "employed": 21.3,
+        "unemployed": 1,
+        "labour_force": 22.3,
+        "participation_rate": 63.3,
+        "unemployment_rate": 4.5
+      },
+      "2022": {
+        "employed": 21.6,
+        "unemployed": 0.9,
+        "labour_force": 22.5,
+        "participation_rate": 64,
+        "unemployment_rate": 3.9
+      }
+    },
+    "Pakan": {
+      "2019": {
+        "employed": 8.8,
+        "unemployed": 0.3,
+        "labour_force": 9.1,
+        "participation_rate": 74.6,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 8.4,
+        "unemployed": 0.3,
+        "labour_force": 8.7,
+        "participation_rate": 70.6,
+        "unemployment_rate": 3.1
+      },
+      "2021": {
+        "employed": 8.4,
+        "unemployed": 0.3,
+        "labour_force": 8.7,
+        "participation_rate": 68.6,
+        "unemployment_rate": 3.4
+      },
+      "2022": {
+        "employed": 8.5,
+        "unemployed": 0.3,
+        "labour_force": 8.8,
+        "participation_rate": 69.5,
+        "unemployment_rate": 3.4
+      }
+    },
+    "Samarahan": {
+      "2019": {
+        "employed": 43.9,
+        "unemployed": 1.7,
+        "labour_force": 45.6,
+        "participation_rate": 66.4,
+        "unemployment_rate": 3.7
+      },
+      "2020": {
+        "employed": 44.2,
+        "unemployed": 2.4,
+        "labour_force": 46.6,
+        "participation_rate": 67.3,
+        "unemployment_rate": 5.2
+      },
+      "2021": {
+        "employed": 44.2,
+        "unemployed": 2.9,
+        "labour_force": 47.1,
+        "participation_rate": 66.6,
+        "unemployment_rate": 6.1
+      },
+      "2022": {
+        "employed": 45.7,
+        "unemployed": 2.6,
+        "labour_force": 48.3,
+        "participation_rate": 67.5,
+        "unemployment_rate": 5.3
+      }
+    },
+    "Saratok": {
+      "2019": {
+        "employed": 23.7,
+        "unemployed": 0.6,
+        "labour_force": 24.3,
+        "participation_rate": 67.1,
+        "unemployment_rate": 2.5
+      },
+      "2020": {
+        "employed": 23.9,
+        "unemployed": 1,
+        "labour_force": 24.9,
+        "participation_rate": 68.1,
+        "unemployment_rate": 4.1
+      },
+      "2021": {
+        "employed": 23.7,
+        "unemployed": 0.8,
+        "labour_force": 24.5,
+        "participation_rate": 65.6,
+        "unemployment_rate": 3.3
+      },
+      "2022": {
+        "employed": 24.1,
+        "unemployed": 0.6,
+        "labour_force": 24.7,
+        "participation_rate": 65.9,
+        "unemployment_rate": 2.4
+      }
+    },
+    "Sarikei": {
+      "2019": {
+        "employed": 30.5,
+        "unemployed": 0.9,
+        "labour_force": 31.4,
+        "participation_rate": 69.2,
+        "unemployment_rate": 2.8
+      },
+      "2020": {
+        "employed": 31.2,
+        "unemployed": 1.5,
+        "labour_force": 32.7,
+        "participation_rate": 71.8,
+        "unemployment_rate": 4.5
+      },
+      "2021": {
+        "employed": 31.4,
+        "unemployed": 1.7,
+        "labour_force": 33.1,
+        "participation_rate": 71.5,
+        "unemployment_rate": 5
+      },
+      "2022": {
+        "employed": 32.1,
+        "unemployed": 1.4,
+        "labour_force": 33.5,
+        "participation_rate": 71.9,
+        "unemployment_rate": 4.2
+      }
+    },
+    "Selangau": {
+      "2019": {
+        "employed": 12.1,
+        "unemployed": 0.4,
+        "labour_force": 12.5,
+        "participation_rate": 67.8,
+        "unemployment_rate": 3.3
+      },
+      "2020": {
+        "employed": 11.8,
+        "unemployed": 0.4,
+        "labour_force": 12.2,
+        "participation_rate": 65.9,
+        "unemployment_rate": 3.2
+      },
+      "2021": {
+        "employed": 11.6,
+        "unemployed": 0.5,
+        "labour_force": 12.2,
+        "participation_rate": 64.6,
+        "unemployment_rate": 4.3
+      },
+      "2022": {
+        "employed": 11.8,
+        "unemployed": 0.5,
+        "labour_force": 12.3,
+        "participation_rate": 64.8,
+        "unemployment_rate": 4
+      }
+    },
+    "Serian": {
+      "2019": {
+        "employed": 51.3,
+        "unemployed": 1.6,
+        "labour_force": 53,
+        "participation_rate": 71.9,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 48.2,
+        "unemployed": 2.4,
+        "labour_force": 50.6,
+        "participation_rate": 68.5,
+        "unemployment_rate": 4.7
+      },
+      "2021": {
+        "employed": 48.1,
+        "unemployed": 2.9,
+        "labour_force": 51.1,
+        "participation_rate": 67.9,
+        "unemployment_rate": 5.8
+      },
+      "2022": {
+        "employed": 48.8,
+        "unemployed": 2.8,
+        "labour_force": 51.5,
+        "participation_rate": 68.1,
+        "unemployment_rate": 5.4
+      }
+    },
+    "Sibu": {
+      "2019": {
+        "employed": 128.3,
+        "unemployed": 4.7,
+        "labour_force": 133,
+        "participation_rate": 68.4,
+        "unemployment_rate": 3.6
+      },
+      "2020": {
+        "employed": 120.5,
+        "unemployed": 7.3,
+        "labour_force": 127.9,
+        "participation_rate": 65.7,
+        "unemployment_rate": 5.7
+      },
+      "2021": {
+        "employed": 123.2,
+        "unemployed": 7.7,
+        "labour_force": 130.9,
+        "participation_rate": 66.8,
+        "unemployment_rate": 5.9
+      },
+      "2022": {
+        "employed": 127.2,
+        "unemployed": 6.8,
+        "labour_force": 134,
+        "participation_rate": 67.8,
+        "unemployment_rate": 5.1
+      }
+    },
+    "Simunjan": {
+      "2019": {
+        "employed": 21.4,
+        "unemployed": 0.7,
+        "labour_force": 22,
+        "participation_rate": 69.9,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 21.3,
+        "unemployed": 1.1,
+        "labour_force": 22.4,
+        "participation_rate": 70.6,
+        "unemployment_rate": 4.7
+      },
+      "2021": {
+        "employed": 21.4,
+        "unemployed": 1.3,
+        "labour_force": 22.7,
+        "participation_rate": 69.9,
+        "unemployment_rate": 5.5
+      },
+      "2022": {
+        "employed": 21.8,
+        "unemployed": 1.1,
+        "labour_force": 22.9,
+        "participation_rate": 70.6,
+        "unemployment_rate": 4.6
+      }
+    },
+    "Song": {
+      "2019": {
+        "employed": 10.6,
+        "unemployed": 0.4,
+        "labour_force": 11,
+        "participation_rate": 68,
+        "unemployment_rate": 4
+      },
+      "2020": {
+        "employed": 10.5,
+        "unemployed": 0.6,
+        "labour_force": 11.1,
+        "participation_rate": 67.6,
+        "unemployment_rate": 5.5
+      },
+      "2021": {
+        "employed": 10.6,
+        "unemployed": 0.7,
+        "labour_force": 11.3,
+        "participation_rate": 67.3,
+        "unemployment_rate": 6.3
+      },
+      "2022": {
+        "employed": 10.7,
+        "unemployed": 0.7,
+        "labour_force": 11.4,
+        "participation_rate": 67.7,
+        "unemployment_rate": 5.7
+      }
+    },
+    "Sri Aman": {
+      "2019": {
+        "employed": 35.3,
+        "unemployed": 0.9,
+        "labour_force": 36.2,
+        "participation_rate": 69.3,
+        "unemployment_rate": 2.5
+      },
+      "2020": {
+        "employed": 35.6,
+        "unemployed": 1.2,
+        "labour_force": 36.8,
+        "participation_rate": 70.2,
+        "unemployment_rate": 3.3
+      },
+      "2021": {
+        "employed": 34.7,
+        "unemployed": 1,
+        "labour_force": 35.6,
+        "participation_rate": 66.4,
+        "unemployment_rate": 2.7
+      },
+      "2022": {
+        "employed": 35.2,
+        "unemployed": 0.8,
+        "labour_force": 36,
+        "participation_rate": 67.4,
+        "unemployment_rate": 2.2
+      }
+    },
+    "Tatau": {
+      "2019": {
+        "employed": 17.4,
+        "unemployed": 0.6,
+        "labour_force": 18,
+        "participation_rate": 70.2,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 16.5,
+        "unemployed": 0.7,
+        "labour_force": 17.2,
+        "participation_rate": 67.7,
+        "unemployment_rate": 4.1
+      },
+      "2021": {
+        "employed": 16.8,
+        "unemployed": 0.8,
+        "labour_force": 17.6,
+        "participation_rate": 69.2,
+        "unemployment_rate": 4.6
+      },
+      "2022": {
+        "employed": 16.9,
+        "unemployed": 0.7,
+        "labour_force": 17.7,
+        "participation_rate": 69.6,
+        "unemployment_rate": 4.1
+      }
+    }
+  },
+  "Selangor": {
+    "Gombak": {
+      "2019": {
+        "employed": 429.9,
+        "unemployed": 12.4,
+        "labour_force": 442.3,
+        "participation_rate": 74.3,
+        "unemployment_rate": 2.8
+      },
+      "2020": {
+        "employed": 432.7,
+        "unemployed": 22,
+        "labour_force": 454.7,
+        "participation_rate": 74.7,
+        "unemployment_rate": 4.8
+      },
+      "2021": {
+        "employed": 425.7,
+        "unemployed": 26.4,
+        "labour_force": 452.2,
+        "participation_rate": 74.5,
+        "unemployment_rate": 5.8
+      },
+      "2022": {
+        "employed": 438.2,
+        "unemployed": 20.7,
+        "labour_force": 458.9,
+        "participation_rate": 75.1,
+        "unemployment_rate": 4.5
+      }
+    },
+    "Klang": {
+      "2019": {
+        "employed": 560.2,
+        "unemployed": 16.7,
+        "labour_force": 576.9,
+        "participation_rate": 77.2,
+        "unemployment_rate": 2.9
+      },
+      "2020": {
+        "employed": 549.7,
+        "unemployed": 20.9,
+        "labour_force": 570.6,
+        "participation_rate": 76.4,
+        "unemployment_rate": 3.7
+      },
+      "2021": {
+        "employed": 561,
+        "unemployed": 29.2,
+        "labour_force": 590.1,
+        "participation_rate": 77.9,
+        "unemployment_rate": 4.9
+      },
+      "2022": {
+        "employed": 583.2,
+        "unemployed": 25.7,
+        "labour_force": 608.9,
+        "participation_rate": 78.6,
+        "unemployment_rate": 4.2
+      }
+    },
+    "Kuala Langat": {
+      "2019": {
+        "employed": 143.7,
+        "unemployed": 4.4,
+        "labour_force": 148.1,
+        "participation_rate": 75.4,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 144.9,
+        "unemployed": 4.2,
+        "labour_force": 149.1,
+        "participation_rate": 73.1,
+        "unemployment_rate": 2.8
+      },
+      "2021": {
+        "employed": 145.6,
+        "unemployed": 5,
+        "labour_force": 150.6,
+        "participation_rate": 74.4,
+        "unemployment_rate": 3.3
+      },
+      "2022": {
+        "employed": 148.4,
+        "unemployed": 3.8,
+        "labour_force": 152.2,
+        "participation_rate": 74.7,
+        "unemployment_rate": 2.5
+      }
+    },
+    "Kuala Selangor": {
+      "2019": {
+        "employed": 132.1,
+        "unemployed": 4,
+        "labour_force": 136.1,
+        "participation_rate": 73.8,
+        "unemployment_rate": 3
+      },
+      "2020": {
+        "employed": 123,
+        "unemployed": 6.6,
+        "labour_force": 129.6,
+        "participation_rate": 70.2,
+        "unemployment_rate": 5.1
+      },
+      "2021": {
+        "employed": 127.5,
+        "unemployed": 5.8,
+        "labour_force": 133.3,
+        "participation_rate": 71,
+        "unemployment_rate": 4.3
+      },
+      "2022": {
+        "employed": 129.4,
+        "unemployed": 5.5,
+        "labour_force": 134.9,
+        "participation_rate": 71.2,
+        "unemployment_rate": 4.1
+      }
+    },
+    "Petaling": {
+      "2019": {
+        "employed": 1157.1,
+        "unemployed": 32.6,
+        "labour_force": 1189.7,
+        "participation_rate": 75.5,
+        "unemployment_rate": 2.7
+      },
+      "2020": {
+        "employed": 1159.7,
+        "unemployed": 52.7,
+        "labour_force": 1212.5,
+        "participation_rate": 76.9,
+        "unemployment_rate": 4.3
+      },
+      "2021": {
+        "employed": 1192.8,
+        "unemployed": 45.7,
+        "labour_force": 1238.5,
+        "participation_rate": 77.8,
+        "unemployment_rate": 3.7
+      },
+      "2022": {
+        "employed": 1202.3,
+        "unemployed": 38.5,
+        "labour_force": 1240.7,
+        "participation_rate": 78.5,
+        "unemployment_rate": 3.1
+      }
+    },
+    "Sabak Bernam": {
+      "2019": {
+        "employed": 61.9,
+        "unemployed": 2.1,
+        "labour_force": 64.1,
+        "participation_rate": 74.8,
+        "unemployment_rate": 3.3
+      },
+      "2020": {
+        "employed": 60,
+        "unemployed": 1.7,
+        "labour_force": 61.7,
+        "participation_rate": 70.9,
+        "unemployment_rate": 2.7
+      },
+      "2021": {
+        "employed": 63.8,
+        "unemployed": 2.6,
+        "labour_force": 66.4,
+        "participation_rate": 71.2,
+        "unemployment_rate": 3.9
+      },
+      "2022": {
+        "employed": 65.1,
+        "unemployed": 2,
+        "labour_force": 67.2,
+        "participation_rate": 71.6,
+        "unemployment_rate": 3
+      }
+    },
+    "Sepang": {
+      "2019": {
+        "employed": 140.7,
+        "unemployed": 4.6,
+        "labour_force": 145.3,
+        "participation_rate": 76.4,
+        "unemployment_rate": 3.2
+      },
+      "2020": {
+        "employed": 144.8,
+        "unemployed": 6.5,
+        "labour_force": 151.3,
+        "participation_rate": 75.8,
+        "unemployment_rate": 4.3
+      },
+      "2021": {
+        "employed": 136.7,
+        "unemployed": 8.2,
+        "labour_force": 144.9,
+        "participation_rate": 75.2,
+        "unemployment_rate": 5.6
+      },
+      "2022": {
+        "employed": 140.3,
+        "unemployed": 5.8,
+        "labour_force": 146.1,
+        "participation_rate": 75.9,
+        "unemployment_rate": 4
+      }
+    },
+    "Ulu Langat": {
+      "2019": {
+        "employed": 738.5,
+        "unemployed": 23.4,
+        "labour_force": 761.9,
+        "participation_rate": 77.4,
+        "unemployment_rate": 3.1
+      },
+      "2020": {
+        "employed": 706.4,
+        "unemployed": 39,
+        "labour_force": 745.4,
+        "participation_rate": 74.8,
+        "unemployment_rate": 5.2
+      },
+      "2021": {
+        "employed": 734.3,
+        "unemployed": 31.2,
+        "labour_force": 765.4,
+        "participation_rate": 76.1,
+        "unemployment_rate": 4.1
+      },
+      "2022": {
+        "employed": 755.4,
+        "unemployed": 28.6,
+        "labour_force": 783.9,
+        "participation_rate": 76.6,
+        "unemployment_rate": 3.6
+      }
+    },
+    "Ulu Selangor": {
+      "2019": {
+        "employed": 125.4,
+        "unemployed": 3,
+        "labour_force": 128.4,
+        "participation_rate": 75.9,
+        "unemployment_rate": 2.3
+      },
+      "2020": {
+        "employed": 125.3,
+        "unemployed": 2.6,
+        "labour_force": 127.9,
+        "participation_rate": 74.7,
+        "unemployment_rate": 2.1
+      },
+      "2021": {
+        "employed": 131.1,
+        "unemployed": 4.4,
+        "labour_force": 135.6,
+        "participation_rate": 76.1,
+        "unemployment_rate": 3.3
+      },
+      "2022": {
+        "employed": 135.4,
+        "unemployed": 3.7,
+        "labour_force": 139.1,
+        "participation_rate": 76.6,
+        "unemployment_rate": 2.7
+      }
+    }
+  },
+  "Terengganu": {
+    "Besut": {
+      "2019": {
+        "employed": 62.3,
+        "unemployed": 2.4,
+        "labour_force": 64.7,
+        "participation_rate": 60.9,
+        "unemployment_rate": 3.7
+      },
+      "2020": {
+        "employed": 62.5,
+        "unemployed": 2.5,
+        "labour_force": 65,
+        "participation_rate": 59.6,
+        "unemployment_rate": 3.9
+      },
+      "2021": {
+        "employed": 63.1,
+        "unemployed": 2.9,
+        "labour_force": 66,
+        "participation_rate": 58.1,
+        "unemployment_rate": 4.4
+      },
+      "2022": {
+        "employed": 64.9,
+        "unemployed": 2.7,
+        "labour_force": 67.6,
+        "participation_rate": 58.3,
+        "unemployment_rate": 4
+      }
+    },
+    "Dungun": {
+      "2019": {
+        "employed": 71.7,
+        "unemployed": 2.7,
+        "labour_force": 74.4,
+        "participation_rate": 59.1,
+        "unemployment_rate": 3.6
+      },
+      "2020": {
+        "employed": 69.6,
+        "unemployed": 2.9,
+        "labour_force": 72.5,
+        "participation_rate": 56.1,
+        "unemployment_rate": 4
+      },
+      "2021": {
+        "employed": 71.2,
+        "unemployed": 2.9,
+        "labour_force": 74.1,
+        "participation_rate": 56.2,
+        "unemployment_rate": 3.9
+      },
+      "2022": {
+        "employed": 72.3,
+        "unemployed": 2.7,
+        "labour_force": 75,
+        "participation_rate": 56.4,
+        "unemployment_rate": 3.6
+      }
+    },
+    "Hulu Terengganu": {
+      "2019": {
+        "employed": 29.8,
+        "unemployed": 1.2,
+        "labour_force": 31,
+        "participation_rate": 57.7,
+        "unemployment_rate": 3.8
+      },
+      "2020": {
+        "employed": 29.3,
+        "unemployed": 1.1,
+        "labour_force": 30.4,
+        "participation_rate": 55.8,
+        "unemployment_rate": 3.6
+      },
+      "2021": {
+        "employed": 29.1,
+        "unemployed": 1.2,
+        "labour_force": 30.4,
+        "participation_rate": 54.1,
+        "unemployment_rate": 4
+      },
+      "2022": {
+        "employed": 29.6,
+        "unemployed": 1.2,
+        "labour_force": 30.8,
+        "participation_rate": 54.3,
+        "unemployment_rate": 3.9
+      }
+    },
+    "Kemaman": {
+      "2019": {
+        "employed": 82.7,
+        "unemployed": 2.8,
+        "labour_force": 85.5,
+        "participation_rate": 66.5,
+        "unemployment_rate": 3.3
+      },
+      "2020": {
+        "employed": 82.9,
+        "unemployed": 3.3,
+        "labour_force": 86.2,
+        "participation_rate": 65.8,
+        "unemployment_rate": 3.8
+      },
+      "2021": {
+        "employed": 84.7,
+        "unemployed": 3.2,
+        "labour_force": 87.9,
+        "participation_rate": 65.7,
+        "unemployment_rate": 3.7
+      },
+      "2022": {
+        "employed": 88.2,
+        "unemployed": 2.8,
+        "labour_force": 91,
+        "participation_rate": 65.8,
+        "unemployment_rate": 3.1
+      }
+    },
+    "Kuala Terengganu": {
+      "2019": {
+        "employed": 154.3,
+        "unemployed": 5.4,
+        "labour_force": 159.7,
+        "participation_rate": 60.4,
+        "unemployment_rate": 3.4
+      },
+      "2020": {
+        "employed": 151.3,
+        "unemployed": 7.2,
+        "labour_force": 158.5,
+        "participation_rate": 58.7,
+        "unemployment_rate": 4.5
+      },
+      "2021": {
+        "employed": 151.3,
+        "unemployed": 6.4,
+        "labour_force": 157.6,
+        "participation_rate": 57.5,
+        "unemployment_rate": 4
+      },
+      "2022": {
+        "employed": 153.8,
+        "unemployed": 6.1,
+        "labour_force": 159.9,
+        "participation_rate": 57.7,
+        "unemployment_rate": 3.8
+      }
+    },
+    "Marang": {
+      "2019": {
+        "employed": 43.7,
+        "unemployed": 1.7,
+        "labour_force": 45.4,
+        "participation_rate": 58.2,
+        "unemployment_rate": 3.7
+      },
+      "2020": {
+        "employed": 43.3,
+        "unemployed": 1.6,
+        "labour_force": 44.9,
+        "participation_rate": 56.1,
+        "unemployment_rate": 3.5
+      },
+      "2021": {
+        "employed": 43.3,
+        "unemployed": 1.7,
+        "labour_force": 45,
+        "participation_rate": 56.1,
+        "unemployment_rate": 3.8
+      },
+      "2022": {
+        "employed": 44.3,
+        "unemployed": 1.4,
+        "labour_force": 45.8,
+        "participation_rate": 56.4,
+        "unemployment_rate": 3.1
+      }
+    },
+    "Setiu": {
+      "2019": {
+        "employed": 26.3,
+        "unemployed": 1,
+        "labour_force": 27.3,
+        "participation_rate": 65.8,
+        "unemployment_rate": 3.7
+      },
+      "2020": {
+        "employed": 26,
+        "unemployed": 1.3,
+        "labour_force": 27.3,
+        "participation_rate": 64.2,
+        "unemployment_rate": 4.7
+      },
+      "2021": {
+        "employed": 26.1,
+        "unemployed": 1.4,
+        "labour_force": 27.5,
+        "participation_rate": 62.7,
+        "unemployment_rate": 5
+      },
+      "2022": {
+        "employed": 27.1,
+        "unemployed": 1.2,
+        "labour_force": 28.3,
+        "participation_rate": 63,
+        "unemployment_rate": 4.1
+      }
+    }
+  }
+}

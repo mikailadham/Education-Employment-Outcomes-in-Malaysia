@@ -1,0 +1,5437 @@
+{
+  "Malaysia": {
+    "All Districts": {
+      "2017": {
+        "primary": 7776,
+        "secondary": 2416,
+        "tertiary": 20
+      },
+      "2018": {
+        "primary": 7774,
+        "secondary": 2433,
+        "tertiary": 20
+      },
+      "2019": {
+        "primary": 7773,
+        "secondary": 2439,
+        "tertiary": 20
+      },
+      "2020": {
+        "primary": 7780,
+        "secondary": 2440,
+        "tertiary": 20
+      },
+      "2021": {
+        "primary": 7780,
+        "secondary": 2444,
+        "tertiary": 20
+      },
+      "2022": {
+        "primary": 7778,
+        "secondary": 2452,
+        "tertiary": 20
+      }
+    }
+  },
+  "Johor": {
+    "All Districts": {
+      "2017": {
+        "primary": 906,
+        "secondary": 277,
+        "tertiary": 2
+      },
+      "2018": {
+        "primary": 907,
+        "secondary": 280,
+        "tertiary": 2
+      },
+      "2019": {
+        "primary": 907,
+        "secondary": 282,
+        "tertiary": 2
+      },
+      "2020": {
+        "primary": 906,
+        "secondary": 283,
+        "tertiary": 2
+      },
+      "2021": {
+        "primary": 906,
+        "secondary": 284,
+        "tertiary": 2
+      },
+      "2022": {
+        "primary": 908,
+        "secondary": 284,
+        "tertiary": 2
+      }
+    },
+    "Batu Pahat": {
+      "2017": {
+        "primary": 144,
+        "secondary": 32,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 144,
+        "secondary": 32,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 144,
+        "secondary": 32,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 144,
+        "secondary": 32,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 144,
+        "secondary": 32,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 144,
+        "secondary": 32,
+        "tertiary": 1
+      }
+    },
+    "Johor Bahru": {
+      "2017": {
+        "primary": 170,
+        "secondary": 84,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 180,
+        "secondary": 87,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 180,
+        "secondary": 87,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 181,
+        "secondary": 87,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 181,
+        "secondary": 87,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 183,
+        "secondary": 87,
+        "tertiary": 1
+      }
+    },
+    "Kluang": {
+      "2017": {
+        "primary": 89,
+        "secondary": 28,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 88,
+        "secondary": 28,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 88,
+        "secondary": 29,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 88,
+        "secondary": 29,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 88,
+        "secondary": 29,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 88,
+        "secondary": 29,
+        "tertiary": 0
+      }
+    },
+    "Kota Tinggi": {
+      "2017": {
+        "primary": 74,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 83,
+        "secondary": 27,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 83,
+        "secondary": 28,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 83,
+        "secondary": 28,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 83,
+        "secondary": 28,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 83,
+        "secondary": 27,
+        "tertiary": 0
+      }
+    },
+    "Kulai": {
+      "2017": {
+        "primary": 54,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 37,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 37,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 36,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 36,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 37,
+        "secondary": 13,
+        "tertiary": 0
+      }
+    },
+    "Mersing": {
+      "2017": {
+        "primary": 37,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 38,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 38,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 38,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 38,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 38,
+        "secondary": 10,
+        "tertiary": 0
+      }
+    },
+    "Muar": {
+      "2017": {
+        "primary": 104,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 104,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 104,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 104,
+        "secondary": 26,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 104,
+        "secondary": 27,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 103,
+        "secondary": 27,
+        "tertiary": 0
+      }
+    },
+    "Pontian": {
+      "2017": {
+        "primary": 82,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 82,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 82,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 82,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 82,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 82,
+        "secondary": 18,
+        "tertiary": 0
+      }
+    },
+    "Segamat": {
+      "2017": {
+        "primary": 85,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 85,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 85,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 85,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 85,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 85,
+        "secondary": 25,
+        "tertiary": 0
+      }
+    },
+    "Tangkak": {
+      "2017": {
+        "primary": 67,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 66,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 66,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 65,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 65,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 65,
+        "secondary": 16,
+        "tertiary": 0
+      }
+    }
+  },
+  "Kedah": {
+    "All Districts": {
+      "2017": {
+        "primary": 546,
+        "secondary": 201,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 547,
+        "secondary": 201,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 547,
+        "secondary": 202,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 548,
+        "secondary": 202,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 548,
+        "secondary": 203,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 548,
+        "secondary": 204,
+        "tertiary": 1
+      }
+    },
+    "Baling": {
+      "2017": {
+        "primary": 85,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 62,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 62,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 62,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 62,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 62,
+        "secondary": 16,
+        "tertiary": 0
+      }
+    },
+    "Bandar Baharu": {
+      "2017": {
+        "primary": 87,
+        "secondary": 32,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 23,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 23,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 23,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 23,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 23,
+        "secondary": 6,
+        "tertiary": 0
+      }
+    },
+    "Kota Setar": {
+      "2017": {
+        "primary": 104,
+        "secondary": 42,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 88,
+        "secondary": 37,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 88,
+        "secondary": 37,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 88,
+        "secondary": 37,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 88,
+        "secondary": 37,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 88,
+        "secondary": 37,
+        "tertiary": 0
+      }
+    },
+    "Kuala Muda": {
+      "2017": {
+        "primary": 133,
+        "secondary": 48,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 105,
+        "secondary": 38,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 105,
+        "secondary": 38,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 106,
+        "secondary": 38,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 106,
+        "secondary": 38,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 106,
+        "secondary": 37,
+        "tertiary": 0
+      }
+    },
+    "Kubang Pasu": {
+      "2017": {
+        "primary": 58,
+        "secondary": 24,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 58,
+        "secondary": 24,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 58,
+        "secondary": 25,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 58,
+        "secondary": 25,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 58,
+        "secondary": 25,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 58,
+        "secondary": 25,
+        "tertiary": 1
+      }
+    },
+    "Kulim": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 64,
+        "secondary": 26,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 64,
+        "secondary": 26,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 64,
+        "secondary": 26,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 64,
+        "secondary": 26,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 64,
+        "secondary": 26,
+        "tertiary": 0
+      }
+    },
+    "Langkawi": {
+      "2017": {
+        "primary": 21,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 21,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 21,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 21,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 21,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 21,
+        "secondary": 8,
+        "tertiary": 0
+      }
+    },
+    "Padang Terap": {
+      "2017": {
+        "primary": 21,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 21,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 21,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 21,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 21,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 21,
+        "secondary": 9,
+        "tertiary": 0
+      }
+    },
+    "Pendang": {
+      "2017": {
+        "primary": 37,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 38,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 38,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 38,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 38,
+        "secondary": 14,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 38,
+        "secondary": 14,
+        "tertiary": 0
+      }
+    },
+    "Pokok Sena": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 16,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 16,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 16,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 16,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 16,
+        "secondary": 5,
+        "tertiary": 0
+      }
+    },
+    "Sik": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 23,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 23,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 23,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 23,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 23,
+        "secondary": 10,
+        "tertiary": 0
+      }
+    },
+    "Yan": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 28,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 28,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 28,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 28,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 28,
+        "secondary": 11,
+        "tertiary": 0
+      }
+    }
+  },
+  "Kelantan": {
+    "All Districts": {
+      "2017": {
+        "primary": 418,
+        "secondary": 175,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 418,
+        "secondary": 177,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 418,
+        "secondary": 177,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 418,
+        "secondary": 177,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 418,
+        "secondary": 178,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 418,
+        "secondary": 178,
+        "tertiary": 1
+      }
+    },
+    "Bachok": {
+      "2017": {
+        "primary": 34,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 34,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 34,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 34,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 34,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 34,
+        "secondary": 19,
+        "tertiary": 0
+      }
+    },
+    "Gua Musang": {
+      "2017": {
+        "primary": 39,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 34,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 34,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 34,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 34,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 34,
+        "secondary": 10,
+        "tertiary": 0
+      }
+    },
+    "Jeli": {
+      "2017": {
+        "primary": 15,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 15,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 15,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 15,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 15,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 15,
+        "secondary": 6,
+        "tertiary": 0
+      }
+    },
+    "Kecil Lojing": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 5,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 5,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 5,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 5,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 5,
+        "tertiary": 0
+      }
+    },
+    "Kota Bharu": {
+      "2017": {
+        "primary": 96,
+        "secondary": 49,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 96,
+        "secondary": 49,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 96,
+        "secondary": 49,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 96,
+        "secondary": 49,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 96,
+        "secondary": 49,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 96,
+        "secondary": 49,
+        "tertiary": 1
+      }
+    },
+    "Kuala Krai": {
+      "2017": {
+        "primary": 41,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 41,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 41,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 41,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 41,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 41,
+        "secondary": 13,
+        "tertiary": 0
+      }
+    },
+    "Machang": {
+      "2017": {
+        "primary": 29,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 29,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 29,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 29,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 29,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 29,
+        "secondary": 10,
+        "tertiary": 0
+      }
+    },
+    "Pasir Mas": {
+      "2017": {
+        "primary": 56,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 56,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 56,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 56,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 56,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 56,
+        "secondary": 25,
+        "tertiary": 0
+      }
+    },
+    "Pasir Puteh": {
+      "2017": {
+        "primary": 39,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      }
+    },
+    "Tanah Merah": {
+      "2017": {
+        "primary": 34,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 34,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 34,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 34,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 34,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 34,
+        "secondary": 16,
+        "tertiary": 0
+      }
+    },
+    "Tumpat": {
+      "2017": {
+        "primary": 35,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 35,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 35,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 35,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 35,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 35,
+        "secondary": 13,
+        "tertiary": 0
+      }
+    }
+  },
+  "Melaka": {
+    "All Districts": {
+      "2017": {
+        "primary": 237,
+        "secondary": 77,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 237,
+        "secondary": 77,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 238,
+        "secondary": 77,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 238,
+        "secondary": 77,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 238,
+        "secondary": 77,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 238,
+        "secondary": 78,
+        "tertiary": 1
+      }
+    },
+    "Alor Gajah": {
+      "2017": {
+        "primary": 77,
+        "secondary": 20,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 77,
+        "secondary": 20,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 77,
+        "secondary": 20,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 77,
+        "secondary": 20,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 77,
+        "secondary": 20,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 77,
+        "secondary": 20,
+        "tertiary": 1
+      }
+    },
+    "Jasin": {
+      "2017": {
+        "primary": 67,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 67,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 67,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 67,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 67,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 67,
+        "secondary": 18,
+        "tertiary": 0
+      }
+    },
+    "Melaka Tengah": {
+      "2017": {
+        "primary": 93,
+        "secondary": 39,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 93,
+        "secondary": 39,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 94,
+        "secondary": 39,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 94,
+        "secondary": 39,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 94,
+        "secondary": 39,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 94,
+        "secondary": 40,
+        "tertiary": 0
+      }
+    }
+  },
+  "Negeri Sembilan": {
+    "All Districts": {
+      "2017": {
+        "primary": 350,
+        "secondary": 125,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 350,
+        "secondary": 125,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 350,
+        "secondary": 125,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 352,
+        "secondary": 125,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 352,
+        "secondary": 125,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 353,
+        "secondary": 126,
+        "tertiary": 1
+      }
+    },
+    "Jelebu": {
+      "2017": {
+        "primary": 74,
+        "secondary": 25,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 24,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 24,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 24,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 24,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 24,
+        "secondary": 8,
+        "tertiary": 0
+      }
+    },
+    "Jempol": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 50,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 50,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 50,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 50,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 50,
+        "secondary": 17,
+        "tertiary": 0
+      }
+    },
+    "Kuala Pilah": {
+      "2017": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      }
+    },
+    "Port Dickson": {
+      "2017": {
+        "primary": 50,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 50,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 50,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 50,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 50,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 50,
+        "secondary": 13,
+        "tertiary": 0
+      }
+    },
+    "Rembau": {
+      "2017": {
+        "primary": 29,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 29,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 30,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 30,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 30,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 30,
+        "secondary": 11,
+        "tertiary": 0
+      }
+    },
+    "Seremban": {
+      "2017": {
+        "primary": 111,
+        "secondary": 48,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 111,
+        "secondary": 48,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 110,
+        "secondary": 48,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 112,
+        "secondary": 48,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 112,
+        "secondary": 48,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 113,
+        "secondary": 49,
+        "tertiary": 1
+      }
+    },
+    "Tampin": {
+      "2017": {
+        "primary": 39,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 39,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 39,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 39,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 39,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 39,
+        "secondary": 12,
+        "tertiary": 0
+      }
+    }
+  },
+  "Pahang": {
+    "All Districts": {
+      "2017": {
+        "primary": 541,
+        "secondary": 196,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 541,
+        "secondary": 197,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 542,
+        "secondary": 198,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 543,
+        "secondary": 198,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 543,
+        "secondary": 198,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 543,
+        "secondary": 198,
+        "tertiary": 1
+      }
+    },
+    "Bentong": {
+      "2017": {
+        "primary": 38,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 38,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 38,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 38,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 38,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 38,
+        "secondary": 18,
+        "tertiary": 0
+      }
+    },
+    "Bera": {
+      "2017": {
+        "primary": 38,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 41,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 41,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 41,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 41,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 41,
+        "secondary": 10,
+        "tertiary": 0
+      }
+    },
+    "Cameron Highlands": {
+      "2017": {
+        "primary": 25,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 25,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 25,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 25,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 25,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 25,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Jerantut": {
+      "2017": {
+        "primary": 48,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      }
+    },
+    "Kuala Lipis": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 54,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 54,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 54,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 54,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 54,
+        "secondary": 15,
+        "tertiary": 0
+      }
+    },
+    "Kuantan": {
+      "2017": {
+        "primary": 84,
+        "secondary": 46,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 86,
+        "secondary": 47,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 87,
+        "secondary": 48,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 88,
+        "secondary": 48,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 88,
+        "secondary": 48,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 88,
+        "secondary": 48,
+        "tertiary": 1
+      }
+    },
+    "Lipis": {
+      "2017": {
+        "primary": 54,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2018": {
+        "tertiary": 0
+      },
+      "2019": {
+        "tertiary": 0
+      },
+      "2020": {
+        "tertiary": 0
+      },
+      "2021": {
+        "tertiary": 0
+      },
+      "2022": {
+        "tertiary": 0
+      }
+    },
+    "Maran": {
+      "2017": {
+        "primary": 52,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 52,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 52,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 52,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 52,
+        "secondary": 19,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 52,
+        "secondary": 19,
+        "tertiary": 0
+      }
+    },
+    "Pekan": {
+      "2017": {
+        "primary": 48,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 47,
+        "secondary": 16,
+        "tertiary": 0
+      }
+    },
+    "Raub": {
+      "2017": {
+        "primary": 43,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 43,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 43,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 43,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 43,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 43,
+        "secondary": 12,
+        "tertiary": 0
+      }
+    },
+    "Rompin": {
+      "2017": {
+        "primary": 42,
+        "secondary": 20,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 42,
+        "secondary": 20,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 42,
+        "secondary": 20,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 42,
+        "secondary": 20,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 42,
+        "secondary": 20,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 42,
+        "secondary": 20,
+        "tertiary": 0
+      }
+    },
+    "Temerloh": {
+      "2017": {
+        "primary": 69,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 66,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 66,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 66,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 66,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 66,
+        "secondary": 21,
+        "tertiary": 0
+      }
+    }
+  },
+  "Perak": {
+    "All Districts": {
+      "2017": {
+        "primary": 852,
+        "secondary": 248,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 852,
+        "secondary": 250,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 852,
+        "secondary": 250,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 852,
+        "secondary": 250,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 852,
+        "secondary": 250,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 852,
+        "secondary": 253,
+        "tertiary": 1
+      }
+    },
+    "Bagan Datuk": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 58,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 58,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 58,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 58,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 58,
+        "secondary": 10,
+        "tertiary": 0
+      }
+    },
+    "Batang Padang": {
+      "2017": {
+        "primary": 97,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 66,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 66,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 66,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 66,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 66,
+        "secondary": 16,
+        "tertiary": 0
+      }
+    },
+    "Hilir Perak": {
+      "2017": {
+        "primary": 114,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 56,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 56,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 56,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 56,
+        "secondary": 15,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 56,
+        "secondary": 15,
+        "tertiary": 0
+      }
+    },
+    "Hulu Perak": {
+      "2017": {
+        "primary": 56,
+        "secondary": 14,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 56,
+        "secondary": 14,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 56,
+        "secondary": 14,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 56,
+        "secondary": 14,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 56,
+        "secondary": 14,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 56,
+        "secondary": 14,
+        "tertiary": 0
+      }
+    },
+    "Kampar": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 37,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 37,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 37,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 37,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 37,
+        "secondary": 9,
+        "tertiary": 0
+      }
+    },
+    "Kerian": {
+      "2017": {
+        "primary": 69,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 69,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 69,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 69,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 69,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 69,
+        "secondary": 22,
+        "tertiary": 0
+      }
+    },
+    "Kinta": {
+      "2017": {
+        "primary": 176,
+        "secondary": 67,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 140,
+        "secondary": 58,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 140,
+        "secondary": 58,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 140,
+        "secondary": 58,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 140,
+        "secondary": 58,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 140,
+        "secondary": 60,
+        "tertiary": 0
+      }
+    },
+    "Kuala Kangsar": {
+      "2017": {
+        "primary": 89,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 89,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 89,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 89,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 89,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 89,
+        "secondary": 24,
+        "tertiary": 0
+      }
+    },
+    "Larut Matang & Selama": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 111,
+        "secondary": 36,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 111,
+        "secondary": 36,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 111,
+        "secondary": 36,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 111,
+        "secondary": 36,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 111,
+        "secondary": 36,
+        "tertiary": 0
+      }
+    },
+    "Larut dan Matang": {
+      "2017": {
+        "primary": 112,
+        "secondary": 36,
+        "tertiary": 0
+      },
+      "2018": {
+        "tertiary": 0
+      },
+      "2019": {
+        "tertiary": 0
+      },
+      "2020": {
+        "tertiary": 0
+      },
+      "2021": {
+        "tertiary": 0
+      },
+      "2022": {
+        "tertiary": 0
+      }
+    },
+    "Manjung (Dinding)": {
+      "2017": {
+        "primary": 81,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 81,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 81,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 81,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 81,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 81,
+        "secondary": 21,
+        "tertiary": 0
+      }
+    },
+    "Muallim": {
+      "2017": {
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 31,
+        "secondary": 9,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 31,
+        "secondary": 9,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 31,
+        "secondary": 9,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 31,
+        "secondary": 9,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 31,
+        "secondary": 9,
+        "tertiary": 1
+      }
+    },
+    "Perak Tengah": {
+      "2017": {
+        "primary": 58,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 58,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 58,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 58,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 58,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 58,
+        "secondary": 17,
+        "tertiary": 0
+      }
+    }
+  },
+  "Perlis": {
+    "All Districts": {
+      "2017": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      }
+    },
+    "Perlis": {
+      "2017": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 74,
+        "secondary": 30,
+        "tertiary": 1
+      }
+    }
+  },
+  "Pulau Pinang": {
+    "All Districts": {
+      "2017": {
+        "primary": 271,
+        "secondary": 127,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 271,
+        "secondary": 128,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 271,
+        "secondary": 128,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 271,
+        "secondary": 128,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 271,
+        "secondary": 129,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 270,
+        "secondary": 128,
+        "tertiary": 1
+      }
+    },
+    "Barat Daya": {
+      "2017": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 38,
+        "secondary": 12,
+        "tertiary": 0
+      }
+    },
+    "Seberang Perai Selatan": {
+      "2017": {
+        "primary": 39,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 39,
+        "secondary": 17,
+        "tertiary": 0
+      }
+    },
+    "Seberang Perai Tengah": {
+      "2017": {
+        "primary": 56,
+        "secondary": 31,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 55,
+        "secondary": 31,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 55,
+        "secondary": 31,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 55,
+        "secondary": 31,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 55,
+        "secondary": 31,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 55,
+        "secondary": 31,
+        "tertiary": 0
+      }
+    },
+    "Seberang Perai Utara": {
+      "2017": {
+        "primary": 63,
+        "secondary": 30,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 64,
+        "secondary": 30,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 64,
+        "secondary": 30,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 65,
+        "secondary": 30,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 65,
+        "secondary": 31,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 65,
+        "secondary": 31,
+        "tertiary": 0
+      }
+    },
+    "Timur Laut": {
+      "2017": {
+        "primary": 74,
+        "secondary": 37,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 74,
+        "secondary": 37,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 74,
+        "secondary": 37,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 73,
+        "secondary": 37,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 73,
+        "secondary": 37,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 73,
+        "secondary": 37,
+        "tertiary": 1
+      }
+    }
+  },
+  "Sabah": {
+    "All Districts": {
+      "2017": {
+        "primary": 1074,
+        "secondary": 219,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 1074,
+        "secondary": 222,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 1074,
+        "secondary": 222,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 1075,
+        "secondary": 222,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 1075,
+        "secondary": 221,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 1075,
+        "secondary": 221,
+        "tertiary": 1
+      }
+    },
+    "Beaufort": {
+      "2017": {
+        "primary": 54,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 56,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 56,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 56,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 56,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 56,
+        "secondary": 12,
+        "tertiary": 0
+      }
+    },
+    "Beluran": {
+      "2017": {
+        "primary": 46,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 47,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 47,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 47,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 47,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 47,
+        "secondary": 6,
+        "tertiary": 0
+      }
+    },
+    "Keningau": {
+      "2017": {
+        "primary": 72,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 70,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 70,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 70,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 70,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 70,
+        "secondary": 12,
+        "tertiary": 0
+      }
+    },
+    "Kinabatangan": {
+      "2017": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Kota Belud": {
+      "2017": {
+        "primary": 57,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 57,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 57,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 57,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 57,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 57,
+        "secondary": 9,
+        "tertiary": 0
+      }
+    },
+    "Kota Kinabalu": {
+      "2017": {
+        "primary": 58,
+        "secondary": 24,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 58,
+        "secondary": 24,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 58,
+        "secondary": 24,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 58,
+        "secondary": 24,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 58,
+        "secondary": 24,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 58,
+        "secondary": 24,
+        "tertiary": 1
+      }
+    },
+    "Kota Marudu": {
+      "2017": {
+        "primary": 33,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 33,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 33,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 33,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 33,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 33,
+        "secondary": 7,
+        "tertiary": 0
+      }
+    },
+    "Kuala Penyu": {
+      "2017": {
+        "primary": 26,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 26,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 26,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 26,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 26,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 26,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Kudat": {
+      "2017": {
+        "primary": 58,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 58,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 58,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 58,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 58,
+        "secondary": 12,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 58,
+        "secondary": 12,
+        "tertiary": 0
+      }
+    },
+    "Kunak": {
+      "2017": {
+        "primary": 15,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 15,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 15,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 15,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 15,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 15,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Lahad Datu": {
+      "2017": {
+        "primary": 43,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 43,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 43,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 43,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 43,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 43,
+        "secondary": 10,
+        "tertiary": 0
+      }
+    },
+    "Nabawan": {
+      "2017": {
+        "primary": 27,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Papar": {
+      "2017": {
+        "primary": 51,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 49,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 49,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 49,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 49,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 49,
+        "secondary": 11,
+        "tertiary": 0
+      }
+    },
+    "Penampang": {
+      "2017": {
+        "primary": 28,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 27,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 27,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 27,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 27,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 27,
+        "secondary": 6,
+        "tertiary": 0
+      }
+    },
+    "Pitas": {
+      "2017": {
+        "primary": 31,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 31,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 31,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 31,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 31,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 31,
+        "secondary": 6,
+        "tertiary": 0
+      }
+    },
+    "Putatan": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 1,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 1,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 1,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 1,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 1,
+        "tertiary": 0
+      }
+    },
+    "Ranau": {
+      "2017": {
+        "primary": 71,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 71,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 71,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 71,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 71,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 71,
+        "secondary": 11,
+        "tertiary": 0
+      }
+    },
+    "Sandakan": {
+      "2017": {
+        "primary": 66,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 65,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 65,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 65,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 65,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 65,
+        "secondary": 21,
+        "tertiary": 0
+      }
+    },
+    "Semporna": {
+      "2017": {
+        "primary": 41,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 41,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 41,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 41,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 41,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 41,
+        "secondary": 9,
+        "tertiary": 0
+      }
+    },
+    "Sipitang": {
+      "2017": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Tambunan": {
+      "2017": {
+        "primary": 29,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 29,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 29,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 29,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 29,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 29,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Tawau": {
+      "2017": {
+        "primary": 60,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 60,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 60,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 61,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 61,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 61,
+        "secondary": 22,
+        "tertiary": 0
+      }
+    },
+    "Telupid": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 8,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 7,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 7,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 7,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 7,
+        "secondary": 2,
+        "tertiary": 0
+      }
+    },
+    "Tenom": {
+      "2017": {
+        "primary": 46,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 46,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 46,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 46,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 46,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 46,
+        "secondary": 6,
+        "tertiary": 0
+      }
+    },
+    "Tongod": {
+      "2017": {
+        "primary": 31,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 23,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 24,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 24,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 24,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 24,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Tuaran": {
+      "2017": {
+        "primary": 75,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 75,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 75,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 75,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 75,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 75,
+        "secondary": 10,
+        "tertiary": 0
+      }
+    }
+  },
+  "Sarawak": {
+    "All Districts": {
+      "2017": {
+        "primary": 1264,
+        "secondary": 190,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 1265,
+        "secondary": 192,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 1265,
+        "secondary": 193,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 1265,
+        "secondary": 193,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 1265,
+        "secondary": 193,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 1265,
+        "secondary": 193,
+        "tertiary": 1
+      }
+    },
+    "Asajaya": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 27,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 27,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 27,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 27,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 27,
+        "secondary": 5,
+        "tertiary": 0
+      }
+    },
+    "Bau": {
+      "2017": {
+        "primary": 40,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 40,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 40,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 40,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 40,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 40,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Belaga": {
+      "2017": {
+        "primary": 13,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 12,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 12,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 12,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 12,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 12,
+        "secondary": 2,
+        "tertiary": 0
+      }
+    },
+    "Betong": {
+      "2017": {
+        "primary": 47,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 46,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 46,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 46,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 46,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 46,
+        "secondary": 8,
+        "tertiary": 0
+      }
+    },
+    "Bintulu": {
+      "2017": {
+        "primary": 25,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 30,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 30,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 30,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 30,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 30,
+        "secondary": 7,
+        "tertiary": 0
+      }
+    },
+    "Dalat": {
+      "2017": {
+        "primary": 41,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Daro": {
+      "2017": {
+        "primary": 25,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 41,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 41,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 41,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 41,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 41,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Julau": {
+      "2017": {
+        "primary": 34,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 34,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 34,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 34,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 34,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 34,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Kabong": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 4,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 4,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 4,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 4,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 4,
+        "secondary": 1,
+        "tertiary": 0
+      }
+    },
+    "Kanowit": {
+      "2017": {
+        "primary": 35,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 35,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 35,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 35,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 35,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 35,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Kapit": {
+      "2017": {
+        "primary": 45,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 46,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 46,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 46,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 46,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 46,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Kuching": {
+      "2017": {
+        "primary": 147,
+        "secondary": 41,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 147,
+        "secondary": 41,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 147,
+        "secondary": 41,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 147,
+        "secondary": 41,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 146,
+        "secondary": 41,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 146,
+        "secondary": 41,
+        "tertiary": 1
+      }
+    },
+    "Lawas": {
+      "2017": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 31,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Limbang": {
+      "2017": {
+        "primary": 35,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 35,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 35,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 35,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 35,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 35,
+        "secondary": 5,
+        "tertiary": 0
+      }
+    },
+    "Lubok Antu": {
+      "2017": {
+        "primary": 28,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 28,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 28,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 28,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 28,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 28,
+        "secondary": 2,
+        "tertiary": 0
+      }
+    },
+    "Lundu": {
+      "2017": {
+        "primary": 31,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 31,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 31,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 31,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 31,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 31,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Maradong": {
+      "2017": {
+        "primary": 32,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 33,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 33,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 33,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 33,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 33,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Marudi": {
+      "2017": {
+        "primary": 66,
+        "secondary": 7,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 77,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 77,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 77,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 77,
+        "secondary": 8,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 77,
+        "secondary": 8,
+        "tertiary": 0
+      }
+    },
+    "Miri": {
+      "2017": {
+        "primary": 44,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 53,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 53,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 53,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 54,
+        "secondary": 18,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 54,
+        "secondary": 18,
+        "tertiary": 0
+      }
+    },
+    "Mukah": {
+      "2017": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 29,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Pusa": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 1,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 1,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 1,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 1,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 1,
+        "tertiary": 0
+      }
+    },
+    "Samarahan": {
+      "2017": {
+        "primary": 50,
+        "secondary": 9,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 23,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 23,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 23,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 24,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 24,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Saratok": {
+      "2017": {
+        "primary": 53,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 49,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 49,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 49,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 49,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 49,
+        "secondary": 5,
+        "tertiary": 0
+      }
+    },
+    "Sarikei": {
+      "2017": {
+        "primary": 44,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 44,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 44,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 44,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 44,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 44,
+        "secondary": 6,
+        "tertiary": 0
+      }
+    },
+    "Sebauh": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 9,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 9,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 9,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 9,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 9,
+        "secondary": 1,
+        "tertiary": 0
+      }
+    },
+    "Selangau": {
+      "2017": {
+        "primary": 22,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2018": {
+        "tertiary": 0
+      },
+      "2019": {
+        "tertiary": 0
+      },
+      "2020": {
+        "tertiary": 0
+      },
+      "2021": {
+        "tertiary": 0
+      },
+      "2022": {
+        "tertiary": 0
+      }
+    },
+    "Serian": {
+      "2017": {
+        "primary": 79,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 80,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 80,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 80,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 79,
+        "secondary": 6,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 79,
+        "secondary": 6,
+        "tertiary": 0
+      }
+    },
+    "Sibu": {
+      "2017": {
+        "primary": 93,
+        "secondary": 23,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 114,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 114,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 114,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 114,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 114,
+        "secondary": 24,
+        "tertiary": 0
+      }
+    },
+    "Simunjan": {
+      "2017": {
+        "primary": 50,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 49,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 49,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 49,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 49,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 49,
+        "secondary": 4,
+        "tertiary": 0
+      }
+    },
+    "Song": {
+      "2017": {
+        "primary": 17,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 17,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 17,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 17,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 17,
+        "secondary": 3,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 17,
+        "secondary": 3,
+        "tertiary": 0
+      }
+    },
+    "Sri Aman": {
+      "2017": {
+        "primary": 36,
+        "secondary": 4,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 37,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 37,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 37,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 37,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 37,
+        "secondary": 5,
+        "tertiary": 0
+      }
+    },
+    "Subis": {
+      "2017": {
+        "primary": 44,
+        "secondary": 5,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 24,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 24,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 24,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 24,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 24,
+        "secondary": 2,
+        "tertiary": 0
+      }
+    },
+    "Tatau": {
+      "2017": {
+        "primary": 28,
+        "secondary": 2,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 14,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 14,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 14,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 14,
+        "secondary": 1,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 14,
+        "secondary": 1,
+        "tertiary": 0
+      }
+    }
+  },
+  "Selangor": {
+    "All Districts": {
+      "2017": {
+        "primary": 659,
+        "secondary": 277,
+        "tertiary": 4
+      },
+      "2018": {
+        "primary": 661,
+        "secondary": 278,
+        "tertiary": 4
+      },
+      "2019": {
+        "primary": 661,
+        "secondary": 278,
+        "tertiary": 4
+      },
+      "2020": {
+        "primary": 662,
+        "secondary": 278,
+        "tertiary": 4
+      },
+      "2021": {
+        "primary": 663,
+        "secondary": 278,
+        "tertiary": 4
+      },
+      "2022": {
+        "primary": 661,
+        "secondary": 279,
+        "tertiary": 4
+      }
+    },
+    "Gombak": {
+      "2017": {
+        "primary": 68,
+        "secondary": 36,
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 68,
+        "secondary": 36,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 68,
+        "secondary": 36,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 68,
+        "secondary": 36,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 68,
+        "secondary": 36,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 68,
+        "secondary": 36,
+        "tertiary": 1
+      }
+    },
+    "Hulu Langat": {
+      "2017": {
+        "tertiary": 1
+      },
+      "2018": {
+        "primary": 89,
+        "tertiary": 1
+      },
+      "2019": {
+        "primary": 89,
+        "tertiary": 1
+      },
+      "2020": {
+        "primary": 90,
+        "tertiary": 1
+      },
+      "2021": {
+        "primary": 91,
+        "tertiary": 1
+      },
+      "2022": {
+        "primary": 91,
+        "secondary": 40,
+        "tertiary": 1
+      }
+    },
+    "Hulu Selangor": {
+      "2017": {
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 52,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 52,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 52,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 52,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 51,
+        "secondary": 17,
+        "tertiary": 0
+      }
+    },
+    "Klang": {
+      "2017": {
+        "primary": 92,
+        "secondary": 39,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 93,
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 93,
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 93,
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 93,
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 92,
+        "secondary": 40,
+        "tertiary": 0
+      }
+    },
+    "Kuala Langat": {
+      "2017": {
+        "primary": 55,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 55,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 55,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 55,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 55,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 56,
+        "secondary": 18,
+        "tertiary": 0
+      }
+    },
+    "Kuala Selangor": {
+      "2017": {
+        "primary": 71,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 70,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 70,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 70,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 70,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 70,
+        "secondary": 21,
+        "tertiary": 0
+      }
+    },
+    "Petaling": {
+      "2017": {
+        "primary": 148,
+        "secondary": 77,
+        "tertiary": 2
+      },
+      "2018": {
+        "primary": 148,
+        "secondary": 77,
+        "tertiary": 2
+      },
+      "2019": {
+        "primary": 148,
+        "secondary": 77,
+        "tertiary": 2
+      },
+      "2020": {
+        "primary": 148,
+        "secondary": 77,
+        "tertiary": 2
+      },
+      "2021": {
+        "primary": 148,
+        "secondary": 77,
+        "tertiary": 2
+      },
+      "2022": {
+        "primary": 147,
+        "secondary": 77,
+        "tertiary": 2
+      }
+    },
+    "Sabak Bernam": {
+      "2017": {
+        "primary": 47,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 47,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 47,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 47,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 47,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 47,
+        "secondary": 17,
+        "tertiary": 0
+      }
+    },
+    "Sepang": {
+      "2017": {
+        "primary": 38,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 39,
+        "secondary": 13,
+        "tertiary": 0
+      }
+    },
+    "Ulu Langat": {
+      "2017": {
+        "primary": 89,
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2018": {
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2019": {
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2020": {
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2021": {
+        "secondary": 40,
+        "tertiary": 0
+      },
+      "2022": {
+        "tertiary": 0
+      }
+    },
+    "Ulu Selangor": {
+      "2017": {
+        "primary": 51,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2018": {
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2019": {
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2020": {
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2021": {
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2022": {
+        "tertiary": 0
+      }
+    }
+  },
+  "Terengganu": {
+    "All Districts": {
+      "2017": {
+        "primary": 352,
+        "secondary": 150,
+        "tertiary": 2
+      },
+      "2018": {
+        "primary": 352,
+        "secondary": 151,
+        "tertiary": 2
+      },
+      "2019": {
+        "primary": 352,
+        "secondary": 152,
+        "tertiary": 2
+      },
+      "2020": {
+        "primary": 352,
+        "secondary": 152,
+        "tertiary": 2
+      },
+      "2021": {
+        "primary": 352,
+        "secondary": 153,
+        "tertiary": 2
+      },
+      "2022": {
+        "primary": 352,
+        "secondary": 154,
+        "tertiary": 2
+      }
+    },
+    "Besut": {
+      "2017": {
+        "primary": 54,
+        "secondary": 21,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 54,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 54,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 54,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 54,
+        "secondary": 22,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 54,
+        "secondary": 22,
+        "tertiary": 0
+      }
+    },
+    "Dungun": {
+      "2017": {
+        "primary": 48,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 48,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 48,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 48,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 48,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 48,
+        "secondary": 24,
+        "tertiary": 0
+      }
+    },
+    "Hulu Terengganu": {
+      "2017": {
+        "primary": 49,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 49,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 49,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 49,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 49,
+        "secondary": 17,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 49,
+        "secondary": 17,
+        "tertiary": 0
+      }
+    },
+    "Kemaman": {
+      "2017": {
+        "primary": 47,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 47,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 47,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 47,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 47,
+        "secondary": 24,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 47,
+        "secondary": 25,
+        "tertiary": 0
+      }
+    },
+    "Kuala Nerus": {
+      "2017": {
+        "primary": 29,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 29,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 29,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 29,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 29,
+        "secondary": 16,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 29,
+        "secondary": 16,
+        "tertiary": 0
+      }
+    },
+    "Kuala Terengganu": {
+      "2017": {
+        "primary": 53,
+        "secondary": 23,
+        "tertiary": 2
+      },
+      "2018": {
+        "primary": 53,
+        "secondary": 23,
+        "tertiary": 2
+      },
+      "2019": {
+        "primary": 53,
+        "secondary": 24,
+        "tertiary": 2
+      },
+      "2020": {
+        "primary": 53,
+        "secondary": 23,
+        "tertiary": 2
+      },
+      "2021": {
+        "primary": 53,
+        "secondary": 23,
+        "tertiary": 2
+      },
+      "2022": {
+        "primary": 53,
+        "secondary": 23,
+        "tertiary": 2
+      }
+    },
+    "Marang": {
+      "2017": {
+        "primary": 29,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 29,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 29,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 29,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 29,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 29,
+        "secondary": 13,
+        "tertiary": 0
+      }
+    },
+    "Setiu": {
+      "2017": {
+        "primary": 43,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 43,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 43,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 43,
+        "secondary": 13,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 43,
+        "secondary": 14,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 43,
+        "secondary": 14,
+        "tertiary": 0
+      }
+    }
+  },
+  "W.P. Kuala Lumpur": {
+    "All Districts": {
+      "2017": {
+        "primary": 201,
+        "secondary": 103,
+        "tertiary": 2
+      },
+      "2018": {
+        "primary": 194,
+        "secondary": 104,
+        "tertiary": 2
+      },
+      "2019": {
+        "primary": 191,
+        "secondary": 104,
+        "tertiary": 2
+      },
+      "2020": {
+        "primary": 191,
+        "secondary": 104,
+        "tertiary": 2
+      },
+      "2021": {
+        "primary": 190,
+        "secondary": 104,
+        "tertiary": 2
+      },
+      "2022": {
+        "primary": 188,
+        "secondary": 104,
+        "tertiary": 2
+      }
+    },
+    "W.P. Kuala Lumpur": {
+      "2017": {
+        "primary": 201,
+        "secondary": 103,
+        "tertiary": 2
+      },
+      "2018": {
+        "primary": 194,
+        "secondary": 104,
+        "tertiary": 2
+      },
+      "2019": {
+        "primary": 191,
+        "secondary": 104,
+        "tertiary": 2
+      },
+      "2020": {
+        "primary": 191,
+        "secondary": 104,
+        "tertiary": 2
+      },
+      "2021": {
+        "primary": 190,
+        "secondary": 104,
+        "tertiary": 2
+      },
+      "2022": {
+        "primary": 188,
+        "secondary": 104,
+        "tertiary": 2
+      }
+    }
+  },
+  "W.P. Labuan": {
+    "All Districts": {
+      "2017": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 17,
+        "secondary": 11,
+        "tertiary": 0
+      }
+    },
+    "W.P. Labuan": {
+      "2017": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 17,
+        "secondary": 10,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 17,
+        "secondary": 11,
+        "tertiary": 0
+      }
+    }
+  },
+  "W.P. Putrajaya": {
+    "All Districts": {
+      "2017": {
+        "primary": 14,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 14,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 14,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 16,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 16,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 16,
+        "secondary": 11,
+        "tertiary": 0
+      }
+    },
+    "W.P. Putrajaya": {
+      "2017": {
+        "primary": 14,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2018": {
+        "primary": 14,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2019": {
+        "primary": 14,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2020": {
+        "primary": 16,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2021": {
+        "primary": 16,
+        "secondary": 11,
+        "tertiary": 0
+      },
+      "2022": {
+        "primary": 16,
+        "secondary": 11,
+        "tertiary": 0
+      }
+    }
+  }
+}

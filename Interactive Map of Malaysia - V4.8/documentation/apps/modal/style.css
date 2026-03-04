@@ -1,0 +1,228 @@
+body {
+    font-family: "Quicksand", Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #333;
+}
+header {
+    background-color: #546e81;
+    color: white;
+    padding: 30px;
+    line-height: 1.2;
+    text-align: center;
+}
+header h1, header h2, header h3, header h4 {
+    color: white;
+    margin: 0;
+}
+main {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: white;
+}
+a {text-decoration: none;
+    font-weight: 500;
+    color: #0e74cf;
+    transition: color 0.1s ease;
+}
+a:hover {
+    color: #0038a3;
+}
+
+h1, h2, h3 {
+    color: #6cab1b;
+    margin-top: 20px;
+    margin-bottom: 4px;
+}
+p, ol {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+ol li {
+    margin-top: 20px;
+}
+ol li::marker {
+    font-weight: bold;
+}
+.note{
+    background: #FFF;
+    border: solid 1px #cfcfcf;
+    border-radius: 3px;
+    margin: 10px 0;
+    padding: 10px;
+    width: fit-content;
+}
+.note-blue{
+    background: #f2fdff;
+}
+.note-yellow{
+    background: #fffdf2;
+}
+.note-green{
+    background: #f5fff2;
+}
+.note-red{
+    background: #fff5f2;
+}
+code {
+    color: #d63384;
+}
+input[type="url"] {
+    width: 390px;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+button {
+    padding: 8px 16px;
+    border: none;
+    background-color: #6cab1b;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    transition: color 0.1s ease;
+}
+button:hover {
+    background-color: #538512;
+}
+
+button[id="updateButton"] {
+    border-radius: 5px;
+}
+#updateButton {
+    padding: 4px 8px;
+}
+#updateButton:disabled {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+#updateButton:disabled:hover {
+    background-color: #ccc;
+}
+.code-container {
+    position: relative;
+    font-family: monospace;
+    color: #d63384;
+    width: 630px;
+    height: 64px;
+    margin-top: 3px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-x: auto;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+.copy-icon {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    background: #007acc;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    font-size: 12px;
+    transition: background 0.1s;
+    z-index: 10;
+}
+.copy-icon:hover {
+    background: #005fa3;
+}
+.copy-icon.copied {
+    background: gray;
+    cursor: default;
+}
+#steps img {max-width: 100%}
+.area-list ul {
+    max-width: 100%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+    color: #d63384;
+}
+.area-list li {
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 0;
+}
+
+.mt-0 {margin-top: 0;}
+.mt-5 { margin-top: 5px; }
+.mt-10 {margin-top: 10px;}
+.mt-20 {margin-top: 20px;}
+.mb-0 {margin-bottom: 0;}
+.mb-5 { margin-bottom: 5px; }
+.mb-10 {margin-bottom: 10px;}
+.mb-20 {margin-bottom: 20px;}
+.max-w-90{max-width: 90%}
+.max-w-100{max-width: 100%}
+.d-block { display: block; }
+.h-110 { height: 110px; }
+.h-130 { height: 130px; }
+.h-200 { height: 200px; }
+.color-gray {color: gray;}
+.txt-center {text-align: center;}
+.add-red-border {border: solid 1px red;}
+
+/*----------------------------- FAQs ----------------------*/
+.tabs-container {
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+.tab-button {
+    background-color: #fff;
+    color: #0e74cf;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    font-size: 17px;
+    transition: all 0.3s ease;
+}
+.tab-button:hover {
+    background-color: #f1f1f1;
+}
+.tab-button:focus {
+    outline: none;
+}
+.tab-content {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ddd;
+    display: none;
+    opacity: 0;
+    max-height: 0;
+    transition: all 0.5s ease;
+}
+.tab-content.active {
+    display: block;
+    opacity: 1;
+    max-height: 250px;
+}
+.tab-content p {
+    margin-bottom: 0;
+}

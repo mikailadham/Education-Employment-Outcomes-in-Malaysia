@@ -1,0 +1,282 @@
+{
+  "1982": {
+    "employed": 5249,
+    "unemployed": 182.4,
+    "labour_force": 5431.4,
+    "participation_rate": 64.8,
+    "unemployment_rate": 3.4
+  },
+  "1983": {
+    "employed": 5457,
+    "unemployed": 214.9,
+    "labour_force": 5671.8,
+    "participation_rate": 65.6,
+    "unemployment_rate": 3.8
+  },
+  "1984": {
+    "employed": 5566.7,
+    "unemployed": 295.8,
+    "labour_force": 5862.5,
+    "participation_rate": 65.3,
+    "unemployment_rate": 5
+  },
+  "1985": {
+    "employed": 5653.4,
+    "unemployed": 336.8,
+    "labour_force": 5990.1,
+    "participation_rate": 65.7,
+    "unemployment_rate": 5.6
+  },
+  "1986": {
+    "employed": 5760.1,
+    "unemployed": 461.9,
+    "labour_force": 6222.1,
+    "participation_rate": 66.1,
+    "unemployment_rate": 7.4
+  },
+  "1987": {
+    "employed": 5983.9,
+    "unemployed": 472.9,
+    "labour_force": 6456.8,
+    "participation_rate": 66.5,
+    "unemployment_rate": 7.3
+  },
+  "1988": {
+    "employed": 6157.2,
+    "unemployed": 479.8,
+    "labour_force": 6637,
+    "participation_rate": 66.8,
+    "unemployment_rate": 7.2
+  },
+  "1989": {
+    "employed": 6390.9,
+    "unemployed": 388.5,
+    "labour_force": 6779.4,
+    "participation_rate": 66.2,
+    "unemployment_rate": 5.7
+  },
+  "1990": {
+    "employed": 6685,
+    "unemployed": 315.2,
+    "labour_force": 7000.2,
+    "participation_rate": 66.5,
+    "unemployment_rate": 4.5
+  },
+  "1992": {
+    "employed": 7047.8,
+    "unemployed": 271.2,
+    "labour_force": 7319,
+    "participation_rate": 65.9,
+    "unemployment_rate": 3.7
+  },
+  "1993": {
+    "employed": 7383.4,
+    "unemployed": 316.8,
+    "labour_force": 7700.1,
+    "participation_rate": 66.5,
+    "unemployment_rate": 4.1
+  },
+  "1995": {
+    "employed": 7645,
+    "unemployed": 248.1,
+    "labour_force": 7893.1,
+    "participation_rate": 64.7,
+    "unemployment_rate": 3.1
+  },
+  "1996": {
+    "employed": 8399.3,
+    "unemployed": 216.8,
+    "labour_force": 8616,
+    "participation_rate": 66.3,
+    "unemployment_rate": 2.5
+  },
+  "1997": {
+    "employed": 8569.2,
+    "unemployed": 214.9,
+    "labour_force": 8784,
+    "participation_rate": 65.6,
+    "unemployment_rate": 2.4
+  },
+  "1998": {
+    "employed": 8599.6,
+    "unemployed": 284,
+    "labour_force": 8883.6,
+    "participation_rate": 64.3,
+    "unemployment_rate": 3.2
+  },
+  "1999": {
+    "employed": 8837.8,
+    "unemployed": 313.7,
+    "labour_force": 9151.5,
+    "participation_rate": 64.2,
+    "unemployment_rate": 3.4
+  },
+  "2000": {
+    "employed": 9269.2,
+    "unemployed": 286.9,
+    "labour_force": 9556.1,
+    "participation_rate": 65.4,
+    "unemployment_rate": 3
+  },
+  "2001": {
+    "employed": 9357,
+    "unemployed": 342.4,
+    "labour_force": 9699.4,
+    "participation_rate": 64.9,
+    "unemployment_rate": 3.5
+  },
+  "2002": {
+    "employed": 9542.6,
+    "unemployed": 343.5,
+    "labour_force": 9886.2,
+    "participation_rate": 64.4,
+    "unemployment_rate": 3.5
+  },
+  "2003": {
+    "employed": 9869.7,
+    "unemployed": 369.8,
+    "labour_force": 10239.6,
+    "participation_rate": 65.2,
+    "unemployment_rate": 3.6
+  },
+  "2004": {
+    "employed": 9979.5,
+    "unemployed": 366.6,
+    "labour_force": 10346.2,
+    "participation_rate": 64.4,
+    "unemployment_rate": 3.5
+  },
+  "2005": {
+    "employed": 10045.4,
+    "unemployed": 368.1,
+    "labour_force": 10413.4,
+    "participation_rate": 63.3,
+    "unemployment_rate": 3.5
+  },
+  "2006": {
+    "employed": 10275.4,
+    "unemployed": 353.6,
+    "labour_force": 10628.9,
+    "participation_rate": 63.1,
+    "unemployment_rate": 3.3
+  },
+  "2007": {
+    "employed": 10538.1,
+    "unemployed": 351.4,
+    "labour_force": 10889.5,
+    "participation_rate": 63.2,
+    "unemployment_rate": 3.2
+  },
+  "2008": {
+    "employed": 10659.6,
+    "unemployed": 368.5,
+    "labour_force": 11028.1,
+    "participation_rate": 62.6,
+    "unemployment_rate": 3.3
+  },
+  "2009": {
+    "employed": 10897.3,
+    "unemployed": 418,
+    "labour_force": 11315.3,
+    "participation_rate": 62.9,
+    "unemployment_rate": 3.7
+  },
+  "2010": {
+    "employed": 11899.5,
+    "unemployed": 404.4,
+    "labour_force": 12303.9,
+    "participation_rate": 63.7,
+    "unemployment_rate": 3.3
+  },
+  "2011": {
+    "employed": 12351.5,
+    "unemployed": 389.2,
+    "labour_force": 12740.7,
+    "participation_rate": 64.5,
+    "unemployment_rate": 3.1
+  },
+  "2012": {
+    "employed": 12820.5,
+    "unemployed": 401.2,
+    "labour_force": 13221.7,
+    "participation_rate": 65.6,
+    "unemployment_rate": 3
+  },
+  "2013": {
+    "employed": 13545.4,
+    "unemployed": 435.1,
+    "labour_force": 13980.5,
+    "participation_rate": 67.3,
+    "unemployment_rate": 3.1
+  },
+  "2014": {
+    "employed": 13852.6,
+    "unemployed": 411.1,
+    "labour_force": 14263.6,
+    "participation_rate": 67.6,
+    "unemployment_rate": 2.9
+  },
+  "2015": {
+    "employed": 14067.7,
+    "unemployed": 450.3,
+    "labour_force": 14518,
+    "participation_rate": 67.9,
+    "unemployment_rate": 3.1
+  },
+  "2016": {
+    "employed": 14163.7,
+    "unemployed": 504.1,
+    "labour_force": 14667.8,
+    "participation_rate": 67.7,
+    "unemployment_rate": 3.4
+  },
+  "2017": {
+    "employed": 14476.8,
+    "unemployed": 503.3,
+    "labour_force": 14980.1,
+    "participation_rate": 68,
+    "unemployment_rate": 3.4
+  },
+  "2018": {
+    "employed": 14776,
+    "unemployed": 504.3,
+    "labour_force": 15280.3,
+    "participation_rate": 68.3,
+    "unemployment_rate": 3.3
+  },
+  "2019": {
+    "employed": 15073.4,
+    "unemployed": 508.2,
+    "labour_force": 15581.6,
+    "participation_rate": 68.7,
+    "unemployment_rate": 3.3
+  },
+  "2020": {
+    "employed": 14719.4,
+    "unemployed": 686.6,
+    "labour_force": 15406,
+    "participation_rate": 68.4,
+    "unemployment_rate": 4.5
+  },
+  "2021": {
+    "employed": 14825.2,
+    "unemployed": 707.6,
+    "labour_force": 15532.8,
+    "participation_rate": 68.6,
+    "unemployment_rate": 4.6
+  },
+  "2022": {
+    "employed": 15155.2,
+    "unemployed": 614.5,
+    "labour_force": 15769.7,
+    "participation_rate": 69.3,
+    "unemployment_rate": 3.9
+  },
+  "2023": {
+    "employed": 15813.4,
+    "unemployed": 553.4,
+    "labour_force": 16366.8,
+    "participation_rate": 70,
+    "unemployment_rate": 3.4
+  }
+}

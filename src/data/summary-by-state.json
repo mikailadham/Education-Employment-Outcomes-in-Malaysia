@@ -1,0 +1,487 @@
+{
+  "Johor": {
+    "gdp_total": 41.692,
+    "gdp_sectors": {
+      "Total": 4.099,
+      "Agriculture, forestry & fishing": -1.135,
+      "Mining & quarrying": 6.545,
+      "Manufacturing": 2.834,
+      "Construction": 13.193,
+      "Services": 5.384,
+      "p6": 10.772
+    },
+    "gdp_year": 2023,
+    "mean_income": 8517,
+    "median_income": 6879,
+    "income_year": 2022,
+    "gini": 0.366,
+    "gini_year": 2022,
+    "unemployment_rate": 2.6,
+    "participation_rate": 71.3,
+    "employed": 2017.9,
+    "unemployed": 53.4,
+    "labour_force": 2071.3,
+    "lfs_year": 2023,
+    "school_completion_rate": 99.06666666666666,
+    "school_completion_by_level": {
+      "primary": 99,
+      "secondary_lower": 100.1,
+      "secondary_upper": 98.1
+    },
+    "completion_year": 2022
+  },
+  "Kedah": {
+    "gdp_total": 23.935000000000002,
+    "gdp_sectors": {
+      "Total": 1.569,
+      "Agriculture, forestry & fishing": -2.821,
+      "Mining & quarrying": 6.736,
+      "Manufacturing": -3.172,
+      "Construction": 30.809,
+      "Services": 4.013,
+      "p6": -13.199
+    },
+    "gdp_year": 2023,
+    "mean_income": 5550,
+    "median_income": 4402,
+    "income_year": 2022,
+    "gini": 0.359,
+    "gini_year": 2022,
+    "unemployment_rate": 2.9,
+    "participation_rate": 65.3,
+    "employed": 927.5,
+    "unemployed": 27.6,
+    "labour_force": 955.1,
+    "lfs_year": 2023,
+    "school_completion_rate": 99.89999999999999,
+    "school_completion_by_level": {
+      "primary": 101.1,
+      "secondary_lower": 99.4,
+      "secondary_upper": 99.2
+    },
+    "completion_year": 2022
+  },
+  "Kelantan": {
+    "gdp_total": -0.16400000000000148,
+    "gdp_sectors": {
+      "Total": 2.649,
+      "Agriculture, forestry & fishing": -0.537,
+      "Mining & quarrying": 8.114,
+      "Manufacturing": -2.583,
+      "Construction": 6.7,
+      "Services": 3.782,
+      "p6": -18.289
+    },
+    "gdp_year": 2023,
+    "mean_income": 4885,
+    "median_income": 3614,
+    "income_year": 2022,
+    "gini": 0.385,
+    "gini_year": 2022,
+    "unemployment_rate": 3.5,
+    "participation_rate": 57.3,
+    "employed": 661.1,
+    "unemployed": 24.3,
+    "labour_force": 685.3,
+    "lfs_year": 2023,
+    "school_completion_rate": 98.86666666666667,
+    "school_completion_by_level": {
+      "primary": 98.2,
+      "secondary_lower": 99,
+      "secondary_upper": 99.4
+    },
+    "completion_year": 2022
+  },
+  "Melaka": {
+    "gdp_total": 23.01,
+    "gdp_sectors": {
+      "Total": 2.972,
+      "Agriculture, forestry & fishing": 6.461,
+      "Mining & quarrying": 6.137,
+      "Manufacturing": 0.275,
+      "Construction": 5.668,
+      "Services": 4.158,
+      "p6": -2.661
+    },
+    "gdp_year": 2023,
+    "mean_income": 8057,
+    "median_income": 6210,
+    "income_year": 2022,
+    "gini": 0.37,
+    "gini_year": 2022,
+    "unemployment_rate": 1.6,
+    "participation_rate": 70.1,
+    "employed": 499.8,
+    "unemployed": 8.4,
+    "labour_force": 508.1,
+    "lfs_year": 2023,
+    "school_completion_rate": 98.7,
+    "school_completion_by_level": {
+      "primary": 99.5,
+      "secondary_lower": 98.9,
+      "secondary_upper": 97.7
+    },
+    "completion_year": 2022
+  },
+  "Negeri Sembilan": {
+    "gdp_total": -66.581,
+    "gdp_sectors": {
+      "Total": 1.815,
+      "Agriculture, forestry & fishing": -4.946,
+      "Mining & quarrying": 8.61,
+      "Manufacturing": 1.204,
+      "Construction": -8.406,
+      "Services": 4.493,
+      "p6": -69.351
+    },
+    "gdp_year": 2023,
+    "mean_income": 6788,
+    "median_income": 5226,
+    "income_year": 2022,
+    "gini": 0.369,
+    "gini_year": 2022,
+    "unemployment_rate": 3.2,
+    "participation_rate": 66.1,
+    "employed": 536.1,
+    "unemployed": 17.7,
+    "labour_force": 553.9,
+    "lfs_year": 2023,
+    "school_completion_rate": 100.63333333333333,
+    "school_completion_by_level": {
+      "primary": 101.6,
+      "secondary_lower": 99.9,
+      "secondary_upper": 100.4
+    },
+    "completion_year": 2022
+  },
+  "Pahang": {
+    "gdp_total": 36.230999999999995,
+    "gdp_sectors": {
+      "Total": 5.175,
+      "Agriculture, forestry & fishing": 2.489,
+      "Mining & quarrying": 9.618,
+      "Manufacturing": 2.138,
+      "Construction": 37.113,
+      "Services": 6.038,
+      "p6": -26.34
+    },
+    "gdp_year": 2023,
+    "mean_income": 5777,
+    "median_income": 4753,
+    "income_year": 2022,
+    "gini": 0.308,
+    "gini_year": 2022,
+    "unemployment_rate": 2,
+    "participation_rate": 65.1,
+    "employed": 720.9,
+    "unemployed": 14.8,
+    "labour_force": 735.7,
+    "lfs_year": 2023,
+    "school_completion_rate": 98.39999999999999,
+    "school_completion_by_level": {
+      "primary": 96.5,
+      "secondary_lower": 98.7,
+      "secondary_upper": 100
+    },
+    "completion_year": 2022
+  },
+  "Perak": {
+    "gdp_total": 33.46,
+    "gdp_sectors": {
+      "Total": 2.651,
+      "Agriculture, forestry & fishing": 1.881,
+      "Mining & quarrying": 8.32,
+      "Manufacturing": 2.214,
+      "Construction": -0.182,
+      "Services": 3.009,
+      "p6": 15.567
+    },
+    "gdp_year": 2023,
+    "mean_income": 5779,
+    "median_income": 4494,
+    "income_year": 2022,
+    "gini": 0.368,
+    "gini_year": 2022,
+    "unemployment_rate": 3.9,
+    "participation_rate": 66,
+    "employed": 1104.2,
+    "unemployed": 44.5,
+    "labour_force": 1148.8,
+    "lfs_year": 2023,
+    "school_completion_rate": 99.80000000000001,
+    "school_completion_by_level": {
+      "primary": 99.9,
+      "secondary_lower": 99.2,
+      "secondary_upper": 100.3
+    },
+    "completion_year": 2022
+  },
+  "Perlis": {
+    "gdp_total": 5.6569999999999965,
+    "gdp_sectors": {
+      "Total": 2.145,
+      "Agriculture, forestry & fishing": 4.064,
+      "Mining & quarrying": 5.167,
+      "Manufacturing": -0.972,
+      "Construction": 4.005,
+      "Services": 2.333,
+      "p6": -11.085
+    },
+    "gdp_year": 2023,
+    "mean_income": 5664,
+    "median_income": 4713,
+    "income_year": 2022,
+    "gini": 0.336,
+    "gini_year": 2022,
+    "unemployment_rate": 4.4,
+    "participation_rate": 61.7,
+    "employed": 124.9,
+    "unemployed": 5.7,
+    "labour_force": 130.6,
+    "lfs_year": 2023,
+    "school_completion_rate": 101.03333333333335,
+    "school_completion_by_level": {
+      "primary": 105.5,
+      "secondary_lower": 99.7,
+      "secondary_upper": 97.9
+    },
+    "completion_year": 2022
+  },
+  "Pulau Pinang": {
+    "gdp_total": 47.936,
+    "gdp_sectors": {
+      "Total": 3.274,
+      "Agriculture, forestry & fishing": 6.494,
+      "Mining & quarrying": 6.751,
+      "Manufacturing": -0.543,
+      "Construction": 23.605,
+      "Services": 6.034,
+      "p6": 2.321
+    },
+    "gdp_year": 2023,
+    "mean_income": 8267,
+    "median_income": 6502,
+    "income_year": 2022,
+    "gini": 0.371,
+    "gini_year": 2022,
+    "unemployment_rate": 2.2,
+    "participation_rate": 71.3,
+    "employed": 905.6,
+    "unemployed": 20.5,
+    "labour_force": 926.2,
+    "lfs_year": 2023,
+    "school_completion_rate": 99.03333333333335,
+    "school_completion_by_level": {
+      "primary": 97.7,
+      "secondary_lower": 98.9,
+      "secondary_upper": 100.5
+    },
+    "completion_year": 2022
+  },
+  "Sabah": {
+    "gdp_total": 2.1900000000000004,
+    "gdp_sectors": {
+      "Total": 1.328,
+      "Agriculture, forestry & fishing": 0.847,
+      "Mining & quarrying": -5.208,
+      "Manufacturing": 4.375,
+      "Construction": -1.116,
+      "Services": 4.517,
+      "p6": -2.553
+    },
+    "gdp_year": 2023,
+    "mean_income": 6171,
+    "median_income": 4577,
+    "income_year": 2022,
+    "gini": 0.395,
+    "gini_year": 2022,
+    "unemployment_rate": 7.5,
+    "participation_rate": 70.1,
+    "employed": 1622.2,
+    "unemployed": 131.8,
+    "labour_force": 1754,
+    "lfs_year": 2023,
+    "school_completion_rate": 99.93333333333332,
+    "school_completion_by_level": {
+      "primary": 100.6,
+      "secondary_lower": 99.6,
+      "secondary_upper": 99.6
+    },
+    "completion_year": 2022
+  },
+  "Sarawak": {
+    "gdp_total": 10.116000000000001,
+    "gdp_sectors": {
+      "Total": 1.175,
+      "Agriculture, forestry & fishing": 2.049,
+      "Mining & quarrying": -1.022,
+      "Manufacturing": -3.908,
+      "Construction": 8.303,
+      "Services": 5.433,
+      "p6": -1.914
+    },
+    "gdp_year": 2023,
+    "mean_income": 6457,
+    "median_income": 4978,
+    "income_year": 2022,
+    "gini": 0.382,
+    "gini_year": 2022,
+    "unemployment_rate": 3.4,
+    "participation_rate": 69,
+    "employed": 1192.5,
+    "unemployed": 42.1,
+    "labour_force": 1234.6,
+    "lfs_year": 2023,
+    "school_completion_rate": 99.53333333333335,
+    "school_completion_by_level": {
+      "primary": 100.7,
+      "secondary_lower": 99,
+      "secondary_upper": 98.9
+    },
+    "completion_year": 2022
+  },
+  "Selangor": {
+    "gdp_total": 45.358999999999995,
+    "gdp_sectors": {
+      "Total": 5.43,
+      "Agriculture, forestry & fishing": -7.331,
+      "Mining & quarrying": 3.811,
+      "Manufacturing": 2.048,
+      "Construction": 10.168,
+      "Services": 6.132,
+      "p6": 25.101
+    },
+    "gdp_year": 2023,
+    "mean_income": 12233,
+    "median_income": 9983,
+    "income_year": 2022,
+    "gini": 0.361,
+    "gini_year": 2022,
+    "unemployment_rate": 2.7,
+    "participation_rate": 77.4,
+    "employed": 3858.9,
+    "unemployed": 108.7,
+    "labour_force": 3967.6,
+    "lfs_year": 2023,
+    "school_completion_rate": 98.66666666666667,
+    "school_completion_by_level": {
+      "primary": 98.6,
+      "secondary_lower": 98.1,
+      "secondary_upper": 99.3
+    },
+    "completion_year": 2022
+  },
+  "Terengganu": {
+    "gdp_total": 97.07900000000001,
+    "gdp_sectors": {
+      "Total": 2.269,
+      "Agriculture, forestry & fishing": 7.427,
+      "Mining & quarrying": 5.343,
+      "Manufacturing": 0.159,
+      "Construction": 1.593,
+      "Services": 3.073,
+      "p6": 77.215
+    },
+    "gdp_year": 2023,
+    "mean_income": 7248,
+    "median_income": 5878,
+    "income_year": 2022,
+    "gini": 0.326,
+    "gini_year": 2022,
+    "unemployment_rate": 3.4,
+    "participation_rate": 60,
+    "employed": 462.4,
+    "unemployed": 16.4,
+    "labour_force": 478.7,
+    "lfs_year": 2023,
+    "school_completion_rate": 100.83333333333333,
+    "school_completion_by_level": {
+      "primary": 103.8,
+      "secondary_lower": 99.7,
+      "secondary_upper": 99
+    },
+    "completion_year": 2022
+  },
+  "W.P. Kuala Lumpur": {
+    "gdp_total": -39.097,
+    "gdp_sectors": {
+      "Total": 3.652,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 3.304,
+      "Manufacturing": 1.829,
+      "Construction": -8.93,
+      "Services": 4.874,
+      "p6": -43.826
+    },
+    "gdp_year": 2023,
+    "mean_income": 13325,
+    "median_income": 10234,
+    "income_year": 2022,
+    "gini": 0.38,
+    "gini_year": 2022,
+    "unemployment_rate": 3,
+    "participation_rate": 74.2,
+    "employed": 1077.9,
+    "unemployed": 33.9,
+    "labour_force": 1111.7,
+    "lfs_year": 2023,
+    "school_completion_rate": 95.89999999999999,
+    "school_completion_by_level": {
+      "primary": 93.8,
+      "secondary_lower": 96.4,
+      "secondary_upper": 97.5
+    },
+    "completion_year": 2022
+  },
+  "W.P. Putrajaya": {
+    "mean_income": 13473,
+    "median_income": 10056,
+    "income_year": 2022,
+    "gini": 0.368,
+    "gini_year": 2022,
+    "unemployment_rate": 0.8,
+    "participation_rate": 78.6,
+    "employed": 58.1,
+    "unemployed": 0.5,
+    "labour_force": 58.6,
+    "lfs_year": 2023,
+    "school_completion_rate": 102.60000000000001,
+    "school_completion_by_level": {
+      "primary": 102.9,
+      "secondary_lower": 103.2,
+      "secondary_upper": 101.7
+    },
+    "completion_year": 2022
+  },
+  "W.P. Labuan": {
+    "gdp_total": 24.529,
+    "gdp_sectors": {
+      "Total": 1.918,
+      "Agriculture, forestry & fishing": 3.2,
+      "Mining & quarrying": 0,
+      "Manufacturing": 0.41,
+      "Construction": 1.751,
+      "Services": 2.155,
+      "p6": 15.095
+    },
+    "gdp_year": 2023,
+    "mean_income": 8250,
+    "median_income": 6904,
+    "income_year": 2022,
+    "gini": 0.3,
+    "gini_year": 2022,
+    "unemployment_rate": 6.8,
+    "participation_rate": 67.9,
+    "employed": 43.4,
+    "unemployed": 3.1,
+    "labour_force": 46.5,
+    "lfs_year": 2023,
+    "school_completion_rate": 98.16666666666667,
+    "school_completion_by_level": {
+      "primary": 92.4,
+      "secondary_lower": 102.8,
+      "secondary_upper": 99.3
+    },
+    "completion_year": 2022
+  }
+}

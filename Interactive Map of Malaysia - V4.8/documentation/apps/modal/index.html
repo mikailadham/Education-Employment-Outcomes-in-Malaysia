@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="icon" href="https://www.html5interactivemaps.com/assets/images/favicon.ico">
+    <title>Modal Window</title>
+</head>
+<body>
+    <header>
+        <h1>How to use the modal window option?</h1>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Introduction</h2>
+            <p>The modal window feature lets you display additional information about an area when a user clicks on it. This can include text, images, links, etc, making the map more interactive and informative.</p>
+            <p>This feature is included and enabled by default in the WordPress map plugin. To use it, simply install a modal plugin with the CSS selector. We tested the map using the free version of the <a href="https://wordpress.org/plugins/popup-maker/">Popup Maker</a> plugin.</p>
+        </section>
+
+        <hr>
+
+
+        <section id="steps">
+            <h2>The Steps</h2>
+            <p class="mb-0"><strong>Note: The following screenshots were taken from the world map, but the same steps can be applied to any other map.</strong></p>
+            <ol>
+                <li>
+                    <p>Install the <a href="https://wordpress.org/plugins/popup-maker/">Popup Maker</a> plugin and 'Create New Popup'</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/01.png" alt="create popup"></p>
+                </li>
+
+                <li>
+                    <p>Assign a name to the popup for your reference, and in the modal body, include as many details as desired, such as text, images, links, etc, to make the map more interactive and informative.</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/02.png" alt="add details"></p>
+                </li>
+
+                <li>
+                    <p>Click 'Add New Trigger'</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/03.png" alt="add trigger"></p>
+                </li>
+
+                <li>
+                    <p>Uncheck this checkbox in this window to ensure the modal window appears to the user more than once.</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/04.png" alt="uncheck"></p>
+                </li>
+
+                <li>
+                    <p>Click 'Add'</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/05.png" alt="add"></p>
+                </li>
+
+                <li class="area-list">
+                    <p class="mb-0">For the 'Extra CSS Selector', use a dot followed by the area name.</p>
+                    <p class="mb-10">Here is a list of CSS selectors for all areas on the map of Malaysia. Use each selector to open the corresponding modal window</p>
+                    <ul>
+<li>.johor-darul-tazim</li>
+<li>.kedah-darul-aman</li>
+<li>.kelantan-darul-naim</li>
+<li>.kuala-lumpur</li>
+<li>.labuan</li>
+<li>.melaka</li>
+<li>.negeri-sembilan-darul-khusus</li>
+<li>.pahang-darul-makmur</li>
+<li>.perak-darul-ridzuan</li>
+<li>.perlis-indera-kayangan</li>
+<li>.pulau-pinang</li>
+<li>.putrajaya</li>
+<li>.sabah</li>
+<li>.sarawak</li>
+<li>.selangor-darul-ehsan</li>
+<li>.terengganu-darul-iman</li>
+
+                    </ul>
+                    <p class="txt-center mt-10"><img class="add-red-border" src="screenshots/06.png" alt="add"></p>
+                </li>
+
+                <li>
+                    <p>You have now assigned a CSS selector.</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/07.png" alt="add"></p>
+                </li>
+
+                <li>
+                    <p>'Publish' The popup.</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/08.png" alt="add"></p>
+                </li>
+
+                <li>
+                    <p>On the map dashboard, ensure that 'Target' is set to 'Modal / None'.</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/09.png" alt="add"></p>
+                </li>
+
+                <li>
+                    <p class="mb-0">Now, you can test the modal window on the frontend pages.</p>
+                    <p><strong>Note. The modal window does not work on the map dashboard.</strong></p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/10.png" alt="add"></p>
+                </li>
+
+                <li>
+                    <p>You can change the popup theme from 'Popup Maker' > 'Settings'. Additionally, you can customize the theme as desired in 'Popup Maker' > 'Popup Themes'.</p>
+                    <p class="txt-center"><img class="add-red-border" src="screenshots/11.png" alt="add"></p>
+                </li>
+
+            </ol>
+
+            <p class="mt-20"><strong>We hope you find this information helpful. If you have any questions or need further assistance, please feel free to <a href="https://www.html5interactivemaps.com/assets/contact.html">contact</a> us.</strong></p>
+
+        </section>
+
+    </main>
+    <footer>
+        <p class="mt-20">&copy; HTML5 Interactive Maps. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

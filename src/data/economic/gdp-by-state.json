@@ -1,0 +1,1330 @@
+{
+  "Johor": {
+    "2015": {
+      "Total": 110002.221,
+      "Agriculture, forestry & fishing": 15610.314,
+      "Mining & quarrying": 475.64,
+      "Manufacturing": 32358.659,
+      "Construction": 7269.16,
+      "Services": 53058.447,
+      "p6": 1230.001
+    },
+    "2016": {
+      "Total": 6.073,
+      "Agriculture, forestry & fishing": -3.718,
+      "Mining & quarrying": 19.697,
+      "Manufacturing": 5.448,
+      "Construction": 23.515,
+      "Services": 6.046,
+      "p6": 39.575
+    },
+    "2017": {
+      "Total": 5.896,
+      "Agriculture, forestry & fishing": 7.585,
+      "Mining & quarrying": 15.139,
+      "Manufacturing": 6.869,
+      "Construction": -6.362,
+      "Services": 6.634,
+      "p6": 8.588
+    },
+    "2018": {
+      "Total": 5.685,
+      "Agriculture, forestry & fishing": 0.473,
+      "Mining & quarrying": 8.483,
+      "Manufacturing": 5.135,
+      "Construction": 9.636,
+      "Services": 7.338,
+      "p6": -10.335
+    },
+    "2019": {
+      "Total": 2.787,
+      "Agriculture, forestry & fishing": 0.965,
+      "Mining & quarrying": 14.263,
+      "Manufacturing": 4.662,
+      "Construction": -27.314,
+      "Services": 6.483,
+      "p6": -3.752
+    },
+    "2020": {
+      "Total": -4.584,
+      "Agriculture, forestry & fishing": 2.764,
+      "Mining & quarrying": -19.08,
+      "Manufacturing": -3.674,
+      "Construction": -37.676,
+      "Services": -3.165,
+      "p6": -17.51
+    },
+    "2021": {
+      "Total": 2.475,
+      "Agriculture, forestry & fishing": 0.154,
+      "Mining & quarrying": -10.744,
+      "Manufacturing": 5.372,
+      "Construction": -18.15,
+      "Services": 2.942,
+      "p6": -4.386
+    },
+    "2022": {
+      "Total": 8.478,
+      "Agriculture, forestry & fishing": 3.081,
+      "Mining & quarrying": 10.524,
+      "Manufacturing": 5.454,
+      "Construction": 15.931,
+      "Services": 10.994,
+      "p6": 20.785
+    },
+    "2023": {
+      "Total": 4.099,
+      "Agriculture, forestry & fishing": -1.135,
+      "Mining & quarrying": 6.545,
+      "Manufacturing": 2.834,
+      "Construction": 13.193,
+      "Services": 5.384,
+      "p6": 10.772
+    }
+  },
+  "Kedah": {
+    "2015": {
+      "Total": 39549.581,
+      "Agriculture, forestry & fishing": 5423.368,
+      "Mining & quarrying": 83.056,
+      "Manufacturing": 11427.051,
+      "Construction": 862.638,
+      "Services": 21465.109,
+      "p6": 288.359
+    },
+    "2016": {
+      "Total": 4.061,
+      "Agriculture, forestry & fishing": -4.073,
+      "Mining & quarrying": 15.226,
+      "Manufacturing": 4.436,
+      "Construction": 15.674,
+      "Services": 5.305,
+      "p6": 11.61
+    },
+    "2017": {
+      "Total": 4.643,
+      "Agriculture, forestry & fishing": 5.046,
+      "Mining & quarrying": 14.514,
+      "Manufacturing": 4.319,
+      "Construction": -6.995,
+      "Services": 5.328,
+      "p6": -4.811
+    },
+    "2018": {
+      "Total": 4.034,
+      "Agriculture, forestry & fishing": 0.054,
+      "Mining & quarrying": 4.865,
+      "Manufacturing": 3.035,
+      "Construction": 8.707,
+      "Services": 5.443,
+      "p6": -8.368
+    },
+    "2019": {
+      "Total": 4.547,
+      "Agriculture, forestry & fishing": 3.251,
+      "Mining & quarrying": 9.063,
+      "Manufacturing": 4.696,
+      "Construction": 8.081,
+      "Services": 4.869,
+      "p6": -20.341
+    },
+    "2020": {
+      "Total": -1.705,
+      "Agriculture, forestry & fishing": -2.265,
+      "Mining & quarrying": -10.729,
+      "Manufacturing": 1.408,
+      "Construction": 2.039,
+      "Services": -3.391,
+      "p6": 10.718
+    },
+    "2021": {
+      "Total": 3.177,
+      "Agriculture, forestry & fishing": 2.735,
+      "Mining & quarrying": -7.809,
+      "Manufacturing": 6.215,
+      "Construction": -8.419,
+      "Services": 1.933,
+      "p6": 30.753
+    },
+    "2022": {
+      "Total": 7.319,
+      "Agriculture, forestry & fishing": 0.339,
+      "Mining & quarrying": 10.763,
+      "Manufacturing": 8.077,
+      "Construction": 18.307,
+      "Services": 7.973,
+      "p6": 7.671
+    },
+    "2023": {
+      "Total": 1.569,
+      "Agriculture, forestry & fishing": -2.821,
+      "Mining & quarrying": 6.736,
+      "Manufacturing": -3.172,
+      "Construction": 30.809,
+      "Services": 4.013,
+      "p6": -13.199
+    }
+  },
+  "Kelantan": {
+    "2015": {
+      "Total": 21407.736,
+      "Agriculture, forestry & fishing": 5101.864,
+      "Mining & quarrying": 229.021,
+      "Manufacturing": 1147.468,
+      "Construction": 444.65,
+      "Services": 14454.747,
+      "p6": 29.985
+    },
+    "2016": {
+      "Total": 4.989,
+      "Agriculture, forestry & fishing": 3.638,
+      "Mining & quarrying": 12.303,
+      "Manufacturing": 2.136,
+      "Construction": 29.404,
+      "Services": 4.872,
+      "p6": -17.495
+    },
+    "2017": {
+      "Total": 4.562,
+      "Agriculture, forestry & fishing": 3.582,
+      "Mining & quarrying": 16.733,
+      "Manufacturing": 9.034,
+      "Construction": -9.472,
+      "Services": 4.882,
+      "p6": 6.181
+    },
+    "2018": {
+      "Total": 2.73,
+      "Agriculture, forestry & fishing": -0.845,
+      "Mining & quarrying": 19.739,
+      "Manufacturing": 0.26,
+      "Construction": -37.718,
+      "Services": 5.171,
+      "p6": -1.599
+    },
+    "2019": {
+      "Total": 5.536,
+      "Agriculture, forestry & fishing": 7.055,
+      "Mining & quarrying": 15.941,
+      "Manufacturing": 1.5,
+      "Construction": 18.097,
+      "Services": 4.87,
+      "p6": 15.015
+    },
+    "2020": {
+      "Total": -1.144,
+      "Agriculture, forestry & fishing": 0.065,
+      "Mining & quarrying": -17.973,
+      "Manufacturing": -5.105,
+      "Construction": 3.477,
+      "Services": -0.919,
+      "p6": -20.438
+    },
+    "2021": {
+      "Total": 2.359,
+      "Agriculture, forestry & fishing": 0.892,
+      "Mining & quarrying": 3.14,
+      "Manufacturing": 2.084,
+      "Construction": 1.111,
+      "Services": 2.832,
+      "p6": 39.847
+    },
+    "2022": {
+      "Total": 4.471,
+      "Agriculture, forestry & fishing": -3.904,
+      "Mining & quarrying": 11.435,
+      "Manufacturing": 3.088,
+      "Construction": 19.687,
+      "Services": 6.781,
+      "p6": 36.734
+    },
+    "2023": {
+      "Total": 2.649,
+      "Agriculture, forestry & fishing": -0.537,
+      "Mining & quarrying": 8.114,
+      "Manufacturing": -2.583,
+      "Construction": 6.7,
+      "Services": 3.782,
+      "p6": -18.289
+    }
+  },
+  "Melaka": {
+    "2015": {
+      "Total": 36077.257,
+      "Agriculture, forestry & fishing": 4141.42,
+      "Mining & quarrying": 43.988,
+      "Manufacturing": 14068.303,
+      "Construction": 947.012,
+      "Services": 16810.973,
+      "p6": 65.56
+    },
+    "2016": {
+      "Total": 4.533,
+      "Agriculture, forestry & fishing": 4.127,
+      "Mining & quarrying": 19.596,
+      "Manufacturing": 3.966,
+      "Construction": 5.351,
+      "Services": 5.023,
+      "p6": 4.416
+    },
+    "2017": {
+      "Total": 8.266,
+      "Agriculture, forestry & fishing": 7.253,
+      "Mining & quarrying": 7.569,
+      "Manufacturing": 6.798,
+      "Construction": 72.431,
+      "Services": 5.425,
+      "p6": 183.583
+    },
+    "2018": {
+      "Total": 3.786,
+      "Agriculture, forestry & fishing": -1.247,
+      "Mining & quarrying": 9.496,
+      "Manufacturing": 4.573,
+      "Construction": -13.063,
+      "Services": 6.003,
+      "p6": -4.645
+    },
+    "2019": {
+      "Total": 2.85,
+      "Agriculture, forestry & fishing": -2.94,
+      "Mining & quarrying": 9.588,
+      "Manufacturing": 2.51,
+      "Construction": -9.214,
+      "Services": 6.016,
+      "p6": -66.515
+    },
+    "2020": {
+      "Total": -5.858,
+      "Agriculture, forestry & fishing": 3.392,
+      "Mining & quarrying": -12.697,
+      "Manufacturing": -8.494,
+      "Construction": -26.945,
+      "Services": -4.532,
+      "p6": 67.087
+    },
+    "2021": {
+      "Total": 2.05,
+      "Agriculture, forestry & fishing": -1.446,
+      "Mining & quarrying": -6.633,
+      "Manufacturing": 3.348,
+      "Construction": -9.622,
+      "Services": 2.696,
+      "p6": -43.07
+    },
+    "2022": {
+      "Total": 8.854,
+      "Agriculture, forestry & fishing": 0.61,
+      "Mining & quarrying": 10.453,
+      "Manufacturing": 6.753,
+      "Construction": 5.14,
+      "Services": 12.438,
+      "p6": 13.205
+    },
+    "2023": {
+      "Total": 2.972,
+      "Agriculture, forestry & fishing": 6.461,
+      "Mining & quarrying": 6.137,
+      "Manufacturing": 0.275,
+      "Construction": 5.668,
+      "Services": 4.158,
+      "p6": -2.661
+    }
+  },
+  "Negeri Sembilan": {
+    "2015": {
+      "Total": 40185.677,
+      "Agriculture, forestry & fishing": 3235.335,
+      "Mining & quarrying": 165.377,
+      "Manufacturing": 15678.075,
+      "Construction": 1339.339,
+      "Services": 18950.586,
+      "p6": 816.964
+    },
+    "2016": {
+      "Total": 3.946,
+      "Agriculture, forestry & fishing": -5.529,
+      "Mining & quarrying": 19.541,
+      "Manufacturing": 2.901,
+      "Construction": 9.468,
+      "Services": 5.411,
+      "p6": 15.315
+    },
+    "2017": {
+      "Total": 4.894,
+      "Agriculture, forestry & fishing": 8.664,
+      "Mining & quarrying": 9.769,
+      "Manufacturing": 3.229,
+      "Construction": 17.029,
+      "Services": 4.705,
+      "p6": 5.293
+    },
+    "2018": {
+      "Total": 4.287,
+      "Agriculture, forestry & fishing": 0.055,
+      "Mining & quarrying": 3.042,
+      "Manufacturing": 3.327,
+      "Construction": 11.649,
+      "Services": 5.787,
+      "p6": -9.529
+    },
+    "2019": {
+      "Total": 5.12,
+      "Agriculture, forestry & fishing": 7.032,
+      "Mining & quarrying": 5.434,
+      "Manufacturing": 2.454,
+      "Construction": -3.813,
+      "Services": 8.638,
+      "p6": -18.587
+    },
+    "2020": {
+      "Total": -3.534,
+      "Agriculture, forestry & fishing": -6.694,
+      "Mining & quarrying": -15.308,
+      "Manufacturing": -4.931,
+      "Construction": -25.638,
+      "Services": -0.896,
+      "p6": 18.32
+    },
+    "2021": {
+      "Total": 3.131,
+      "Agriculture, forestry & fishing": -0.458,
+      "Mining & quarrying": -6.674,
+      "Manufacturing": 7.167,
+      "Construction": -0.364,
+      "Services": 2.258,
+      "p6": -29.453
+    },
+    "2022": {
+      "Total": 6.596,
+      "Agriculture, forestry & fishing": 0.531,
+      "Mining & quarrying": 10.877,
+      "Manufacturing": 7.971,
+      "Construction": 5.78,
+      "Services": 7.781,
+      "p6": -47.847
+    },
+    "2023": {
+      "Total": 1.815,
+      "Agriculture, forestry & fishing": -4.946,
+      "Mining & quarrying": 8.61,
+      "Manufacturing": 1.204,
+      "Construction": -8.406,
+      "Services": 4.493,
+      "p6": -69.351
+    }
+  },
+  "Pahang": {
+    "2015": {
+      "Total": 49449.712,
+      "Agriculture, forestry & fishing": 11665.23,
+      "Mining & quarrying": 1311.294,
+      "Manufacturing": 10416.952,
+      "Construction": 2105.062,
+      "Services": 23884.728,
+      "p6": 66.445
+    },
+    "2016": {
+      "Total": 2.883,
+      "Agriculture, forestry & fishing": -4.048,
+      "Mining & quarrying": -32.982,
+      "Manufacturing": 3.873,
+      "Construction": 29.518,
+      "Services": 5.394,
+      "p6": 25.733
+    },
+    "2017": {
+      "Total": 7.304,
+      "Agriculture, forestry & fishing": 9.475,
+      "Mining & quarrying": -19.314,
+      "Manufacturing": 6.569,
+      "Construction": 18.501,
+      "Services": 6.144,
+      "p6": 75.987
+    },
+    "2018": {
+      "Total": 3.112,
+      "Agriculture, forestry & fishing": 1.347,
+      "Mining & quarrying": -0.558,
+      "Manufacturing": 5.752,
+      "Construction": -25.74,
+      "Services": 6.491,
+      "p6": -19.245
+    },
+    "2019": {
+      "Total": 3.81,
+      "Agriculture, forestry & fishing": 3.468,
+      "Mining & quarrying": 16.246,
+      "Manufacturing": 4.693,
+      "Construction": -28.022,
+      "Services": 6.196,
+      "p6": -53.746
+    },
+    "2020": {
+      "Total": -6.073,
+      "Agriculture, forestry & fishing": 1.185,
+      "Mining & quarrying": -25.143,
+      "Manufacturing": -4.077,
+      "Construction": -21.711,
+      "Services": -8.67,
+      "p6": 36.885
+    },
+    "2021": {
+      "Total": 1.011,
+      "Agriculture, forestry & fishing": 0.032,
+      "Mining & quarrying": -17.333,
+      "Manufacturing": 6.077,
+      "Construction": 18.405,
+      "Services": -1.13,
+      "p6": -32.502
+    },
+    "2022": {
+      "Total": 11.375,
+      "Agriculture, forestry & fishing": 6.778,
+      "Mining & quarrying": 12.761,
+      "Manufacturing": 5.81,
+      "Construction": -1.046,
+      "Services": 16.937,
+      "p6": 0.792
+    },
+    "2023": {
+      "Total": 5.175,
+      "Agriculture, forestry & fishing": 2.489,
+      "Mining & quarrying": 9.618,
+      "Manufacturing": 2.138,
+      "Construction": 37.113,
+      "Services": 6.038,
+      "p6": -26.34
+    }
+  },
+  "Perak": {
+    "2015": {
+      "Total": 63175.555,
+      "Agriculture, forestry & fishing": 10351.594,
+      "Mining & quarrying": 354.095,
+      "Manufacturing": 11190.469,
+      "Construction": 2578.368,
+      "Services": 38627.926,
+      "p6": 73.103
+    },
+    "2016": {
+      "Total": 4.405,
+      "Agriculture, forestry & fishing": -1.933,
+      "Mining & quarrying": 16.812,
+      "Manufacturing": 5.021,
+      "Construction": 8.048,
+      "Services": 5.525,
+      "p6": 27.246
+    },
+    "2017": {
+      "Total": 5.122,
+      "Agriculture, forestry & fishing": 7.787,
+      "Mining & quarrying": 5.906,
+      "Manufacturing": 7.99,
+      "Construction": -24.151,
+      "Services": 5.558,
+      "p6": 33.705
+    },
+    "2018": {
+      "Total": 5.328,
+      "Agriculture, forestry & fishing": 0.474,
+      "Mining & quarrying": 5.147,
+      "Manufacturing": 4.178,
+      "Construction": 10.586,
+      "Services": 6.701,
+      "p6": -13.824
+    },
+    "2019": {
+      "Total": 4.056,
+      "Agriculture, forestry & fishing": 2.898,
+      "Mining & quarrying": 9.542,
+      "Manufacturing": 3.491,
+      "Construction": 6.566,
+      "Services": 4.487,
+      "p6": -70.436
+    },
+    "2020": {
+      "Total": -2.275,
+      "Agriculture, forestry & fishing": 1.043,
+      "Mining & quarrying": -14.352,
+      "Manufacturing": 3.454,
+      "Construction": -17.38,
+      "Services": -3.823,
+      "p6": 62.117
+    },
+    "2021": {
+      "Total": 3.551,
+      "Agriculture, forestry & fishing": 2.96,
+      "Mining & quarrying": -7.015,
+      "Manufacturing": 9.166,
+      "Construction": -6.716,
+      "Services": 2.571,
+      "p6": -31.958
+    },
+    "2022": {
+      "Total": 4.585,
+      "Agriculture, forestry & fishing": -2.569,
+      "Mining & quarrying": 11.846,
+      "Manufacturing": 0.99,
+      "Construction": 6.107,
+      "Services": 7.383,
+      "p6": 48.019
+    },
+    "2023": {
+      "Total": 2.651,
+      "Agriculture, forestry & fishing": 1.881,
+      "Mining & quarrying": 8.32,
+      "Manufacturing": 2.214,
+      "Construction": -0.182,
+      "Services": 3.009,
+      "p6": 15.567
+    }
+  },
+  "Perlis": {
+    "2015": {
+      "Total": 5352.875,
+      "Agriculture, forestry & fishing": 1161.077,
+      "Mining & quarrying": 31.698,
+      "Manufacturing": 458.197,
+      "Construction": 193.228,
+      "Services": 3414.264,
+      "p6": 94.412
+    },
+    "2016": {
+      "Total": 4.048,
+      "Agriculture, forestry & fishing": 3.359,
+      "Mining & quarrying": -10.534,
+      "Manufacturing": -2.103,
+      "Construction": 9.733,
+      "Services": 4.822,
+      "p6": 7.678
+    },
+    "2017": {
+      "Total": 2.245,
+      "Agriculture, forestry & fishing": 4.076,
+      "Mining & quarrying": 8.276,
+      "Manufacturing": 2.257,
+      "Construction": -42.848,
+      "Services": 4.023,
+      "p6": 10.383
+    },
+    "2018": {
+      "Total": 3.349,
+      "Agriculture, forestry & fishing": 0.908,
+      "Mining & quarrying": 6.11,
+      "Manufacturing": 1.52,
+      "Construction": 21.511,
+      "Services": 4.251,
+      "p6": -12.308
+    },
+    "2019": {
+      "Total": 4.519,
+      "Agriculture, forestry & fishing": 5.84,
+      "Mining & quarrying": 2.259,
+      "Manufacturing": 1.014,
+      "Construction": 13.18,
+      "Services": 4.993,
+      "p6": -26.712
+    },
+    "2020": {
+      "Total": -5.954,
+      "Agriculture, forestry & fishing": -18.456,
+      "Mining & quarrying": -9.757,
+      "Manufacturing": -5.608,
+      "Construction": -9.634,
+      "Services": -1.047,
+      "p6": -43.967
+    },
+    "2021": {
+      "Total": 1.41,
+      "Agriculture, forestry & fishing": -5.904,
+      "Mining & quarrying": -5.035,
+      "Manufacturing": 5.381,
+      "Construction": 0.13,
+      "Services": 2.164,
+      "p6": 88.99
+    },
+    "2022": {
+      "Total": 5.852,
+      "Agriculture, forestry & fishing": 3.405,
+      "Mining & quarrying": 9.939,
+      "Manufacturing": 4.525,
+      "Construction": 1.102,
+      "Services": 5.597,
+      "p6": 68.378
+    },
+    "2023": {
+      "Total": 2.145,
+      "Agriculture, forestry & fishing": 4.064,
+      "Mining & quarrying": 5.167,
+      "Manufacturing": -0.972,
+      "Construction": 4.005,
+      "Services": 2.333,
+      "p6": -11.085
+    }
+  },
+  "Pulau Pinang": {
+    "2015": {
+      "Total": 78146.215,
+      "Agriculture, forestry & fishing": 2083.789,
+      "Mining & quarrying": 124.145,
+      "Manufacturing": 33596.784,
+      "Construction": 2711.965,
+      "Services": 38917.261,
+      "p6": 712.27
+    },
+    "2016": {
+      "Total": 5.563,
+      "Agriculture, forestry & fishing": -4.606,
+      "Mining & quarrying": 9.039,
+      "Manufacturing": 5.399,
+      "Construction": 10.047,
+      "Services": 5.78,
+      "p6": 13.454
+    },
+    "2017": {
+      "Total": 5.182,
+      "Agriculture, forestry & fishing": 2.344,
+      "Mining & quarrying": 6.226,
+      "Manufacturing": 5.69,
+      "Construction": -9.906,
+      "Services": 5.566,
+      "p6": 25.876
+    },
+    "2018": {
+      "Total": 5.148,
+      "Agriculture, forestry & fishing": -3.204,
+      "Mining & quarrying": 8.741,
+      "Manufacturing": 5.432,
+      "Construction": -2.575,
+      "Services": 6.126,
+      "p6": -10.522
+    },
+    "2019": {
+      "Total": 3.739,
+      "Agriculture, forestry & fishing": 5.005,
+      "Mining & quarrying": 9.648,
+      "Manufacturing": 2.666,
+      "Construction": 0.936,
+      "Services": 5.475,
+      "p6": -33.4
+    },
+    "2020": {
+      "Total": -2.065,
+      "Agriculture, forestry & fishing": -0.916,
+      "Mining & quarrying": -18.844,
+      "Manufacturing": 2.755,
+      "Construction": -15.505,
+      "Services": -5.482,
+      "p6": 9.446
+    },
+    "2021": {
+      "Total": 6.941,
+      "Agriculture, forestry & fishing": -2.393,
+      "Mining & quarrying": -6.585,
+      "Manufacturing": 12.352,
+      "Construction": 12.855,
+      "Services": 2.395,
+      "p6": -5.832
+    },
+    "2022": {
+      "Total": 13.273,
+      "Agriculture, forestry & fishing": 4.743,
+      "Mining & quarrying": 10.712,
+      "Manufacturing": 15.865,
+      "Construction": 7.928,
+      "Services": 11.492,
+      "p6": 2.954
+    },
+    "2023": {
+      "Total": 3.274,
+      "Agriculture, forestry & fishing": 6.494,
+      "Mining & quarrying": 6.751,
+      "Manufacturing": -0.543,
+      "Construction": 23.605,
+      "Services": 6.034,
+      "p6": 2.321
+    }
+  },
+  "Sabah": {
+    "2015": {
+      "Total": 73776.128,
+      "Agriculture, forestry & fishing": 14816.807,
+      "Mining & quarrying": 18207.153,
+      "Manufacturing": 6265.78,
+      "Construction": 2446.413,
+      "Services": 31754.571,
+      "p6": 285.404
+    },
+    "2016": {
+      "Total": 5.072,
+      "Agriculture, forestry & fishing": -10.54,
+      "Mining & quarrying": 20.789,
+      "Manufacturing": -3.656,
+      "Construction": -3.637,
+      "Services": 5.732,
+      "p6": 5.694
+    },
+    "2017": {
+      "Total": 8.095,
+      "Agriculture, forestry & fishing": 4.734,
+      "Mining & quarrying": 15.679,
+      "Manufacturing": 5.394,
+      "Construction": -1.487,
+      "Services": 5.536,
+      "p6": 16.595
+    },
+    "2018": {
+      "Total": 1.454,
+      "Agriculture, forestry & fishing": -0.333,
+      "Mining & quarrying": -5.686,
+      "Manufacturing": 2.379,
+      "Construction": 25.65,
+      "Services": 5.614,
+      "p6": -7.052
+    },
+    "2019": {
+      "Total": 0.741,
+      "Agriculture, forestry & fishing": -0.847,
+      "Mining & quarrying": -5.241,
+      "Manufacturing": -0.643,
+      "Construction": 6.189,
+      "Services": 5.359,
+      "p6": -42.733
+    },
+    "2020": {
+      "Total": -9.11,
+      "Agriculture, forestry & fishing": -6.711,
+      "Mining & quarrying": -12.317,
+      "Manufacturing": -6.636,
+      "Construction": -29.114,
+      "Services": -7.18,
+      "p6": 43.933
+    },
+    "2021": {
+      "Total": 1.49,
+      "Agriculture, forestry & fishing": -2.19,
+      "Mining & quarrying": 3.203,
+      "Manufacturing": -1.842,
+      "Construction": 7.816,
+      "Services": 2.108,
+      "p6": -11.098
+    },
+    "2022": {
+      "Total": 3.932,
+      "Agriculture, forestry & fishing": 0.2,
+      "Mining & quarrying": -0.582,
+      "Manufacturing": -2.546,
+      "Construction": 6.174,
+      "Services": 8.498,
+      "p6": 12.572
+    },
+    "2023": {
+      "Total": 1.328,
+      "Agriculture, forestry & fishing": 0.847,
+      "Mining & quarrying": -5.208,
+      "Manufacturing": 4.375,
+      "Construction": -1.116,
+      "Services": 4.517,
+      "p6": -2.553
+    }
+  },
+  "Sarawak": {
+    "2015": {
+      "Total": 121585.277,
+      "Agriculture, forestry & fishing": 16987.941,
+      "Mining & quarrying": 29852.444,
+      "Manufacturing": 32128.287,
+      "Construction": 3842.61,
+      "Services": 38369.702,
+      "p6": 404.294
+    },
+    "2016": {
+      "Total": 2.408,
+      "Agriculture, forestry & fishing": -2.096,
+      "Mining & quarrying": -2.008,
+      "Manufacturing": 4.477,
+      "Construction": -5.445,
+      "Services": 6.808,
+      "p6": 10.382
+    },
+    "2017": {
+      "Total": 4.542,
+      "Agriculture, forestry & fishing": 0.578,
+      "Mining & quarrying": 3.284,
+      "Manufacturing": 3.707,
+      "Construction": 19.849,
+      "Services": 6.245,
+      "p6": 16.57
+    },
+    "2018": {
+      "Total": 2.183,
+      "Agriculture, forestry & fishing": -0.679,
+      "Mining & quarrying": -1.943,
+      "Manufacturing": 2.206,
+      "Construction": 1.097,
+      "Services": 6.365,
+      "p6": -8.716
+    },
+    "2019": {
+      "Total": 2.819,
+      "Agriculture, forestry & fishing": -0.217,
+      "Mining & quarrying": 1.304,
+      "Manufacturing": 2.905,
+      "Construction": 1.675,
+      "Services": 5.287,
+      "p6": -32.978
+    },
+    "2020": {
+      "Total": -6.729,
+      "Agriculture, forestry & fishing": -10.079,
+      "Mining & quarrying": -4.736,
+      "Manufacturing": -8.699,
+      "Construction": -8.811,
+      "Services": -5.334,
+      "p6": 21.808
+    },
+    "2021": {
+      "Total": 3.165,
+      "Agriculture, forestry & fishing": -2.962,
+      "Mining & quarrying": -2.504,
+      "Manufacturing": 10.963,
+      "Construction": 10.012,
+      "Services": 2.5,
+      "p6": -8.352
+    },
+    "2022": {
+      "Total": 6.919,
+      "Agriculture, forestry & fishing": 1.805,
+      "Mining & quarrying": 7.303,
+      "Manufacturing": 5.76,
+      "Construction": 4.028,
+      "Services": 9.338,
+      "p6": 20.351
+    },
+    "2023": {
+      "Total": 1.175,
+      "Agriculture, forestry & fishing": 2.049,
+      "Mining & quarrying": -1.022,
+      "Manufacturing": -3.908,
+      "Construction": 8.303,
+      "Services": 5.433,
+      "p6": -1.914
+    }
+  },
+  "Selangor": {
+    "2015": {
+      "Total": 268824.995,
+      "Agriculture, forestry & fishing": 4075.799,
+      "Mining & quarrying": 498.594,
+      "Manufacturing": 75537.402,
+      "Construction": 16674.165,
+      "Services": 163967.04,
+      "p6": 8071.995
+    },
+    "2016": {
+      "Total": 4.841,
+      "Agriculture, forestry & fishing": -4.998,
+      "Mining & quarrying": 28.953,
+      "Manufacturing": 4.2,
+      "Construction": -2.586,
+      "Services": 6.039,
+      "p6": 5.316
+    },
+    "2017": {
+      "Total": 7.22,
+      "Agriculture, forestry & fishing": 11.55,
+      "Mining & quarrying": 7.571,
+      "Manufacturing": 7.945,
+      "Construction": 8.234,
+      "Services": 6.987,
+      "p6": 1.319
+    },
+    "2018": {
+      "Total": 6.959,
+      "Agriculture, forestry & fishing": 4.986,
+      "Mining & quarrying": 6.606,
+      "Manufacturing": 7.261,
+      "Construction": 6.06,
+      "Services": 7.69,
+      "p6": -8.962
+    },
+    "2019": {
+      "Total": 6.743,
+      "Agriculture, forestry & fishing": 3.843,
+      "Mining & quarrying": 16.514,
+      "Manufacturing": 5.277,
+      "Construction": 10.824,
+      "Services": 7.001,
+      "p6": 8.234
+    },
+    "2020": {
+      "Total": -5.276,
+      "Agriculture, forestry & fishing": 0.262,
+      "Mining & quarrying": -12.095,
+      "Manufacturing": -0.863,
+      "Construction": -9.674,
+      "Services": -6.634,
+      "p6": -12.536
+    },
+    "2021": {
+      "Total": 5.293,
+      "Agriculture, forestry & fishing": 4.85,
+      "Mining & quarrying": -6.272,
+      "Manufacturing": 12.977,
+      "Construction": -6.382,
+      "Services": 2.649,
+      "p6": 8.921
+    },
+    "2022": {
+      "Total": 11.931,
+      "Agriculture, forestry & fishing": -0.498,
+      "Mining & quarrying": 12.555,
+      "Manufacturing": 9.042,
+      "Construction": 4.206,
+      "Services": 13.602,
+      "p6": 32.131
+    },
+    "2023": {
+      "Total": 5.43,
+      "Agriculture, forestry & fishing": -7.331,
+      "Mining & quarrying": 3.811,
+      "Manufacturing": 2.048,
+      "Construction": 10.168,
+      "Services": 6.132,
+      "p6": 25.101
+    }
+  },
+  "Terengganu": {
+    "2015": {
+      "Total": 31124.445,
+      "Agriculture, forestry & fishing": 2764.756,
+      "Mining & quarrying": 145.627,
+      "Manufacturing": 11296.446,
+      "Construction": 903.75,
+      "Services": 15965.109,
+      "p6": 48.757
+    },
+    "2016": {
+      "Total": 3.241,
+      "Agriculture, forestry & fishing": -3.018,
+      "Mining & quarrying": 9.448,
+      "Manufacturing": 7.255,
+      "Construction": 1.76,
+      "Services": 1.515,
+      "p6": 1.971
+    },
+    "2017": {
+      "Total": 5.743,
+      "Agriculture, forestry & fishing": 8.951,
+      "Mining & quarrying": 9.051,
+      "Manufacturing": 3.883,
+      "Construction": 38.739,
+      "Services": 4.376,
+      "p6": 110.722
+    },
+    "2018": {
+      "Total": 2.53,
+      "Agriculture, forestry & fishing": -2.547,
+      "Mining & quarrying": 5.416,
+      "Manufacturing": 3.727,
+      "Construction": -8.997,
+      "Services": 3.612,
+      "p6": -38.863
+    },
+    "2019": {
+      "Total": 3.336,
+      "Agriculture, forestry & fishing": 5.942,
+      "Mining & quarrying": 9.656,
+      "Manufacturing": 0.289,
+      "Construction": 0.37,
+      "Services": 5.6,
+      "p6": -75.112
+    },
+    "2020": {
+      "Total": -5.573,
+      "Agriculture, forestry & fishing": -3.755,
+      "Mining & quarrying": -12.456,
+      "Manufacturing": -9.407,
+      "Construction": -7.292,
+      "Services": -3.059,
+      "p6": 92.504
+    },
+    "2021": {
+      "Total": 3.653,
+      "Agriculture, forestry & fishing": -5.21,
+      "Mining & quarrying": 1.01,
+      "Manufacturing": 9.464,
+      "Construction": 2.337,
+      "Services": 1.439,
+      "p6": -47.864
+    },
+    "2022": {
+      "Total": 6.011,
+      "Agriculture, forestry & fishing": -3.346,
+      "Mining & quarrying": 10.968,
+      "Manufacturing": 8.296,
+      "Construction": 3.425,
+      "Services": 5.952,
+      "p6": -48.072
+    },
+    "2023": {
+      "Total": 2.269,
+      "Agriculture, forestry & fishing": 7.427,
+      "Mining & quarrying": 5.343,
+      "Manufacturing": 0.159,
+      "Construction": 1.593,
+      "Services": 3.073,
+      "p6": 77.215
+    }
+  },
+  "W.P. Kuala Lumpur": {
+    "2015": {
+      "Total": 180864.541,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 117.469,
+      "Manufacturing": 5641.072,
+      "Construction": 12915.189,
+      "Services": 159751.802,
+      "p6": 2437.469
+    },
+    "2016": {
+      "Total": 5.958,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 9.872,
+      "Manufacturing": 2.722,
+      "Construction": 12.344,
+      "Services": 5.628,
+      "p6": 1.084
+    },
+    "2017": {
+      "Total": 7.584,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 12.827,
+      "Manufacturing": 1.313,
+      "Construction": 13.073,
+      "Services": 6.787,
+      "p6": 44.306
+    },
+    "2018": {
+      "Total": 6.879,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 0.071,
+      "Manufacturing": -0.052,
+      "Construction": 6.338,
+      "Services": 7.368,
+      "p6": -3.657
+    },
+    "2019": {
+      "Total": 6.097,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 4.744,
+      "Manufacturing": 4.286,
+      "Construction": 5.867,
+      "Services": 6.129,
+      "p6": 8.59
+    },
+    "2020": {
+      "Total": -6.992,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": -9.411,
+      "Manufacturing": -6.302,
+      "Construction": -26.425,
+      "Services": -5.419,
+      "p6": 1.63
+    },
+    "2021": {
+      "Total": 1.121,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": -2.92,
+      "Manufacturing": 4.264,
+      "Construction": -11.943,
+      "Services": 1.943,
+      "p6": 1.187
+    },
+    "2022": {
+      "Total": 9.384,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 10.087,
+      "Manufacturing": 5.34,
+      "Construction": 2.057,
+      "Services": 10.963,
+      "p6": -43.136
+    },
+    "2023": {
+      "Total": 3.652,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 3.304,
+      "Manufacturing": 1.829,
+      "Construction": -8.93,
+      "Services": 4.874,
+      "p6": -43.826
+    }
+  },
+  "W.P. Labuan": {
+    "2015": {
+      "Total": 5999.225,
+      "Agriculture, forestry & fishing": 118.109,
+      "Mining & quarrying": 0,
+      "Manufacturing": 1168.465,
+      "Construction": 148.418,
+      "Services": 4490.305,
+      "p6": 73.928
+    },
+    "2016": {
+      "Total": 6.881,
+      "Agriculture, forestry & fishing": -3.1,
+      "Mining & quarrying": 0,
+      "Manufacturing": 7.475,
+      "Construction": -18.763,
+      "Services": 7.885,
+      "p6": 3.902
+    },
+    "2017": {
+      "Total": 5.892,
+      "Agriculture, forestry & fishing": 3.734,
+      "Mining & quarrying": 0,
+      "Manufacturing": 3.161,
+      "Construction": 12.605,
+      "Services": 5.123,
+      "p6": 91.675
+    },
+    "2018": {
+      "Total": 6.703,
+      "Agriculture, forestry & fishing": 5.8,
+      "Mining & quarrying": 0,
+      "Manufacturing": 5.337,
+      "Construction": 14.949,
+      "Services": 7.623,
+      "p6": -19.969
+    },
+    "2019": {
+      "Total": 5.222,
+      "Agriculture, forestry & fishing": 6.085,
+      "Mining & quarrying": 0,
+      "Manufacturing": 1.391,
+      "Construction": 13.533,
+      "Services": 7.606,
+      "p6": -73.211
+    },
+    "2020": {
+      "Total": -0.13,
+      "Agriculture, forestry & fishing": -13.6,
+      "Mining & quarrying": 0,
+      "Manufacturing": -1.167,
+      "Construction": -8.237,
+      "Services": 0.215,
+      "p6": 83.238
+    },
+    "2021": {
+      "Total": 0.477,
+      "Agriculture, forestry & fishing": 1.302,
+      "Mining & quarrying": 0,
+      "Manufacturing": -1.008,
+      "Construction": -11.864,
+      "Services": 1.461,
+      "p6": -31.931
+    },
+    "2022": {
+      "Total": 4.09,
+      "Agriculture, forestry & fishing": 4.724,
+      "Mining & quarrying": 0,
+      "Manufacturing": 1.7,
+      "Construction": 3.252,
+      "Services": 4.751,
+      "p6": -13.38
+    },
+    "2023": {
+      "Total": 1.918,
+      "Agriculture, forestry & fishing": 3.2,
+      "Mining & quarrying": 0,
+      "Manufacturing": 0.41,
+      "Construction": 1.751,
+      "Services": 2.155,
+      "p6": 15.095
+    }
+  },
+  "Supra": {
+    "2015": {
+      "Total": 51419.75,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 51419.75,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    },
+    "2016": {
+      "Total": -1.667,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": -1.667,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    },
+    "2017": {
+      "Total": -8.011,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": -8.011,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    },
+    "2018": {
+      "Total": -1.005,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": -1.005,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    },
+    "2019": {
+      "Total": -0.665,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": -0.665,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    },
+    "2020": {
+      "Total": -11.021,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": -11.021,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    },
+    "2021": {
+      "Total": 2.944,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 2.944,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    },
+    "2022": {
+      "Total": 2.332,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 2.332,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    },
+    "2023": {
+      "Total": 3.803,
+      "Agriculture, forestry & fishing": 0,
+      "Mining & quarrying": 3.803,
+      "Manufacturing": 0,
+      "Construction": 0,
+      "Services": 0,
+      "p6": 0
+    }
+  }
+}

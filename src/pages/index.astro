@@ -1,0 +1,127 @@
+---
+import Layout from '../layouts/Layout.astro';
+import MalaysiaMap from '../components/MalaysiaMap';
+---
+
+<Layout title="Malaysia Education & Employment Dashboard">
+	<!-- Hero Section -->
+	<section class="bg-gradient-to-br from-slate-900 via-slate-800 to-teal-900 text-white py-16 px-4 fade-in">
+		<div class="max-w-7xl mx-auto text-center">
+			<h1 class="text-4xl md:text-6xl font-bold mb-4">
+				Education & Employment Outcomes in Malaysia
+			</h1>
+			<p class="text-xl md:text-2xl text-teal-200 mb-6 font-light">
+				Data Challenge 5.0 — Sustainable Well-Being
+			</p>
+			<p class="text-base md:text-lg max-w-3xl mx-auto text-gray-300">
+				Explore Malaysia's education and employment landscape through interactive visualizations.
+				Hover over states to see detailed metrics, or click to dive deeper into regional trends.
+			</p>
+		</div>
+	</section>
+
+	<!-- Map Section -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 fade-in-delay-1">
+		<div class="bg-white rounded-2xl shadow-xl p-6 md:p-10">
+			<h2 class="text-3xl font-bold text-center mb-8 text-gray-900">
+				Interactive Malaysia Map
+			</h2>
+			<p class="text-center text-gray-600 mb-8 max-w-2xl mx-auto">
+				Switch between different metrics using the tabs below. The map colors represent the intensity of each metric across states.
+			</p>
+
+			<MalaysiaMap client:load />
+		</div>
+	</section>
+
+	<!-- National Summary Cards -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 fade-in-delay-2">
+		<h2 class="text-2xl font-bold text-center mb-8 text-gray-900">
+			National Overview
+		</h2>
+		<div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6">
+			<!-- Summary cards would go here -->
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-teal-500">
+				<h3 class="text-sm font-medium text-gray-600 mb-2">National Unemployment Rate</h3>
+				<p class="text-3xl font-bold text-gray-900">3.3%</p>
+				<p class="text-xs text-gray-500 mt-1">Latest data (2023)</p>
+			</div>
+
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-blue-500">
+				<h3 class="text-sm font-medium text-gray-600 mb-2">Labour Force Participation</h3>
+				<p class="text-3xl font-bold text-gray-900">68.6%</p>
+				<p class="text-xs text-gray-500 mt-1">Latest data (2023)</p>
+			</div>
+
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-amber-500">
+				<h3 class="text-sm font-medium text-gray-600 mb-2">Mean Household Income</h3>
+				<p class="text-3xl font-bold text-gray-900">RM 6,338</p>
+				<p class="text-xs text-gray-500 mt-1">Latest data (2022)</p>
+			</div>
+
+			<div class="bg-white rounded-lg shadow-md p-6 border-l-4 border-green-500">
+				<h3 class="text-sm font-medium text-gray-600 mb-2">School Completion Rate</h3>
+				<p class="text-3xl font-bold text-gray-900">98.5%</p>
+				<p class="text-xs text-gray-500 mt-1">Average (2022)</p>
+			</div>
+		</div>
+	</section>
+
+	<!-- State Detail Section (Hidden initially, shown on state click) -->
+	<section id="state-detail" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 hidden">
+		<div class="bg-white rounded-2xl shadow-xl p-6 md:p-10">
+			<h2 class="text-3xl font-bold mb-8 text-gray-900" id="state-detail-title">
+				State Details
+			</h2>
+			<!-- State detail charts will be added here -->
+			<p class="text-gray-600 text-center py-12">
+				Click on a state in the map above to view detailed employment, education, and economic trends.
+			</p>
+		</div>
+	</section>
+
+	<!-- About / Methodology Section -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 fade-in-delay-3">
+		<div class="bg-gradient-to-r from-teal-50 to-blue-50 rounded-2xl p-8 md:p-12">
+			<h2 class="text-3xl font-bold mb-6 text-gray-900">About This Dashboard</h2>
+			<div class="prose prose-lg max-w-none">
+				<p class="text-gray-700 mb-4">
+					This interactive dashboard visualizes Malaysia's education and employment outcomes using official data from the
+					<strong>Department of Statistics Malaysia (DOSM)</strong>. The dashboard is designed to support data-driven
+					decision-making around sustainable well-being initiatives.
+				</p>
+
+				<h3 class="text-xl font-semibold mt-6 mb-3 text-gray-900">Data Sources</h3>
+				<ul class="list-disc pl-6 text-gray-700 space-y-2">
+					<li><strong>Labour Force Survey (LFS)</strong> — Annual, quarterly, and monthly employment statistics</li>
+					<li><strong>GDP by State</strong> — Economic output by sector at constant 2015 prices</li>
+					<li><strong>Household Income & Inequality</strong> — Mean, median income, and Gini coefficients</li>
+					<li><strong>Education Statistics</strong> — School completion, enrolment, teachers, and lecturers data</li>
+				</ul>
+
+				<h3 class="text-xl font-semibold mt-6 mb-3 text-gray-900">Key Metrics Explained</h3>
+				<ul class="list-disc pl-6 text-gray-700 space-y-2">
+					<li><strong>Unemployment Rate</strong> — Percentage of labour force actively seeking work</li>
+					<li><strong>Labour Force Participation Rate</strong> — Percentage of working-age population in the labour force</li>
+					<li><strong>Gini Coefficient</strong> — Income inequality measure (0 = perfect equality, 1 = perfect inequality)</li>
+					<li><strong>School Completion Rate</strong> — Percentage of students completing each education level</li>
+				</ul>
+
+				<p class="text-sm text-gray-600 mt-8">
+					<strong>Note:</strong> PDF data sources (Graduate Statistics, Higher Education Reports) are referenced for context
+					but not processed in this dashboard. All visualizations are based on structured CSV data from OpenDOSM.
+				</p>
+			</div>
+		</div>
+	</section>
+</Layout>
+
+<script>
+	// Script to handle state clicks and reveal state detail section
+	// This will be enhanced when we add the StateDetail component
+	import type { MouseEvent } from 'react';
+
+	document.addEventListener('DOMContentLoaded', () => {
+		console.log('Dashboard loaded');
+	});
+</script>

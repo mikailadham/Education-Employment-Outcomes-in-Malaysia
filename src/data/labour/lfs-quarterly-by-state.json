@@ -1,0 +1,4514 @@
+{
+  "Johor": [
+    {
+      "date": "2017-01-01",
+      "employed": 1634.6,
+      "unemployed": 51.2,
+      "labour_force": 1685.8,
+      "unemployment_rate": 3,
+      "participation_rate": 67.4
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 1616,
+      "unemployed": 59.2,
+      "labour_force": 1675.2,
+      "unemployment_rate": 3.5,
+      "participation_rate": 67
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 1607.7,
+      "unemployed": 67.7,
+      "labour_force": 1675.4,
+      "unemployment_rate": 4,
+      "participation_rate": 66.9
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 1632.6,
+      "unemployed": 51.8,
+      "labour_force": 1684.4,
+      "unemployment_rate": 3.1,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 1691.7,
+      "unemployed": 48.6,
+      "labour_force": 1740.3,
+      "unemployment_rate": 2.8,
+      "participation_rate": 68.9
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 1703.5,
+      "unemployed": 52.7,
+      "labour_force": 1756.2,
+      "unemployment_rate": 3,
+      "participation_rate": 69.1
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 1713.1,
+      "unemployed": 58.4,
+      "labour_force": 1771.6,
+      "unemployment_rate": 3.3,
+      "participation_rate": 69.8
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 1739,
+      "unemployed": 49.1,
+      "labour_force": 1788.1,
+      "unemployment_rate": 2.7,
+      "participation_rate": 70.1
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 1743.2,
+      "unemployed": 49.3,
+      "labour_force": 1792.4,
+      "unemployment_rate": 2.8,
+      "participation_rate": 70.1
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 1869.1,
+      "unemployed": 51.8,
+      "labour_force": 1920.9,
+      "unemployment_rate": 2.7,
+      "participation_rate": 74.9
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 1666.2,
+      "unemployed": 48.4,
+      "labour_force": 1714.6,
+      "unemployment_rate": 2.8,
+      "participation_rate": 66.6
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 1736,
+      "unemployed": 47.5,
+      "labour_force": 1783.5,
+      "unemployment_rate": 2.7,
+      "participation_rate": 69.1
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 1714.4,
+      "unemployed": 57.5,
+      "labour_force": 1771.9,
+      "unemployment_rate": 3.2,
+      "participation_rate": 68.3
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 1673,
+      "unemployed": 81.2,
+      "labour_force": 1754.1,
+      "unemployment_rate": 4.6,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 1792.2,
+      "unemployed": 66.5,
+      "labour_force": 1858.7,
+      "unemployment_rate": 3.6,
+      "participation_rate": 70.1
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 1752.4,
+      "unemployed": 72,
+      "labour_force": 1824.4,
+      "unemployment_rate": 3.9,
+      "participation_rate": 68.1
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 1722.6,
+      "unemployed": 70.8,
+      "labour_force": 1793.4,
+      "unemployment_rate": 3.9,
+      "participation_rate": 67.9
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 1698.6,
+      "unemployed": 67.8,
+      "labour_force": 1766.4,
+      "unemployment_rate": 3.8,
+      "participation_rate": 67.6
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 1735.2,
+      "unemployed": 72.4,
+      "labour_force": 1807.6,
+      "unemployment_rate": 4,
+      "participation_rate": 68.7
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 1774.2,
+      "unemployed": 65.3,
+      "labour_force": 1839.5,
+      "unemployment_rate": 3.6,
+      "participation_rate": 69.5
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 1780.7,
+      "unemployed": 58.6,
+      "labour_force": 1839.3,
+      "unemployment_rate": 3.2,
+      "participation_rate": 68.8
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 1795,
+      "unemployed": 53.4,
+      "labour_force": 1848.4,
+      "unemployment_rate": 2.9,
+      "participation_rate": 69.4
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 1818.1,
+      "unemployed": 46.3,
+      "labour_force": 1864.4,
+      "unemployment_rate": 2.5,
+      "participation_rate": 69.7
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 1812.2,
+      "unemployed": 43.7,
+      "labour_force": 1856,
+      "unemployment_rate": 2.4,
+      "participation_rate": 69.3
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 1830.1,
+      "unemployed": 48.6,
+      "labour_force": 1878.7,
+      "unemployment_rate": 2.6,
+      "participation_rate": 69.8
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 1838.7,
+      "unemployed": 46,
+      "labour_force": 1884.6,
+      "unemployment_rate": 2.4,
+      "participation_rate": 69.9
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 1863.2,
+      "unemployed": 47,
+      "labour_force": 1910.2,
+      "unemployment_rate": 2.5,
+      "participation_rate": 70.6
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 1891.8,
+      "unemployed": 44.6,
+      "labour_force": 1936.4,
+      "unemployment_rate": 2.3,
+      "participation_rate": 71.1
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 2055.1,
+      "unemployed": 46.5,
+      "labour_force": 2101.6,
+      "unemployment_rate": 2.2,
+      "participation_rate": 71.1
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 2067.6,
+      "unemployed": 47.2,
+      "labour_force": 2114.8,
+      "unemployment_rate": 2.2,
+      "participation_rate": 71.6
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 2088.3,
+      "unemployed": 47.6,
+      "labour_force": 2135.9,
+      "unemployment_rate": 2.2,
+      "participation_rate": 71.6
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 2110.1,
+      "unemployed": 51.6,
+      "labour_force": 2161.6,
+      "unemployment_rate": 2.4,
+      "participation_rate": 71.8
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 2124.5,
+      "unemployed": 49.9,
+      "labour_force": 2174.3,
+      "unemployment_rate": 2.3,
+      "participation_rate": 71.7
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 2129.5,
+      "unemployed": 53.1,
+      "labour_force": 2182.7,
+      "unemployment_rate": 2.4,
+      "participation_rate": 71.8
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 2150.2,
+      "unemployed": 56.2,
+      "labour_force": 2206.3,
+      "unemployment_rate": 2.5,
+      "participation_rate": 71.8
+    }
+  ],
+  "Kedah": [
+    {
+      "date": "2017-01-01",
+      "employed": 910.8,
+      "unemployed": 23.6,
+      "labour_force": 934.4,
+      "unemployment_rate": 2.5,
+      "participation_rate": 65
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 921.4,
+      "unemployed": 28.8,
+      "labour_force": 950.2,
+      "unemployment_rate": 3,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 898.7,
+      "unemployed": 24.6,
+      "labour_force": 923.3,
+      "unemployment_rate": 2.7,
+      "participation_rate": 63.8
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 919.2,
+      "unemployed": 29.4,
+      "labour_force": 948.6,
+      "unemployment_rate": 3.1,
+      "participation_rate": 65.4
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 915.8,
+      "unemployed": 28.2,
+      "labour_force": 944.1,
+      "unemployment_rate": 3,
+      "participation_rate": 64.1
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 916.1,
+      "unemployed": 23.5,
+      "labour_force": 939.6,
+      "unemployment_rate": 2.5,
+      "participation_rate": 63.8
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 893.3,
+      "unemployed": 29,
+      "labour_force": 922.4,
+      "unemployment_rate": 3.1,
+      "participation_rate": 62.3
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 930.1,
+      "unemployed": 28.4,
+      "labour_force": 958.4,
+      "unemployment_rate": 3,
+      "participation_rate": 64.5
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 928.5,
+      "unemployed": 28.3,
+      "labour_force": 956.9,
+      "unemployment_rate": 3,
+      "participation_rate": 64.1
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 936.2,
+      "unemployed": 27,
+      "labour_force": 963.2,
+      "unemployment_rate": 2.8,
+      "participation_rate": 64
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 911.9,
+      "unemployed": 30.4,
+      "labour_force": 942.3,
+      "unemployment_rate": 3.2,
+      "participation_rate": 62.4
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 914.1,
+      "unemployed": 28.9,
+      "labour_force": 943,
+      "unemployment_rate": 3.1,
+      "participation_rate": 62.4
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 946.2,
+      "unemployed": 36,
+      "labour_force": 982.2,
+      "unemployment_rate": 3.7,
+      "participation_rate": 64.5
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 937.9,
+      "unemployed": 40.3,
+      "labour_force": 978.2,
+      "unemployment_rate": 4.1,
+      "participation_rate": 64
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 919.5,
+      "unemployed": 42.2,
+      "labour_force": 961.7,
+      "unemployment_rate": 4.4,
+      "participation_rate": 62.6
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 918.7,
+      "unemployed": 38.2,
+      "labour_force": 956.9,
+      "unemployment_rate": 4,
+      "participation_rate": 62.1
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 940.3,
+      "unemployed": 35.2,
+      "labour_force": 975.5,
+      "unemployment_rate": 3.6,
+      "participation_rate": 63.2
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 959,
+      "unemployed": 38.8,
+      "labour_force": 997.8,
+      "unemployment_rate": 3.9,
+      "participation_rate": 64.2
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 990.1,
+      "unemployed": 38.8,
+      "labour_force": 1028.9,
+      "unemployment_rate": 3.8,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 975.3,
+      "unemployed": 38.9,
+      "labour_force": 1014.2,
+      "unemployment_rate": 3.8,
+      "participation_rate": 64.9
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 997.3,
+      "unemployed": 35.2,
+      "labour_force": 1032.5,
+      "unemployment_rate": 3.4,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 999.8,
+      "unemployed": 34.3,
+      "labour_force": 1034.1,
+      "unemployment_rate": 3.3,
+      "participation_rate": 65.7
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 1017.3,
+      "unemployed": 31.2,
+      "labour_force": 1048.5,
+      "unemployment_rate": 3,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 1022.5,
+      "unemployed": 34.8,
+      "labour_force": 1057.3,
+      "unemployment_rate": 3.3,
+      "participation_rate": 66.2
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 1027.3,
+      "unemployed": 29.8,
+      "labour_force": 1057.1,
+      "unemployment_rate": 2.8,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 1036.7,
+      "unemployed": 28,
+      "labour_force": 1064.7,
+      "unemployment_rate": 2.6,
+      "participation_rate": 66.5
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 1043.8,
+      "unemployed": 24.6,
+      "labour_force": 1068.4,
+      "unemployment_rate": 2.3,
+      "participation_rate": 66.4
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 1060.2,
+      "unemployed": 22.5,
+      "labour_force": 1082.7,
+      "unemployment_rate": 2.1,
+      "participation_rate": 67
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 964,
+      "unemployed": 26.8,
+      "labour_force": 990.8,
+      "unemployment_rate": 2.7,
+      "participation_rate": 66.8
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 971,
+      "unemployed": 24.2,
+      "labour_force": 995.3,
+      "unemployment_rate": 2.4,
+      "participation_rate": 66.6
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 960.3,
+      "unemployed": 24.1,
+      "labour_force": 984.4,
+      "unemployment_rate": 2.5,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 965.3,
+      "unemployed": 23.8,
+      "labour_force": 989.2,
+      "unemployment_rate": 2.4,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 978.2,
+      "unemployed": 25.1,
+      "labour_force": 1003.3,
+      "unemployment_rate": 2.5,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 985.3,
+      "unemployed": 25.6,
+      "labour_force": 1010.9,
+      "unemployment_rate": 2.5,
+      "participation_rate": 66.5
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 978.2,
+      "unemployed": 24.5,
+      "labour_force": 1002.7,
+      "unemployment_rate": 2.4,
+      "participation_rate": 66.1
+    }
+  ],
+  "Kelantan": [
+    {
+      "date": "2017-01-01",
+      "employed": 669.9,
+      "unemployed": 23.8,
+      "labour_force": 693.7,
+      "unemployment_rate": 3.4,
+      "participation_rate": 61.1
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 694.5,
+      "unemployed": 21.5,
+      "labour_force": 716,
+      "unemployment_rate": 3,
+      "participation_rate": 62.5
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 665.1,
+      "unemployed": 23.9,
+      "labour_force": 689,
+      "unemployment_rate": 3.5,
+      "participation_rate": 60
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 682.3,
+      "unemployed": 30,
+      "labour_force": 712.3,
+      "unemployment_rate": 4.2,
+      "participation_rate": 61.6
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 695.3,
+      "unemployed": 28.9,
+      "labour_force": 724.2,
+      "unemployment_rate": 4,
+      "participation_rate": 61.4
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 677.3,
+      "unemployed": 34.3,
+      "labour_force": 711.6,
+      "unemployment_rate": 4.8,
+      "participation_rate": 60.6
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 675.1,
+      "unemployed": 31.2,
+      "labour_force": 706.3,
+      "unemployment_rate": 4.4,
+      "participation_rate": 59.8
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 693.2,
+      "unemployed": 34.1,
+      "labour_force": 727.3,
+      "unemployment_rate": 4.7,
+      "participation_rate": 61.1
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 685.7,
+      "unemployed": 31.4,
+      "labour_force": 717.1,
+      "unemployment_rate": 4.4,
+      "participation_rate": 60
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 661.9,
+      "unemployed": 34.3,
+      "labour_force": 696.2,
+      "unemployment_rate": 4.9,
+      "participation_rate": 57.7
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 680.6,
+      "unemployed": 36.3,
+      "labour_force": 716.9,
+      "unemployment_rate": 5.1,
+      "participation_rate": 59
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 701.2,
+      "unemployed": 37.4,
+      "labour_force": 738.6,
+      "unemployment_rate": 5.1,
+      "participation_rate": 60.2
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 702,
+      "unemployed": 30.4,
+      "labour_force": 732.4,
+      "unemployment_rate": 4.2,
+      "participation_rate": 59.7
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 692.9,
+      "unemployed": 30.7,
+      "labour_force": 723.6,
+      "unemployment_rate": 4.2,
+      "participation_rate": 58.7
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 683.2,
+      "unemployed": 32.7,
+      "labour_force": 715.8,
+      "unemployment_rate": 4.6,
+      "participation_rate": 57.7
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 675.3,
+      "unemployed": 28.6,
+      "labour_force": 703.9,
+      "unemployment_rate": 4.1,
+      "participation_rate": 56.4
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 667.8,
+      "unemployed": 30.5,
+      "labour_force": 698.3,
+      "unemployment_rate": 4.4,
+      "participation_rate": 55.4
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 687.4,
+      "unemployed": 34.5,
+      "labour_force": 721.9,
+      "unemployment_rate": 4.8,
+      "participation_rate": 57.1
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 709.7,
+      "unemployed": 37.9,
+      "labour_force": 747.6,
+      "unemployment_rate": 5.1,
+      "participation_rate": 58.9
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 737.2,
+      "unemployed": 36.2,
+      "labour_force": 773.5,
+      "unemployment_rate": 4.7,
+      "participation_rate": 60.7
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 757.3,
+      "unemployed": 30.6,
+      "labour_force": 787.9,
+      "unemployment_rate": 3.9,
+      "participation_rate": 61.5
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 760.8,
+      "unemployed": 30.3,
+      "labour_force": 791,
+      "unemployment_rate": 3.8,
+      "participation_rate": 61.3
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 763.1,
+      "unemployed": 28.9,
+      "labour_force": 792,
+      "unemployment_rate": 3.6,
+      "participation_rate": 61.1
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 768,
+      "unemployed": 32.8,
+      "labour_force": 800.7,
+      "unemployment_rate": 4.1,
+      "participation_rate": 61.3
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 773.8,
+      "unemployed": 31.3,
+      "labour_force": 805.2,
+      "unemployment_rate": 3.9,
+      "participation_rate": 61.4
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 776.4,
+      "unemployed": 31.8,
+      "labour_force": 808.2,
+      "unemployment_rate": 3.9,
+      "participation_rate": 61.3
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 784.7,
+      "unemployed": 33.9,
+      "labour_force": 818.6,
+      "unemployment_rate": 4.1,
+      "participation_rate": 61.7
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 796.6,
+      "unemployed": 33.1,
+      "labour_force": 829.7,
+      "unemployment_rate": 4,
+      "participation_rate": 62.1
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 680.3,
+      "unemployed": 28.3,
+      "labour_force": 708.6,
+      "unemployment_rate": 4,
+      "participation_rate": 58.4
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 694.4,
+      "unemployed": 26.7,
+      "labour_force": 721.1,
+      "unemployment_rate": 3.7,
+      "participation_rate": 58.9
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 707.4,
+      "unemployed": 28,
+      "labour_force": 735.4,
+      "unemployment_rate": 3.8,
+      "participation_rate": 59.9
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 706.6,
+      "unemployed": 32,
+      "labour_force": 738.6,
+      "unemployment_rate": 4.3,
+      "participation_rate": 59.9
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 707.8,
+      "unemployed": 30.8,
+      "labour_force": 738.7,
+      "unemployment_rate": 4.2,
+      "participation_rate": 59.5
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 715.3,
+      "unemployed": 32.9,
+      "labour_force": 748.2,
+      "unemployment_rate": 4.4,
+      "participation_rate": 59.7
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 717.8,
+      "unemployed": 34.4,
+      "labour_force": 752.1,
+      "unemployment_rate": 4.6,
+      "participation_rate": 59.8
+    }
+  ],
+  "Melaka": [
+    {
+      "date": "2017-01-01",
+      "employed": 406.4,
+      "unemployed": 5.8,
+      "labour_force": 412.2,
+      "unemployment_rate": 1.4,
+      "participation_rate": 65.9
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 403.4,
+      "unemployed": 3.4,
+      "labour_force": 406.8,
+      "unemployment_rate": 0.8,
+      "participation_rate": 64.3
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 409.9,
+      "unemployed": 2.4,
+      "labour_force": 412.3,
+      "unemployment_rate": 0.6,
+      "participation_rate": 65.5
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 411.2,
+      "unemployed": 4.8,
+      "labour_force": 416,
+      "unemployment_rate": 1.2,
+      "participation_rate": 66
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 418.3,
+      "unemployed": 3.7,
+      "labour_force": 422,
+      "unemployment_rate": 0.9,
+      "participation_rate": 66.9
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 419.2,
+      "unemployed": 5,
+      "labour_force": 424.2,
+      "unemployment_rate": 1.2,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 418.3,
+      "unemployed": 6.2,
+      "labour_force": 424.5,
+      "unemployment_rate": 1.5,
+      "participation_rate": 66.8
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 418.9,
+      "unemployed": 7.3,
+      "labour_force": 426.2,
+      "unemployment_rate": 1.7,
+      "participation_rate": 66.7
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 418.6,
+      "unemployed": 7.1,
+      "labour_force": 425.7,
+      "unemployment_rate": 1.7,
+      "participation_rate": 66.7
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 446.9,
+      "unemployed": 5.7,
+      "labour_force": 452.6,
+      "unemployment_rate": 1.3,
+      "participation_rate": 70.4
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 426.2,
+      "unemployed": 6.8,
+      "labour_force": 433,
+      "unemployment_rate": 1.6,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 428.7,
+      "unemployed": 7.1,
+      "labour_force": 435.9,
+      "unemployment_rate": 1.6,
+      "participation_rate": 67.6
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 438.9,
+      "unemployed": 5.5,
+      "labour_force": 444.4,
+      "unemployment_rate": 1.2,
+      "participation_rate": 68.7
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 430,
+      "unemployed": 9.7,
+      "labour_force": 439.6,
+      "unemployment_rate": 2.2,
+      "participation_rate": 67.6
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 415.5,
+      "unemployed": 10.6,
+      "labour_force": 426.1,
+      "unemployment_rate": 2.5,
+      "participation_rate": 65.9
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 416.5,
+      "unemployed": 16.1,
+      "labour_force": 432.6,
+      "unemployment_rate": 3.7,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 420.8,
+      "unemployed": 15.7,
+      "labour_force": 436.4,
+      "unemployment_rate": 3.6,
+      "participation_rate": 66.7
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 417.6,
+      "unemployed": 15.7,
+      "labour_force": 433.4,
+      "unemployment_rate": 3.6,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 440.5,
+      "unemployed": 13.8,
+      "labour_force": 454.3,
+      "unemployment_rate": 3,
+      "participation_rate": 68.2
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 447,
+      "unemployed": 14.2,
+      "labour_force": 461.2,
+      "unemployment_rate": 3.1,
+      "participation_rate": 69.4
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 439.5,
+      "unemployed": 13.6,
+      "labour_force": 453.1,
+      "unemployment_rate": 3,
+      "participation_rate": 68.3
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 448,
+      "unemployed": 15,
+      "labour_force": 463,
+      "unemployment_rate": 3.2,
+      "participation_rate": 68.7
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 451.1,
+      "unemployed": 12.1,
+      "labour_force": 463.2,
+      "unemployment_rate": 2.6,
+      "participation_rate": 69.1
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 441.9,
+      "unemployed": 12.3,
+      "labour_force": 454.2,
+      "unemployment_rate": 2.7,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 440.5,
+      "unemployed": 13.2,
+      "labour_force": 453.7,
+      "unemployment_rate": 2.9,
+      "participation_rate": 66.7
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 440,
+      "unemployed": 12.1,
+      "labour_force": 452.1,
+      "unemployment_rate": 2.7,
+      "participation_rate": 66.5
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 445.4,
+      "unemployed": 12.6,
+      "labour_force": 458,
+      "unemployment_rate": 2.8,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 450.1,
+      "unemployed": 11.8,
+      "labour_force": 461.9,
+      "unemployment_rate": 2.6,
+      "participation_rate": 67.5
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 504.1,
+      "unemployed": 10.1,
+      "labour_force": 514.1,
+      "unemployment_rate": 2,
+      "participation_rate": 69.6
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 514.6,
+      "unemployed": 9.2,
+      "labour_force": 523.8,
+      "unemployment_rate": 1.8,
+      "participation_rate": 70.5
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 511.6,
+      "unemployed": 9.5,
+      "labour_force": 521.1,
+      "unemployment_rate": 1.8,
+      "participation_rate": 69.9
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 510.7,
+      "unemployed": 11.7,
+      "labour_force": 522.4,
+      "unemployment_rate": 2.2,
+      "participation_rate": 69.6
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 514.6,
+      "unemployed": 9.9,
+      "labour_force": 524.5,
+      "unemployment_rate": 1.9,
+      "participation_rate": 69.1
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 519.5,
+      "unemployed": 11.4,
+      "labour_force": 530.9,
+      "unemployment_rate": 2.2,
+      "participation_rate": 69.3
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 521.6,
+      "unemployed": 13,
+      "labour_force": 534.6,
+      "unemployment_rate": 2.4,
+      "participation_rate": 69.2
+    }
+  ],
+  "Negeri Sembilan": [
+    {
+      "date": "2017-01-01",
+      "employed": 459.7,
+      "unemployed": 16.4,
+      "labour_force": 476.1,
+      "unemployment_rate": 3.4,
+      "participation_rate": 62.7
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 486.6,
+      "unemployed": 11.6,
+      "labour_force": 498.2,
+      "unemployment_rate": 2.3,
+      "participation_rate": 65.7
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 495.1,
+      "unemployed": 13.1,
+      "labour_force": 508.2,
+      "unemployment_rate": 2.6,
+      "participation_rate": 67
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 488.3,
+      "unemployed": 14.9,
+      "labour_force": 503.2,
+      "unemployment_rate": 3,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 499.2,
+      "unemployed": 16.3,
+      "labour_force": 515.6,
+      "unemployment_rate": 3.2,
+      "participation_rate": 67.3
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 480.5,
+      "unemployed": 17.6,
+      "labour_force": 498.2,
+      "unemployment_rate": 3.5,
+      "participation_rate": 65.2
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 485.3,
+      "unemployed": 17.2,
+      "labour_force": 502.6,
+      "unemployment_rate": 3.4,
+      "participation_rate": 65.4
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 489.7,
+      "unemployed": 14.5,
+      "labour_force": 504.2,
+      "unemployment_rate": 2.9,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 488,
+      "unemployed": 15,
+      "labour_force": 503,
+      "unemployment_rate": 3,
+      "participation_rate": 65.5
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 495.8,
+      "unemployed": 12.6,
+      "labour_force": 508.4,
+      "unemployment_rate": 2.5,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 487.7,
+      "unemployed": 10.7,
+      "labour_force": 498.4,
+      "unemployment_rate": 2.1,
+      "participation_rate": 64.3
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 500.5,
+      "unemployed": 13.2,
+      "labour_force": 513.8,
+      "unemployment_rate": 2.6,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 491,
+      "unemployed": 16.8,
+      "labour_force": 507.8,
+      "unemployment_rate": 3.3,
+      "participation_rate": 65.3
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 484.3,
+      "unemployed": 18.2,
+      "labour_force": 502.5,
+      "unemployment_rate": 3.6,
+      "participation_rate": 64.8
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 481.5,
+      "unemployed": 18.5,
+      "labour_force": 500,
+      "unemployment_rate": 3.7,
+      "participation_rate": 64.1
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 470.4,
+      "unemployed": 20.8,
+      "labour_force": 491.2,
+      "unemployment_rate": 4.2,
+      "participation_rate": 63.1
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 479.5,
+      "unemployed": 18.7,
+      "labour_force": 498.1,
+      "unemployment_rate": 3.7,
+      "participation_rate": 63.8
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 488.1,
+      "unemployed": 17.5,
+      "labour_force": 505.6,
+      "unemployment_rate": 3.5,
+      "participation_rate": 65.3
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 493.2,
+      "unemployed": 18.8,
+      "labour_force": 512,
+      "unemployment_rate": 3.7,
+      "participation_rate": 64.9
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 494,
+      "unemployed": 15.7,
+      "labour_force": 509.8,
+      "unemployment_rate": 3.1,
+      "participation_rate": 65
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 493.3,
+      "unemployed": 16.7,
+      "labour_force": 510,
+      "unemployment_rate": 3.3,
+      "participation_rate": 65.1
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 494.7,
+      "unemployed": 16.9,
+      "labour_force": 511.5,
+      "unemployment_rate": 3.3,
+      "participation_rate": 65.3
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 509.2,
+      "unemployed": 15.8,
+      "labour_force": 525,
+      "unemployment_rate": 3,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 518,
+      "unemployed": 14,
+      "labour_force": 532,
+      "unemployment_rate": 2.6,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 517.2,
+      "unemployed": 13.2,
+      "labour_force": 530.4,
+      "unemployment_rate": 2.5,
+      "participation_rate": 67.3
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 518.5,
+      "unemployed": 11.9,
+      "labour_force": 530.4,
+      "unemployment_rate": 2.3,
+      "participation_rate": 67
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 522.7,
+      "unemployed": 13,
+      "labour_force": 535.7,
+      "unemployment_rate": 2.4,
+      "participation_rate": 67.7
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 517.1,
+      "unemployed": 12.5,
+      "labour_force": 529.6,
+      "unemployment_rate": 2.4,
+      "participation_rate": 66.9
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 556.2,
+      "unemployed": 16,
+      "labour_force": 572.2,
+      "unemployment_rate": 2.8,
+      "participation_rate": 67.8
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 555.5,
+      "unemployed": 16.3,
+      "labour_force": 571.7,
+      "unemployment_rate": 2.8,
+      "participation_rate": 67.4
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 552.3,
+      "unemployed": 17.3,
+      "labour_force": 569.6,
+      "unemployment_rate": 3,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 558.2,
+      "unemployed": 16.9,
+      "labour_force": 575.1,
+      "unemployment_rate": 2.9,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 561.6,
+      "unemployed": 16.3,
+      "labour_force": 577.9,
+      "unemployment_rate": 2.8,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 566.3,
+      "unemployed": 16.7,
+      "labour_force": 583,
+      "unemployment_rate": 2.9,
+      "participation_rate": 67.3
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 567.8,
+      "unemployed": 17.3,
+      "labour_force": 585.1,
+      "unemployment_rate": 3,
+      "participation_rate": 67.4
+    }
+  ],
+  "Pahang": [
+    {
+      "date": "2017-01-01",
+      "employed": 697.2,
+      "unemployed": 18.6,
+      "labour_force": 715.9,
+      "unemployment_rate": 2.6,
+      "participation_rate": 65.9
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 695.4,
+      "unemployed": 21.6,
+      "labour_force": 717.1,
+      "unemployment_rate": 3,
+      "participation_rate": 65.6
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 690.6,
+      "unemployed": 24.1,
+      "labour_force": 714.8,
+      "unemployment_rate": 3.4,
+      "participation_rate": 65.6
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 689.7,
+      "unemployed": 19.1,
+      "labour_force": 708.8,
+      "unemployment_rate": 2.7,
+      "participation_rate": 64.9
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 715.2,
+      "unemployed": 19.8,
+      "labour_force": 735,
+      "unemployment_rate": 2.7,
+      "participation_rate": 66.6
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 726.5,
+      "unemployed": 16.9,
+      "labour_force": 743.4,
+      "unemployment_rate": 2.3,
+      "participation_rate": 67.3
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 720,
+      "unemployed": 15.7,
+      "labour_force": 735.7,
+      "unemployment_rate": 2.1,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 717.3,
+      "unemployed": 22.9,
+      "labour_force": 740.2,
+      "unemployment_rate": 3.1,
+      "participation_rate": 66.7
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 717.5,
+      "unemployed": 21.9,
+      "labour_force": 739.4,
+      "unemployment_rate": 3,
+      "participation_rate": 66.5
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 712.8,
+      "unemployed": 25.6,
+      "labour_force": 738.4,
+      "unemployment_rate": 3.5,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 724.5,
+      "unemployed": 18.3,
+      "labour_force": 742.8,
+      "unemployment_rate": 2.5,
+      "participation_rate": 66.4
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 742.8,
+      "unemployed": 16.3,
+      "labour_force": 759.1,
+      "unemployment_rate": 2.2,
+      "participation_rate": 67.8
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 733.7,
+      "unemployed": 23.1,
+      "labour_force": 756.8,
+      "unemployment_rate": 3,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 727.2,
+      "unemployed": 23.4,
+      "labour_force": 750.6,
+      "unemployment_rate": 3.1,
+      "participation_rate": 66.4
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 739.4,
+      "unemployed": 21.5,
+      "labour_force": 760.9,
+      "unemployment_rate": 2.8,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 694.9,
+      "unemployed": 23.6,
+      "labour_force": 718.6,
+      "unemployment_rate": 3.3,
+      "participation_rate": 63.2
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 706.9,
+      "unemployed": 26.7,
+      "labour_force": 733.6,
+      "unemployment_rate": 3.6,
+      "participation_rate": 64.3
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 707.3,
+      "unemployed": 26.1,
+      "labour_force": 733.4,
+      "unemployment_rate": 3.6,
+      "participation_rate": 64.9
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 723.6,
+      "unemployed": 28.2,
+      "labour_force": 751.8,
+      "unemployment_rate": 3.8,
+      "participation_rate": 65.5
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 711.6,
+      "unemployed": 24.2,
+      "labour_force": 735.8,
+      "unemployment_rate": 3.3,
+      "participation_rate": 64.1
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 732.4,
+      "unemployed": 18.4,
+      "labour_force": 750.7,
+      "unemployment_rate": 2.4,
+      "participation_rate": 65.4
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 725.6,
+      "unemployed": 20.2,
+      "labour_force": 745.8,
+      "unemployment_rate": 2.7,
+      "participation_rate": 64.8
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 722.9,
+      "unemployed": 21.6,
+      "labour_force": 744.5,
+      "unemployment_rate": 2.9,
+      "participation_rate": 64.7
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 736.5,
+      "unemployed": 20.7,
+      "labour_force": 757.2,
+      "unemployment_rate": 2.7,
+      "participation_rate": 65.6
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 741.1,
+      "unemployed": 19.4,
+      "labour_force": 760.6,
+      "unemployment_rate": 2.6,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 745.3,
+      "unemployed": 21.6,
+      "labour_force": 766.9,
+      "unemployment_rate": 2.8,
+      "participation_rate": 66
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 743.4,
+      "unemployed": 20.6,
+      "labour_force": 763.9,
+      "unemployment_rate": 2.7,
+      "participation_rate": 65.5
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 742.6,
+      "unemployed": 19.2,
+      "labour_force": 761.8,
+      "unemployment_rate": 2.5,
+      "participation_rate": 65.2
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 722,
+      "unemployed": 16.1,
+      "labour_force": 738,
+      "unemployment_rate": 2.2,
+      "participation_rate": 64.1
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 732.7,
+      "unemployed": 15.9,
+      "labour_force": 748.6,
+      "unemployment_rate": 2.1,
+      "participation_rate": 64.7
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 736.5,
+      "unemployed": 16.4,
+      "labour_force": 752.8,
+      "unemployment_rate": 2.2,
+      "participation_rate": 64.7
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 751.9,
+      "unemployed": 16.7,
+      "labour_force": 768.6,
+      "unemployment_rate": 2.2,
+      "participation_rate": 65.5
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 763.4,
+      "unemployed": 15.2,
+      "labour_force": 778.5,
+      "unemployment_rate": 1.9,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 769.6,
+      "unemployed": 14,
+      "labour_force": 783.6,
+      "unemployment_rate": 1.8,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 775,
+      "unemployed": 13.8,
+      "labour_force": 788.8,
+      "unemployment_rate": 1.7,
+      "participation_rate": 66
+    }
+  ],
+  "Pulau Pinang": [
+    {
+      "date": "2017-01-01",
+      "employed": 835.3,
+      "unemployed": 13.6,
+      "labour_force": 848.9,
+      "unemployment_rate": 1.6,
+      "participation_rate": 68.4
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 813.2,
+      "unemployed": 15.6,
+      "labour_force": 828.8,
+      "unemployment_rate": 1.9,
+      "participation_rate": 66.6
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 814.6,
+      "unemployed": 18.8,
+      "labour_force": 833.3,
+      "unemployment_rate": 2.3,
+      "participation_rate": 66.9
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 837.3,
+      "unemployed": 20,
+      "labour_force": 857.3,
+      "unemployment_rate": 2.3,
+      "participation_rate": 68.6
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 830.9,
+      "unemployed": 15.8,
+      "labour_force": 846.6,
+      "unemployment_rate": 1.9,
+      "participation_rate": 67.5
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 840.7,
+      "unemployed": 19.3,
+      "labour_force": 859.9,
+      "unemployment_rate": 2.2,
+      "participation_rate": 68.3
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 839.7,
+      "unemployed": 20.2,
+      "labour_force": 859.8,
+      "unemployment_rate": 2.3,
+      "participation_rate": 68
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 821.8,
+      "unemployed": 20.2,
+      "labour_force": 842,
+      "unemployment_rate": 2.4,
+      "participation_rate": 66.8
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 829.4,
+      "unemployed": 16.2,
+      "labour_force": 845.7,
+      "unemployment_rate": 1.9,
+      "participation_rate": 66.8
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 851.3,
+      "unemployed": 16.4,
+      "labour_force": 867.7,
+      "unemployment_rate": 1.9,
+      "participation_rate": 68.5
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 841.7,
+      "unemployed": 16,
+      "labour_force": 857.7,
+      "unemployment_rate": 1.9,
+      "participation_rate": 67.5
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 835,
+      "unemployed": 19,
+      "labour_force": 854,
+      "unemployment_rate": 2.2,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 850.7,
+      "unemployed": 18,
+      "labour_force": 868.8,
+      "unemployment_rate": 2.1,
+      "participation_rate": 68
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 822.7,
+      "unemployed": 37.2,
+      "labour_force": 859.9,
+      "unemployment_rate": 4.3,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 826,
+      "unemployed": 34.8,
+      "labour_force": 860.9,
+      "unemployment_rate": 4,
+      "participation_rate": 66.7
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 881.9,
+      "unemployed": 33.6,
+      "labour_force": 915.4,
+      "unemployment_rate": 3.7,
+      "participation_rate": 71.1
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 876.4,
+      "unemployed": 32.1,
+      "labour_force": 908.5,
+      "unemployment_rate": 3.5,
+      "participation_rate": 70.7
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 913.9,
+      "unemployed": 37.2,
+      "labour_force": 951.1,
+      "unemployment_rate": 3.9,
+      "participation_rate": 73.5
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 881.5,
+      "unemployed": 34,
+      "labour_force": 915.6,
+      "unemployment_rate": 3.7,
+      "participation_rate": 70.7
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 908.1,
+      "unemployed": 29.9,
+      "labour_force": 937.9,
+      "unemployment_rate": 3.2,
+      "participation_rate": 72.1
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 894.6,
+      "unemployed": 30.1,
+      "labour_force": 924.7,
+      "unemployment_rate": 3.3,
+      "participation_rate": 71.1
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 900.1,
+      "unemployed": 26.5,
+      "labour_force": 926.6,
+      "unemployment_rate": 2.9,
+      "participation_rate": 71.2
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 902.3,
+      "unemployed": 24.1,
+      "labour_force": 926.4,
+      "unemployment_rate": 2.6,
+      "participation_rate": 70.9
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 924.4,
+      "unemployed": 21.7,
+      "labour_force": 946.1,
+      "unemployment_rate": 2.3,
+      "participation_rate": 71.8
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 916,
+      "unemployed": 21.5,
+      "labour_force": 937.4,
+      "unemployment_rate": 2.3,
+      "participation_rate": 71.4
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 923.5,
+      "unemployed": 20.1,
+      "labour_force": 943.6,
+      "unemployment_rate": 2.1,
+      "participation_rate": 71.7
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 939.4,
+      "unemployed": 20.4,
+      "labour_force": 959.8,
+      "unemployment_rate": 2.1,
+      "participation_rate": 72.5
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 946,
+      "unemployed": 19.7,
+      "labour_force": 965.7,
+      "unemployment_rate": 2,
+      "participation_rate": 73.3
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 936.7,
+      "unemployed": 20,
+      "labour_force": 956.7,
+      "unemployment_rate": 2.1,
+      "participation_rate": 72.3
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 933.9,
+      "unemployed": 17.7,
+      "labour_force": 951.6,
+      "unemployment_rate": 1.9,
+      "participation_rate": 72.3
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 919,
+      "unemployed": 21.6,
+      "labour_force": 940.5,
+      "unemployment_rate": 2.3,
+      "participation_rate": 71.4
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 914.1,
+      "unemployed": 24.1,
+      "labour_force": 938.2,
+      "unemployment_rate": 2.6,
+      "participation_rate": 71
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 923.2,
+      "unemployed": 24.1,
+      "labour_force": 947.3,
+      "unemployment_rate": 2.5,
+      "participation_rate": 71.1
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 931,
+      "unemployed": 24.2,
+      "labour_force": 955.2,
+      "unemployment_rate": 2.5,
+      "participation_rate": 71.2
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 934.2,
+      "unemployed": 26.2,
+      "labour_force": 960.4,
+      "unemployment_rate": 2.7,
+      "participation_rate": 71.3
+    }
+  ],
+  "Perak": [
+    {
+      "date": "2017-01-01",
+      "employed": 1006.6,
+      "unemployed": 45.2,
+      "labour_force": 1051.8,
+      "unemployment_rate": 4.3,
+      "participation_rate": 63.1
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 1018.9,
+      "unemployed": 43.8,
+      "labour_force": 1062.8,
+      "unemployment_rate": 4.1,
+      "participation_rate": 63.7
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 1013.8,
+      "unemployed": 31.8,
+      "labour_force": 1045.7,
+      "unemployment_rate": 3,
+      "participation_rate": 62.9
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 999,
+      "unemployed": 44.2,
+      "labour_force": 1043.2,
+      "unemployment_rate": 4.2,
+      "participation_rate": 62.6
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 1010,
+      "unemployed": 46.3,
+      "labour_force": 1056.4,
+      "unemployment_rate": 4.4,
+      "participation_rate": 62.4
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 1028.7,
+      "unemployed": 36.9,
+      "labour_force": 1065.5,
+      "unemployment_rate": 3.5,
+      "participation_rate": 63.3
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 1086.9,
+      "unemployed": 28.1,
+      "labour_force": 1115.1,
+      "unemployment_rate": 2.5,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 1030.4,
+      "unemployed": 29.5,
+      "labour_force": 1060,
+      "unemployment_rate": 2.8,
+      "participation_rate": 62.6
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 1044.7,
+      "unemployed": 44.1,
+      "labour_force": 1088.8,
+      "unemployment_rate": 4.1,
+      "participation_rate": 64.3
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 1016.2,
+      "unemployed": 49.6,
+      "labour_force": 1065.8,
+      "unemployment_rate": 4.7,
+      "participation_rate": 62.8
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 1051.8,
+      "unemployed": 43.9,
+      "labour_force": 1095.7,
+      "unemployment_rate": 4,
+      "participation_rate": 64.5
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 1052.1,
+      "unemployed": 51,
+      "labour_force": 1103.1,
+      "unemployment_rate": 4.6,
+      "participation_rate": 65
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 1063.7,
+      "unemployed": 46.2,
+      "labour_force": 1110,
+      "unemployment_rate": 4.2,
+      "participation_rate": 64.6
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 1034.8,
+      "unemployed": 59.4,
+      "labour_force": 1094.2,
+      "unemployment_rate": 5.4,
+      "participation_rate": 64.2
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 1062.3,
+      "unemployed": 53.1,
+      "labour_force": 1115.4,
+      "unemployment_rate": 4.8,
+      "participation_rate": 65.1
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 1035.8,
+      "unemployed": 52.9,
+      "labour_force": 1088.8,
+      "unemployment_rate": 4.9,
+      "participation_rate": 63.6
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 1038.9,
+      "unemployed": 49.5,
+      "labour_force": 1088.4,
+      "unemployment_rate": 4.6,
+      "participation_rate": 63.5
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 1075.2,
+      "unemployed": 49.7,
+      "labour_force": 1124.8,
+      "unemployment_rate": 4.4,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 1060.7,
+      "unemployed": 52.9,
+      "labour_force": 1113.7,
+      "unemployment_rate": 4.8,
+      "participation_rate": 65.1
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 1062.8,
+      "unemployed": 47.9,
+      "labour_force": 1110.7,
+      "unemployment_rate": 4.3,
+      "participation_rate": 64.5
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 1085.6,
+      "unemployed": 42.7,
+      "labour_force": 1128.3,
+      "unemployment_rate": 3.8,
+      "participation_rate": 65.6
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 1103,
+      "unemployed": 40.7,
+      "labour_force": 1143.7,
+      "unemployment_rate": 3.6,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 1114.2,
+      "unemployed": 35.3,
+      "labour_force": 1149.4,
+      "unemployment_rate": 3.1,
+      "participation_rate": 66.5
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 1090.8,
+      "unemployed": 31.9,
+      "labour_force": 1122.7,
+      "unemployment_rate": 2.8,
+      "participation_rate": 65.2
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 1085.7,
+      "unemployed": 35.5,
+      "labour_force": 1121.2,
+      "unemployment_rate": 3.2,
+      "participation_rate": 65
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 1084.3,
+      "unemployed": 36.2,
+      "labour_force": 1120.5,
+      "unemployment_rate": 3.2,
+      "participation_rate": 64.9
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 1085.2,
+      "unemployed": 36.6,
+      "labour_force": 1121.8,
+      "unemployment_rate": 3.3,
+      "participation_rate": 64.8
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 1092.5,
+      "unemployed": 37.8,
+      "labour_force": 1130.3,
+      "unemployment_rate": 3.3,
+      "participation_rate": 65.2
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 1165.2,
+      "unemployed": 41.7,
+      "labour_force": 1206.9,
+      "unemployment_rate": 3.5,
+      "participation_rate": 68.5
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 1155.6,
+      "unemployed": 37.6,
+      "labour_force": 1193.2,
+      "unemployment_rate": 3.2,
+      "participation_rate": 67.5
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 1156.3,
+      "unemployed": 38.5,
+      "labour_force": 1194.7,
+      "unemployment_rate": 3.2,
+      "participation_rate": 67.4
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 1146.6,
+      "unemployed": 39.8,
+      "labour_force": 1186.4,
+      "unemployment_rate": 3.4,
+      "participation_rate": 66.5
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 1168.7,
+      "unemployed": 38.2,
+      "labour_force": 1206.9,
+      "unemployment_rate": 3.2,
+      "participation_rate": 67.3
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 1170.6,
+      "unemployed": 41.5,
+      "labour_force": 1212.1,
+      "unemployment_rate": 3.4,
+      "participation_rate": 67.4
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 1179.5,
+      "unemployed": 45.3,
+      "labour_force": 1224.8,
+      "unemployment_rate": 3.7,
+      "participation_rate": 67.7
+    }
+  ],
+  "Perlis": [
+    {
+      "date": "2017-01-01",
+      "employed": 98.6,
+      "unemployed": 2.6,
+      "labour_force": 101.2,
+      "unemployment_rate": 2.6,
+      "participation_rate": 59.7
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 95.2,
+      "unemployed": 3.8,
+      "labour_force": 99,
+      "unemployment_rate": 3.8,
+      "participation_rate": 58.3
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 100.2,
+      "unemployed": 4.3,
+      "labour_force": 104.5,
+      "unemployment_rate": 4.1,
+      "participation_rate": 61.4
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 100.3,
+      "unemployed": 3.2,
+      "labour_force": 103.5,
+      "unemployment_rate": 3.1,
+      "participation_rate": 60.3
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 104.6,
+      "unemployed": 2.6,
+      "labour_force": 107.2,
+      "unemployment_rate": 2.4,
+      "participation_rate": 63.7
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 110.4,
+      "unemployed": 4,
+      "labour_force": 114.4,
+      "unemployment_rate": 3.5,
+      "participation_rate": 66.6
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 105.4,
+      "unemployed": 4.9,
+      "labour_force": 110.3,
+      "unemployment_rate": 4.4,
+      "participation_rate": 64.3
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 104.3,
+      "unemployed": 5,
+      "labour_force": 109.4,
+      "unemployment_rate": 4.6,
+      "participation_rate": 63.1
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 108.1,
+      "unemployed": 5.7,
+      "labour_force": 113.8,
+      "unemployment_rate": 5,
+      "participation_rate": 65.6
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 110.5,
+      "unemployed": 4.3,
+      "labour_force": 114.8,
+      "unemployment_rate": 3.8,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 106.9,
+      "unemployed": 4.1,
+      "labour_force": 111,
+      "unemployment_rate": 3.7,
+      "participation_rate": 63.6
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 112.4,
+      "unemployed": 2.3,
+      "labour_force": 114.7,
+      "unemployment_rate": 2,
+      "participation_rate": 65.5
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 112,
+      "unemployed": 4.2,
+      "labour_force": 116.3,
+      "unemployment_rate": 3.6,
+      "participation_rate": 67
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 110,
+      "unemployed": 4.8,
+      "labour_force": 114.8,
+      "unemployment_rate": 4.2,
+      "participation_rate": 65.9
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 99.3,
+      "unemployed": 4.9,
+      "labour_force": 104.2,
+      "unemployment_rate": 4.7,
+      "participation_rate": 59.3
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 106,
+      "unemployed": 5.7,
+      "labour_force": 111.7,
+      "unemployment_rate": 5.1,
+      "participation_rate": 63
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 105,
+      "unemployed": 5.8,
+      "labour_force": 110.8,
+      "unemployment_rate": 5.3,
+      "participation_rate": 62.6
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 111.2,
+      "unemployed": 6.2,
+      "labour_force": 117.4,
+      "unemployment_rate": 5.3,
+      "participation_rate": 65.3
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 107.5,
+      "unemployed": 5.5,
+      "labour_force": 113,
+      "unemployment_rate": 4.9,
+      "participation_rate": 63.8
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 111.2,
+      "unemployed": 4.9,
+      "labour_force": 116.1,
+      "unemployment_rate": 4.2,
+      "participation_rate": 64.5
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 111.4,
+      "unemployed": 3.9,
+      "labour_force": 115.3,
+      "unemployment_rate": 3.4,
+      "participation_rate": 64.7
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 112.3,
+      "unemployed": 3.8,
+      "labour_force": 116,
+      "unemployment_rate": 3.3,
+      "participation_rate": 64.9
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 116,
+      "unemployed": 3,
+      "labour_force": 119,
+      "unemployment_rate": 2.5,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 115.6,
+      "unemployed": 2.6,
+      "labour_force": 118.2,
+      "unemployment_rate": 2.2,
+      "participation_rate": 65.4
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 115.8,
+      "unemployed": 2.5,
+      "labour_force": 118.3,
+      "unemployment_rate": 2.1,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 117,
+      "unemployed": 2.7,
+      "labour_force": 119.7,
+      "unemployment_rate": 2.2,
+      "participation_rate": 65.8
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 118.4,
+      "unemployed": 2.9,
+      "labour_force": 121.2,
+      "unemployment_rate": 2.4,
+      "participation_rate": 66.4
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 117.6,
+      "unemployed": 2.4,
+      "labour_force": 120,
+      "unemployment_rate": 2,
+      "participation_rate": 66
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 130.8,
+      "unemployed": 6.4,
+      "labour_force": 137.2,
+      "unemployment_rate": 4.7,
+      "participation_rate": 63.1
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 130.3,
+      "unemployed": 5.2,
+      "labour_force": 135.5,
+      "unemployment_rate": 3.8,
+      "participation_rate": 63.2
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 130.4,
+      "unemployed": 5.1,
+      "labour_force": 135.5,
+      "unemployment_rate": 3.8,
+      "participation_rate": 63.1
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 129.9,
+      "unemployed": 4.9,
+      "labour_force": 134.8,
+      "unemployment_rate": 3.7,
+      "participation_rate": 62.5
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 133,
+      "unemployed": 4.5,
+      "labour_force": 137.6,
+      "unemployment_rate": 3.3,
+      "participation_rate": 63.3
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 133.7,
+      "unemployed": 4.6,
+      "labour_force": 138.3,
+      "unemployment_rate": 3.3,
+      "participation_rate": 63.4
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 133,
+      "unemployed": 4.4,
+      "labour_force": 137.4,
+      "unemployment_rate": 3.2,
+      "participation_rate": 63
+    }
+  ],
+  "Selangor": [
+    {
+      "date": "2017-01-01",
+      "employed": 3223.1,
+      "unemployed": 113.4,
+      "labour_force": 3336.5,
+      "unemployment_rate": 3.4,
+      "participation_rate": 73.6
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 3284.2,
+      "unemployed": 88,
+      "labour_force": 3372.2,
+      "unemployment_rate": 2.6,
+      "participation_rate": 73.9
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 3397.8,
+      "unemployed": 94.8,
+      "labour_force": 3492.5,
+      "unemployment_rate": 2.7,
+      "participation_rate": 76.1
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 3411.4,
+      "unemployed": 90.9,
+      "labour_force": 3502.3,
+      "unemployment_rate": 2.6,
+      "participation_rate": 76.1
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 3363.1,
+      "unemployed": 77.8,
+      "labour_force": 3440.9,
+      "unemployment_rate": 2.3,
+      "participation_rate": 74.5
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 3429.4,
+      "unemployed": 106.9,
+      "labour_force": 3536.4,
+      "unemployment_rate": 3,
+      "participation_rate": 76.1
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 3507.3,
+      "unemployed": 106,
+      "labour_force": 3613.3,
+      "unemployment_rate": 2.9,
+      "participation_rate": 77.4
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 3399.8,
+      "unemployed": 113.4,
+      "labour_force": 3513.2,
+      "unemployment_rate": 3.2,
+      "participation_rate": 75.1
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 3412.1,
+      "unemployed": 102.7,
+      "labour_force": 3514.8,
+      "unemployment_rate": 2.9,
+      "participation_rate": 74.8
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 3407.6,
+      "unemployed": 86.6,
+      "labour_force": 3494.2,
+      "unemployment_rate": 2.5,
+      "participation_rate": 74
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 3651.4,
+      "unemployed": 76.9,
+      "labour_force": 3728.3,
+      "unemployment_rate": 2.1,
+      "participation_rate": 78.6
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 3559.9,
+      "unemployed": 88.3,
+      "labour_force": 3648.3,
+      "unemployment_rate": 2.4,
+      "participation_rate": 76.5
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 3443.8,
+      "unemployed": 80.1,
+      "labour_force": 3523.9,
+      "unemployment_rate": 2.3,
+      "participation_rate": 73.6
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 3367.7,
+      "unemployed": 161.3,
+      "labour_force": 3529,
+      "unemployment_rate": 4.6,
+      "participation_rate": 73.4
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 3511.9,
+      "unemployed": 177.7,
+      "labour_force": 3689.6,
+      "unemployment_rate": 4.8,
+      "participation_rate": 76.2
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 3707,
+      "unemployed": 174.9,
+      "labour_force": 3881.9,
+      "unemployment_rate": 4.5,
+      "participation_rate": 79.8
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 3708.5,
+      "unemployed": 173.2,
+      "labour_force": 3881.8,
+      "unemployment_rate": 4.5,
+      "participation_rate": 78.8
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 3550.5,
+      "unemployed": 165,
+      "labour_force": 3715.6,
+      "unemployment_rate": 4.4,
+      "participation_rate": 74.9
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 3583.9,
+      "unemployed": 132,
+      "labour_force": 3715.9,
+      "unemployment_rate": 3.6,
+      "participation_rate": 74.7
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 3553.3,
+      "unemployed": 105.3,
+      "labour_force": 3658.6,
+      "unemployment_rate": 2.9,
+      "participation_rate": 74.1
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 3597.5,
+      "unemployed": 118.1,
+      "labour_force": 3715.6,
+      "unemployment_rate": 3.2,
+      "participation_rate": 75.1
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 3649.7,
+      "unemployed": 110.8,
+      "labour_force": 3760.5,
+      "unemployment_rate": 2.9,
+      "participation_rate": 75.7
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 3647.1,
+      "unemployed": 119.7,
+      "labour_force": 3766.9,
+      "unemployment_rate": 3.2,
+      "participation_rate": 75.5
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 3697.4,
+      "unemployed": 112.2,
+      "labour_force": 3809.6,
+      "unemployment_rate": 2.9,
+      "participation_rate": 75.9
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 3750.9,
+      "unemployed": 99.7,
+      "labour_force": 3850.6,
+      "unemployment_rate": 2.6,
+      "participation_rate": 76.5
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 3791.3,
+      "unemployed": 95.3,
+      "labour_force": 3886.6,
+      "unemployment_rate": 2.5,
+      "participation_rate": 77.1
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 3814.4,
+      "unemployed": 89.7,
+      "labour_force": 3904.1,
+      "unemployment_rate": 2.3,
+      "participation_rate": 77
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 3813.2,
+      "unemployed": 88,
+      "labour_force": 3901.2,
+      "unemployment_rate": 2.3,
+      "participation_rate": 76.2
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 3926.8,
+      "unemployed": 94.4,
+      "labour_force": 4021.2,
+      "unemployment_rate": 2.3,
+      "participation_rate": 77
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 3937,
+      "unemployed": 108.5,
+      "labour_force": 4045.4,
+      "unemployment_rate": 2.7,
+      "participation_rate": 76.6
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 4018.4,
+      "unemployed": 104.6,
+      "labour_force": 4123,
+      "unemployment_rate": 2.5,
+      "participation_rate": 76.7
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 4039.6,
+      "unemployed": 80.7,
+      "labour_force": 4120.3,
+      "unemployment_rate": 2,
+      "participation_rate": 77.4
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 4061.1,
+      "unemployed": 90.4,
+      "labour_force": 4151.6,
+      "unemployment_rate": 2.2,
+      "participation_rate": 77.9
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 4101.4,
+      "unemployed": 81.1,
+      "labour_force": 4182.5,
+      "unemployment_rate": 1.9,
+      "participation_rate": 78
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 4132,
+      "unemployed": 77.5,
+      "labour_force": 4209.5,
+      "unemployment_rate": 1.8,
+      "participation_rate": 78.2
+    }
+  ],
+  "Terengganu": [
+    {
+      "date": "2017-01-01",
+      "employed": 447.2,
+      "unemployed": 19.8,
+      "labour_force": 467,
+      "unemployment_rate": 4.2,
+      "participation_rate": 61.6
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 432.1,
+      "unemployed": 23.6,
+      "labour_force": 455.7,
+      "unemployment_rate": 5.2,
+      "participation_rate": 60.1
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 430.1,
+      "unemployed": 24.1,
+      "labour_force": 454.2,
+      "unemployment_rate": 5.3,
+      "participation_rate": 59.5
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 442.9,
+      "unemployed": 24.5,
+      "labour_force": 467.4,
+      "unemployment_rate": 5.2,
+      "participation_rate": 60.7
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 446.1,
+      "unemployed": 22.4,
+      "labour_force": 468.5,
+      "unemployment_rate": 4.8,
+      "participation_rate": 60.4
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 442.4,
+      "unemployed": 26,
+      "labour_force": 468.4,
+      "unemployment_rate": 5.6,
+      "participation_rate": 60.2
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 451.4,
+      "unemployed": 23.5,
+      "labour_force": 474.9,
+      "unemployment_rate": 4.9,
+      "participation_rate": 60.4
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 458.7,
+      "unemployed": 19.8,
+      "labour_force": 478.5,
+      "unemployment_rate": 4.1,
+      "participation_rate": 60.6
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 463.7,
+      "unemployed": 19.4,
+      "labour_force": 483.1,
+      "unemployment_rate": 4,
+      "participation_rate": 60.8
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 465.9,
+      "unemployed": 19.2,
+      "labour_force": 485.1,
+      "unemployment_rate": 4,
+      "participation_rate": 60.9
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 481,
+      "unemployed": 15.7,
+      "labour_force": 496.8,
+      "unemployment_rate": 3.2,
+      "participation_rate": 61.9
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 478.7,
+      "unemployed": 16.2,
+      "labour_force": 495,
+      "unemployment_rate": 3.3,
+      "participation_rate": 61.3
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 487.1,
+      "unemployed": 16.7,
+      "labour_force": 503.8,
+      "unemployment_rate": 3.3,
+      "participation_rate": 62
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 469.8,
+      "unemployed": 18.5,
+      "labour_force": 488.3,
+      "unemployment_rate": 3.8,
+      "participation_rate": 59.8
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 440.7,
+      "unemployed": 17.8,
+      "labour_force": 458.5,
+      "unemployment_rate": 3.9,
+      "participation_rate": 55.9
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 466.2,
+      "unemployed": 19.2,
+      "labour_force": 485.4,
+      "unemployment_rate": 4,
+      "participation_rate": 59
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 474.2,
+      "unemployed": 18.3,
+      "labour_force": 492.4,
+      "unemployment_rate": 3.7,
+      "participation_rate": 59.5
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 460.5,
+      "unemployed": 20,
+      "labour_force": 480.5,
+      "unemployment_rate": 4.2,
+      "participation_rate": 57.2
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 451.8,
+      "unemployed": 20.9,
+      "labour_force": 472.7,
+      "unemployment_rate": 4.4,
+      "participation_rate": 56.6
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 464.7,
+      "unemployed": 19.9,
+      "labour_force": 484.6,
+      "unemployment_rate": 4.1,
+      "participation_rate": 57.5
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 476.3,
+      "unemployed": 22.6,
+      "labour_force": 498.8,
+      "unemployment_rate": 4.5,
+      "participation_rate": 58.9
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 479.4,
+      "unemployed": 22.2,
+      "labour_force": 501.6,
+      "unemployment_rate": 4.4,
+      "participation_rate": 59
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 482.1,
+      "unemployed": 21.9,
+      "labour_force": 504,
+      "unemployment_rate": 4.3,
+      "participation_rate": 58.8
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 492,
+      "unemployed": 22.4,
+      "labour_force": 514.4,
+      "unemployment_rate": 4.3,
+      "participation_rate": 59.8
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 499.4,
+      "unemployed": 21.7,
+      "labour_force": 521,
+      "unemployment_rate": 4.2,
+      "participation_rate": 60.3
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 502.3,
+      "unemployed": 23.6,
+      "labour_force": 525.9,
+      "unemployment_rate": 4.5,
+      "participation_rate": 60.5
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 500.1,
+      "unemployed": 23.2,
+      "labour_force": 523.3,
+      "unemployment_rate": 4.4,
+      "participation_rate": 60.1
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 500.1,
+      "unemployed": 24.2,
+      "labour_force": 524.3,
+      "unemployment_rate": 4.6,
+      "participation_rate": 60
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 474,
+      "unemployed": 18.9,
+      "labour_force": 492.9,
+      "unemployment_rate": 3.8,
+      "participation_rate": 60.7
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 477.8,
+      "unemployed": 17.1,
+      "labour_force": 494.9,
+      "unemployment_rate": 3.4,
+      "participation_rate": 60.9
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 476.9,
+      "unemployed": 14.9,
+      "labour_force": 491.8,
+      "unemployment_rate": 3,
+      "participation_rate": 60.3
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 485.8,
+      "unemployed": 16.9,
+      "labour_force": 502.7,
+      "unemployment_rate": 3.4,
+      "participation_rate": 61.2
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 483.7,
+      "unemployed": 14.6,
+      "labour_force": 498.2,
+      "unemployment_rate": 2.9,
+      "participation_rate": 60.4
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 490.6,
+      "unemployed": 14,
+      "labour_force": 504.5,
+      "unemployment_rate": 2.8,
+      "participation_rate": 60.9
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 493,
+      "unemployed": 14.6,
+      "labour_force": 507.6,
+      "unemployment_rate": 2.9,
+      "participation_rate": 60.8
+    }
+  ],
+  "Sabah": [
+    {
+      "date": "2017-01-01",
+      "employed": 1794.8,
+      "unemployed": 105,
+      "labour_force": 1899.7,
+      "unemployment_rate": 5.5,
+      "participation_rate": 68.6
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 1774.5,
+      "unemployed": 111,
+      "labour_force": 1885.5,
+      "unemployment_rate": 5.9,
+      "participation_rate": 67.8
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 1790.2,
+      "unemployed": 120.5,
+      "labour_force": 1910.7,
+      "unemployment_rate": 6.3,
+      "participation_rate": 68.5
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 1766.7,
+      "unemployed": 113.8,
+      "labour_force": 1880.5,
+      "unemployment_rate": 6.1,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 1830.1,
+      "unemployed": 128.5,
+      "labour_force": 1958.6,
+      "unemployment_rate": 6.6,
+      "participation_rate": 69.4
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 1841.3,
+      "unemployed": 103.1,
+      "labour_force": 1944.4,
+      "unemployment_rate": 5.3,
+      "participation_rate": 68.6
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 1771.2,
+      "unemployed": 124.2,
+      "labour_force": 1895.4,
+      "unemployment_rate": 6.6,
+      "participation_rate": 66.5
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 1922.7,
+      "unemployed": 108.3,
+      "labour_force": 2031,
+      "unemployment_rate": 5.3,
+      "participation_rate": 71
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 1926.2,
+      "unemployed": 107.2,
+      "labour_force": 2033.5,
+      "unemployment_rate": 5.3,
+      "participation_rate": 70.7
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 1882.4,
+      "unemployed": 122.2,
+      "labour_force": 2004.6,
+      "unemployment_rate": 6.1,
+      "participation_rate": 69.3
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 1910.2,
+      "unemployed": 136.5,
+      "labour_force": 2046.8,
+      "unemployment_rate": 6.7,
+      "participation_rate": 70.5
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 1999.8,
+      "unemployed": 114.3,
+      "labour_force": 2114.1,
+      "unemployment_rate": 5.4,
+      "participation_rate": 72.4
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 1990.9,
+      "unemployed": 143,
+      "labour_force": 2133.9,
+      "unemployment_rate": 6.7,
+      "participation_rate": 72.7
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 1938.1,
+      "unemployed": 194.2,
+      "labour_force": 2132.3,
+      "unemployment_rate": 9.1,
+      "participation_rate": 72.3
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 1876.9,
+      "unemployed": 175.8,
+      "labour_force": 2052.7,
+      "unemployment_rate": 8.6,
+      "participation_rate": 69.2
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 1817.8,
+      "unemployed": 166.7,
+      "labour_force": 1984.6,
+      "unemployment_rate": 8.4,
+      "participation_rate": 66.6
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 1839.4,
+      "unemployed": 180.2,
+      "labour_force": 2019.6,
+      "unemployment_rate": 8.9,
+      "participation_rate": 67.5
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 1829.3,
+      "unemployed": 175.1,
+      "labour_force": 2004.4,
+      "unemployment_rate": 8.7,
+      "participation_rate": 66.7
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 1803.5,
+      "unemployed": 178.6,
+      "labour_force": 1982.1,
+      "unemployment_rate": 9,
+      "participation_rate": 65.9
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 1861.7,
+      "unemployed": 184.2,
+      "labour_force": 2045.9,
+      "unemployment_rate": 9,
+      "participation_rate": 67.5
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 1871.1,
+      "unemployed": 188.3,
+      "labour_force": 2059.5,
+      "unemployment_rate": 9.1,
+      "participation_rate": 67.7
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 1885.9,
+      "unemployed": 177,
+      "labour_force": 2062.9,
+      "unemployment_rate": 8.6,
+      "participation_rate": 67.5
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 1948.2,
+      "unemployed": 174.2,
+      "labour_force": 2122.4,
+      "unemployment_rate": 8.2,
+      "participation_rate": 69
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 1999.8,
+      "unemployed": 176.7,
+      "labour_force": 2176.5,
+      "unemployment_rate": 8.1,
+      "participation_rate": 70.6
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 2028.2,
+      "unemployed": 169.8,
+      "labour_force": 2198,
+      "unemployment_rate": 7.7,
+      "participation_rate": 70.6
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 2038.1,
+      "unemployed": 165.6,
+      "labour_force": 2203.7,
+      "unemployment_rate": 7.5,
+      "participation_rate": 70.8
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 2045.2,
+      "unemployed": 166.3,
+      "labour_force": 2211.5,
+      "unemployment_rate": 7.5,
+      "participation_rate": 70.6
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 2061.2,
+      "unemployed": 165.6,
+      "labour_force": 2226.9,
+      "unemployment_rate": 7.4,
+      "participation_rate": 70.7
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 1674.2,
+      "unemployed": 144.5,
+      "labour_force": 1818.7,
+      "unemployment_rate": 7.9,
+      "participation_rate": 70.2
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 1710.1,
+      "unemployed": 139.7,
+      "labour_force": 1849.7,
+      "unemployment_rate": 7.5,
+      "participation_rate": 71
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 1720.2,
+      "unemployed": 140.9,
+      "labour_force": 1861.1,
+      "unemployment_rate": 7.6,
+      "participation_rate": 71.4
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 1750.7,
+      "unemployed": 136.6,
+      "labour_force": 1887.3,
+      "unemployment_rate": 7.2,
+      "participation_rate": 70.9
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 1775.8,
+      "unemployed": 126.6,
+      "labour_force": 1902.4,
+      "unemployment_rate": 6.7,
+      "participation_rate": 70.4
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 1813.1,
+      "unemployed": 120.3,
+      "labour_force": 1933.4,
+      "unemployment_rate": 6.2,
+      "participation_rate": 70.4
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 1839.9,
+      "unemployed": 110.3,
+      "labour_force": 1950.2,
+      "unemployment_rate": 5.7,
+      "participation_rate": 70.5
+    }
+  ],
+  "Sarawak": [
+    {
+      "date": "2017-01-01",
+      "employed": 1279.6,
+      "unemployed": 42.6,
+      "labour_force": 1322.3,
+      "unemployment_rate": 3.2,
+      "participation_rate": 69.7
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 1252.2,
+      "unemployed": 44.1,
+      "labour_force": 1296.2,
+      "unemployment_rate": 3.4,
+      "participation_rate": 67.9
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 1227.5,
+      "unemployed": 38.4,
+      "labour_force": 1265.9,
+      "unemployment_rate": 3,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 1270.7,
+      "unemployed": 34,
+      "labour_force": 1304.7,
+      "unemployment_rate": 2.6,
+      "participation_rate": 67.9
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 1245.7,
+      "unemployed": 42.2,
+      "labour_force": 1288,
+      "unemployment_rate": 3.3,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 1263.1,
+      "unemployed": 44,
+      "labour_force": 1307.1,
+      "unemployment_rate": 3.4,
+      "participation_rate": 67.6
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 1294,
+      "unemployed": 39.2,
+      "labour_force": 1333.2,
+      "unemployment_rate": 2.9,
+      "participation_rate": 68.7
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 1328,
+      "unemployed": 42.2,
+      "labour_force": 1370.2,
+      "unemployment_rate": 3.1,
+      "participation_rate": 69.7
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 1334.1,
+      "unemployed": 46.1,
+      "labour_force": 1380.2,
+      "unemployment_rate": 3.3,
+      "participation_rate": 70.2
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 1292.7,
+      "unemployed": 34.8,
+      "labour_force": 1327.5,
+      "unemployment_rate": 2.6,
+      "participation_rate": 67.4
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 1273.1,
+      "unemployed": 44.6,
+      "labour_force": 1317.7,
+      "unemployment_rate": 3.4,
+      "participation_rate": 66.6
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 1303.1,
+      "unemployed": 48.3,
+      "labour_force": 1351.3,
+      "unemployment_rate": 3.6,
+      "participation_rate": 68.1
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 1309.1,
+      "unemployed": 44.7,
+      "labour_force": 1353.8,
+      "unemployment_rate": 3.3,
+      "participation_rate": 68.1
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 1266.2,
+      "unemployed": 76,
+      "labour_force": 1342.2,
+      "unemployment_rate": 5.7,
+      "participation_rate": 66.8
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 1305.6,
+      "unemployed": 52.8,
+      "labour_force": 1358.3,
+      "unemployment_rate": 3.9,
+      "participation_rate": 67.4
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 1293.4,
+      "unemployed": 60.3,
+      "labour_force": 1353.7,
+      "unemployment_rate": 4.5,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 1301.5,
+      "unemployed": 64.2,
+      "labour_force": 1365.7,
+      "unemployment_rate": 4.7,
+      "participation_rate": 67.5
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 1356.1,
+      "unemployed": 62.6,
+      "labour_force": 1418.8,
+      "unemployment_rate": 4.4,
+      "participation_rate": 69.4
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 1354.3,
+      "unemployed": 64.7,
+      "labour_force": 1419.1,
+      "unemployment_rate": 4.6,
+      "participation_rate": 69.7
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 1384.1,
+      "unemployed": 57.6,
+      "labour_force": 1441.7,
+      "unemployment_rate": 4,
+      "participation_rate": 70.5
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 1395,
+      "unemployed": 45.7,
+      "labour_force": 1440.8,
+      "unemployment_rate": 3.2,
+      "participation_rate": 70.5
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 1404.9,
+      "unemployed": 48.2,
+      "labour_force": 1453.1,
+      "unemployment_rate": 3.3,
+      "participation_rate": 70.8
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 1400.1,
+      "unemployed": 42.9,
+      "labour_force": 1443,
+      "unemployment_rate": 3,
+      "participation_rate": 69.8
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 1405.3,
+      "unemployed": 44.5,
+      "labour_force": 1449.8,
+      "unemployment_rate": 3.1,
+      "participation_rate": 69.8
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 1393.5,
+      "unemployed": 49,
+      "labour_force": 1442.5,
+      "unemployment_rate": 3.4,
+      "participation_rate": 69.4
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 1403.1,
+      "unemployed": 53.1,
+      "labour_force": 1456.3,
+      "unemployment_rate": 3.6,
+      "participation_rate": 69.8
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 1414.9,
+      "unemployed": 49.1,
+      "labour_force": 1464,
+      "unemployment_rate": 3.4,
+      "participation_rate": 69.9
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 1428.2,
+      "unemployed": 50.8,
+      "labour_force": 1479,
+      "unemployment_rate": 3.4,
+      "participation_rate": 70.5
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 1195.2,
+      "unemployed": 43.9,
+      "labour_force": 1239.1,
+      "unemployment_rate": 3.5,
+      "participation_rate": 69.4
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 1223.9,
+      "unemployed": 40.6,
+      "labour_force": 1264.5,
+      "unemployment_rate": 3.2,
+      "participation_rate": 70.5
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 1221.6,
+      "unemployed": 38.1,
+      "labour_force": 1259.8,
+      "unemployment_rate": 3,
+      "participation_rate": 70.3
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 1214.8,
+      "unemployed": 42.9,
+      "labour_force": 1257.6,
+      "unemployment_rate": 3.4,
+      "participation_rate": 70.1
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 1210.5,
+      "unemployed": 43.8,
+      "labour_force": 1254.3,
+      "unemployment_rate": 3.5,
+      "participation_rate": 69.7
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 1218.4,
+      "unemployed": 41.8,
+      "labour_force": 1260.3,
+      "unemployment_rate": 3.3,
+      "participation_rate": 69.7
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 1219.7,
+      "unemployed": 38.6,
+      "labour_force": 1258.3,
+      "unemployment_rate": 3.1,
+      "participation_rate": 69.5
+    }
+  ],
+  "W.P. Kuala Lumpur": [
+    {
+      "date": "2017-01-01",
+      "employed": 817.2,
+      "unemployed": 28.9,
+      "labour_force": 846.1,
+      "unemployment_rate": 3.4,
+      "participation_rate": 66.8
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 852.7,
+      "unemployed": 31.5,
+      "labour_force": 884.2,
+      "unemployment_rate": 3.6,
+      "participation_rate": 69.6
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 866.7,
+      "unemployed": 23.3,
+      "labour_force": 890,
+      "unemployment_rate": 2.6,
+      "participation_rate": 70.2
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 852.8,
+      "unemployed": 23.2,
+      "labour_force": 876,
+      "unemployment_rate": 2.7,
+      "participation_rate": 68.9
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 837.5,
+      "unemployed": 24.3,
+      "labour_force": 861.9,
+      "unemployment_rate": 2.8,
+      "participation_rate": 69.5
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 805.4,
+      "unemployed": 17.8,
+      "labour_force": 823.2,
+      "unemployment_rate": 2.2,
+      "participation_rate": 66.6
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 820.8,
+      "unemployed": 18.7,
+      "labour_force": 839.5,
+      "unemployment_rate": 2.2,
+      "participation_rate": 67.3
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 801.2,
+      "unemployed": 19.7,
+      "labour_force": 820.9,
+      "unemployment_rate": 2.4,
+      "participation_rate": 66.5
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 833.1,
+      "unemployed": 19.4,
+      "labour_force": 852.5,
+      "unemployment_rate": 2.3,
+      "participation_rate": 68.7
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 848.2,
+      "unemployed": 28,
+      "labour_force": 876.2,
+      "unemployment_rate": 3.2,
+      "participation_rate": 70.9
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 871.4,
+      "unemployed": 22,
+      "labour_force": 893.4,
+      "unemployment_rate": 2.5,
+      "participation_rate": 72.3
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 813.6,
+      "unemployed": 20.5,
+      "labour_force": 834.1,
+      "unemployment_rate": 2.5,
+      "participation_rate": 68.1
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 877.2,
+      "unemployed": 23.1,
+      "labour_force": 900.3,
+      "unemployment_rate": 2.6,
+      "participation_rate": 72.5
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 850.7,
+      "unemployed": 33.2,
+      "labour_force": 884,
+      "unemployment_rate": 3.8,
+      "participation_rate": 71.9
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 859.5,
+      "unemployed": 32.8,
+      "labour_force": 892.4,
+      "unemployment_rate": 3.7,
+      "participation_rate": 72.6
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 848.7,
+      "unemployed": 43.3,
+      "labour_force": 892,
+      "unemployment_rate": 4.9,
+      "participation_rate": 73.4
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 874.1,
+      "unemployed": 45.5,
+      "labour_force": 919.6,
+      "unemployment_rate": 4.9,
+      "participation_rate": 74.8
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 875,
+      "unemployed": 43.6,
+      "labour_force": 918.6,
+      "unemployment_rate": 4.7,
+      "participation_rate": 73.4
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 857.5,
+      "unemployed": 43.2,
+      "labour_force": 900.7,
+      "unemployment_rate": 4.8,
+      "participation_rate": 73.6
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 872.6,
+      "unemployed": 45.6,
+      "labour_force": 918.2,
+      "unemployment_rate": 5,
+      "participation_rate": 74.7
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 859.5,
+      "unemployed": 42.9,
+      "labour_force": 902.4,
+      "unemployment_rate": 4.8,
+      "participation_rate": 74.5
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 859.9,
+      "unemployed": 38.9,
+      "labour_force": 898.8,
+      "unemployment_rate": 4.3,
+      "participation_rate": 74.4
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 857.2,
+      "unemployed": 31.3,
+      "labour_force": 888.6,
+      "unemployment_rate": 3.5,
+      "participation_rate": 73.8
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 831.6,
+      "unemployed": 27.4,
+      "labour_force": 859,
+      "unemployment_rate": 3.2,
+      "participation_rate": 71.8
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 857.3,
+      "unemployed": 28.7,
+      "labour_force": 886,
+      "unemployment_rate": 3.2,
+      "participation_rate": 73.1
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 844.4,
+      "unemployed": 29.4,
+      "labour_force": 873.7,
+      "unemployment_rate": 3.4,
+      "participation_rate": 73.1
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 846,
+      "unemployed": 29.5,
+      "labour_force": 875.5,
+      "unemployment_rate": 3.4,
+      "participation_rate": 73.4
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 845.8,
+      "unemployed": 28.8,
+      "labour_force": 874.6,
+      "unemployment_rate": 3.3,
+      "participation_rate": 73.7
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 1128.9,
+      "unemployed": 35.8,
+      "labour_force": 1164.7,
+      "unemployment_rate": 3.1,
+      "participation_rate": 75.1
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 1158.2,
+      "unemployed": 35,
+      "labour_force": 1193.3,
+      "unemployment_rate": 2.9,
+      "participation_rate": 76.1
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 1153.3,
+      "unemployed": 30.5,
+      "labour_force": 1183.7,
+      "unemployment_rate": 2.6,
+      "participation_rate": 75.3
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 1171.7,
+      "unemployed": 36.3,
+      "labour_force": 1208,
+      "unemployment_rate": 3,
+      "participation_rate": 75
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 1192.4,
+      "unemployed": 33.4,
+      "labour_force": 1225.9,
+      "unemployment_rate": 2.7,
+      "participation_rate": 75.4
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 1198.5,
+      "unemployed": 36.5,
+      "labour_force": 1235,
+      "unemployment_rate": 3,
+      "participation_rate": 75.5
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 1218.9,
+      "unemployed": 40.9,
+      "labour_force": 1259.8,
+      "unemployment_rate": 3.2,
+      "participation_rate": 75.6
+    }
+  ],
+  "W.P. Labuan": [
+    {
+      "date": "2017-01-01",
+      "employed": 39.4,
+      "unemployed": 3.2,
+      "labour_force": 42.6,
+      "unemployment_rate": 7.5,
+      "participation_rate": 65.2
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 36.5,
+      "unemployed": 3.8,
+      "labour_force": 40.3,
+      "unemployment_rate": 9.4,
+      "participation_rate": 60.9
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 38.5,
+      "unemployed": 3.7,
+      "labour_force": 42.1,
+      "unemployment_rate": 8.7,
+      "participation_rate": 63.3
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 39.4,
+      "unemployed": 3.3,
+      "labour_force": 42.7,
+      "unemployment_rate": 7.6,
+      "participation_rate": 63.7
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 42,
+      "unemployed": 3,
+      "labour_force": 45,
+      "unemployment_rate": 6.7,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 44.8,
+      "unemployed": 2.4,
+      "labour_force": 47.2,
+      "unemployment_rate": 5.1,
+      "participation_rate": 68.4
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 39.4,
+      "unemployed": 1.4,
+      "labour_force": 40.8,
+      "unemployment_rate": 3.5,
+      "participation_rate": 59.3
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 40.4,
+      "unemployed": 1.5,
+      "labour_force": 41.9,
+      "unemployment_rate": 3.6,
+      "participation_rate": 60.6
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 40.7,
+      "unemployed": 2,
+      "labour_force": 42.8,
+      "unemployment_rate": 4.8,
+      "participation_rate": 62.3
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 43.4,
+      "unemployed": 2.1,
+      "labour_force": 45.5,
+      "unemployment_rate": 4.6,
+      "participation_rate": 65.6
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 41.2,
+      "unemployed": 1.1,
+      "labour_force": 42.4,
+      "unemployment_rate": 2.6,
+      "participation_rate": 60.4
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 39.4,
+      "unemployed": 1.7,
+      "labour_force": 41.1,
+      "unemployment_rate": 4.2,
+      "participation_rate": 59.4
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 44.4,
+      "unemployed": 1.1,
+      "labour_force": 45.5,
+      "unemployment_rate": 2.5,
+      "participation_rate": 63.6
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 42.7,
+      "unemployed": 2.9,
+      "labour_force": 45.5,
+      "unemployment_rate": 6.4,
+      "participation_rate": 63.1
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 45.1,
+      "unemployed": 2.7,
+      "labour_force": 47.8,
+      "unemployment_rate": 5.7,
+      "participation_rate": 64.6
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 43.2,
+      "unemployed": 3.9,
+      "labour_force": 47,
+      "unemployment_rate": 8.2,
+      "participation_rate": 65.9
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 45.5,
+      "unemployed": 4.5,
+      "labour_force": 50,
+      "unemployment_rate": 9,
+      "participation_rate": 67
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 44.4,
+      "unemployed": 4.3,
+      "labour_force": 48.7,
+      "unemployment_rate": 8.8,
+      "participation_rate": 65.9
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 47,
+      "unemployed": 4.2,
+      "labour_force": 51.2,
+      "unemployment_rate": 8.2,
+      "participation_rate": 67.1
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 47.2,
+      "unemployed": 3.9,
+      "labour_force": 51.1,
+      "unemployment_rate": 7.6,
+      "participation_rate": 68.1
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 47,
+      "unemployed": 3.5,
+      "labour_force": 50.5,
+      "unemployment_rate": 6.9,
+      "participation_rate": 67.8
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 46.2,
+      "unemployed": 3.6,
+      "labour_force": 49.8,
+      "unemployment_rate": 7.2,
+      "participation_rate": 67.9
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 45.9,
+      "unemployed": 3.4,
+      "labour_force": 49.3,
+      "unemployment_rate": 6.9,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 47,
+      "unemployed": 2.2,
+      "labour_force": 49.3,
+      "unemployment_rate": 4.5,
+      "participation_rate": 66.4
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 46.7,
+      "unemployed": 2.7,
+      "labour_force": 49.4,
+      "unemployment_rate": 5.4,
+      "participation_rate": 66.1
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 48,
+      "unemployed": 3.8,
+      "labour_force": 51.7,
+      "unemployment_rate": 7.3,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 45.8,
+      "unemployed": 3.6,
+      "labour_force": 49.4,
+      "unemployment_rate": 7.3,
+      "participation_rate": 66.8
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 45.9,
+      "unemployed": 3.5,
+      "labour_force": 49.4,
+      "unemployment_rate": 7,
+      "participation_rate": 66.9
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 44.1,
+      "unemployed": 3.3,
+      "labour_force": 47.4,
+      "unemployment_rate": 6.9,
+      "participation_rate": 67.4
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 44.7,
+      "unemployed": 2.8,
+      "labour_force": 47.5,
+      "unemployment_rate": 5.8,
+      "participation_rate": 67.6
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 43.5,
+      "unemployed": 2.9,
+      "labour_force": 46.4,
+      "unemployment_rate": 6.3,
+      "participation_rate": 67.2
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 44.2,
+      "unemployed": 2.7,
+      "labour_force": 46.9,
+      "unemployment_rate": 5.8,
+      "participation_rate": 66.4
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 44.4,
+      "unemployed": 2.3,
+      "labour_force": 46.7,
+      "unemployment_rate": 5,
+      "participation_rate": 66.3
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 45.3,
+      "unemployed": 2.3,
+      "labour_force": 47.6,
+      "unemployment_rate": 4.7,
+      "participation_rate": 66.2
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 44.4,
+      "unemployed": 2.2,
+      "labour_force": 46.6,
+      "unemployment_rate": 4.7,
+      "participation_rate": 66.3
+    }
+  ],
+  "W.P. Putrajaya": [
+    {
+      "date": "2017-01-01",
+      "employed": 35.5,
+      "unemployed": 0.5,
+      "labour_force": 36,
+      "unemployment_rate": 1.3,
+      "participation_rate": 73.1
+    },
+    {
+      "date": "2017-04-01",
+      "employed": 38,
+      "unemployed": 0.3,
+      "labour_force": 38.3,
+      "unemployment_rate": 0.8,
+      "participation_rate": 76.9
+    },
+    {
+      "date": "2017-07-01",
+      "employed": 37.6,
+      "unemployed": 0.7,
+      "labour_force": 38.3,
+      "unemployment_rate": 1.9,
+      "participation_rate": 76.2
+    },
+    {
+      "date": "2017-10-01",
+      "employed": 36.8,
+      "unemployed": 0.7,
+      "labour_force": 37.5,
+      "unemployment_rate": 1.9,
+      "participation_rate": 75.6
+    },
+    {
+      "date": "2018-01-01",
+      "employed": 37.9,
+      "unemployed": 0.4,
+      "labour_force": 38.3,
+      "unemployment_rate": 1.1,
+      "participation_rate": 74.8
+    },
+    {
+      "date": "2018-04-01",
+      "employed": 37.9,
+      "unemployed": 0.6,
+      "labour_force": 38.5,
+      "unemployment_rate": 1.6,
+      "participation_rate": 75.2
+    },
+    {
+      "date": "2018-07-01",
+      "employed": 35.6,
+      "unemployed": 0.4,
+      "labour_force": 36,
+      "unemployment_rate": 1.2,
+      "participation_rate": 70.3
+    },
+    {
+      "date": "2018-10-01",
+      "employed": 37.7,
+      "unemployed": 0.5,
+      "labour_force": 38.2,
+      "unemployment_rate": 1.3,
+      "participation_rate": 74.3
+    },
+    {
+      "date": "2019-01-01",
+      "employed": 36.6,
+      "unemployed": 0.6,
+      "labour_force": 37.2,
+      "unemployment_rate": 1.5,
+      "participation_rate": 73.2
+    },
+    {
+      "date": "2019-04-01",
+      "employed": 37.4,
+      "unemployed": 0.3,
+      "labour_force": 37.8,
+      "unemployment_rate": 0.9,
+      "participation_rate": 73.6
+    },
+    {
+      "date": "2019-07-01",
+      "employed": 36.4,
+      "unemployed": 0.4,
+      "labour_force": 36.8,
+      "unemployment_rate": 1.1,
+      "participation_rate": 71.4
+    },
+    {
+      "date": "2019-10-01",
+      "employed": 37,
+      "unemployed": 0.2,
+      "labour_force": 37.2,
+      "unemployment_rate": 0.4,
+      "participation_rate": 72.1
+    },
+    {
+      "date": "2020-01-01",
+      "employed": 38.5,
+      "unemployed": 0.1,
+      "labour_force": 38.5,
+      "unemployment_rate": 0.2,
+      "participation_rate": 75.3
+    },
+    {
+      "date": "2020-04-01",
+      "employed": 35.9,
+      "unemployed": 0.8,
+      "labour_force": 36.6,
+      "unemployment_rate": 2.1,
+      "participation_rate": 72.1
+    },
+    {
+      "date": "2020-07-01",
+      "employed": 37.1,
+      "unemployed": 0.4,
+      "labour_force": 37.6,
+      "unemployment_rate": 1.2,
+      "participation_rate": 73.7
+    },
+    {
+      "date": "2020-10-01",
+      "employed": 33.6,
+      "unemployed": 0.7,
+      "labour_force": 34.3,
+      "unemployment_rate": 2.1,
+      "participation_rate": 67.9
+    },
+    {
+      "date": "2021-01-01",
+      "employed": 35.4,
+      "unemployed": 0.9,
+      "labour_force": 36.3,
+      "unemployment_rate": 2.4,
+      "participation_rate": 70
+    },
+    {
+      "date": "2021-04-01",
+      "employed": 33.2,
+      "unemployed": 0.6,
+      "labour_force": 33.8,
+      "unemployment_rate": 1.7,
+      "participation_rate": 68.8
+    },
+    {
+      "date": "2021-07-01",
+      "employed": 34.8,
+      "unemployed": 0.4,
+      "labour_force": 35.2,
+      "unemployment_rate": 1,
+      "participation_rate": 70.2
+    },
+    {
+      "date": "2021-10-01",
+      "employed": 35.6,
+      "unemployed": 0.6,
+      "labour_force": 36.2,
+      "unemployment_rate": 1.6,
+      "participation_rate": 70.9
+    },
+    {
+      "date": "2022-01-01",
+      "employed": 36.2,
+      "unemployed": 0.3,
+      "labour_force": 36.5,
+      "unemployment_rate": 1,
+      "participation_rate": 70.3
+    },
+    {
+      "date": "2022-04-01",
+      "employed": 36,
+      "unemployed": 0.3,
+      "labour_force": 36.3,
+      "unemployment_rate": 0.9,
+      "participation_rate": 70.7
+    },
+    {
+      "date": "2022-07-01",
+      "employed": 36.1,
+      "unemployed": 0.3,
+      "labour_force": 36.4,
+      "unemployment_rate": 1,
+      "participation_rate": 71.7
+    },
+    {
+      "date": "2022-10-01",
+      "employed": 38.6,
+      "unemployed": 0.6,
+      "labour_force": 39.2,
+      "unemployment_rate": 1.6,
+      "participation_rate": 77.6
+    },
+    {
+      "date": "2023-01-01",
+      "employed": 38.6,
+      "unemployed": 0.3,
+      "labour_force": 38.9,
+      "unemployment_rate": 0.8,
+      "participation_rate": 76.5
+    },
+    {
+      "date": "2023-04-01",
+      "employed": 38.5,
+      "unemployed": 0.2,
+      "labour_force": 38.7,
+      "unemployment_rate": 0.5,
+      "participation_rate": 76.8
+    },
+    {
+      "date": "2023-07-01",
+      "employed": 38.3,
+      "unemployed": 0.2,
+      "labour_force": 38.5,
+      "unemployment_rate": 0.5,
+      "participation_rate": 75.6
+    },
+    {
+      "date": "2023-10-01",
+      "employed": 37.8,
+      "unemployed": 0.6,
+      "labour_force": 38.4,
+      "unemployment_rate": 1.5,
+      "participation_rate": 74.4
+    },
+    {
+      "date": "2024-01-01",
+      "employed": 59.3,
+      "unemployed": 1.1,
+      "labour_force": 60.4,
+      "unemployment_rate": 1.8,
+      "participation_rate": 79.3
+    },
+    {
+      "date": "2024-04-01",
+      "employed": 60.9,
+      "unemployed": 1.1,
+      "labour_force": 62,
+      "unemployment_rate": 1.8,
+      "participation_rate": 80.3
+    },
+    {
+      "date": "2024-07-01",
+      "employed": 60,
+      "unemployed": 0.9,
+      "labour_force": 60.9,
+      "unemployment_rate": 1.5,
+      "participation_rate": 78.7
+    },
+    {
+      "date": "2024-10-01",
+      "employed": 58.8,
+      "unemployed": 1.1,
+      "labour_force": 59.9,
+      "unemployment_rate": 1.8,
+      "participation_rate": 76.9
+    },
+    {
+      "date": "2025-01-01",
+      "employed": 60.1,
+      "unemployed": 1.1,
+      "labour_force": 61.2,
+      "unemployment_rate": 1.8,
+      "participation_rate": 77.6
+    },
+    {
+      "date": "2025-04-01",
+      "employed": 60.9,
+      "unemployed": 0.9,
+      "labour_force": 61.8,
+      "unemployment_rate": 1.4,
+      "participation_rate": 77.6
+    },
+    {
+      "date": "2025-07-01",
+      "employed": 61.3,
+      "unemployed": 0.9,
+      "labour_force": 62.2,
+      "unemployment_rate": 1.4,
+      "participation_rate": 77.8
+    }
+  ]
+}

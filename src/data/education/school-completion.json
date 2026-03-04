@@ -1,0 +1,594 @@
+{
+  "Johor": {
+    "2016": {
+      "primary": 99.06,
+      "secondary_lower": 94.7645,
+      "secondary_upper": 99.5156
+    },
+    "2017": {
+      "primary": 99.14,
+      "secondary_lower": 99.5251,
+      "secondary_upper": 99.2906
+    },
+    "2018": {
+      "primary": 97.56,
+      "secondary_lower": 99.6891,
+      "secondary_upper": 93.7421
+    },
+    "2019": {
+      "primary": 97.7,
+      "secondary_lower": 95.2,
+      "secondary_upper": 98
+    },
+    "2020": {
+      "primary": 98.2,
+      "secondary_lower": 96.9,
+      "secondary_upper": 89.2
+    },
+    "2021": {
+      "primary": 95.5,
+      "secondary_lower": 97.9,
+      "secondary_upper": 97
+    },
+    "2022": {
+      "primary": 99,
+      "secondary_lower": 100.1,
+      "secondary_upper": 98.1
+    }
+  },
+  "Kedah": {
+    "2016": {
+      "primary": 99.97,
+      "secondary_lower": 95.9472,
+      "secondary_upper": 99.0933
+    },
+    "2017": {
+      "primary": 100.12,
+      "secondary_lower": 97.3087,
+      "secondary_upper": 97.451
+    },
+    "2018": {
+      "primary": 100.34,
+      "secondary_lower": 96.3721,
+      "secondary_upper": 95.7661
+    },
+    "2019": {
+      "primary": 100.2,
+      "secondary_lower": 96.1,
+      "secondary_upper": 96.6
+    },
+    "2020": {
+      "primary": 100.1,
+      "secondary_lower": 96.8,
+      "secondary_upper": 96.7
+    },
+    "2021": {
+      "primary": 97.2,
+      "secondary_lower": 100.3,
+      "secondary_upper": 100.5
+    },
+    "2022": {
+      "primary": 101.1,
+      "secondary_lower": 99.4,
+      "secondary_upper": 99.2
+    }
+  },
+  "Kelantan": {
+    "2016": {
+      "primary": 100.32,
+      "secondary_lower": 96.242,
+      "secondary_upper": 98.4254
+    },
+    "2017": {
+      "primary": 100.17,
+      "secondary_lower": 94.65,
+      "secondary_upper": 96.8805
+    },
+    "2018": {
+      "primary": 99.32,
+      "secondary_lower": 85.9723,
+      "secondary_upper": 88.4185
+    },
+    "2019": {
+      "primary": 99.9,
+      "secondary_lower": 98,
+      "secondary_upper": 109.2
+    },
+    "2020": {
+      "primary": 99.5,
+      "secondary_lower": 109.9,
+      "secondary_upper": 97.7
+    },
+    "2021": {
+      "primary": 100.2,
+      "secondary_lower": 111.7,
+      "secondary_upper": 100.3
+    },
+    "2022": {
+      "primary": 98.2,
+      "secondary_lower": 99,
+      "secondary_upper": 99.4
+    }
+  },
+  "Melaka": {
+    "2016": {
+      "primary": 98.92,
+      "secondary_lower": 99.0276,
+      "secondary_upper": 99.2746
+    },
+    "2017": {
+      "primary": 98.87,
+      "secondary_lower": 98.5646,
+      "secondary_upper": 97.8254
+    },
+    "2018": {
+      "primary": 98.92,
+      "secondary_lower": 99.9172,
+      "secondary_upper": 98.245
+    },
+    "2019": {
+      "primary": 98.7,
+      "secondary_lower": 98.7,
+      "secondary_upper": 97
+    },
+    "2020": {
+      "primary": 98.5,
+      "secondary_lower": 97.8,
+      "secondary_upper": 94.1
+    },
+    "2021": {
+      "primary": 95.1,
+      "secondary_lower": 98.1,
+      "secondary_upper": 98.2
+    },
+    "2022": {
+      "primary": 99.5,
+      "secondary_lower": 98.9,
+      "secondary_upper": 97.7
+    }
+  },
+  "Negeri Sembilan": {
+    "2016": {
+      "primary": 98.29,
+      "secondary_lower": 97.3067,
+      "secondary_upper": 100.1393
+    },
+    "2017": {
+      "primary": 98.95,
+      "secondary_lower": 99.5664,
+      "secondary_upper": 96.707
+    },
+    "2018": {
+      "primary": 99.24,
+      "secondary_lower": 97.1165,
+      "secondary_upper": 96.7493
+    },
+    "2019": {
+      "primary": 98.9,
+      "secondary_lower": 96.9,
+      "secondary_upper": 96.9
+    },
+    "2020": {
+      "primary": 100.1,
+      "secondary_lower": 98.2,
+      "secondary_upper": 93.3
+    },
+    "2021": {
+      "primary": 102.9,
+      "secondary_lower": 98.9,
+      "secondary_upper": 98.6
+    },
+    "2022": {
+      "primary": 101.6,
+      "secondary_lower": 99.9,
+      "secondary_upper": 100.4
+    }
+  },
+  "Pahang": {
+    "2016": {
+      "primary": 97.72,
+      "secondary_lower": 96.3753,
+      "secondary_upper": 99.6813
+    },
+    "2017": {
+      "primary": 97.57,
+      "secondary_lower": 97.636,
+      "secondary_upper": 90.8114
+    },
+    "2018": {
+      "primary": 97.13,
+      "secondary_lower": 94.9303,
+      "secondary_upper": 99.1357
+    },
+    "2019": {
+      "primary": 96.3,
+      "secondary_lower": 96.4,
+      "secondary_upper": 92.9
+    },
+    "2020": {
+      "primary": 97,
+      "secondary_lower": 96,
+      "secondary_upper": 97.5
+    },
+    "2021": {
+      "primary": 97.3,
+      "secondary_lower": 99.1,
+      "secondary_upper": 99.6
+    },
+    "2022": {
+      "primary": 96.5,
+      "secondary_lower": 98.7,
+      "secondary_upper": 100
+    }
+  },
+  "Perak": {
+    "2016": {
+      "primary": 98.83,
+      "secondary_lower": 94.9094,
+      "secondary_upper": 99.1
+    },
+    "2017": {
+      "primary": 98.9,
+      "secondary_lower": 96.7561,
+      "secondary_upper": 94.4357
+    },
+    "2018": {
+      "primary": 98.09,
+      "secondary_lower": 95.9696,
+      "secondary_upper": 97.4355
+    },
+    "2019": {
+      "primary": 98.6,
+      "secondary_lower": 96.9,
+      "secondary_upper": 97.9
+    },
+    "2020": {
+      "primary": 99.1,
+      "secondary_lower": 97.1,
+      "secondary_upper": 92.4
+    },
+    "2021": {
+      "primary": 98.8,
+      "secondary_lower": 99.4,
+      "secondary_upper": 98.8
+    },
+    "2022": {
+      "primary": 99.9,
+      "secondary_lower": 99.2,
+      "secondary_upper": 100.3
+    }
+  },
+  "Perlis": {
+    "2016": {
+      "primary": 101.66,
+      "secondary_lower": 93.6557,
+      "secondary_upper": 91.1528
+    },
+    "2017": {
+      "primary": 99.22,
+      "secondary_lower": 96.4581,
+      "secondary_upper": 94.5276
+    },
+    "2018": {
+      "primary": 99.61,
+      "secondary_lower": 96.5534,
+      "secondary_upper": 94.6984
+    },
+    "2019": {
+      "primary": 99,
+      "secondary_lower": 93.1,
+      "secondary_upper": 94.6
+    },
+    "2020": {
+      "primary": 98.8,
+      "secondary_lower": 94.4,
+      "secondary_upper": 93.3
+    },
+    "2021": {
+      "primary": 96.9,
+      "secondary_lower": 97.8,
+      "secondary_upper": 97.4
+    },
+    "2022": {
+      "primary": 105.5,
+      "secondary_lower": 99.7,
+      "secondary_upper": 97.9
+    }
+  },
+  "Pulau Pinang": {
+    "2016": {
+      "primary": 96.55,
+      "secondary_lower": 94.7517,
+      "secondary_upper": 100.1947
+    },
+    "2017": {
+      "primary": 96.71,
+      "secondary_lower": 97.3899,
+      "secondary_upper": 95.4438
+    },
+    "2018": {
+      "primary": 96.52,
+      "secondary_lower": 95.4679,
+      "secondary_upper": 94.9794
+    },
+    "2019": {
+      "primary": 96,
+      "secondary_lower": 97.8,
+      "secondary_upper": 96.9
+    },
+    "2020": {
+      "primary": 96.9,
+      "secondary_lower": 97.9,
+      "secondary_upper": 92
+    },
+    "2021": {
+      "primary": 94,
+      "secondary_lower": 97.1,
+      "secondary_upper": 95.5
+    },
+    "2022": {
+      "primary": 97.7,
+      "secondary_lower": 98.9,
+      "secondary_upper": 100.5
+    }
+  },
+  "Sabah": {
+    "2016": {
+      "primary": 99.75,
+      "secondary_lower": 90.1018,
+      "secondary_upper": 97.5882
+    },
+    "2017": {
+      "primary": 99.04,
+      "secondary_lower": 95.0703,
+      "secondary_upper": 96.3273
+    },
+    "2018": {
+      "primary": 99.12,
+      "secondary_lower": 94.6595,
+      "secondary_upper": 95.4015
+    },
+    "2019": {
+      "primary": 100.3,
+      "secondary_lower": 94.4,
+      "secondary_upper": 95.3
+    },
+    "2020": {
+      "primary": 100.3,
+      "secondary_lower": 95.7,
+      "secondary_upper": 94.2
+    },
+    "2021": {
+      "primary": 97.7,
+      "secondary_lower": 97.9,
+      "secondary_upper": 98.7
+    },
+    "2022": {
+      "primary": 100.6,
+      "secondary_lower": 99.6,
+      "secondary_upper": 99.6
+    }
+  },
+  "Sarawak": {
+    "2016": {
+      "primary": 99.4,
+      "secondary_lower": 94.3106,
+      "secondary_upper": 97.7736
+    },
+    "2017": {
+      "primary": 99.54,
+      "secondary_lower": 95.7767,
+      "secondary_upper": 95.9102
+    },
+    "2018": {
+      "primary": 99.23,
+      "secondary_lower": 95.3701,
+      "secondary_upper": 96.2509
+    },
+    "2019": {
+      "primary": 99.9,
+      "secondary_lower": 95.3,
+      "secondary_upper": 96
+    },
+    "2020": {
+      "primary": 99.9,
+      "secondary_lower": 96,
+      "secondary_upper": 91.8
+    },
+    "2021": {
+      "primary": 100.1,
+      "secondary_lower": 97.5,
+      "secondary_upper": 97.5
+    },
+    "2022": {
+      "primary": 100.7,
+      "secondary_lower": 99,
+      "secondary_upper": 98.9
+    }
+  },
+  "Selangor": {
+    "2016": {
+      "primary": 96.86,
+      "secondary_lower": 98.0499,
+      "secondary_upper": 100.3258
+    },
+    "2017": {
+      "primary": 96.03,
+      "secondary_lower": 100.1307,
+      "secondary_upper": 97.3706
+    },
+    "2018": {
+      "primary": 95.56,
+      "secondary_lower": 102.0542,
+      "secondary_upper": 97.6012
+    },
+    "2019": {
+      "primary": 96.1,
+      "secondary_lower": 97.6,
+      "secondary_upper": 95.8
+    },
+    "2020": {
+      "primary": 97.3,
+      "secondary_lower": 97.1,
+      "secondary_upper": 93
+    },
+    "2021": {
+      "primary": 104.5,
+      "secondary_lower": 101.8,
+      "secondary_upper": 95.6
+    },
+    "2022": {
+      "primary": 98.6,
+      "secondary_lower": 98.1,
+      "secondary_upper": 99.3
+    }
+  },
+  "Terengganu": {
+    "2016": {
+      "primary": 100.43,
+      "secondary_lower": 96.8437,
+      "secondary_upper": 99.5952
+    },
+    "2017": {
+      "primary": 100.06,
+      "secondary_lower": 98.9429,
+      "secondary_upper": 98.0835
+    },
+    "2018": {
+      "primary": 99.87,
+      "secondary_lower": 100.4034,
+      "secondary_upper": 98.1639
+    },
+    "2019": {
+      "primary": 100.7,
+      "secondary_lower": 101.7,
+      "secondary_upper": 99.9
+    },
+    "2020": {
+      "primary": 100.4,
+      "secondary_lower": 99.5,
+      "secondary_upper": 96.1
+    },
+    "2021": {
+      "primary": 103.7,
+      "secondary_lower": 99,
+      "secondary_upper": 100.5
+    },
+    "2022": {
+      "primary": 103.8,
+      "secondary_lower": 99.7,
+      "secondary_upper": 99
+    }
+  },
+  "W.P. Kuala Lumpur": {
+    "2016": {
+      "primary": 91.93,
+      "secondary_lower": 98.0524,
+      "secondary_upper": 100.5322
+    },
+    "2017": {
+      "primary": 90.37,
+      "secondary_lower": 96.7909,
+      "secondary_upper": 92.2802
+    },
+    "2018": {
+      "primary": 91.18,
+      "secondary_lower": 94.0251,
+      "secondary_upper": 91.9811
+    },
+    "2019": {
+      "primary": 91.6,
+      "secondary_lower": 97.6,
+      "secondary_upper": 99.4
+    },
+    "2020": {
+      "primary": 92.4,
+      "secondary_lower": 96.5,
+      "secondary_upper": 80.8
+    },
+    "2021": {
+      "primary": 94.5,
+      "secondary_lower": 98,
+      "secondary_upper": 94.7
+    },
+    "2022": {
+      "primary": 93.8,
+      "secondary_lower": 96.4,
+      "secondary_upper": 97.5
+    }
+  },
+  "W.P. Labuan": {
+    "2016": {
+      "primary": 95.05,
+      "secondary_lower": 78.3156,
+      "secondary_upper": 101.9983
+    },
+    "2017": {
+      "primary": 91.31,
+      "secondary_lower": 99.43,
+      "secondary_upper": 97.0185
+    },
+    "2018": {
+      "primary": 94.54,
+      "secondary_lower": 89.127,
+      "secondary_upper": 91.4501
+    },
+    "2019": {
+      "primary": 89.8,
+      "secondary_lower": 94.1,
+      "secondary_upper": 99.9
+    },
+    "2020": {
+      "primary": 94.1,
+      "secondary_lower": 103.9,
+      "secondary_upper": 95.8
+    },
+    "2021": {
+      "primary": 91.4,
+      "secondary_lower": 98,
+      "secondary_upper": 96
+    },
+    "2022": {
+      "primary": 92.4,
+      "secondary_lower": 102.8,
+      "secondary_upper": 99.3
+    }
+  },
+  "W.P. Putrajaya": {
+    "2016": {
+      "primary": 103.48,
+      "secondary_lower": 110.3378,
+      "secondary_upper": 109.4761
+    },
+    "2017": {
+      "primary": 103.56,
+      "secondary_lower": 107.5758,
+      "secondary_upper": 97.0238
+    },
+    "2018": {
+      "primary": 101.26,
+      "secondary_lower": 97.7966,
+      "secondary_upper": 95.034
+    },
+    "2019": {
+      "primary": 99.5,
+      "secondary_lower": 103.3,
+      "secondary_upper": 103.6
+    },
+    "2020": {
+      "primary": 101.4,
+      "secondary_lower": 105.7,
+      "secondary_upper": 93.5
+    },
+    "2021": {
+      "primary": 76.8,
+      "secondary_lower": 97.5,
+      "secondary_upper": 93.7
+    },
+    "2022": {
+      "primary": 102.9,
+      "secondary_lower": 103.2,
+      "secondary_upper": 101.7
+    }
+  }
+}
