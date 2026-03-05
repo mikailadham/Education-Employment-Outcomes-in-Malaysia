@@ -22,14 +22,25 @@ export default function StateList() {
     return merged;
   }, []);
 
-  // Organize states by region
-  const statesByRegion = {
-    'Northern': ['Perlis', 'Kedah', 'Pulau Pinang', 'Perak'],
-    'Central': ['Selangor', 'W.P. Kuala Lumpur', 'W.P. Putrajaya'],
-    'Southern': ['Negeri Sembilan', 'Melaka', 'Johor'],
-    'East Coast': ['Kelantan', 'Terengganu', 'Pahang'],
-    'East Malaysia': ['Sabah', 'Sarawak', 'W.P. Labuan']
-  };
+  // All states in alphabetical order (no regional grouping)
+  const allStates = [
+    'Johor',
+    'Kedah',
+    'Kelantan',
+    'Melaka',
+    'Negeri Sembilan',
+    'Pahang',
+    'Perak',
+    'Perlis',
+    'Pulau Pinang',
+    'Sabah',
+    'Sarawak',
+    'Selangor',
+    'Terengganu',
+    'W.P. Kuala Lumpur',
+    'W.P. Labuan',
+    'W.P. Putrajaya'
+  ];
 
   const handleStateClick = (stateName) => {
     setSelectedState(stateName);
@@ -55,34 +66,25 @@ export default function StateList() {
         Click on any state name to view its metrics
       </p>
 
-      <div className="space-y-4">
-        {Object.entries(statesByRegion).map(([region, states]) => (
-          <div key={region}>
-            <h4 className="text-xs font-medium text-gray-500 uppercase tracking-wider mb-2">
-              {region}
-            </h4>
-            <div className="grid grid-cols-2 gap-2">
-              {states.map((state) => (
-                <button
-                  key={state}
-                  onClick={() => handleStateClick(state)}
-                  className={`
-                    text-left px-3 py-2 rounded-lg text-sm font-medium
-                    transition-all duration-200
-                    ${selectedState === state
-                      ? 'bg-teal-500 text-white shadow-md transform scale-105'
-                      : 'bg-white text-gray-700 hover:bg-teal-50 hover:text-teal-700 border border-gray-200 hover:border-teal-300'
-                    }
-                  `}
-                >
-                  {state}
-                  {selectedState === state && (
-                    <span className="ml-1 text-xs">✓</span>
-                  )}
-                </button>
-              ))}
-            </div>
-          </div>
+      <div className="grid grid-cols-2 gap-2">
+        {allStates.map((state) => (
+          <button
+            key={state}
+            onClick={() => handleStateClick(state)}
+            className={`
+              text-left px-3 py-2 rounded-lg text-sm font-medium
+              transition-all duration-200
+              ${selectedState === state
+                ? 'bg-teal-500 text-white shadow-md transform scale-105'
+                : 'bg-white text-gray-700 hover:bg-teal-50 hover:text-teal-700 border border-gray-200 hover:border-teal-300'
+              }
+            `}
+          >
+            {state}
+            {selectedState === state && (
+              <span className="ml-1 text-xs">✓</span>
+            )}
+          </button>
         ))}
       </div>
 

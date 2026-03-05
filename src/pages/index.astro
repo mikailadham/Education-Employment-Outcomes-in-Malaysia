@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import MalaysiaMap from '../components/MalaysiaMap';
 import StateMetricCards from '../components/StateMetricCards';
 import StateList from '../components/StateList';
+import StateInfoPanel from '../components/StateInfoPanel';
 import MyWITrendChart from '../components/MyWITrendChart';
 import MyWIComponentsChart from '../components/MyWIComponentsChart';
 import StateComparison from '../components/StateComparison';
@@ -54,15 +55,25 @@ import GraduateInstitutionChart from '../components/GraduateInstitutionChart';
 			<span class="text-sm">Click on any state to view its complete well-being profile with MyWI index, education metrics, and economic indicators</span>
 		</p>
 
-		<div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
-			<!-- Map (takes 2 columns) -->
-			<div class="lg:col-span-2 bg-white rounded-2xl shadow-xl p-6 md:p-10">
-				<MalaysiaMap client:load />
+		<div class="grid grid-cols-1 lg:grid-cols-4 gap-6">
+			<!-- State List Sidebar (takes 1 column, sticky) -->
+			<div class="lg:col-span-1">
+				<div class="lg:sticky lg:top-4">
+					<StateList client:load />
+				</div>
 			</div>
 
-			<!-- State List (takes 1 column) -->
-			<div class="lg:col-span-1">
-				<StateList client:load />
+			<!-- Map and Info Panel Container (takes 3 columns) -->
+			<div class="lg:col-span-3 grid grid-cols-1 lg:grid-cols-3 gap-6">
+				<!-- Map (takes 2 columns) -->
+				<div class="lg:col-span-2 bg-white rounded-2xl shadow-xl p-6 md:p-10">
+					<MalaysiaMap client:load />
+				</div>
+
+				<!-- State Info Panel (takes 1 column) -->
+				<div class="lg:col-span-1">
+					<StateInfoPanel client:load />
+				</div>
 			</div>
 		</div>
 	</section>
@@ -415,14 +426,6 @@ import GraduateInstitutionChart from '../components/GraduateInstitutionChart';
 				window.dispatchEvent(new CustomEvent('updateMyWIChart', {
 					detail: { stateName }
 				}));
-
-				// Smooth scroll to metrics section
-				setTimeout(() => {
-					stateMetricsSection?.scrollIntoView({
-						behavior: 'smooth',
-						block: 'center'
-					});
-				}, 100);
 			}
 		});
 	});

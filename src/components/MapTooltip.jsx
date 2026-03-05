@@ -26,7 +26,7 @@ export default function MapTooltip({ state, data, position, selectedMetric }) {
 
   return (
     <div
-      className="absolute bg-white shadow-xl rounded-lg p-4 pointer-events-none z-50 border border-gray-200"
+      className="absolute bg-white/90 backdrop-blur-sm shadow-xl rounded-lg p-4 pointer-events-none z-50 border border-gray-200"
       style={{
         left: `${position.x}px`,
         top: `${position.y}px`,

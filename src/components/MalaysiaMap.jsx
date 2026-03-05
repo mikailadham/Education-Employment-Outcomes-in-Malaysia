@@ -59,7 +59,7 @@ function getColorForValue(value, min, max, colorScheme) {
 }
 
 export default function MalaysiaMap({ onStateClick, onStateHover }) {
-  const [selectedMetric, setSelectedMetric] = useState('graduateUnemploymentRate');
+  const [selectedMetric, setSelectedMetric] = useState('graduateEmploymentRate');
   const [hoveredState, setHoveredState] = useState(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
   const [selectedState, setSelectedState] = useState(null);
@@ -138,25 +138,20 @@ export default function MalaysiaMap({ onStateClick, onStateHover }) {
 
   const currentConfig = metricConfig[selectedMetric] || metricConfig.unemployment_rate;
 
-  const handleMouseEnter = (state, event) => {
+  const handleMouseEnter = (state) => {
     setHoveredState(state);
-    updateTooltipPosition(event);
-  };
-
-  const handleMouseMove = (event) => {
-    updateTooltipPosition(event);
+    // Emit event for StateInfoPanel
+    window.dispatchEvent(new CustomEvent('stateHover', {
+      detail: { stateName: state }
+    }));
   };
 
   const handleMouseLeave = () => {
     setHoveredState(null);
-  };
-
-  const updateTooltipPosition = (event) => {
-    const rect = event.currentTarget.getBoundingClientRect();
-    setTooltipPosition({
-      x: event.clientX - rect.left + 10,
-      y: event.clientY - rect.top + 10
-    });
+    // Clear hover event
+    window.dispatchEvent(new CustomEvent('stateHover', {
+      detail: { stateName: selectedState }
+    }));
   };
 
   const handleStateClick = (state) => {
@@ -174,12 +169,11 @@ export default function MalaysiaMap({ onStateClick, onStateHover }) {
 
   return (
     <div className="w-full">
-      <div className="relative mt-6">
-        <svg
-          viewBox="0 0 750 300"
-          className="w-full h-auto"
-          style={{ maxHeight: '500px' }}
-        >
+      <svg
+        viewBox="0 0 750 300"
+        style={{ width: '100%', height: '400px' }}
+      >
+          <g transform="scale(1.0)">
           {/* Peninsular Malaysia background */}
           <rect x="0" y="30" width="300" height="270" fill="#f9fafb" opacity="0.2" rx="8" />
           {/* East Malaysia background */}
@@ -204,8 +198,7 @@ export default function MalaysiaMap({ onStateClick, onStateHover }) {
                 style={{
                   filter: isSelected ? 'drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))' : 'none'
                 }}
-                onMouseEnter={(e) => handleMouseEnter(state, e)}
-                onMouseMove={handleMouseMove}
+                onMouseEnter={() => handleMouseEnter(state)}
                 onMouseLeave={handleMouseLeave}
                 onClick={() => handleStateClick(state)}
                 data-state={state}
@@ -259,18 +252,8 @@ export default function MalaysiaMap({ onStateClick, onStateHover }) {
               </text>
             );
           })}
-        </svg>
-
-        {/* Tooltip */}
-        {hoveredState && (
-          <MapTooltip
-            state={hoveredState}
-            data={summaryData[hoveredState]}
-            position={tooltipPosition}
-            selectedMetric={selectedMetric}
-          />
-        )}
-      </div>
+          </g>
+      </svg>
 
       {/* Color Legend */}
       <ColorLegend
