@@ -25,6 +25,8 @@ import GraduateFieldChart from '../components/GraduateFieldChart';
 import GraduateStateRanking from '../components/GraduateStateRanking';
 import PublicPrivateGapChart from '../components/PublicPrivateGapChart';
 import GraduateInstitutionChart from '../components/GraduateInstitutionChart';
+import GraduateTracerSection from '../components/GraduateTracerSection';
+import StateUnemploymentTrend from '../components/StateUnemploymentTrend';
 ---
 
 <Layout title="Malaysia Education & Employment Dashboard">
@@ -80,8 +82,28 @@ import GraduateInstitutionChart from '../components/GraduateInstitutionChart';
 
 	<!-- State Metrics Section (Dynamic - appears on hover/click) -->
 	<section id="state-metrics" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 hidden">
-		<div class="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl p-6 md:p-10 border border-gray-200">
-			<StateMetricCards client:load />
+		<!-- Title -->
+		<div class="text-center mb-8">
+			<h3 id="state-metrics-title" class="text-3xl font-bold text-gray-900 mb-2">
+				<!-- Will be updated by JavaScript -->
+			</h3>
+			<p class="text-gray-600">Well-Being, Education & Economic Indicators</p>
+		</div>
+
+		<!-- Map + KPI Cards Row -->
+		<div class="grid grid-cols-1 lg:grid-cols-5 gap-6 mb-8">
+			<!-- Map - takes 3 columns (60%) -->
+			<div class="lg:col-span-3 bg-white rounded-2xl shadow-xl p-6">
+				<!-- Map will be displayed here via JavaScript -->
+				<div id="state-metrics-map" class="text-center text-gray-500 py-12">
+					Map placeholder
+				</div>
+			</div>
+
+			<!-- KPI Cards - takes 2 columns (40%) -->
+			<div class="lg:col-span-2">
+				<StateMetricCards client:load />
+			</div>
 		</div>
 
 		<!-- MyWI Trend Chart -->
@@ -245,6 +267,16 @@ import GraduateInstitutionChart from '../components/GraduateInstitutionChart';
 				<ClusterVisualization client:load />
 			</div>
 		</div>
+	</section>
+
+	<!-- NEW SECTION: Graduate Tracer Study Interactive Dashboard -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<GraduateTracerSection client:load />
+	</section>
+
+	<!-- State Unemployment Trend Comparison -->
+	<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 bg-gray-50">
+		<StateUnemploymentTrend client:load />
 	</section>
 
 	<!-- SECTION 8: Graduate Tracer Study Deep Dive (2020-2024) -->
@@ -416,6 +448,12 @@ import GraduateInstitutionChart from '../components/GraduateInstitutionChart';
 				// Show the section with data
 				stateMetricsSection?.classList.remove('hidden');
 				stateMetricsSection?.classList.add('animate-fadeIn');
+
+				// Update title
+				const titleElement = document.getElementById('state-metrics-title');
+				if (titleElement) {
+					titleElement.textContent = stateName;
+				}
 
 				// Update cards with state data
 				window.dispatchEvent(new CustomEvent('updateStateMetrics', {

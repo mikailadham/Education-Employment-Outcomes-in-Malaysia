@@ -22,25 +22,14 @@ export default function StateList() {
     return merged;
   }, []);
 
-  // All states in alphabetical order (no regional grouping)
-  const allStates = [
-    'Johor',
-    'Kedah',
-    'Kelantan',
-    'Melaka',
-    'Negeri Sembilan',
-    'Pahang',
-    'Perak',
-    'Perlis',
-    'Pulau Pinang',
-    'Sabah',
-    'Sarawak',
-    'Selangor',
-    'Terengganu',
-    'W.P. Kuala Lumpur',
-    'W.P. Labuan',
-    'W.P. Putrajaya'
-  ];
+  // States grouped by region
+  const statesByRegion = {
+    'NORTHERN': ['Perlis', 'Kedah', 'Pulau Pinang', 'Perak'],
+    'CENTRAL': ['Selangor', 'W.P. Kuala Lumpur', 'W.P. Putrajaya'],
+    'SOUTHERN': ['Negeri Sembilan', 'Melaka', 'Johor'],
+    'EAST COAST': ['Kelantan', 'Terengganu', 'Pahang'],
+    'EAST MALAYSIA': ['Sabah', 'Sarawak', 'W.P. Labuan']
+  };
 
   const handleStateClick = (stateName) => {
     setSelectedState(stateName);
@@ -66,25 +55,34 @@ export default function StateList() {
         Click on any state name to view its metrics
       </p>
 
-      <div className="grid grid-cols-2 gap-2">
-        {allStates.map((state) => (
-          <button
-            key={state}
-            onClick={() => handleStateClick(state)}
-            className={`
-              text-left px-3 py-2 rounded-lg text-sm font-medium
-              transition-all duration-200
-              ${selectedState === state
-                ? 'bg-teal-500 text-white shadow-md transform scale-105'
-                : 'bg-white text-gray-700 hover:bg-teal-50 hover:text-teal-700 border border-gray-200 hover:border-teal-300'
-              }
-            `}
-          >
-            {state}
-            {selectedState === state && (
-              <span className="ml-1 text-xs">✓</span>
-            )}
-          </button>
+      <div className="space-y-1">
+        {Object.entries(statesByRegion).map(([region, states]) => (
+          <div key={region}>
+            <h4 className="font-semibold tracking-wider text-xs text-gray-400 mb-1 mt-3">
+              {region}
+            </h4>
+            <div className="grid grid-cols-2 gap-2">
+              {states.map((state) => (
+                <button
+                  key={state}
+                  onClick={() => handleStateClick(state)}
+                  className={`
+                    text-left px-3 py-2 rounded-lg text-sm font-medium
+                    transition-all duration-200
+                    ${selectedState === state
+                      ? 'bg-teal-500 text-white shadow-md transform scale-105'
+                      : 'bg-white text-gray-700 hover:bg-teal-50 hover:text-teal-700 border border-gray-200 hover:border-teal-300'
+                    }
+                  `}
+                >
+                  {state}
+                  {selectedState === state && (
+                    <span className="ml-1 text-xs">✓</span>
+                  )}
+                </button>
+              ))}
+            </div>
+          </div>
         ))}
       </div>
 

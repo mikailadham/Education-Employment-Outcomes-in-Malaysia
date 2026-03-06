@@ -12,10 +12,6 @@ export default function GraduateStateRanking() {
 
   const years = [2020, 2021, 2022, 2023, 2024];
 
-  // States to highlight
-  const bottomThree = ['Sabah', 'Kelantan', 'Sarawak'];
-  const topPerformer = 'WP Putrajaya';
-
   // Prepare chart data for selected year
   const chartData = graduateData.byState
     .map(state => ({
@@ -27,6 +23,10 @@ export default function GraduateStateRanking() {
     }))
     .filter(d => d.unemploymentPct !== null)
     .sort((a, b) => b.unemploymentPct - a.unemploymentPct); // Descending order
+
+  // Dynamically determine bottom 3 and top performer based on current year's data
+  const bottomThree = chartData.slice(0, 3).map(d => d.state);
+  const topPerformer = chartData[chartData.length - 1]?.state;
 
   // Get color based on state
   const getColor = (state) => {
@@ -87,7 +87,7 @@ export default function GraduateStateRanking() {
               Graduate Unemployment by State Ranking
             </h3>
             <p className="text-xs md:text-sm text-gray-600">
-              Sabah, Kelantan, and Sarawak consistently show highest graduate unemployment.
+              {bottomThree.join(', ')} show highest graduate unemployment in {selectedYear}.
               {selectedYear === 2024 && ' Note: 2024 uses different methodology.'}
             </p>
           </div>
@@ -167,11 +167,11 @@ export default function GraduateStateRanking() {
       <div className="mt-4 flex items-center justify-center gap-4 flex-wrap">
         <div className="flex items-center gap-2">
           <div className="w-4 h-4 bg-green-500 rounded" />
-          <span className="text-xs text-gray-700">Top Performer (Putrajaya)</span>
+          <span className="text-xs text-gray-700">Top Performer ({topPerformer})</span>
         </div>
         <div className="flex items-center gap-2">
           <div className="w-4 h-4 bg-red-500 rounded" />
-          <span className="text-xs text-gray-700">Bottom 3 (Sabah, Kelantan, Sarawak)</span>
+          <span className="text-xs text-gray-700">Bottom 3 ({bottomThree.join(', ')})</span>
         </div>
         <div className="flex items-center gap-2">
           <div className="w-4 h-4 bg-gray-500 rounded" />

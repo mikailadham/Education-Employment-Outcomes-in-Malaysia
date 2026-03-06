@@ -233,14 +233,15 @@ export default function MyWITrendChart() {
           const earliest = chartData[0]?.[key];
           const change = latest - earliest;
           const changePercent = ((change / earliest) * 100).toFixed(1);
+          const isNegative = change < 0;
 
           return (
             <div key={key} className="bg-gray-50 rounded-lg p-4">
               <p className="text-xs text-gray-600 mb-1">{label} (2010-2024)</p>
-              <p className={`text-2xl font-bold text-${color}-600`}>
+              <p className={`text-2xl font-bold ${isNegative ? 'text-red-500' : `text-${color}-600`}`}>
                 {change > 0 ? '+' : ''}{change.toFixed(1)}
               </p>
-              <p className="text-xs text-gray-500 mt-1">
+              <p className={`text-xs mt-1 ${isNegative ? 'text-red-500' : 'text-gray-500'}`}>
                 {changePercent > 0 ? '+' : ''}{changePercent}% change
               </p>
             </div>

@@ -149,64 +149,58 @@ export default function StateMetricCards() {
   const educationMetrics = metrics.filter(m => m.section === 'Education');
   const economicMetrics = metrics.filter(m => m.section === 'Economic');
 
-  const MetricCard = ({ metric }) => (
-    <div
-      className={`bg-white rounded-lg shadow-md p-5 border-l-4 ${colorClasses[metric.color]} transform transition-all duration-300 hover:scale-105 hover:shadow-lg`}
-    >
-      <div className="flex items-start justify-between mb-3">
-        <h4 className="text-sm font-medium text-gray-600 leading-tight">
-          {metric.label}
-        </h4>
-        <span className="text-2xl">{metric.icon}</span>
+  const MetricCard = ({ metric }) => {
+    const isUnemployment = metric.label === 'Unemployment Rate';
+    const borderColor = isUnemployment ? 'border-red-500' : 'border-teal-500';
+    const textColor = isUnemployment ? 'text-red-700' : 'text-gray-900';
+
+    return (
+      <div className={`bg-white rounded-lg p-4 border-l-4 ${borderColor} border border-gray-200`}>
+        <div className="flex items-start justify-between mb-2">
+          <p className="text-xs text-gray-600 font-medium">
+            {metric.label}
+          </p>
+          <span className="text-lg">{metric.icon}</span>
+        </div>
+        <p className={`text-2xl font-bold ${textColor}`}>
+          {metric.value !== null && metric.value !== undefined
+            ? metric.format(metric.value)
+            : 'N/A'}
+        </p>
       </div>
-      <p className="text-3xl font-bold text-gray-900">
-        {metric.value !== null && metric.value !== undefined
-          ? metric.format(metric.value)
-          : 'N/A'}
-      </p>
-    </div>
-  );
+    );
+  };
 
   return (
-    <div className="animate-fadeIn">
-      <div className="text-center mb-8">
-        <h3 className="text-3xl font-bold text-gray-900 mb-2">
-          {stateName}
-        </h3>
-        <p className="text-gray-600">Well-Being, Education & Economic Indicators</p>
-      </div>
-
+    <div className="animate-fadeIn space-y-4">
       {/* Well-Being Section */}
-      <div className="mb-8">
-        <h4 className="text-xl font-semibold text-gray-900 mb-4 flex items-center gap-2">
-          <span className="text-teal-600">✨</span>
+      <div>
+        <h4 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
+          <span>✨</span>
           <span>Well-Being (MyWI Index)</span>
         </h4>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="space-y-3">
           {wellbeingMetrics.map((metric, index) => (
             <MetricCard key={index} metric={metric} />
           ))}
         </div>
-        <p className="text-xs text-gray-500 mt-2">
-          Base year 2010 = 100. Values above 100 indicate improvement since 2010.
-        </p>
       </div>
 
       {/* Education & Employment Section */}
-      <div className="mb-8">
-        <h4 className="text-xl font-semibold text-gray-900 mb-4 flex items-center gap-2">
-          <span className="text-blue-600">🎓</span>
+      <div>
+        <h4 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
+          <span>🎓</span>
           <span>Education & Employment</span>
         </h4>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="space-y-3">
           {educationMetrics.map((metric, index) => (
             <MetricCard key={index} metric={metric} />
           ))}
         </div>
       </div>
 
-      {/* Economic Context Section */}
-      <div className="mb-8">
+      {/* Economic Context Section - Keep as horizontal row */}
+      <div className="mt-6">
         <h4 className="text-xl font-semibold text-gray-900 mb-4 flex items-center gap-2">
           <span className="text-amber-600">💰</span>
           <span>Economic Context</span>
@@ -216,15 +210,6 @@ export default function StateMetricCards() {
             <MetricCard key={index} metric={metric} />
           ))}
         </div>
-      </div>
-
-      <div className="mt-6 pt-6 border-t border-gray-200 text-center">
-        <p className="text-sm text-gray-600">
-          💡 Click on other states on the map or list to compare metrics
-        </p>
-        <p className="text-xs text-gray-500 mt-1">
-          Data sources: DOSM MyWI 2024, Labour Force Survey 2023, Graduate Tracer Study 2024
-        </p>
       </div>
     </div>
   );
